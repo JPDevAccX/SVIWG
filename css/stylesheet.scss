@@ -7,38 +7,45 @@
 
 .sviwg-logo {
 	padding: 4px;
+	width: 135px;
+	height: 121px;
 }
 
 .sviwg-navbar {
 	font-size: 125%;
 
 	.navbar-brand {
-		color: black;
-		font-weight: bold;
+		font-weight: 600;
+
+		&.active {
+			font-weight: bold ;
+			color: black !important;
+		}
 	}
 
 	.nav-link {
 		font-weight: 600;
-		color: #222;
+		color: #333;
+
+		&.active {
+			font-weight: bold ;
+			color: black !important;
+		}
 
 		&:hover {
 			color: black;
-		}
-
-		&.sviwg-contact {
-			font-weight: bold;
 		}
 	}
 }
 
 .sviwg-main-container {
 	margin: auto;
-	max-width: 1600px;
+	max-width: 1480px;
 	min-height: max(100vh, 800px);
 }
 
 .sviwg-footer {
-	background: linear-gradient(0deg, rgba(140, 140, 140, 1) 0%, rgba(255, 255, 255, 1) 100%);
+	background: linear-gradient(0deg, rgba(200, 200, 200, 1) 0%, rgba(255, 255, 255, 1) 100%);
 	font-size: 150%;
 
 	.nav-link.text-muted {
@@ -62,4 +69,30 @@
 .under-construction-logo {
 	width: 120px;
 	border: 2px solid black;
+	height: 110px;
+}
+
+.sviwg-event-card {
+	flex-basis: 1024px ;
+	box-shadow: -1px 1px 6px -2px #000000;
+}
+
+.sviwg-event-card-general {
+	.card-header {
+		background-color: #9f9 ;
+	}
+}
+
+.sviwg-event-card-walk {
+	.card-header {
+		background-color: #aaf ;
+	}
+}
+
+.sviwg-ws-preline {
+	white-space: pre-line ;
+}
+
+.swivg-food-menu-list {
+	list-style-type: "~ ";
 }

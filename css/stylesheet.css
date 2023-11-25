@@ -7,34 +7,40 @@
 
 .sviwg-logo {
   padding: 4px;
+  width: 135px;
+  height: 121px;
 }
 
 .sviwg-navbar {
   font-size: 125%;
 }
 .sviwg-navbar .navbar-brand {
-  color: black;
+  font-weight: 600;
+}
+.sviwg-navbar .navbar-brand.active {
   font-weight: bold;
+  color: black !important;
 }
 .sviwg-navbar .nav-link {
   font-weight: 600;
-  color: #222;
+  color: #333;
+}
+.sviwg-navbar .nav-link.active {
+  font-weight: bold;
+  color: black !important;
 }
 .sviwg-navbar .nav-link:hover {
   color: black;
 }
-.sviwg-navbar .nav-link.sviwg-contact {
-  font-weight: bold;
-}
 
 .sviwg-main-container {
   margin: auto;
-  max-width: 1600px;
+  max-width: 1480px;
   min-height: max(100vh, 800px);
 }
 
 .sviwg-footer {
-  background: linear-gradient(0deg, rgb(140, 140, 140) 0%, rgb(255, 255, 255) 100%);
+  background: linear-gradient(0deg, rgb(200, 200, 200) 0%, rgb(255, 255, 255) 100%);
   font-size: 150%;
 }
 .sviwg-footer .nav-link.text-muted {
@@ -57,4 +63,26 @@
 .under-construction-logo {
   width: 120px;
   border: 2px solid black;
+  height: 110px;
+}
+
+.sviwg-event-card {
+  flex-basis: 1024px;
+  box-shadow: -1px 1px 6px -2px #000000;
+}
+
+.sviwg-event-card-general .card-header {
+  background-color: #9f9;
+}
+
+.sviwg-event-card-walk .card-header {
+  background-color: #aaf;
+}
+
+.sviwg-ws-preline {
+  white-space: pre-line;
+}
+
+.swivg-food-menu-list {
+  list-style-type: "~ ";
 }/*# sourceMappingURL=stylesheet.css.map */

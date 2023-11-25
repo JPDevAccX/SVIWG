@@ -1,0 +1,60 @@
+.sviwg-header {
+  text-align: center;
+  font-weight: bold;
+  font-size: 90%;
+  letter-spacing: 2px;
+}
+
+.sviwg-logo {
+  padding: 4px;
+}
+
+.sviwg-navbar {
+  font-size: 125%;
+}
+.sviwg-navbar .navbar-brand {
+  color: black;
+  font-weight: bold;
+}
+.sviwg-navbar .nav-link {
+  font-weight: 600;
+  color: #222;
+}
+.sviwg-navbar .nav-link:hover {
+  color: black;
+}
+.sviwg-navbar .nav-link.sviwg-contact {
+  font-weight: bold;
+}
+
+.sviwg-main-container {
+  margin: auto;
+  max-width: 1600px;
+  min-height: max(100vh, 800px);
+}
+
+.sviwg-footer {
+  background: linear-gradient(0deg, rgb(140, 140, 140) 0%, rgb(255, 255, 255) 100%);
+  font-size: 150%;
+}
+.sviwg-footer .nav-link.text-muted {
+  color: #222 !important;
+}
+
+.swivg-inset-image {
+  border: 3px inset lightgray;
+}
+
+.sviwg-large-font {
+  font-size: 110%;
+  font-weight: 600;
+}
+
+.sviwg-small-logo {
+  width: 84px;
+}
+
+.under-construction-logo {
+  width: 120px;
+  border: 2px solid black;
+}/*# sourceMappingURL=stylesheet.css.map */

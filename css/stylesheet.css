@@ -71,11 +71,11 @@
   box-shadow: -1px 1px 6px -2px #000000;
 }
 
-.sviwg-text-card-general .card-header {
+.sviwg-text-card-general .card-header, .sviwg-views-card .card-header {
   background-color: #9f9;
 }
 
-.sviwg-text-card-walk .card-header {
+.sviwg-text-card-walk .card-header, .sviwg-news-card .card-header {
   background-color: #aaf;
 }
 

@@ -66,23 +66,28 @@
   height: 110px;
 }
 
-.sviwg-event-card {
+.sviwg-text-card {
   flex-basis: 1024px;
   box-shadow: -1px 1px 6px -2px #000000;
 }
 
-.sviwg-event-card-general .card-header {
+.sviwg-text-card-general .card-header {
   background-color: #9f9;
 }
 
-.sviwg-event-card-walk .card-header {
+.sviwg-text-card-walk .card-header {
   background-color: #aaf;
 }
 
 .sviwg-ws-preline {
   white-space: pre-line;
+  margin-top: -4ex;
 }
 
 .swivg-food-menu-list {
   list-style-type: "~ ";
+}
+
+.sviwg-summary-table {
+  max-width: 1200px;
 }/*# sourceMappingURL=stylesheet.css.map */

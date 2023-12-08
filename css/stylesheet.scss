@@ -44,6 +44,11 @@
 	min-height: max(100vh, 800px);
 }
 
+.sviwg-docs-container {
+	margin: auto;
+	max-width: 1080px;
+}
+
 .sviwg-footer {
 	background: linear-gradient(0deg, rgba(200, 200, 200, 1) 0%, rgba(255, 255, 255, 1) 100%);
 	font-size: 150%;
@@ -115,4 +120,35 @@
 .figure-caption {
 	font-size: 115% ;
 	color: #444 ;
+}
+
+.sviwg-not-present {
+	background-color: #ddd !important;
+}
+
+.swivg-rules-list {
+	&::marker {
+		font-weight: bold;
+	}
+	li {
+		margin-bottom: 1em;
+	}
+}
+
+.sviwg-cards {
+	.col {
+		display: flex ;
+		align-items: stretch ;
+	}
+	.card {
+		min-height: 320px;
+		img {
+			height: 200px;
+		}
+	}
+	&.sviwg-small-cards {
+		.card {
+			max-width: 260px ;
+		}
+	}
 }

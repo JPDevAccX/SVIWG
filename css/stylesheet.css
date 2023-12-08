@@ -39,6 +39,12 @@
   min-height: max(100vh, 800px);
 }
 
+.sviwg-contacts-container {
+  margin: auto;
+  max-width: 1080px;
+  min-height: max(100vh, 800px);
+}
+
 .sviwg-docs-container {
   margin: auto;
   max-width: 1080px;

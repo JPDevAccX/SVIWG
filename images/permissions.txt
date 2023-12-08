@@ -5,10 +5,9 @@ Miscellaneous
 "Sheffield CT Logo" - unknown but was already present on the old site (maybe double-check)
 "jwalden-Purple-arrow-shape.png" - public domain image from https://publicdomainvectors.org
 "srsb_logo.png" - permission to use from Oz Hetherington / Jane Peach
+"envelope-at.svg" - Bootstrap Icons 
+"telephone.svg" - Bootstrap Icons
 
 Unsplash
 --------
-"arek-adeoye-ljoCgjs63SM-unsplash.jpg"
-"markus-winkler-aId-xYRTlEc-unsplash.jpg"
-"jess-bailey-ycTvvg1mPU4-unsplash.jpg"
-"john-price-wzRQfEw9CMc-unsplash.jpg"
+"*-unsplash.jpg"

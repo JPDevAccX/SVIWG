@@ -135,4 +135,7 @@
 }
 .sviwg-cards.sviwg-small-cards .card {
   max-width: 260px;
+}
+.sviwg-cards.sviwg-medium-cards .card {
+  width: 340px;
 }/*# sourceMappingURL=stylesheet.css.map */

@@ -3,10 +3,12 @@
 	font-weight: bold;
 	font-size: 90%;
 	letter-spacing: 2px;
+	h1 {
+		margin-bottom: 0.2rem ;
+	}
 }
 
 .sviwg-logo {
-	padding: 4px;
 	width: 135px;
 	height: 121px;
 }
@@ -40,7 +42,7 @@
 
 .sviwg-main-container {
 	margin: auto;
-	max-width: 1480px;
+	max-width: 1320px;
 	min-height: max(100vh, 800px);
 }
 
@@ -161,5 +163,16 @@
 		.card {
 			width: 340px ;
 		}
+	}
+}
+
+.swivg-small-icon {
+	width: 28px ;
+	height: 28px ;
+}
+
+.swivg-photos {
+	img {
+		max-height: 400px ;
 	}
 }

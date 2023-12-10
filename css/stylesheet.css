@@ -98,6 +98,10 @@
   background-color: #aaf;
 }
 
+.sviwg-news-comment .card-header {
+  background-color: #ddd;
+}
+
 .sviwg-ws-preline {
   white-space: pre-line;
   margin-top: -4ex;

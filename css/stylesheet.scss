@@ -96,27 +96,16 @@
 	box-shadow: -1px 1px 6px -2px #000000;
 }
 
-.sviwg-text-card-general, .sviwg-views-card {
-	.card-header {
-		background-color: #9f9 ;
-	}
-}
-
 .sviwg-text-card-walk, .sviwg-news-card {
 	.card-header {
 		background-color: #aaf ;
 	}
 }
 
-.sviwg-news-comment {
+.sviwg-text-card-general, .sviwg-news-comment {
 	.card-header {
-		background-color: #ddd;
+		background-color: #9f9 ;
 	}
-}
-
-.sviwg-ws-preline {
-  white-space: pre-line;
-	margin-top: -4ex ;
 }
 
 .swivg-food-menu-list {
@@ -181,4 +170,15 @@
 	img {
 		max-height: 400px ;
 	}
+}
+
+.card-header {
+	.card-title {
+		margin-bottom: 0.1em ;
+		font-weight: 600 ;
+	}
+}
+
+.sviwg-sr-abbr {
+	letter-spacing: -0.1em; // Compensate for the spaces required to get screenreaders to read each letter individually
 }

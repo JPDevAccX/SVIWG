@@ -112,7 +112,7 @@
 	list-style-type: "~ ";
 }
 
-.sviwg-summary-table {
+.sviwg-table {
 	max-width: 1120px; 
 }
 
@@ -180,5 +180,7 @@
 }
 
 .sviwg-sr-abbr {
-	letter-spacing: -0.1em; // Compensate for the spaces required to get screenreaders to read each letter individually
+	// Compensate for the spaces required to get screenreaders to read each letter individually
+	letter-spacing: -0.1em;
+	margin-right: 0.1em;
 }

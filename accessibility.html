@@ -19,7 +19,7 @@
 		crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="css/stylesheet.css" />
 
-	<title>SVIWG - Contact Us</title>
+	<title>SVIWG - Accessibility</title>
 </head>
 
 <body>
@@ -69,57 +69,64 @@
 								<a class="nav-link" href="resources.html">RESOURCES</a>
 							</li>
 						</ul>
-						<a href="#" class="nav-link sviwg-contact active">CONTACT US</a>
+						<a href="#" class="nav-link sviwg-contact">CONTACT US</a>
 					</div>
 				</div>
 			</nav>
 		</header>
 
 		<!-- MAIN CONTENT -->
-		<main class="container-fluid g-0 sviwg-contacts-container sviwg-large-font d-flex flex-column gap-3">
-			<h2 class="text-center">CONTACT US</h2>
+		<main class="container-fluid g-0 sviwg-main-container sviwg-large-font d-flex flex-column gap-3 border border-3 p-2">
+			<h2 class="text-center">ACCESSIBILITY</h2>
+			<span class="text-center">We aim to make the site as accessible as possible and have tested with the following web-browser and screen-reader combinations:</span>
+			
+			<table class="table mx-auto border border-4 sviwg-table">
+				<caption>
+					Browsers / readers marked with * have been found to work the most reliably of those tested
+				</caption>
+				<thead>
+					<tr>
+						<th scope="col">Browser</th>
+						<th scope="col" class="text-end">Reader</th>
+						<th scope="col" class="text-end" title="recommended">Rec</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Chrome</td>
+						<td class="text-end">NVDA</td>
+						<td class="text-end" title="recommended">*<span class="visually-hidden">Recommended</span></td>
+					</tr>
+					<tr>
+						<td>Edge</td>
+						<td class="text-end">NVDA</td>
+						<td class="text-end" title="recommended">*<span class="visually-hidden">Recommended</span></td>
+					</tr>
+					<tr>
+						<td>Edge</td>
+						<td class="text-end">Narrator</td>
+						<td aria-hidden="true"></td>
+					</tr>
+					<tr>
+						<td>Firefox</td>
+						<td class="text-end">NVDA</td>
+						<td class="text-end" title="recommended">*<span class="visually-hidden">Recommended</span></td>
+					</tr>
+				</tbody>
+			</table>
 
-				<section class="border p-4 d-flex flex-column gap-2">
-					<article class="row border bg-light-subtle">
-						<div class="col-lg-3 fw-bold">
-							Susan Hill
-						</div>
-						<div class="col-lg-2">
-							Chair
-						</div>
-						<div class="col-lg-4">
-							<img src="images/icons/envelope-at.svg" class="swivg-small-icon" alt="">
-							<a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>
-						</div>
-						<div class="col-lg-3">
-							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
-							<a href="tel:07970 311329">07970 311329</a>
-						</div>
-					</article>
-					<article class="row border bg-light-subtle">
-						<div class="col-lg-3 fw-bold">
-							Martin Wing
-						</div>
-						<div class="col-lg-2">
-							Vice Chair
-						</div>
-						<div class="col-lg-4">
-							<img src="images/icons/envelope-at.svg" class="swivg-small-icon" alt="">
-							<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-						</div>
-						<div class="col-lg-3">
-							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
-							<a href="tel:07747 443812">07747 443812</a>
-						</div>
-					</article>
-				</section>
+			<p class="text-center">
+				For Windows users, NVDA can be freely downloaded from their <a href="https://www.nvaccess.org/download/">website</a><span aria-hidden="true">.</span>
+			</p>
 
-				<section class="border p-5 d-flex flex-column gap-2">
-					Any donations will be gratefully received.
-					If you wish to make a donation, please forward to our Treasurer:
-					<b>Mr S. Wainright c/o SRSB, 5 Mapin Street, Sheffield S1 4DT</b>
-				</section>
-		
+			<p class="text-center">
+				We hope to test with other browsers and screen-readers in the future.
+			</p>
+
+			<p class="text-center">
+				If you experience any issues related to the site's accessibility please contact the webmaster.
+			</p>
+			
 		</main>
 
 		<!-- FOOTER -->
@@ -127,8 +134,8 @@
 			<ul class="nav justify-content-center border-bottom pb-3 mb-3">
 				<li class="nav-item"><a href="index.html" class="nav-link px-2 text-muted">Home</a></li>
 				<li class="nav-item"><a href="documents.html" class="nav-link px-2 text-muted">Documents</a></li>
-				<li class="nav-item"><a href="accessibility.html" class="nav-link px-2 text-muted">Accessibility</a></li>
-				<li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Contact</a></li>
+				<li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Accessibility</a></li>
+				<li class="nav-item"><a href="contact.html" class="nav-link px-2 text-muted">Contact</a></li>
 			</ul>
 			<p class="text-center fs-5">Page last updated: 11th Dec 2023</p>
 			<p class="text-center text-muted">&copy; 2023 <span class="sviwg-sr-abbr">S V I W G</span></p>

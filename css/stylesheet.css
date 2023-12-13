@@ -104,9 +104,19 @@
 
 .sviwg-table {
   max-width: 1120px;
+  border-width: 3px !important;
+  border-style: solid;
+  border-color: #ddd #ccc #ccc #ddd;
+}
+.sviwg-table th {
+  background-color: rgb(235, 235, 235);
+  background: linear-gradient(0deg, rgb(230, 230, 230) 0%, rgb(250, 250, 250) 100%);
+}
+.sviwg-table tr {
+  border-color: #ddd;
 }
 
-.sviwg-annual-walks-table {
+.sviwg-narrower-table {
   max-width: 1024px;
 }
 
@@ -160,4 +170,12 @@
 .sviwg-sr-abbr {
   letter-spacing: -0.1em;
   margin-right: 0.1em;
+}
+
+.sviwg-banner-image {
+  background-image: url("../images/banner_bg.jpg");
+  background-position-x: center;
+}
+.sviwg-banner-image .sviwg-banner-mask {
+  background-color: rgba(0, 0, 0, 0.6);
 }/*# sourceMappingURL=stylesheet.css.map */

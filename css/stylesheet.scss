@@ -112,8 +112,19 @@
 	list-style-type: "~ ";
 }
 
-.sviwg-table {
+.sviwg-width-1024 {
+	width: 1024px;
+}
+
+.sviwg-max-w1120 {
 	max-width: 1120px;
+}
+
+.sviwg-max-w1024 {
+	max-width: 1024px;
+}
+
+.sviwg-table {
 	border-width: 3px ;
 	border-style: solid;
 	border-color: #ddd #ccc #ccc #ddd ;
@@ -124,10 +135,6 @@
 	tr {
 		border-color: #ddd;
 	}
-}
-
-.sviwg-narrower-table {
-	max-width: 1024px;
 }
 
 .figure-caption {
@@ -201,4 +208,15 @@
 	.sviwg-banner-mask {
 		background-color: rgba(0, 0, 0, 0.6);
 	}
+}
+
+.sviwg-caption-heading {
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+	color: var(--bs-secondary-color); // From bootstrap
+	font-weight: 600;
+}
+
+.sviwg-text-panel {
+	background-color: #fafafa;
 }

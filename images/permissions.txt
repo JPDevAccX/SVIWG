@@ -12,3 +12,7 @@ Unsplash
 --------
 "*-unsplash.jpg"
 "banner_bg.jpg" (cropped from "claudio-testa--SO3JtE3gZo-unsplash.jpg")
+
+Pexels
+------
+"pexels-*.jpg"

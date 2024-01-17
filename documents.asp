@@ -1,71 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
+<%
+title="Documents"
+lastUpdated="16th Dec 2023"
+%>
 
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<!-- METADATA -->
-	<meta name="keywords" content="walk, vip, guide, visually impaired, Sheffield, South Yorkshire" />
-	<meta name="description" content="Sheffield, Visually Impaired, Walking Group" />
-	<meta name="author" content="Christine Whittaker, James Percival" />
-	<meta name="copyright" content="&copy;2023 SVIWG" />
-
-	<!-- BOOTSTRAP AND ADDITIONAL CSS -->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
-		integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-		integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-		crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="css/stylesheet.css" />
-
-	<title>SVIWG - Documents</title>
-</head>
-
-<body>
-	<div class="container-fluid g-0">
-	
-		<!-- HEADER AND NAVBAR -->
-		<header class="sviwg-header mt-1 mb-4">
-			<h1>SHEFFIELD VISUALLY IMPAIRED WALKING GROUP</h1>
-			<img src="images/sviwg_logo_new.jpg" class="sviwg-logo" alt="S&nbsp;V&nbsp;I&nbsp;W&nbsp;G logo" />
-
-			<!-- NAVBAR -->
-			<nav class="navbar navbar-expand-lg bg-body-tertiary sviwg-navbar">
-				<div class="container-xxl">
-					<a class="navbar-brand pe-sm-3" href="default.html">WELCOME</a>
-					<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-						data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-						aria-label="Toggle navigation">
-						<span class="navbar-toggler-icon"></span>
-					</button>
-					<div class="collapse navbar-collapse" id="navbarSupportedContent">
-						<ul class="navbar-nav me-auto mb-2 mb-lg-0 mr-3 pe-5">
-							<li class="nav-item dropdown pe-2">
-								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-									aria-expanded="false">
-									WALKS AND EVENTS
-								</a>
-								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-									<li><a class="dropdown-item" href="events.html">UPCOMING WALKS AND EVENTS</a></li>
-									<li><a class="dropdown-item" href="walks_programme.html">ANNUAL WALKS PROGRAMME</a></li>
-								</ul>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link pe-3" href="news_and_views.html">NEWS</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="photos.html">PHOTOS</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="resources.html">RESOURCES</a>
-							</li>
-						</ul>
-						<a href="contact.html" class="nav-link sviwg-contact">CONTACT US</a>
-					</div>
-				</div>
-			</nav>
-		</header>
+<!-- #include file = "include/header.inc" --> 
 
 		<!-- MAIN CONTENT -->
 		<main class="container-fluid g-0 sviwg-main-container sviwg-large-font d-flex flex-column gap-3">
@@ -108,6 +46,7 @@
 				</div>
 			</section>
 			<!-- END RULES AND GUIDANCE -->
+			
 			<!-- AGM MINUTES AND CONSTITUTION -->
 			<section class="border border-3 p-2 p-md-4" id="resources_internal">
 				<h3 class="text-center">AGM MINUTES AND CONSTITUTION</h3>
@@ -152,22 +91,4 @@
 			<!-- END AGM MINUTES AND CONSTITUTION -->
 		</main>
 
-		<!-- FOOTER -->
-		<footer class="py-3 mt-4 sviwg-footer">
-			<ul class="nav justify-content-center border-bottom pb-3 mb-3">
-				<li class="nav-item"><a href="default.html" class="nav-link px-2 text-muted">Home</a></li>
-				<li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Documents</a></li>
-				<li class="nav-item"><a href="accessibility.html" class="nav-link px-2 text-muted">Accessibility</a></li>
-				<li class="nav-item"><a href="contact.html" class="nav-link px-2 text-muted">Contact</a></li>
-			</ul>
-			<p class="text-center fs-5">Page last updated: 16th Dec 2023</p>
-			<p class="text-center fs-5">
-				Site managed by James Percival (<a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>)
-			</p>
-			<p class="text-center text-muted">&copy; 2024 <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span></p>
-		</footer>
-
-	</div>
-</body>
-
-</html>
+<!-- #include file = "include/footer.inc" -->

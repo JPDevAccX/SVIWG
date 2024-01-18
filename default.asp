@@ -3,7 +3,19 @@ title="Home"
 lastUpdated="12th Jan 2024"
 %>
 
-<!-- #include file = "include/header.inc" --> 
+<!-- #include file = "include/header.inc" -->
+
+		<aside class="p-4 p-lg-5 mb-4 sviwg-banner-image">
+			<div class="sviwg-banner-mask">
+				<div class="d-flex justify-content-center align-items-center">
+					<div class="fs-4 fst-italic text-center text-white p-4">
+						RAMBLING - WALKING - HIKING - TRAMPING
+						<br>
+						Whatever You Call It - <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span> do it!
+					</div>
+				</div>
+			</div>
+		</aside>
 
 		<!-- MAIN CONTENT -->
 		<main class="container-fluid g-0 sviwg-main-container d-flex flex-column gap-3">

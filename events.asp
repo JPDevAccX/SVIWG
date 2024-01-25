@@ -70,64 +70,41 @@ lastUpdated="12th Jan 2024"
 					</thead>
 					<tbody>
 						<tr>
-							<td>THU 18th JAN</td>
-							<td class="text-center"><a href="#event-1">ROUTE TO BE DECIDED ON THE DAY</a></td>
-							<td class="text-end">FRI 12th JAN</td>
-						</tr>
-						<tr>
 							<td>SUN 28th JAN</td>
-							<td class="text-center"><a href="#event-2">ECCLESALL WOODS</a></td>
+							<td class="text-center"><a href="#event-2801">WALK - ECCLESALL WOODS</a></td>
 							<td class="text-end">WED 24th JAN</td>
 						</tr>
 						<tr>
 							<td>TUE 6th FEB</td>
-							<td class="text-center"><a href="#event-3">CEMETERY RD, BOTANICAL GARDENS, WESTERN PARK, PONDEROSA</a></td>
+							<td class="text-center"><a href="#event-0602">WALK - CEMETERY RD, BOTANICAL GARDENS, WESTERN PARK, PONDEROSA</a></td>
 							<td class="text-end">FRI 2nd FEB</td>
+						</tr>
+						<tr>
+							<td>WED 14th FEB</td>
+							<td class="text-center"><a href="#event-1402">WALK - UNSTONE, SHEEPSBRIDGE, BARLOW, AND BACK</a></td>
+							<td class="text-end">FRI 9th FEB</td>
+						</tr>
+						<tr>
+							<td>THUR 22nd FEB</td>
+							<td class="text-center"><a href="#event-2202">CIRCULAR WALK - CHINLEY, LANESIDE, ECCLES PIKE, BUXWORTH</a></td>
+							<td class="text-end">FRI 16th FEB</td>
+						</tr>
+						<tr>
+							<td>SUN 25th FEB</td>
+							<td class="text-center"><a href="#event-2502">WALK - LOXLEY VALLEY, LOXLEY CHASE &amp WADSLEY COMMON, MIDDLEWOOD</a></td>
+							<td class="text-end">WED 21st FEB</td>
+						</tr>
+						<tr>
+							<td>TUE 5th MAR</td>
+							<td class="text-center"><a href="#event-0503">CIRCULAR WALK - GRAVES PARK, OAKS PARK, HANG BANK WOODS</a></td>
+							<td class="text-end">FRI 1st MAR</td>
 						</tr>
 					</tbody>
 				</table>
 
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex" id="event-1">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									WALK - <time datetime="2024-01-18 09:15">THURSDAY 18th JANUARY</time> - ROUTE TO BE DECIDED ON THE DAY
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Queen's Head Pub Pond Hill 9.15 to travel by mini bus which leaves at 9.30 to travel to Fairholmes where walk will start 10am.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									To be decided on the day due to weather conditions.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									8 miles approx.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Some good but steep inclines, sometimes tricky underfoot, some good paths.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Peak Park Rangers (<a href="tel:07502547221">07502547221</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please let Martin know if you wish to join this walk by Friday 12th January letting him know where you will be meeting the group
-								so we know we have guides at the start of the walk - 
-								<a href="tel:07747443812">07747443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2">
+					<article class="d-flex" id="event-2801">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
@@ -154,18 +131,19 @@ lastUpdated="12th Jan 2024"
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Judy Gathercole (<a href="tel:07557272559">07557272559</a> any walk enquiries)
+									Judy Gathercole (<a href="tel:07557 272559">07557 272559</a> any walk enquiries).
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin by Wednesday 24th January if you are joining this walk so he knows he has enough guides - 
-								<a href="tel:07747443812">07747443812</a> or
+								Please contact Martin by Wednesday 24th January if you are joining this walk so he knows he has enough guides.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
 							</div>
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-3">
+					<article class="d-flex" id="event-0602">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
@@ -192,13 +170,174 @@ lastUpdated="12th Jan 2024"
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									David (<a href="tel:07554143262">07554143262</a>) and Paul (<a href="tel:07468776290">07468776290</a>) any walk enquiries.
+									David (<a href="tel:07554 143262">07554 143262</a>) and Paul (<a href="tel:07468 776290">07468 776290</a>) any walk enquiries.
 								</li>
 							</ul>
 							<div class="card-footer">
 								It is important for all members to let Martin know by Friday 2nd February so that he knows he has enough guides for VI's, 
-								also letting him know where you will be meeting the group - 
-								<a href="tel:07747443812">07747443812</a> or
+								also letting him know where you will be meeting the group.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1402">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									WALK - <time datetime="2024-02-14 09:30">WEDNESDAY 14th FEBRUARY</time> - UNSTONE, SHEEPSBRIDGE, BARLOW, AND BACK
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.30 to catch the 9.56 no.43 Chesterfield bus from Arundel Gate stand AG12 (opposite British Heart Foundation)
+									to the Horse and Jockey pub at Unstone where the walk will start at 10.42.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Walking towards Sheepsbridge, turning through woods and crossing A61 footbridge heading for Cowley,
+									turning left and heading towards Barlow, we then follow a different route back to the footbridge and return to Unstone.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									7 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									The footpaths are mostly walker friendly with small number of stiles and moderate climbs and flat sections.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Joe Fagan who will join the group at Unstone (<a href="tel:07791 634319">07791 634319</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								For car drivers there is parking on side roads nearby.<br>
+								Please contact Martin by Friday 9th February to make sure we have enough guides for this walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2202">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									WALK - <time datetime="2024-02-22 08:40">THURSDAY 22nd FEBRUARY</time> - CIRCULAR WALK - CHINLEY, LANESIDE, ECCLES PIKE, BUXWORTH
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield railway station 8.40 to catch the 9.14 local Hope Valley train to Chinley where walk starts at 10.00.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Chinley station via Chinley village, old Peak Forest tramway, Laneside, Lidgate, Eccles Pike, Hilltop, Buxworth,
+									old Peak Forest tramway back to Chinley.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Approx 6 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Lanes and good tracks, some muddy paths, wicket gates, stiles, steady climb up to and over Eccles Pike.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Steve Brown (<a href="tel:07801 906126">07801 906126</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Trains back to Sheffield 15.22 and 16.22. Car parking near Chinley Station.<br>
+								Please contact Martin by Friday 16th February to make sure we have enough guides telling him where you intend to start the walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2502">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									WALK - <time datetime="2024-02-25 09:30">SUNDAY 25th FEBRUARY</time> - LOXLEY VALLEY, LOXLEY CHASE &amp WADSLEY COMMON, MIDDLEWOOD
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.30 to catch the blue route tram 10.00 to Malin Bridge Terminus where walk starts 10.16.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Loxley valley, Loxley Chase &amp Wadsley Common finishing Middlewood terminus.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									6 1/2 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good footpaths, two moderately steep hills &amp three stiles on the route.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Sam Butler (<a href="tel:07867 381581">07867 381581</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								People using their own transport can park free at the "park &amp ride" car park at Malin Bridge
+								&amp catch a tram back from Middlewood at the end of the walk.<br>
+								Please contact Martin if joining this walk letting him know where you will meet the group
+								to make sure we have enough guides at the start of the walk by Wednesday 21st February.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0503">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									WALK - <time datetime="2024-03-05 09:30">TUESDAY 5th MARCH</time> - CIRCULAR WALK - GRAVES PARK, OAKS PARK, HANG BANK WOODS
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Meet Poundland High Street 9.30 to catch the 9.54 no.24 bus to Charles Ashmore Road Meadowhead where the walk starts at 10.30.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Graves Park to St Martins Church, Oaks Park, Herdings Park, returning back through Rollestone and Hang Bank woods.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									5 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Easy walking, no stiles or steep ascents, but may be muddy in wooded areas.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David (<a href="tel:07554 143262">07554 143262</a>) and Paul (<a href="tel:07468 776290">07468 776290</a>) any walk enquiries.
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin by Friday 1st March making sure we have enough guides at the start of the walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
 							</div>
 						</div>

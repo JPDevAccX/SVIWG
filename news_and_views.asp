@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="13th Jan 2024"
+lastUpdated="25th Jan 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -32,6 +32,21 @@ lastUpdated="13th Jan 2024"
 				<h2 class="text-center">POSTS</h2>
 
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">NEW WEB SITE MANAGER</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									A warm welcome to James Percival, who volunteered through Voluntary Action Sheffield to take over our web site from Chris Whittakker.<br>
+									Chris set up the web site some 15 years ago and has kept it running for us for all this time.<br>
+									We are very grateful to you Chris - now you can relax and still enjoy coming out walking with us.
+								</p>
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="12th Jan 2024"
+lastUpdated="25th Jan 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -147,7 +147,7 @@ lastUpdated="12th Jan 2024"
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									WALK - <time datetime="2024-02-06 09:45">TUESDAY 6th FEBRUARY</time> - CEMETERY RD, BOTANICAL GARDENS, WESTERN PARK, PONDEROSA
+									WALK - <time datetime="2024-02-06 09:55">TUESDAY 6th FEBRUARY</time> - CEMETERY RD, BOTANICAL GARDENS, WESTERN PARK, PONDEROSA
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">

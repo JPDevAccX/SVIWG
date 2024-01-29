@@ -1,19 +1,24 @@
 <%
 title="Photos"
-lastUpdated="11th Dec 2023"
+lastUpdated="29th Jan 2023"
 %>
 
 <!-- #include file = "include/header.inc" --> 
 
 		<!-- MAIN CONTENT -->
 		<main class="container-fluid g-0 sviwg-main-container sviwg-large-font d-flex flex-column gap-3 swivg-photos">
-			<h2 class="text-center">PHOTO ALBUM</h2>
+			<h2 class="text-center">PHOTO GALLERY</h2>
 
-				<nav aria-label="Years" class="d-flex justify-content-evenly">
-					<a href="#photos_2023">2023</a>
-					<a href="#photos_2022">2022</a>
-					<a href="#photos_2021">2021</a>
-				</nav>
+			<section class="border border-3 sviwg-large-font p-2 p-md-4 text-center sviwg-photos-notice">
+				If you'd like to submit photos of the group, please send them to <a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>.<br>
+				Please include a description and if possible the date they were taken and we'll publish them here in the photo gallery.
+			</section>
+
+			<nav aria-label="Years" class="d-flex justify-content-evenly">
+				<a href="#photos_2023">2023</a>
+				<a href="#photos_2022">2022</a>
+				<a href="#photos_2021">2021</a>
+			</nav>
 
 			<!-- 2023 -->
 			<section class="border border-3 p-2 p-md-4" id="photos_2023">
@@ -27,7 +32,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2023/Mike and Nigel b 3 1 23.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2023/Mike and Nigel b 3 1 23.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">Nigel and Mike in January - making the best of the dry weather.</figcaption>
 								</figure>
 							</div>
@@ -36,7 +41,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2023/Gordon Guiding Mick.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2023/Gordon Guiding Mick.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">Gordon Guiding Mick in Derbyshire.</figcaption>
 								</figure>
 							</div>
@@ -45,7 +50,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2023/Stanage Pole 12th July.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2023/Stanage Pole 12th July.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">SVIWG members at Stanage Pole (12th July). Lunch Break!</figcaption>
 								</figure>
 							</div>
@@ -54,7 +59,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2023/Mike Burgin 1.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2023/Mike Burgin 1.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">
 										SVIWG member Mike Burgin says hello to Elliephant when he visited SRSB's fund raising stall at Graves Park on Sunday (May 21st).
 										The stall raised 132 pounds in addition to a donation of 300 pounds.
@@ -79,7 +84,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2023/VICTORY Rock.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2023/VICTORY Rock.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">VICTORY ROCK</figcaption>
 								</figure>
 							</div>
@@ -87,7 +92,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2023/Nelson's Monument 16 2 23.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2023/Nelson's Monument 16 2 23.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">NELSONS MONUMENT</figcaption>
 								</figure>
 							</div>
@@ -95,13 +100,13 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center ">
 								<figure class="figure">
-									<img src="images/photo_album/2023/Nelsons Monument 2.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2023/Nelsons Monument 2.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">NELSONS MONUMENT 2</figcaption>
 								</figure>
 							</div>
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2023/Back Down The Valley.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2023/Back Down The Valley.jpg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">BACK DOWN THE VALLEY</figcaption>
 								</figure>
 							</div>
@@ -125,7 +130,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2022/Porter Clough 10 8 22.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2022/Porter Clough 10 8 22.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">
 										10th August Wednesday Walk - The Limb Valley and Endcliffe Park.
 										The group make their way (protected against the extremely hot weather) back to Sheffield along Porter Clough. The walk was led by Judy Gathercole of Sheffield Ramblers.
@@ -137,7 +142,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2022/Bradfield 2022 summer.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2022/Bradfield 2022 summer.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">
 										A well earned rest (in the shade!) for the SVIWG walkers during a lovely circular walk around Bradfield's Agden and Dam Flask reservoirs in July 22 (a very hot summer).
 									</figcaption>
@@ -148,7 +153,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2022/Pen y Ghent.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2022/Pen y Ghent.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">A photo recently sent in by Mike Jackson of our holiday walk up Pen-y-Ghent from a few years ago.</figcaption>
 								</figure>
 							</div>
@@ -171,7 +176,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2021/A Spot of Shade.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2021/A Spot of Shade.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">Enjoying the Shade</figcaption>
 								</figure>
 							</div>
@@ -180,7 +185,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2021/Hill Walk 2021.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2021/Hill Walk 2021.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">Before the Rain?</figcaption>
 								</figure>
 							</div>
@@ -189,7 +194,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2021/Hol 21 Hilary 2021.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2021/Hol 21 Hilary 2021.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">Hilary Leads The Walk</figcaption>
 								</figure>
 							</div>
@@ -198,7 +203,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2021/Whinfell Quarry Garden 3 10 21.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2021/Whinfell Quarry Garden 3 10 21.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">Whinfell Quarry Garden (Whirlow Brook Park October Walk)</figcaption>
 								</figure>
 							</div>
@@ -207,14 +212,14 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2021/Ladybower Guiding.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2021/Ladybower Guiding.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">A Walk Above Ladybower Dam</figcaption>
 								</figure>
 							</div>
 
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2021/Ladybower Descent Sept 2021.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2021/Ladybower Descent Sept 2021.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">A Walk Above Ladybower Dam - Descent</figcaption>
 								</figure>
 							</div>
@@ -223,7 +228,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2021/Enjoying The Walk Woof Woof.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2021/Enjoying The Walk Woof Woof.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">A Happy Dog Ready To Go!</figcaption>
 								</figure>
 							</div>
@@ -232,7 +237,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2021/Hol Kendal 2021 Group.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2021/Hol Kendal 2021 Group.jpeg" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">Our Kendal holdiay - on one of our lovely walks. Dave's messing around as usual!</figcaption>
 								</figure>
 							</div>
@@ -241,7 +246,7 @@ lastUpdated="11th Dec 2023"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_album/2021/Pre Walk Coffee and Cake at Whirlow Cafe.JPG" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
+									<img src="images/photo_gallery/2021/Pre Walk Coffee and Cake at Whirlow Cafe.JPG" class="figure-img img-fluid swivg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">Pre-Walk Drinks (and cake) at Whirlow Farm Cafe</figcaption>
 								</figure>
 							</div>

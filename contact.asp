@@ -28,6 +28,7 @@ lastUpdated="12th Jan 2024"
 							<a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>
 						</div>
 					</article>
+
 					<article class="row border bg-light-subtle">
 						<div class="col-lg-3 fw-bold">
 							Martin Wing
@@ -44,6 +45,41 @@ lastUpdated="12th Jan 2024"
 							<a href="tel:07747 443812">07747 443812</a>
 						</div>
 					</article>
+
+					<article class="row border bg-light-subtle">
+						<div class="col-lg-3 fw-bold">
+							Eileen Ingham
+						</div>
+						<div class="col-lg-2">
+							Walk Coordinator
+						</div>
+						<div class="col-lg-4">
+							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
+							<a href="tel:07952 241775">07952 241775</a><br>
+						</div>
+						<div class="col-lg-3">
+							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
+							<a href="tel:0114 2814414">0114 2814414</a>
+						</div>
+					</article>
+
+					<article class="row border bg-light-subtle">
+						<div class="col-lg-3 fw-bold">
+							Gail Fagan
+						</div>
+						<div class="col-lg-2">
+							Newsletter
+						</div>
+						<div class="col-lg-4">
+							<img src="images/icons/envelope-at.svg" class="swivg-small-icon" alt="">
+							<a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>
+						</div>
+						<div class="col-lg-3">
+							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
+							<a href="tel:0114 2667764">0114 2667764</a>
+						</div>
+					</article>
+
 					<article class="row border bg-light-subtle">
 						<div class="col-lg-3 fw-bold">
 							James Percival

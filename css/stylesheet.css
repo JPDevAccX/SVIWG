@@ -196,4 +196,9 @@
 
 .sviwg-text-panel {
   background-color: #fafafa;
+}
+
+.sviwg-photos-notice {
+  background: rgb(251, 245, 255);
+  background: linear-gradient(90deg, rgb(251, 245, 255) 0%, rgb(255, 241, 241) 50%, rgb(255, 246, 233) 100%);
 }/*# sourceMappingURL=stylesheet.css.map */

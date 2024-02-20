@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="25th Jan 2024"
+lastUpdated="20th Feb 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -70,21 +70,6 @@ lastUpdated="25th Jan 2024"
 					</thead>
 					<tbody>
 						<tr>
-							<td>SUN 28th JAN</td>
-							<td class="text-center"><a href="#event-2801">WALK - ECCLESALL WOODS</a></td>
-							<td class="text-end">WED 24th JAN</td>
-						</tr>
-						<tr>
-							<td>TUE 6th FEB</td>
-							<td class="text-center"><a href="#event-0602">WALK - CEMETERY RD, BOTANICAL GARDENS, WESTERN PARK, PONDEROSA</a></td>
-							<td class="text-end">FRI 2nd FEB</td>
-						</tr>
-						<tr>
-							<td>WED 14th FEB</td>
-							<td class="text-center"><a href="#event-1402">WALK - UNSTONE, SHEEPSBRIDGE, BARLOW, AND BACK</a></td>
-							<td class="text-end">FRI 9th FEB</td>
-						</tr>
-						<tr>
 							<td>THUR 22nd FEB</td>
 							<td class="text-center"><a href="#event-2202">CIRCULAR WALK - CHINLEY, LANESIDE, ECCLES PIKE, BUXWORTH</a></td>
 							<td class="text-end">FRI 16th FEB</td>
@@ -103,127 +88,6 @@ lastUpdated="25th Jan 2024"
 				</table>
 
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex" id="event-2801">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									WALK - <time datetime="2024-01-28 09:30">SUNDAY 28th JANUARY</time> - ECCLESALL WOODS
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield Interchange (main foyer) 9.30 to catch the 9.51 no 272 bus to Parkhead arrives 10.15.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									The walk is basically a wander around Ecclesall Woods - mainly some of the lesser known parts but will include around the bird sanctuary.
-									We will then finish walking through Millhouses Park and past the Park Cafe for those who want to make use of it.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									4 1/2 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Good paths, some tree roots.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Judy Gathercole (<a href="tel:07557 272559">07557 272559</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin by Wednesday 24th January if you are joining this walk so he knows he has enough guides.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-0602">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									WALK - <time datetime="2024-02-06 09:55">TUESDAY 6th FEBRUARY</time> - CEMETERY RD, BOTANICAL GARDENS, WESTERN PARK, PONDEROSA
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield Interchange (main foyer) 9.55 to catch the 10.21 no 56 bus to the Community Cafe, South View Road, Sharrow, arrive 10.40 for refreshments.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									The walk will start after our Coffee stop, making our way to the refurbished Cemetery on Cemetery Rd, where Paul knows of its history.
-									We will then, proceed to the Botanical Gardens, Western Park Museum Crookes Valley Park, The Ponderosa, finishing at the Supertram Stop on Infirmary Rd.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									4 1/2 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Good paths throughout. There are no stiles or steep ascents. There will be some road walking between the Botanical Gardens and Western Park Museum.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David (<a href="tel:07554 143262">07554 143262</a>) and Paul (<a href="tel:07468 776290">07468 776290</a>) any walk enquiries.
-								</li>
-							</ul>
-							<div class="card-footer">
-								It is important for all members to let Martin know by Friday 2nd February so that he knows he has enough guides for VI's, 
-								also letting him know where you will be meeting the group.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-1402">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									WALK - <time datetime="2024-02-14 09:30">WEDNESDAY 14th FEBRUARY</time> - UNSTONE, SHEEPSBRIDGE, BARLOW, AND BACK
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.30 to catch the 9.56 no.43 Chesterfield bus from Arundel Gate stand AG12 (opposite British Heart Foundation)
-									to the Horse and Jockey pub at Unstone where the walk will start at 10.42.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Walking towards Sheepsbridge, turning through woods and crossing A61 footbridge heading for Cowley,
-									turning left and heading towards Barlow, we then follow a different route back to the footbridge and return to Unstone.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									7 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									The footpaths are mostly walker friendly with small number of stiles and moderate climbs and flat sections.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Joe Fagan who will join the group at Unstone (<a href="tel:07791 634319">07791 634319</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								For car drivers there is parking on side roads nearby.<br>
-								Please contact Martin by Friday 9th February to make sure we have enough guides for this walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
-							</div>
-						</div>
-					</article>
-
 					<article class="d-flex" id="event-2202">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
 							<div class="card-header">
@@ -350,6 +214,30 @@ lastUpdated="25th Jan 2024"
 				<h2 class="text-center" id="other_walks">OTHER WALKS</h2>
 
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									FESTIVAL OF THE OUTDOORS GUIDED WALKS 
+								</h3>
+							</div>
+							<div class="card-body">
+								A number of walks are taking place in Sheffield for this March festival, including many that are free to attend.
+							</div>
+							<div class="card-footer">
+								You can view the
+								<a href="https://www.welcometosheffield.co.uk/visit/headline-events/festival-of-the-outdoors/festival-of-the-outdoors/?tag=walking-event">
+								full list of available walks here
+								</a>
+								or check out the festival's
+								<a href="https://www.welcometosheffield.co.uk/visit/headline-events/festival-of-the-outdoors/">
+								main webpage
+								</a> 
+								for more information and to reserve a place.
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">

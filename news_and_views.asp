@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="25th Jan 2024"
+lastUpdated="20th Feb 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -32,6 +32,21 @@ lastUpdated="25th Jan 2024"
 				<h2 class="text-center">POSTS</h2>
 
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">SHEFFIELD FESTIVAL OF THE OUTDOORS</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									A month-long celebration of Sheffield as "The Outdoor City" featuring sporting events, community gatherings,
+									guided walks, outdoor markets, film festivals, and more!<br>
+									Check out <a href="https://www.welcometosheffield.co.uk/visit/headline-events/festival-of-the-outdoors/">this webpage</a> for more information.
+								</p>
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

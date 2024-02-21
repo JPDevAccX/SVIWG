@@ -270,7 +270,7 @@ lastUpdated="20th Feb 2024"
 								or check out the festival's
 								<a href="https://www.welcometosheffield.co.uk/visit/headline-events/festival-of-the-outdoors/">
 								main webpage</a>.
-								Please not that some events require you to reserve a place.
+								Please note that some events require you to reserve a place.
 							</div>
 						</div>
 					</article>

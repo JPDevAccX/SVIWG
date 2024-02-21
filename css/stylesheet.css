@@ -90,12 +90,16 @@
   box-shadow: -1px 1px 6px -2px #000000;
 }
 
-.sviwg-text-card-walk .card-header, .sviwg-news-card .card-header {
+.sviwg-text-card-walk-sviwg .card-header, .sviwg-news-card .card-header {
   background-color: #aaf;
 }
 
-.sviwg-text-card-general .card-header, .sviwg-news-comment .card-header {
-  background-color: #9f9;
+.sviwg-text-card-walk-other .card-header, .sviwg-news-comment .card-header {
+  background-color: #afa;
+}
+
+.sviwg-text-card-walk-news .card-header {
+  background-color: #fa7;
 }
 
 .swivg-food-menu-list {
@@ -117,7 +121,7 @@
 .sviwg-table {
   border-width: 3px;
   border-style: solid;
-  border-color: #ddd #ccc #ccc #ddd;
+  border-color: #dfdfdf #ddd #ccc #ddd;
 }
 .sviwg-table th {
   background-color: rgb(235, 235, 235);
@@ -125,6 +129,20 @@
 }
 .sviwg-table tr {
   border-color: #ddd;
+}
+.sviwg-table.sviwg-table-walks td:nth-child(1) {
+  width: 15%;
+}
+.sviwg-table.sviwg-table-walks td:nth-child(3) {
+  width: 15%;
+}
+.sviwg-table.sviwg-table-walks-sviwg th {
+  background-color: #ccf;
+  background: linear-gradient(0deg, #bbf 0%, #e8e8f8 100%);
+}
+.sviwg-table.sviwg-table-walks-other th {
+  background-color: #bfb;
+  background: linear-gradient(0deg, #afa 0%, #e8f8e8 100%);
 }
 
 .figure-caption {

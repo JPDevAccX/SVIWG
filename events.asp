@@ -50,46 +50,82 @@ lastUpdated="20th Feb 2024"
 			</section>
 
 			<nav aria-label="Sections" class="d-flex justify-content-evenly sviwg-large-font">
-				<a href="#upcoming_events">Upcoming Events</a>
-				<a href="#other_walks">Other Walks</a>
-				<a href="#current_walk_news">Current Walk News</a>
+				<a href="#upcoming_sviwg_events">SVIWG Events</a>
+				<a href="#upcoming_other_walks">Other Walks</a>
+				<a href="#current_walk_news">Walk News</a>
 			</nav>
 
+			<div class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
+				<section>
+					<h2 class="text-center" id="upcoming_sviwg_events_summary">UPCOMING SVIWG EVENTS</h2>
+
+					<div class="text-center fs-5 mb-4">IT'S IMPORTANT TO NOTE THAT WALKS MAY BE MUDDY IN PLACES DEPENDING ON THE RECENT WEATHER</div>
+
+					<table class="table mx-auto sviwg-table sviwg-table-walks sviwg-table-walks-sviwg sviwg-max-w1120">
+						<thead>
+							<tr>
+								<th scope="col">Date</th>
+								<th scope="col" class="text-center">Description</th>
+								<th scope="col" class="text-end">Notify&nbsp;By</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>THUR 22nd FEB</td>
+								<td class="text-center"><a href="#event-2202">CIRCULAR WALK - CHINLEY, LANESIDE, ECCLES PIKE, BUXWORTH</a></td>
+								<td class="text-end">FRI 16th FEB</td>
+							</tr>
+							<tr>
+								<td>SUN 25th FEB</td>
+								<td class="text-center"><a href="#event-2502">WALK - LOXLEY VALLEY, LOXLEY CHASE &amp WADSLEY COMMON, MIDDLEWOOD</a></td>
+								<td class="text-end">WED 21st FEB</td>
+							</tr>
+							<tr>
+								<td>TUE 5th MAR</td>
+								<td class="text-center"><a href="#event-0503">CIRCULAR WALK - GRAVES PARK, OAKS PARK, HANG BANK WOODS</a></td>
+								<td class="text-end">FRI 1st MAR</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+
+				<section>
+					<h2 class="text-center" id="upcoming_other_walks_summary">OTHER UPCOMING WALKS</h2>
+
+					<table class="table mx-auto sviwg-table sviwg-table-walks sviwg-table-walks-other sviwg-max-w1120">
+						<thead>
+							<tr>
+								<th scope="col">Date</th>
+								<th scope="col" class="text-center">Description</th>
+								<th scope="col" class="text-end">Notify&nbsp;By</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>MAR</td>
+								<td class="text-center"><a href="#event-festival-of-the-outdoors">VARIOUS GUIDED WALKS DURING THE FESTIVAL OF THE OUTDOORS</a></td>
+								<td class="text-end">
+									(<a href="https://www.welcometosheffield.co.uk/visit/headline-events/festival-of-the-outdoors/festival-of-the-outdoors/?tag=walking-event">check here</a>)
+								</td>
+							</tr>
+							<tr>
+								<td>1st THUR</td>
+								<td class="text-center"><a href="#event-short-walk-with-rss-and-srsb">SHORT WALK WITH RSS AND SRSB EVERY FIRST THURSDAY OF THE MONTH IN ROTHERHAM</a></td>
+								<td class="text-end">
+									(<a href="#event-short-walk-with-rss-and-srsb">see below</a>)
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+			</div>
+
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
-				<h2 class="text-center" id="upcoming_events">UPCOMING EVENTS</h2>
-
-				<div class="text-center fs-5 mb-4">IT'S IMPORTANT TO NOTE THAT DUE TO RECENT WEATHER CONDITIONS, ALL WALKS WILL BE MUDDY IN PLACES.</div>
-
-				<table class="table mx-auto sviwg-table sviwg-max-w1120">
-					<thead>
-						<tr>
-							<th scope="col">Date</th>
-							<th scope="col" class="text-center">Description</th>
-							<th scope="col" class="text-end">Notify&nbsp;By</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>THUR 22nd FEB</td>
-							<td class="text-center"><a href="#event-2202">CIRCULAR WALK - CHINLEY, LANESIDE, ECCLES PIKE, BUXWORTH</a></td>
-							<td class="text-end">FRI 16th FEB</td>
-						</tr>
-						<tr>
-							<td>SUN 25th FEB</td>
-							<td class="text-center"><a href="#event-2502">WALK - LOXLEY VALLEY, LOXLEY CHASE &amp WADSLEY COMMON, MIDDLEWOOD</a></td>
-							<td class="text-end">WED 21st FEB</td>
-						</tr>
-						<tr>
-							<td>TUE 5th MAR</td>
-							<td class="text-center"><a href="#event-0503">CIRCULAR WALK - GRAVES PARK, OAKS PARK, HANG BANK WOODS</a></td>
-							<td class="text-end">FRI 1st MAR</td>
-						</tr>
-					</tbody>
-				</table>
+				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 
 				<div class="d-flex flex-column gap-5">
 					<article class="d-flex" id="event-2202">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
 									WALK - <time datetime="2024-02-22 08:40">THURSDAY 22nd FEBRUARY</time> - CIRCULAR WALK - CHINLEY, LANESIDE, ECCLES PIKE, BUXWORTH
@@ -129,7 +165,7 @@ lastUpdated="20th Feb 2024"
 					</article>
 
 					<article class="d-flex" id="event-2502">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
 									WALK - <time datetime="2024-02-25 09:30">SUNDAY 25th FEBRUARY</time> - LOXLEY VALLEY, LOXLEY CHASE &amp WADSLEY COMMON, MIDDLEWOOD
@@ -170,7 +206,7 @@ lastUpdated="20th Feb 2024"
 					</article>
 
 					<article class="d-flex" id="event-0503">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
 									WALK - <time datetime="2024-03-05 09:30">TUESDAY 5th MARCH</time> - CIRCULAR WALK - GRAVES PARK, OAKS PARK, HANG BANK WOODS
@@ -211,19 +247,20 @@ lastUpdated="20th Feb 2024"
 			</section>
 
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
-				<h2 class="text-center" id="other_walks">OTHER WALKS</h2>
+				<h2 class="text-center" id="upcoming_other_walks">OTHER WALKS</h2>
 
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+					<article class="d-flex" id="event-festival-of-the-outdoors">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-other">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
 									FESTIVAL OF THE OUTDOORS GUIDED WALKS 
 								</h3>
 							</div>
 							<div class="card-body">
-								A number of walks are taking place in Sheffield for this March festival, including many that are free to attend.
+								A number of guided walks are taking place in Sheffield during March in the Festival of the Outdoors.<br>
+								Many of these are free to attend.
 							</div>
 							<div class="card-footer">
 								You can view the
@@ -232,15 +269,14 @@ lastUpdated="20th Feb 2024"
 								</a>
 								or check out the festival's
 								<a href="https://www.welcometosheffield.co.uk/visit/headline-events/festival-of-the-outdoors/">
-								main webpage
-								</a> 
-								for more information and to reserve a place.
+								main webpage</a>.
+								Please not that some events require you to reserve a place.
 							</div>
 						</div>
 					</article>
 
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk">
+					<article class="d-flex" id="event-short-walk-with-rss-and-srsb">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-other">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
 									SHORT WALK WITH RSS AND SRSB
@@ -265,7 +301,7 @@ lastUpdated="20th Feb 2024"
 				<div class="d-flex flex-column gap-5">
 
 					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card-walk">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
 									SPARE WALKING EQUIPMENT
@@ -282,7 +318,7 @@ lastUpdated="20th Feb 2024"
 					</article>
 
 					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card-walk">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
 									SIGHTED GUIDE TRAINING VIDEOS - HOW TO GUIDE A BLIND PERSON

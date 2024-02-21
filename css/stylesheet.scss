@@ -96,15 +96,21 @@
 	box-shadow: -1px 1px 6px -2px #000000;
 }
 
-.sviwg-text-card-walk, .sviwg-news-card {
+.sviwg-text-card-walk-sviwg, .sviwg-news-card {
 	.card-header {
 		background-color: #aaf ;
 	}
 }
 
-.sviwg-text-card-general, .sviwg-news-comment {
+.sviwg-text-card-walk-other, .sviwg-news-comment {
 	.card-header {
-		background-color: #9f9 ;
+		background-color: #afa ;
+	}
+}
+
+.sviwg-text-card-walk-news {
+	.card-header {
+		background-color: #fa7 ;
 	}
 }
 
@@ -127,13 +133,36 @@
 .sviwg-table {
 	border-width: 3px ;
 	border-style: solid;
-	border-color: #ddd #ccc #ccc #ddd ;
+	border-color: #dfdfdf #ddd #ccc #ddd ;
 	th {
 		background-color: rgb(235, 235, 235);
 		background: linear-gradient(0deg, rgb(230, 230, 230) 0%, rgb(250, 250, 250) 100%);
 	}
 	tr {
 		border-color: #ddd;
+	}
+
+	&.sviwg-table-walks {
+		td:nth-child(1) {
+			width: 15% ;
+		}
+		td:nth-child(3) {
+			width: 15% ;
+		}
+	}
+
+	&.sviwg-table-walks-sviwg {
+		th {
+			background-color: #ccf ;
+			background: linear-gradient(0deg, #bbf 0%, #e8e8f8 100%);
+		}
+	}
+
+	&.sviwg-table-walks-other {
+		th {
+			background-color: #bfb ;
+			background: linear-gradient(0deg, #afa 0%, #e8f8e8 100%);
+		}
 	}
 }
 

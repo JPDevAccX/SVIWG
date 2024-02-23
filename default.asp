@@ -68,13 +68,17 @@ lastUpdated="23rd Feb 2024"
 				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 20h18L14.079 5.388a2.3 2.3 0 0 0-4.158 0z"/><path d="m7.5 11l2 2.5L12 11l2 3l2.5-2"/></g></svg>
 					<span class="align-middle">
 						<b>TOUGH CHALLENGES</b> - In recent years small groups of VIP's and guides have raised money doing things like
-						climbing Kinder	Scout, Ben Nevis and Scafell Pike and walking across Morecambe Bay (see photograph below).
+						climbing Kinder	Scout, Ben Nevis and Scafell Pike and walking across Morecambe Bay (see photographs below).
 					</span>
 				</p>
 
-				<figure class="figure ms-md-1 ms-lg-3">
-					<img src="images/Hol Kendal 2021 Group.jpeg" class="figure-img img-fluid rounded swivg-inset-image" alt="">
-					<figcaption class="figure-caption">Our Lake District Holiday in 2021</figcaption>
+				<figure class="figure ms-md-1 ms-lg-3 swivg-photos-larger">
+					<img src="images/anglesey-holiday-2023.jpg" class="figure-img img-fluid rounded swivg-inset-image" alt="">
+					<figcaption class="figure-caption">Our Anglesey Holiday in 2023</figcaption>
+				</figure>
+				<figure class="figure ms-md-1 ms-lg-3 swivg-photos-larger">
+					<img src="images/walk-across-morecambe-bay-2015.jpg" class="figure-img img-fluid rounded swivg-inset-image" alt="">
+					<figcaption class="figure-caption">A walk across Morecambe Bay</figcaption>
 				</figure>
 			</section>
 

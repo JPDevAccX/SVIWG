@@ -85,12 +85,6 @@
 	width: 84px;
 }
 
-.under-construction-logo {
-	width: 120px;
-	border: 2px solid black;
-	height: 110px;
-}
-
 .sviwg-text-card {
 	flex-basis: 1024px ;
 	box-shadow: -1px 1px 6px -2px #000000;
@@ -215,6 +209,12 @@
 .swivg-photos {
 	img {
 		max-height: 400px ;
+	}
+}
+
+.swivg-photos-larger {
+	img {
+		max-height: 480px ;
 	}
 }
 

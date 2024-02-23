@@ -10,7 +10,7 @@ lastUpdated="23rd Feb 2024"
 
 			<section class="row ms-md-1 ms-lg-3">
 				<div class="col-md-5 col-lg-4">
-					<img src="images/pexels-stanley-ng-4387779.jpg" class="img-fluid swivg-inset-image" alt="Person holding smartphone showing a news website">
+					<img src="images/pexels-stanley-ng-4387779.jpg" class="img-fluid sviwg-inset-image" alt="Person holding smartphone showing a news website">
 				</div>
 				<div class="col d-flex flex-column justify-content-center">
 					<div class="px-2 px-md-0">
@@ -145,7 +145,7 @@ lastUpdated="23rd Feb 2024"
 			<section class="border border-3 p-3 mt-3">
 				<div class="row">
 					<div class="col-md-5 col-lg-4">
-						<img src="images/Rangers2.jpg" class="img-fluid swivg-inset-image" alt="Peak Park Rangers Walk 22/7/21">
+						<img src="images/Rangers2.jpg" class="img-fluid sviwg-inset-image" alt="Peak Park Rangers Walk 22/7/21">
 					</div>
 					<div class="col d-flex flex-column justify-content-center">
 						<div class="px-2 px-md-0">

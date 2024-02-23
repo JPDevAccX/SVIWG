@@ -60,11 +60,11 @@
   color: #222 !important;
 }
 
-.swivg-inset-image {
+.sviwg-inset-image {
   border: 3px inset lightgray;
 }
 
-.swivg-inset-subtle-image {
+.sviwg-inset-subtle-image {
   border-width: 2px;
   border-color: #777 #888 #888 #777;
   border-style: solid;
@@ -96,7 +96,7 @@
   background-color: #fa7;
 }
 
-.swivg-food-menu-list {
+.sviwg-food-menu-list {
   list-style-type: "~ ";
 }
 
@@ -148,10 +148,10 @@
   background-color: #ddd !important;
 }
 
-.swivg-rules-list::marker {
+.sviwg-rules-list::marker {
   font-weight: bold;
 }
-.swivg-rules-list li {
+.sviwg-rules-list li {
   margin-bottom: 1em;
 }
 
@@ -172,16 +172,16 @@
   width: 340px;
 }
 
-.swivg-small-icon {
+.sviwg-small-icon {
   width: 28px;
   height: 28px;
 }
 
-.swivg-photos img {
+.sviwg-photos img {
   max-height: 400px;
 }
 
-.swivg-photos-larger img {
+.sviwg-photos-larger img {
   max-height: 480px;
 }
 

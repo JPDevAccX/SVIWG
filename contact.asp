@@ -24,11 +24,11 @@ lastUpdated="23rd Feb 2024"
 							Chair
 						</div>
 						<div class="col-lg-4">
-							<img src="images/icons/envelope-at.svg" class="swivg-small-icon" alt="">
+							<img src="images/icons/envelope-at.svg" class="sviwg-small-icon" alt="">
 							<a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>
 						</div>
 						<div class="col-lg-3">
-							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
+							<img src="images/icons/telephone.svg" class="sviwg-small-icon" alt="">
 							<a href="tel:07970 311329">07970 311329</a>
 						</div>
 					</article>
@@ -41,11 +41,11 @@ lastUpdated="23rd Feb 2024"
 							Vice Chair
 						</div>
 						<div class="col-lg-4">
-							<img src="images/icons/envelope-at.svg" class="swivg-small-icon" alt="">
+							<img src="images/icons/envelope-at.svg" class="sviwg-small-icon" alt="">
 							<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
 						</div>
 						<div class="col-lg-3">
-							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
+							<img src="images/icons/telephone.svg" class="sviwg-small-icon" alt="">
 							<a href="tel:07747 443812">07747 443812</a>
 						</div>
 					</article>
@@ -58,11 +58,11 @@ lastUpdated="23rd Feb 2024"
 							Walk Coordinator
 						</div>
 						<div class="col-lg-4">
-							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
+							<img src="images/icons/telephone.svg" class="sviwg-small-icon" alt="">
 							<a href="tel:07952 241775">07952 241775</a><br>
 						</div>
 						<div class="col-lg-3">
-							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
+							<img src="images/icons/telephone.svg" class="sviwg-small-icon" alt="">
 							<a href="tel:0114 2814414">0114 2814414</a>
 						</div>
 					</article>
@@ -75,11 +75,11 @@ lastUpdated="23rd Feb 2024"
 							Newsletter
 						</div>
 						<div class="col-lg-4">
-							<img src="images/icons/envelope-at.svg" class="swivg-small-icon" alt="">
+							<img src="images/icons/envelope-at.svg" class="sviwg-small-icon" alt="">
 							<a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>
 						</div>
 						<div class="col-lg-3">
-							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
+							<img src="images/icons/telephone.svg" class="sviwg-small-icon" alt="">
 							<a href="tel:0114 2667764">0114 2667764</a>
 						</div>
 					</article>
@@ -92,7 +92,7 @@ lastUpdated="23rd Feb 2024"
 							Webmaster
 						</div>
 						<div class="col-lg-4">
-							<img src="images/icons/envelope-at.svg" class="swivg-small-icon" alt="">
+							<img src="images/icons/envelope-at.svg" class="sviwg-small-icon" alt="">
 							<a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>
 						</div>
 					</article>

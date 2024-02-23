@@ -1,6 +1,6 @@
 <%
 title="Home"
-lastUpdated="29th Jan 2024"
+lastUpdated="23rd Feb 2024"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -86,7 +86,8 @@ lastUpdated="29th Jan 2024"
 				</p>
 				<p>
 					IF YOU WOULD LIKE MORE INFORMATION ABOUT <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span> or may be interested in joining our group as a VIP or a guide please
-					contact the chair via email at <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>.<br>
+					contact the chair, <b>Susan Hill</b> on <a href="tel:07970311329">07970311329</a>,
+					or send an email to <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>.<br>
 					Alternatively, you can contact our Vice Chair / Membership Secretary, <b>Martin Wing</b> on <a href="tel:07747443812">07747443812</a>,
 					or send an email to <a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>.
 				</p>

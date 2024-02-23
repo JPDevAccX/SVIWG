@@ -1,6 +1,6 @@
 <%
 title="Contact Us"
-lastUpdated="12th Jan 2024"
+lastUpdated="23rd Feb 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -26,6 +26,10 @@ lastUpdated="12th Jan 2024"
 						<div class="col-lg-4">
 							<img src="images/icons/envelope-at.svg" class="swivg-small-icon" alt="">
 							<a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>
+						</div>
+						<div class="col-lg-3">
+							<img src="images/icons/telephone.svg" class="swivg-small-icon" alt="">
+							<a href="tel:07970 311329">07970 311329</a>
 						</div>
 					</article>
 

@@ -9,12 +9,6 @@ lastUpdated="23rd Feb 2024"
 		<main class="container-fluid g-0 sviwg-contacts-container sviwg-large-font d-flex flex-column gap-3">
 			<h2 class="text-center">CONTACT US</h2>
 
-			<aside class="border p-4">
-				<b>Important notice</b> - Please only contact Sue Hill by email as she will
-				be away until the 22nd February and is happy to still be contacted
-				that way.
-			</aside>
-
 				<section class="border p-4 d-flex flex-column gap-2">
 					<article class="row border bg-light-subtle">
 						<div class="col-lg-3 fw-bold">

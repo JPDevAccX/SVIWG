@@ -72,12 +72,12 @@ lastUpdated="23rd Feb 2024"
 					</span>
 				</p>
 
-				<figure class="figure ms-md-1 ms-lg-3 swivg-photos-larger">
-					<img src="images/anglesey-holiday-2023.jpg" class="figure-img img-fluid rounded swivg-inset-image" alt="">
+				<figure class="figure ms-md-1 ms-lg-3 sviwg-photos-larger">
+					<img src="images/anglesey-holiday-2023.jpg" class="figure-img img-fluid rounded sviwg-inset-image" alt="">
 					<figcaption class="figure-caption">Our Anglesey Holiday in 2023</figcaption>
 				</figure>
-				<figure class="figure ms-md-1 ms-lg-3 swivg-photos-larger">
-					<img src="images/walk-across-morecambe-bay-2015.jpg" class="figure-img img-fluid rounded swivg-inset-image" alt="">
+				<figure class="figure ms-md-1 ms-lg-3 sviwg-photos-larger">
+					<img src="images/walk-across-morecambe-bay-2015.jpg" class="figure-img img-fluid rounded sviwg-inset-image" alt="">
 					<figcaption class="figure-caption">A walk across Morecambe Bay</figcaption>
 				</figure>
 			</section>

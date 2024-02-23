@@ -11,7 +11,7 @@ lastUpdated="20th Feb 2024"
 			<!-- NOTICE -->
 			<section class="row ms-md-1 ms-lg-3">
 				<div class="col-md-5 col-lg-4">
-					<img src="images/arek-adeoye-ljoCgjs63SM-unsplash.jpg" class="img-fluid swivg-inset-image" alt="Lady running in a park">
+					<img src="images/arek-adeoye-ljoCgjs63SM-unsplash.jpg" class="img-fluid sviwg-inset-image" alt="Lady running in a park">
 				</div>
 				<div class="col d-flex flex-column justify-content-center">
 					<div class="px-2 px-md-0">

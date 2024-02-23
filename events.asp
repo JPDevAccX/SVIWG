@@ -71,11 +71,6 @@ lastUpdated="20th Feb 2024"
 						</thead>
 						<tbody>
 							<tr>
-								<td>THUR 22nd FEB</td>
-								<td class="text-center"><a href="#event-2202">CIRCULAR WALK - CHINLEY, LANESIDE, ECCLES PIKE, BUXWORTH</a></td>
-								<td class="text-end">FRI 16th FEB</td>
-							</tr>
-							<tr>
 								<td>SUN 25th FEB</td>
 								<td class="text-center"><a href="#event-2502">WALK - LOXLEY VALLEY, LOXLEY CHASE &amp WADSLEY COMMON, MIDDLEWOOD</a></td>
 								<td class="text-end">WED 21st FEB</td>
@@ -124,46 +119,6 @@ lastUpdated="20th Feb 2024"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 
 				<div class="d-flex flex-column gap-5">
-					<article class="d-flex" id="event-2202">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									WALK - <time datetime="2024-02-22 08:40">THURSDAY 22nd FEBRUARY</time> - CIRCULAR WALK - CHINLEY, LANESIDE, ECCLES PIKE, BUXWORTH
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield railway station 8.40 to catch the 9.14 local Hope Valley train to Chinley where walk starts at 10.00.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Chinley station via Chinley village, old Peak Forest tramway, Laneside, Lidgate, Eccles Pike, Hilltop, Buxworth,
-									old Peak Forest tramway back to Chinley.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Approx 6 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Lanes and good tracks, some muddy paths, wicket gates, stiles, steady climb up to and over Eccles Pike.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Steve Brown (<a href="tel:07801 906126">07801 906126</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Trains back to Sheffield 15.22 and 16.22. Car parking near Chinley Station.<br>
-								Please contact Martin by Friday 16th February to make sure we have enough guides telling him where you intend to start the walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
-							</div>
-						</div>
-					</article>
-
 					<article class="d-flex" id="event-2502">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">

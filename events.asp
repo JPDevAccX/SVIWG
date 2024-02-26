@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="20th Feb 2024"
+lastUpdated="26th Feb 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -71,14 +71,39 @@ lastUpdated="20th Feb 2024"
 						</thead>
 						<tbody>
 							<tr>
-								<td>SUN 25th FEB</td>
-								<td class="text-center"><a href="#event-2502">WALK - LOXLEY VALLEY, LOXLEY CHASE &amp WADSLEY COMMON, MIDDLEWOOD</a></td>
-								<td class="text-end">WED 21st FEB</td>
-							</tr>
-							<tr>
 								<td>TUE 5th MAR</td>
 								<td class="text-center"><a href="#event-0503">CIRCULAR WALK - GRAVES PARK, OAKS PARK, HANG BANK WOODS</a></td>
 								<td class="text-end">FRI 1st MAR</td>
+							</tr>
+							<tr>
+								<td>WED 13th MAR</td>
+								<td class="text-center"><a href="#event-1303">TRANS PENNINE TRAIL, FLASH HOUSE FARM, THURLSTONE, PENISTONE</a></td>
+								<td class="text-end">FRI 8th MAR</td>
+							</tr>
+							<tr>
+								<td>SUN 24th MAR</td>
+								<td class="text-center"><a href="#event-2403">ENDCLIFFE PARK, FORGE DAM, HIGHCLIFFE ALLOTMENTS, HUNTERS BAR</a></td>
+								<td class="text-end">WED 20th MAR</td>
+							</tr>
+							<tr>
+								<td>THUR 28th MAR</td>
+								<td class="text-center"><a href="#event-2803">ROUTE TO BE DECIDED ON THE DAY</a></td>
+								<td class="text-end">FRI 22nd MAR</td>
+							</tr>
+							<tr>
+								<td>TUE 2nd APR</td>
+								<td class="text-center"><a href="#event-0204">FOOD AT THE BARN FOLLOWED BY CIRCULAR WALK IN DRONFIELD</a></td>
+								<td class="text-end">FRI 29th MAR</td>
+							</tr>
+							<tr>
+								<td>MON 9th SEP</td>
+								<td class="text-center">
+								<div class="d-flex justify-content-center">
+									<svg xmlns="http://www.w3.org/2000/svg" width="1.6em" viewBox="0 0 64 64"><path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/></svg>
+									<a href="#event-0909" class="ms-1">GROUP HOLIDAY - AMBLE INN</a>
+									</div>
+								</td>
+								<td class="text-end">N/A</td>
 							</tr>
 						</tbody>
 					</table>
@@ -119,52 +144,12 @@ lastUpdated="20th Feb 2024"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 
 				<div class="d-flex flex-column gap-5">
-					<article class="d-flex" id="event-2502">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									WALK - <time datetime="2024-02-25 09:30">SUNDAY 25th FEBRUARY</time> - LOXLEY VALLEY, LOXLEY CHASE &amp WADSLEY COMMON, MIDDLEWOOD
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.30 to catch the blue route tram 10.00 to Malin Bridge Terminus where walk starts 10.16.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Loxley valley, Loxley Chase &amp Wadsley Common finishing Middlewood terminus.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									6 1/2 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Good footpaths, two moderately steep hills &amp three stiles on the route.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Sam Butler (<a href="tel:07867 381581">07867 381581</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								People using their own transport can park free at the "park &amp ride" car park at Malin Bridge
-								&amp catch a tram back from Middlewood at the end of the walk.<br>
-								Please contact Martin if joining this walk letting him know where you will meet the group
-								to make sure we have enough guides at the start of the walk by Wednesday 21st February.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
-							</div>
-						</div>
-					</article>
 
 					<article class="d-flex" id="event-0503">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									WALK - <time datetime="2024-03-05 09:30">TUESDAY 5th MARCH</time> - CIRCULAR WALK - GRAVES PARK, OAKS PARK, HANG BANK WOODS
+									<time datetime="2024-03-05 09:30">TUESDAY 5th MARCH</time> - CIRCULAR WALK - GRAVES PARK, OAKS PARK, HANG BANK WOODS
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
@@ -194,6 +179,189 @@ lastUpdated="20th Feb 2024"
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1303">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-03-13 09:15">WEDNESDAY 13th MARCH</time> - TRANS PENNINE TRAIL, FLASH HOUSE FARM, THURLSTONE, PENISTONE
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Railway Station 9.15 to catch the 9.35 train to Penistone where the walk starts 10.20.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Trans Pennine Trail, Catshaw, Flash House Farm, Royd Moor Hill, Thurlstone, and return to Penistone.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									7 1/2 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Mostly good tracks and fields, may be muddy in places.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David Kayley (<a href="tel:07840 133768">07840 133768</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin if joining this walk letting him know where you will meet the group
+								no later than Friday 8th March to make sure we have enough guides.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2403">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-03-24 10:30">SUNDAY 24th MARCH</time> - ENDCLIFFE PARK, FORGE DAM, HIGHCLIFFE ALLOTMENTS, HUNTERS BAR
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 10.30 to catch the 10.51 no 88 Bents Green bus, near Odeon Cinema,
+									alight at Hunters Bar / Neil Road on Ecclesall Road where walk starts 11.05.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Endcliffe Park to Forge Dam, return via Common Lane, Highcliffe allotments, Bingham Park back to Hunters Bar.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good paths uphill on Common Lane and mostly flat through the woods.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Les Seaman who will meet the group at the entrance to Endcliffe park (<a href="tel:07547 115946">07547 115946</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin if joining this walk telling him where you will meet group
+								to make sure enough guides at the start by Wednesday 20th March.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2803">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-03-28 09:15">THURSDAY 28th MARCH</time> - ROUTE TO BE DECIDED ON THE DAY
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Queen's Head Pond Hill 9.15 to travel by mini bus leaving 9.30 to Fairhomes where walk starts 10.00.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									To be decided on the day.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Around 8 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Moderate walking with hills but some steady sections.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a> any walk enquiries). 
+								</li>
+							</ul>
+							<div class="card-footer">
+								<b>Please note it is essential to wear walking boots for this walk.</b><br>
+								Please contact Martin letting him know where you will be meeting the group no later than
+								Friday 22nd March to make sure we have enough guides at the start of the walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0204">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-04-02 10:00">TUESDAY 2nd APRIL</time> - FOOD AT THE BARN FOLLOWED BY CIRCULAR WALK IN DRONFIELD
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Interchange (main foyer) 10am to catch the 10.24 no 43 bus from Flat Street to
+									The Barn at Dronfield where we have booked a private room to have bacon sandwiches, scones / cakes, time 11am.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Circular walk. After our treats, we shall have a steady walk around the paths at Dronfield.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Easy walking around fields though they may be muddy. Good tracks and a couple of stiles.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David (<a href="tel:07554 143262">07554 143262</a>) and Paul (<a href="tel:07468 776290">07468 776290</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin if joining this walk telling him where you will meet group
+								to make sure enough guides at the start by Friday 29th March.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0909">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+								<svg xmlns="http://www.w3.org/2000/svg" width="1.6em" viewBox="0 0 64 64"><path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/></svg>
+									<span class="align-middle ms-1">GROUP HOLIDAY - <time datetime="2024-09-09">SEPTEMBER 9th to 14th</time> - AMBLE INN</span>
+								</h3>
+							</div>
+							<div class="card-body">
+								Staying at the Amble Inn, Amble.<br>
+								Prices quoted include bed, breakfast, and an allowance of £26 for the evening meal.<br>
+								A single occupancy room will be £715 for 5 nights. A double occupancy room will be £470 for 5 nights.<br>
+								The costs cover tips for the coach driver and coach parking. All transport costs will be covered by the walking group.
+							</div>
+							<div class="card-footer">
+								Please contact Margaret Patrick on <a href="tel:07946 382896">07946 382896</a>
+								or email <a href="mailto:megdpatrick@gmail.com">megdpatrick@gmail.com</a>.<br>
+								A £50 deposit will be required on booking.<br>
+								Please make cheques payable to SVIWG and send to Stan Wainwright, 129 Mount View Road, Norton Lees, S8 8PJ.<br>
+								To pay direct to the SVIWG bank account please contact Stan for information at <a href="mailto:stan.wainwright@uwclub.net">stan.wainwright@uwclub.net</a>.
 							</div>
 						</div>
 					</article>

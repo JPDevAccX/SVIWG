@@ -1,6 +1,6 @@
 <%
 title="Home"
-lastUpdated="23rd Feb 2024"
+lastUpdated="26th Feb 2024"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -19,18 +19,6 @@ lastUpdated="23rd Feb 2024"
 
 		<!-- MAIN CONTENT -->
 		<main class="container-fluid g-0 sviwg-main-container d-flex flex-column gap-3">
-
-			<section class="border border-3 sviwg-large-font p-2 p-md-4">
-				<h2 class="text-center">NEW WEBSITE</h2>
-				<p>
-					After many years of dedicated service, Christine Whittaker is standing down as Website Manager for <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span>.
-					We're very grateful for all the hard work she's put into the site over the years and we hope she enjoys a well-earned break! 
-				</p>
-				<p>
-					James Percival will be taking over from her. If anyone would like to submit photos or other content for the website,
-					or for any other website-related issues, he can be contacted by e-mail at <a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>. 
-				</p>
-			</section>
 
 			<section class="border border-3 sviwg-large-font p-2 p-md-4">
 				<h2 class="text-center">WHAT WE DO</h2>

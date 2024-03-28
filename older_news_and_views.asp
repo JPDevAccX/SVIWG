@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="23rd Feb 2024"
+lastUpdated="28th Mar 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -25,6 +25,64 @@ lastUpdated="23rd Feb 2024"
 				<h2 class="text-center">POSTS</h2>
 
 				<div class="d-flex flex-column gap-5">
+				
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">SHEFFIELD FESTIVAL OF THE OUTDOORS</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									A month-long celebration of Sheffield as "The Outdoor City" featuring sporting events, community gatherings,
+									guided walks, outdoor markets, film festivals, and more!<br>
+									Check out <a href="https://www.welcometosheffield.co.uk/visit/headline-events/festival-of-the-outdoors/">this webpage</a> for more information.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">NEW WEB SITE MANAGER</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									A warm welcome to James Percival, who volunteered through Voluntary Action Sheffield to take over our web site from Chris Whittakker.<br>
+									Chris set up the web site some 15 years ago and has kept it running for us for all this time.<br>
+									We are very grateful to you Chris - now you can relax and still enjoy coming out walking with us.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">CONGRATULATIONS TO MIKE JACKSON</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Congratulations to Mike Jackson who has received an MBE in the new
+									year's honours list for services to the community.
+								</p>
+								<p>
+									Mike said one of his greatest privileges was joining the SVIWG soon after the group started,
+									leading a Bi-monthly walk taking VI's to places we never dreamed of
+									and indeed VI's who had been long time ramblers and lost their sight
+									later in life they never thought it would be possible again.
+								</p>
+								<p>
+									The	memorable ones like Kinder Scout, Bleaklow and leading a party up	Snowdon.
+									Mike was a warden on Kinder and we always knew we	were in safe hands.
+								</p>
+								<p>
+									Well-deserved Mike on behalf of the SVIWG.
+								</p>
+							</div>
+						</div>
+					</article>
+
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">

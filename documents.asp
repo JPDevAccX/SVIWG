@@ -1,6 +1,6 @@
 <%
 title="Documents"
-lastUpdated="16th Dec 2023"
+lastUpdated="29th Mar 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -9,9 +9,16 @@ lastUpdated="16th Dec 2023"
 		<main class="container-fluid g-0 sviwg-main-container sviwg-large-font d-flex flex-column gap-3">
 			<h2 class="text-center">DOCUMENTS</h2>
 
-				<nav aria-label="Years" class="d-flex justify-content-evenly">
-					<a href="#resources_rules_and guidance">Rules and Guidance</a>
-					<a href="#resources_internal">AGM Minutes and Constitution</a>
+				<nav aria-label="Years" class="row text-center">
+					<div class="col-md-4">
+						<a href="#resources_rules_and guidance">Rules and Guidance</a>
+					</div>
+					<div class="col-md-4">
+						<a href="#resources_newsletters">Newsletter archive</a>
+					</div>
+					<div class="col-md-4">
+						<a href="#resources_internal">Minutes and Constitution</a>
+					</div>
 				</nav>
 
 			<!-- RULES AND GUIDANCE -->
@@ -47,13 +54,32 @@ lastUpdated="16th Dec 2023"
 			</section>
 			<!-- END RULES AND GUIDANCE -->
 			
+			<!-- NEWSLETTER ARCHIVE -->
+			<section class="border border-3 p-2 p-md-4" id="resources_newsletters">
+				<h3 class="text-center">NEWSLETTER ARCHIVE</h3>
+				
+
+					<table class="table caption-top mx-auto border border-4 sviwg-annual-walks-table" id="annual_tue_walks">
+						<caption class="text-center">2024</caption>
+						<tbody class="table-light">
+							<tr class="text-center">
+								<td><a href="docs/newsletters/SVIWG Newsletter April 2024.rtf" target="_blank">APR</a></td>
+								<td><a href="docs/newsletters/SVIWG Newsletter March 2024.rtf" target="_blank">MAR</a></td>
+								<td><a href="docs/newsletters/SVIWG Newsletter February 2024.rtf" target="_blank">FEB</a></td>
+								<td><a href="docs/newsletters/SVIWG Newsletter January 2024.pdf" target="_blank">JAN</a></td>
+							</tr>
+						</tbody>
+					</table>
+
+				</section>
+
 			<!-- AGM MINUTES AND CONSTITUTION -->
 			<section class="border border-3 p-2 p-md-4" id="resources_internal">
 				<h3 class="text-center">AGM MINUTES AND CONSTITUTION</h3>
 				
 				<div class="d-flex flex-column gap-4">
 					<table class="table caption-top mx-auto border border-4 sviwg-annual-walks-table" id="annual_tue_walks">
-						<caption class="fs-3">MINUTES</caption>
+						<caption class="fs-5 text-center">MINUTES</caption>
 						<tbody class="table-light">
 							<tr class="text-center">
 								<td><a href="docs/internal/2022 AGM SVIWG Minutes.pdf" target="_blank">2022</a></td>

@@ -56,7 +56,7 @@ lastUpdated="26th Feb 2024"
 				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 20h18L14.079 5.388a2.3 2.3 0 0 0-4.158 0z"/><path d="m7.5 11l2 2.5L12 11l2 3l2.5-2"/></g></svg>
 					<span class="align-middle">
 						<b>TOUGH CHALLENGES</b> - In recent years small groups of VIP's and guides have raised money doing things like
-						climbing Kinder	Scout, Ben Nevis and Scafell Pike and walking across Morecambe Bay (see photographs below).
+						climbing Kinder Scout, Ben Nevis and Scafell Pike and walking across Morecambe Bay (see photographs below).
 					</span>
 				</p>
 
@@ -84,7 +84,7 @@ lastUpdated="26th Feb 2024"
 					or send an email to <a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>.
 				</p>
 				<p>
-					Any donations will be gratefully received. Please forward to our Treasurer: <b>Mr S. Wainright c/o SRSB, 5 Mapin Street, Sheffield S1 4DT.</b>
+					Any donations will be gratefully received. Please forward to our Treasurer: <b>Mr S. Wainright c/o SRSB, 5 Mappin Street, Sheffield S1 4DT.</b>
 				</p>
 			</section>
 

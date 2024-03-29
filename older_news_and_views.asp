@@ -106,7 +106,7 @@ lastUpdated="28th Mar 2024"
 									Plans for 2024 are already in progress, and we are hoping to branch out again as we did in 2023. This means journeys
 									will be longer than others but we feel it will be worthwhile.
 								</p>
-								<p>	
+								<p>
 									Thank you again
 								</p>
 							</div>
@@ -158,9 +158,9 @@ lastUpdated="28th Mar 2024"
 								<p>
 									To Phil, our skilful Coach driver and friend, thank you for looking after us all so well, and getting us safely back each day.
 									I'm looking forward to finding out what Margaret Patrick is planning for us next year in Northumberland.
-									Thank	you all for your support over the last 12 years of my arranging the groups walking holiday. My records show that the
+									Thank you all for your support over the last 12 years of my arranging the groups walking holiday. My records show that the
 									first time we met and were led by Margaret Norwood was on Tuesday 6th September in 2011.
-									She led us on a 7 mile circular	walk, from our Hotel in Betws-y-Coed.
+									She led us on a 7 mile circular walk, from our Hotel in Betws-y-Coed.
 								</p>
 							</div>
 							<div class="card-footer">
@@ -176,7 +176,7 @@ lastUpdated="28th Mar 2024"
 							</div>
 							<div class="card-body">
 								Congratulations to Robert Nolan who is now on the board of Trustees at SRSB.<br>
-								It is always good to have someone who	represents the charities to which they serve
+								It is always good to have someone who represents the charities to which they serve
 								and with Robert's dual sensory impairment he will be a good ambassador.
 							</div>
 						</div>

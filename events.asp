@@ -383,7 +383,7 @@ lastUpdated="28th Mar 2024"
 							<div class="card-footer">
 								Please contact Eileen if going on this trip.<br>
 								Cost £10 payable in advance of booking.<br>
-								(<a href="tel:07952 241775">07952 241775</a> or <a href="tel: 0114 2814414"> 0114 2814414</a>)
+								(<a href="tel:07952 241775">07952 241775</a> or <a href="tel:0114 2814414">0114 2814414</a>)
 							</div>
 						</div>
 					</article>

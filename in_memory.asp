@@ -90,7 +90,7 @@ lastUpdated="16th Dec 2023"
 							</p>
 							<p>
 								I was told that he went out the evening before to mark where the tide would come in the next day, as this changed
-								every	day. What fantastic knowledge to have, and to be so in touch with nature. I do hope Cedric has passed his
+								every day. What fantastic knowledge to have, and to be so in touch with nature. I do hope Cedric has passed his
 								knowledge on to another, so many more folks can continue to enjoy taking on this challenge.
 							</p>
 						</div>

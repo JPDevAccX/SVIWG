@@ -69,7 +69,7 @@ lastUpdated="28th Mar 2024"
 									This is also open to any guides who have received training in the past but would like a refresher.
 								</p>
 								<p>
-									This is a great opportunity as Alison Anthony who works as a Re-hab officer	at Howden House is extremely qualified to give this training.
+									This is a great opportunity as Alison Anthony who works as a Re-hab officer at Howden House is extremely qualified to give this training.
 									Please put your name down with Sue - it would be good to see our new guides there.<br>
 									Email: <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>
 								</p>

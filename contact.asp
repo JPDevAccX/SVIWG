@@ -95,7 +95,7 @@ lastUpdated="23rd Feb 2024"
 				<section class="border p-5 d-flex flex-column gap-2">
 					Any donations will be gratefully received.
 					If you wish to make a donation, please forward to our Treasurer:
-					<b>Mr S. Wainright c/o SRSB, 5 Mapin Street, Sheffield S1 4DT</b>
+					<b>Mr S. Wainright c/o SRSB, 5 Mappin Street, Sheffield S1 4DT</b>
 				</section>
 		
 		</main>

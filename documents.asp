@@ -1,6 +1,6 @@
 <%
 title="Documents"
-lastUpdated="29th Mar 2024"
+lastUpdated="1st May 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -59,10 +59,11 @@ lastUpdated="29th Mar 2024"
 				<h3 class="text-center">NEWSLETTER ARCHIVE</h3>
 				
 
-					<table class="table caption-top mx-auto border border-4 sviwg-annual-walks-table" id="annual_tue_walks">
+					<table class="table caption-top mx-auto border border-4">
 						<caption class="text-center">2024</caption>
 						<tbody class="table-light">
 							<tr class="text-center">
+								<td><a href="docs/newsletters/SVIWG Newsletter May 2024.rtf" target="_blank">MAY</a></td>
 								<td><a href="docs/newsletters/SVIWG Newsletter April 2024.rtf" target="_blank">APR</a></td>
 								<td><a href="docs/newsletters/SVIWG Newsletter March 2024.rtf" target="_blank">MAR</a></td>
 								<td><a href="docs/newsletters/SVIWG Newsletter February 2024.rtf" target="_blank">FEB</a></td>
@@ -78,7 +79,7 @@ lastUpdated="29th Mar 2024"
 				<h3 class="text-center">AGM MINUTES AND CONSTITUTION</h3>
 				
 				<div class="d-flex flex-column gap-4">
-					<table class="table caption-top mx-auto border border-4 sviwg-annual-walks-table" id="annual_tue_walks">
+					<table class="table caption-top mx-auto border border-4">
 						<caption class="fs-5 text-center">MINUTES</caption>
 						<tbody class="table-light">
 							<tr class="text-center">

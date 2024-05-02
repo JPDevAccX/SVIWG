@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="28th Mar 2024"
+lastUpdated="1st May 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -19,7 +19,7 @@ lastUpdated="28th Mar 2024"
 						</h2>
 						<span class="sviwg-large-font">
 							<b>GROUP PHOTOGRAPHS AND NEWS ITEMS WANTED!</b><br>
-							Please send any photos or news items to us and we will put them on our website - <a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>.<br>
+							Please send any photos to us and we will put them on the website - <a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>.<br>
 							Please send articles for Newsletter to Gail Fagan
 							(tel: <a href="tel:0114 2667764">0114 2667764</a> / email:
 							<a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>)
@@ -36,24 +36,39 @@ lastUpdated="28th Mar 2024"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">FROM DAVID AND PAUL</h3>
+								<h3 class="card-title fs-5">SIZE 6 LADIES NORTH FACE WALKING SHOES</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									David and Paul would like to thank all those members who came on the Tuesday walk on the 5th March.
-									It was a fantastic turnout, there were 19 in total which is one of the highest we have had.
-								</p>
-								<p>
-									There were eight VI's so we had enough guides.
-									It was especially nice to see Mary and Ken.
-								</p>
-								<p>
-									It was a nice day, the weather was kind, and although we had to change the walk due to the heavy rain we had just a few days before,
-									it was a first Tuesday walk around Graves Park, Summerhouse and Cobnar Woods.
+									Ann Batty has a pair of good condition size 6 ladies North Face walking shoes.<br>
+									If anyone would like these please contact Ann on <a href="tel:07989 053534">07989 053534</a>
 								</p>
 							</div>
-							<div class="card-footer">
-								Thank you everyone from David and Paul.
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">CATHOLIC CHURCH JUBILEE 2025</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									<i>
+										Below is part of a message from a potential new guide who has asked for our help.<br>
+										Please send any comments or suggestions to Sue, who will forward them on.
+									</i>
+								</p>
+								<hr>
+								<p>
+									The Catholic Church is preparing for Jubilee 2025 with the theme of Pilgrims of Hope and here in Hallam
+									we are keen that everyone should have the opportunity to take part in local pilgrimages being planned.<br>
+									Please can you suggest what people with visual impairments would need to know in order to decide whether to take part?
+								</p>
+								<p>
+									This planning is at a very early stage so all ideas welcome. One pilgrimage site might be Padley Chapel at Grindleford.<br>
+									Do you think this is something some group members might be interested in?
+								</p>
 							</div>
 						</div>
 					</article>
@@ -65,13 +80,32 @@ lastUpdated="28th Mar 2024"
 							</div>
 							<div class="card-body">
 								<p>
-									We are holding a training session, date not known yet, for any new guides wishing to come along.
-									This is also open to any guides who have received training in the past but would like a refresher.
+									Apologies to all members who have put their names down to receive VI Training.
 								</p>
 								<p>
-									This is a great opportunity as Alison Anthony who works as a Re-hab officer at Howden House is extremely qualified to give this training.
-									Please put your name down with Sue - it would be good to see our new guides there.<br>
-									Email: <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>
+									At present we have 6 names but would like a few more to allow for holidays and to make it worthwhile for Alison Anthony to teach.
+								</p>
+								<p>
+									As soon as we have enough names we will arrange, so if you would like training or extra training please contact Sue Hill.<br>
+									(Email: <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a> or Mobile: <a href="07970 311329">07970 311329</a>)
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">CONGRATULATIONS TO ROBERT NOLAN AND TIM</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Congratulations to Robert Nolan and sighted guide Tim who completed the London Marathon time 4 hours 35 minutes.<br>
+									Robert has run the Marathon some years ago when he had more eyesight, this time attached to Tim a brilliant achievement.
+								</p>
+								<p>
+									Robert is Chair of Deaf Blind UK and all funds raised go to this charity.<br>
+									If anyone wants to sponsor him, please check out his <a href="https://www.justgiving.com/page/robert-nolan-1709034350378">JustGiving Page.</a>
 								</p>
 							</div>
 						</div>

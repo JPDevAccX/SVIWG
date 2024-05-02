@@ -129,7 +129,7 @@ lastUpdated="16th Dec 2023"
 								<tr><td>28th Apr</td>
 								<td class="text-end">Judy Gathercole</td></tr>
 								<tr><td>26th May</td>
-								<td class="text-end">Matt Guilty</td></tr>
+								<td class="text-end">Matt Gulty</td></tr>
 								<tr><td>23rd Jun</td>
 								<td class="text-end">Mike Burgin</td></tr>
 								<tr><td>28th Jul</td>

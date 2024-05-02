@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="28th Mar 2024"
+lastUpdated="1st May 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -26,6 +26,50 @@ lastUpdated="28th Mar 2024"
 
 				<div class="d-flex flex-column gap-5">
 				
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">FROM DAVID AND PAUL</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									David and Paul would like to thank all those members who came on the Tuesday walk on the 5th March.
+									It was a fantastic turnout, there were 19 in total which is one of the highest we have had.
+								</p>
+								<p>
+									There were eight VI's so we had enough guides.
+									It was especially nice to see Mary and Ken.
+								</p>
+								<p>
+									It was a nice day, the weather was kind, and although we had to change the walk due to the heavy rain we had just a few days before,
+									it was a first Tuesday walk around Graves Park, Summerhouse and Cobnar Woods.
+								</p>
+							</div>
+							<div class="card-footer">
+								Thank you everyone from David and Paul.
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">SIGHTED GUIDE TRAINING</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									We are holding a training session, date not known yet, for any new guides wishing to come along.
+									This is also open to any guides who have received training in the past but would like a refresher.
+								</p>
+								<p>
+									This is a great opportunity as Alison Anthony who works as a Re-hab officer at Howden House is extremely qualified to give this training.
+									Please put your name down with Sue - it would be good to see our new guides there.<br>
+									Email: <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>
+								</p>
+							</div>
+						</div>
+					</article>
+
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">

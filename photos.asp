@@ -1,6 +1,6 @@
 <%
 title="Photos"
-lastUpdated="29th Jan 2023"
+lastUpdated="8th May 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -15,10 +15,44 @@ lastUpdated="29th Jan 2023"
 			</section>
 
 			<nav aria-label="Years" class="d-flex justify-content-evenly">
+				<a href="#photos_2024">2024</a>
 				<a href="#photos_2023">2023</a>
 				<a href="#photos_2022">2022</a>
 				<a href="#photos_2021">2021</a>
+				
 			</nav>
+
+			<!-- 2024 -->
+			<section class="border border-3 p-2 p-md-4" id="photos_2024">
+				<h3 class="text-center">~ 2024 ~</h3>
+				<div class="d-flex flex-column gap-4">
+				
+					<!-- MISCELLANEOUS 1 -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">A SELECTION OF EVENTS</h4>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Fox House Inn to Hathersage 1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">A walk from Fox House Inn to Hathersage in May.</figcaption>
+								</figure>
+							</div>
+
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Fox House Inn to Hathersage 2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">Fox House Inn to Hathersage - Low flying plane!</figcaption>
+								</figure>
+							</div>
+						</div>
+
+					</section>
+					<!-- END MISECELLANEOUS 1 -->
+
+				</div>
+			</section>
+			<!-- END 2024 -->
 
 			<!-- 2023 -->
 			<section class="border border-3 p-2 p-md-4" id="photos_2023">
@@ -98,7 +132,7 @@ lastUpdated="29th Jan 2023"
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center ">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
 									<img src="images/photo_gallery/2023/Nelsons Monument 2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">NELSONS MONUMENT 2</figcaption>
@@ -238,7 +272,7 @@ lastUpdated="29th Jan 2023"
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
 									<img src="images/photo_gallery/2021/Hol Kendal 2021 Group.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
-									<figcaption class="figure-caption">Our Kendal holdiay - on one of our lovely walks. Dave's messing around as usual!</figcaption>
+									<figcaption class="figure-caption">Our Kendal holiday - on one of our lovely walks. Dave's messing around as usual!</figcaption>
 								</figure>
 							</div>
 						</div>

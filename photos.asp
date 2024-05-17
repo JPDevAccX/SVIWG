@@ -1,6 +1,6 @@
 <%
 title="Photos"
-lastUpdated="8th May 2024"
+lastUpdated="16th May 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -19,6 +19,7 @@ lastUpdated="8th May 2024"
 				<a href="#photos_2023">2023</a>
 				<a href="#photos_2022">2022</a>
 				<a href="#photos_2021">2021</a>
+				<a href="photos_other.asp">Other Photos</a>
 				
 			</nav>
 
@@ -291,6 +292,10 @@ lastUpdated="8th May 2024"
 				</div>
 			</section>
 			<!-- END 2002 -->
+
+			<section class="text-center fs-2">
+				<a href="photos_other.asp">Other Photos</a>
+			</section>
 
 		</main>
 

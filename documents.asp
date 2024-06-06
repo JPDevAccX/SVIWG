@@ -1,6 +1,6 @@
 <%
 title="Documents"
-lastUpdated="1st May 2024"
+lastUpdated="5th Jun 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -63,6 +63,7 @@ lastUpdated="1st May 2024"
 						<caption class="text-center">2024</caption>
 						<tbody class="table-light">
 							<tr class="text-center">
+								<td><a href="docs/newsletters/SVIWG Newsletter June 2024.rtf" target="_blank">JUN</a></td>
 								<td><a href="docs/newsletters/SVIWG Newsletter May 2024.rtf" target="_blank">MAY</a></td>
 								<td><a href="docs/newsletters/SVIWG Newsletter April 2024.rtf" target="_blank">APR</a></td>
 								<td><a href="docs/newsletters/SVIWG Newsletter March 2024.rtf" target="_blank">MAR</a></td>
@@ -83,23 +84,26 @@ lastUpdated="1st May 2024"
 						<caption class="fs-5 text-center">MINUTES</caption>
 						<tbody class="table-light">
 							<tr class="text-center">
+								<td><a href="docs/internal/2023 AGM SVIWG Minutes.pdf" target="_blank">2023</a></td>
 								<td><a href="docs/internal/2022 AGM SVIWG Minutes.pdf" target="_blank">2022</a></td>
 								<td><a href="docs/internal/2021 AGM SVIWG Minutes.pdf" target="_blank">2021</a></td>
-								<td class="sviwg-not-present">2020</td>
 							</tr>
 							<tr class="text-center">
+								<td class="sviwg-not-present">2020</td>
 								<td><a href="docs/internal/2019 AGM SVIWG Minutes.pdf" target="_blank">2019</a></td>
 								<td><a href="docs/internal/2018 AGM SVIWG Minutes.pdf" target="_blank">2018</a></td>
-								<td><a href="docs/internal/2017 AGM SVIWG Minutes.pdf" target="_blank">2017</a></td>
 							</tr>
 							<tr class="text-center">
+								<td><a href="docs/internal/2017 AGM SVIWG Minutes.pdf" target="_blank">2017</a></td>
 								<td><a href="docs/internal/2016 AGM SVIWG Minutes.pdf" target="_blank">2016</a></td>
 								<td><a href="docs/internal/2015 AGM SVIWG Minutes.pdf" target="_blank">2015</a></td>
-								<td><a href="docs/internal/2014 AGM SVIWG Minutes.pdf" target="_blank">2014</a></td>
 							</tr>
 							<tr class="text-center">
+								<td><a href="docs/internal/2014 AGM SVIWG Minutes.pdf" target="_blank">2014</a></td>
 								<td><a href="docs/internal/2013 AGM SVIWG Minutes.pdf" target="_blank">2013</a></td>
 								<td><a href="docs/internal/2012 AGM SVIWG Minutes.pdf" target="_blank">2012</a></td>
+							</tr>
+							<tr class="text-center">
 								<td><a href="docs/internal/2011 AGM SVIWG Minutes.pdf" target="_blank">2011</a></td>
 							</tr>
 						</tbody>

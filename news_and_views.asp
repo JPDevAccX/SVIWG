@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="1st May 2024"
+lastUpdated="5th June 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -33,15 +33,37 @@ lastUpdated="1st May 2024"
 
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex">
+					<article id="sviwg_committee_post" class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">SIZE 6 LADIES NORTH FACE WALKING SHOES</h3>
+								<h3 class="card-title fs-5">SVIWG COMMITTEE</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									Ann Batty has a pair of good condition size 6 ladies North Face walking shoes.<br>
-									If anyone would like these please contact Ann on <a href="tel:07989 053534">07989 053534</a>
+									<b>Current members:</b><br>
+									<ul>
+										<li>Sue Hill - Chair</li>
+										<li>Martin Wing - Vice Chair</li>
+										<li>Pauline Bullivant - Secretary</li>
+										<li>Stan Wainwright - Treasurer</li>
+										<li>Gail Fagan - Newsletter</li>
+										<li>Eileen Ingham - Walk Coordinator</li>
+										<li>Margaret Patrick - Social Secretary, co-opted member</li>
+										<li>Christine Hewitt, Hilary Myers, Judith Morton - co-opted members</li>
+									</ul>
+								</p>
+								<p>
+									<b>Election of Officers:</b><br>
+									<p>
+										All members are willing to stand again with the exception of Chris Hewitt who has stepped down from the Committee.
+									</p>
+									<p>
+										Chris has been a long standing member of the group and an excellent Chair, also Membership secretary.<br>
+										On behalf of the group we Thank You Chris for your hard work and look forward to meeting on social occasions and walks.
+									</p>
+									<p>
+										Anyone in the group who would like to take on any role or indeed join the Committee please let Sue know or anyone on the Committee.
+									</p>
 								</p>
 							</div>
 						</div>
@@ -50,24 +72,15 @@ lastUpdated="1st May 2024"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">CATHOLIC CHURCH JUBILEE 2025</h3>
+								<h3 class="card-title fs-5">HOW TO DESCRIBE A CANAL TOW PATH TO SOMEONE WHO CANNOT SEE</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									<i>
-										Below is part of a message from a potential new guide who has asked for our help.<br>
-										Please send any comments or suggestions to Sue, who will forward them on.
-									</i>
-								</p>
-								<hr>
-								<p>
-									The Catholic Church is preparing for Jubilee 2025 with the theme of Pilgrims of Hope and here in Hallam
-									we are keen that everyone should have the opportunity to take part in local pilgrimages being planned.<br>
-									Please can you suggest what people with visual impairments would need to know in order to decide whether to take part?
-								</p>
-								<p>
-									This planning is at a very early stage so all ideas welcome. One pilgrimage site might be Padley Chapel at Grindleford.<br>
-									Do you think this is something some group members might be interested in?
+									Adrian Childs
+									<a href="https://www.theguardian.com/commentisfree/2024/may/01/how-do-you-describe-the-view-to-someone-who-cant-see-i-couldnt-even-do-justice-to-a-canal-towpath">
+										writes in the Guardian
+									</a>
+									as he led his friend on a walk.
 								</p>
 							</div>
 						</div>
@@ -76,19 +89,19 @@ lastUpdated="1st May 2024"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">SIGHTED GUIDE TRAINING</h3>
+								<h3 class="card-title fs-5">SIGHTED GUIDE TRAINING (UPDATED)</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									Apologies to all members who have put their names down to receive VI Training.
+									We have now set a date of Thursday 3rd October 2024, 10am to approx 1pm.<br>
+									This allows for members who have put their names down for any holidays they may have.
 								</p>
 								<p>
-									At present we have 6 names but would like a few more to allow for holidays and to make it worthwhile for Alison Anthony to teach.
+									Sue will be contacting all to confirm they can still come to the meeting. I hope this date suits most of you.
 								</p>
-								<p>
-									As soon as we have enough names we will arrange, so if you would like training or extra training please contact Sue Hill.<br>
-									(Email: <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a> or Mobile: <a href="07970 311329">07970 311329</a>)
-								</p>
+							</div>
+							<div class="card-footer">
+								With thanks, Gail.
 							</div>
 						</div>
 					</article>
@@ -96,16 +109,17 @@ lastUpdated="1st May 2024"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">CONGRATULATIONS TO ROBERT NOLAN AND TIM</h3>
+								<h3 class="card-title fs-5">NIGEL'S THANKS</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									Congratulations to Robert Nolan and sighted guide Tim who completed the London Marathon time 4 hours 35 minutes.<br>
-									Robert has run the Marathon some years ago when he had more eyesight, this time attached to Tim a brilliant achievement.
+									Nigel would like to thank all your good wishes during this stressful time of leaving his home at Nether Edge for several years.
 								</p>
 								<p>
-									Robert is Chair of Deaf Blind UK and all funds raised go to this charity.<br>
-									If anyone wants to sponsor him, please check out his <a href="https://www.justgiving.com/page/robert-nolan-1709034350378">JustGiving Page.</a>
+									Nigel has moved to a flat at Gleadless Townend, near to amenities and public transport.
+								</p>
+								<p>
+									We wish him lots of happy years there and look forward to seeing him on walks and social occasions when he has sorted himself out.
 								</p>
 							</div>
 						</div>

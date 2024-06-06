@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="1st May 2024"
+lastUpdated="5th June 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -26,6 +26,84 @@ lastUpdated="1st May 2024"
 
 				<div class="d-flex flex-column gap-5">
 				
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">SIZE 6 LADIES NORTH FACE WALKING SHOES</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Ann Batty has a pair of good condition size 6 ladies North Face walking shoes.<br>
+									If anyone would like these please contact Ann on <a href="tel:07989 053534">07989 053534</a>
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">CATHOLIC CHURCH JUBILEE 2025</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									<i>
+										Below is part of a message from a potential new guide who has asked for our help.<br>
+										Please send any comments or suggestions to Sue, who will forward them on.
+									</i>
+								</p>
+								<hr>
+								<p>
+									The Catholic Church is preparing for Jubilee 2025 with the theme of Pilgrims of Hope and here in Hallam
+									we are keen that everyone should have the opportunity to take part in local pilgrimages being planned.<br>
+									Please can you suggest what people with visual impairments would need to know in order to decide whether to take part?
+								</p>
+								<p>
+									This planning is at a very early stage so all ideas welcome. One pilgrimage site might be Padley Chapel at Grindleford.<br>
+									Do you think this is something some group members might be interested in?
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">SIGHTED GUIDE TRAINING</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Apologies to all members who have put their names down to receive VI Training.
+								</p>
+								<p>
+									At present we have 6 names but would like a few more to allow for holidays and to make it worthwhile for Alison Anthony to teach.
+								</p>
+								<p>
+									As soon as we have enough names we will arrange, so if you would like training or extra training please contact Sue Hill.<br>
+									(Email: <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a> or Mobile: <a href="07970 311329">07970 311329</a>)
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">CONGRATULATIONS TO ROBERT NOLAN AND TIM</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Congratulations to Robert Nolan and sighted guide Tim who completed the London Marathon time 4 hours 35 minutes.<br>
+									Robert has run the Marathon some years ago when he had more eyesight, this time attached to Tim a brilliant achievement.
+								</p>
+								<p>
+									Robert is Chair of Deaf Blind UK and all funds raised go to this charity.<br>
+									If anyone wants to sponsor him, please check out his <a href="https://www.justgiving.com/page/robert-nolan-1709034350378">JustGiving Page.</a>
+								</p>
+							</div>
+						</div>
+					</article>
+
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">

@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="5th June 2024"
+lastUpdated="26th June 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -26,6 +26,25 @@ lastUpdated="5th June 2024"
 
 				<div class="d-flex flex-column gap-5">
 				
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">NIGEL'S THANKS</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Nigel would like to thank all your good wishes during this stressful time of leaving his home at Nether Edge for several years.
+								</p>
+								<p>
+									Nigel has moved to a flat at Gleadless Townend, near to amenities and public transport.
+								</p>
+								<p>
+									We wish him lots of happy years there and look forward to seeing him on walks and social occasions when he has sorted himself out.
+								</p>
+							</div>
+						</div>
+					</article>
+
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">

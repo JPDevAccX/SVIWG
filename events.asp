@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="5th June 2024"
+lastUpdated="26th June 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -71,29 +71,29 @@ lastUpdated="5th June 2024"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 12th JUN</td>
-								<td class="text-center"><a href="#event-1206">COACH RAMBLE TO FLAMBOROUGH</a></td>
+								<td>WED 10th JUL</td>
+								<td class="text-center"><a href="#event-1007">AGDEN RESERVOIR TO BRADFIELD CRICKET PITCH FOR LUNCH</a></td>
+								<td class="text-end">FRI 5th JUL</td>
+							</tr>
+							<tr>
+								<td>SAT 13th JUL</td>
+								<td class="text-center"><a href="#event-1307">GARDEN VISIT</a></td>
 								<td class="text-end">N/A</td>
 							</tr>
 							<tr>
-								<td>THU 20th JUN</td>
-								<td class="text-center"><a href="#event-2006">SOUTH REDMIRES RESERVOIRS, BROWN EDGE, NORTH RESERVOIRS</a></td>
-								<td class="text-end">FRI 14th JUN</td>
+								<td>THU 25th JUL</td>
+								<td class="text-center"><a href="#event-2507">QUEEN'S HEAD POND HILL - ROUTE TO BE DECIDED ON THE DAY</a></td>
+								<td class="text-end">FRI 19th JUL</td>
 							</tr>
 							<tr>
-								<td>SUN 23rd JUN</td>
-								<td class="text-center"><a href="#event-2306">FOX HOUSE, TOAD'S MOUTH, CALLOW, CATTISIDE MOOR, HATHERSAGE</a></td>
-								<td class="text-end">WED 19th JUN</td>
+								<td>SUN 28th JUL</td>
+								<td class="text-center"><a href="#event-2807">ROTHERHAM TO SHEFFIELD VICTORIA QUAYS AND CITY CENTRE FOLLOWING CANAL</a></td>
+								<td class="text-end">WED 24th JUL</td>
 							</tr>
 							<tr>
-								<td>WED 26th JUN</td>
-								<td class="text-center"><a href="#event-2606">AGM</a></td>
-								<td class="text-end">N/A</td>
-							</tr>
-							<tr>
-								<td>TUE 2nd JUL</td>
-								<td class="text-center"><a href="#event-0207">CIRCULAR WALK AROUND CALVER AND THE RIVER DERWENT</a></td>
-								<td class="text-end">FRI 29th JUN</td>
+								<td>TUE 6th AUG</td>
+								<td class="text-center"><a href="#event-0608">TONGUE GUTTER, TRANS-PENNINE-TRAIL FROM SHIREGREEN TO ECCLESFIELD</a></td>
+								<td class="text-end">FRI 26th JUL</td>
 							</tr>
 							<tr>
 								<td>MON 9th SEP</td>
@@ -143,122 +143,41 @@ lastUpdated="5th June 2024"
 
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex" id="event-1206">
+					<article class="d-flex" id="event-1007">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2024-06-12 08:45">WEDNESDAY 12th JUNE</time> - COACH RAMBLE TO FLAMBOROUGH (TIME AMENDED)
+									<time datetime="2024-07-10 09:00">WEDNESDAY 10th JULY</time> - AGDEN RESERVOIR TO BRADFIELD CRICKET PITCH FOR LUNCH
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Penny Black PH Pond Hill 8.45 coach leaving 9.00. Time departing Bridlington 6pm.
+									Poundland High Street 9.00 to catch 9.16 blue route tram to Hillsborough Interchange,
+									then to catch the 9.55 no 61 bus to Bradfield bus turn around walk starts 10.25.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Parking at Flamborough Head Lighthouse taking the coastal path to Bridlington.<br>
-									After two and a half miles you go down 70 steps with handrails towards the
-									Flamborough lifeboat station (south landing) where we could stop for a coffee.<br>
-									Another mile you come across a 2nd world war bunker with nice views towards Danes dyke.<br>
-									Sewerby cricket ground and Sewerby hall, Limekiln Lane coach park.
+									Agden reservoir to cricket pitch at Bradfield for lunch, option to leave the walk, after to walk around Dam Flask.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									5 to 6 miles.
+									Approx 6 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Coastal paths with some steps, and woodland areas.
+									Mainly good paths with some tree roots.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Matt Gulty (<a href="tel:07738 005412">07738 005412</a>) any walk enquiries.
+									Norman Pearson (<a href="tel:07803 437931">07803 437931</a> any walk enquiries).
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Eileen if going on this trip.<br>
-								Cost £10 payable in advance of booking.<br>
-								(<a href="tel:07952 241775">07952 241775</a> or <a href="tel:0114 2814414">0114 2814414</a>)
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2006">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2024-06-20 09:15">THURSDAY 20th JUNE</time> - SOUTH REDMIRES RESERVOIRS, BROWN EDGE, NORTH RESERVOIRS
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.15 to catch the 9.30 no 51 bus Church Street (opposite Cathedral) to Lodge Moor Terminus walk starting 10.15.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Paths to and along South side Redmires reservoirs,
-									short climb up past disused quarries then down hill on Brown Edge,
-									level path to source of Rivelin Brook,
-									take path along route of conduit then Lane and paths on North side of Reservoirs then back to bus terminus.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Approx 8 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Lanes and mix of various paths with reasonable surfaces.<br>
-									Some uneven sections of grassy rutted paths, one stile, one steady short climb and descent.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David Guile (<a href="tel:07553 944116">07553 944116</a>) any walk enquiries.
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin by Friday 14th June for him to make sure enough guides also to meet group at the start of the walk.
+								Parking is available at the back of the cricket pitch near the children's playground.
 								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a> 
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2306">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2024-06-23 09:30">SUNDAY 23rd JUNE</time> - FOX HOUSE, TOAD'S MOUTH, CALLOW, CATTISIDE MOOR, HATHERSAGE
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield interchange (main foyer) 9.30 to catch the 9.51 no 272 bus to Fox House where walk starts 10.25.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Linear walk.<br>
-									Toad's Mouth, Winyards Nick, Callow (break off point to Hathersage), Carrhead Rocks, Cattiside Moor, North Lees, Hathersage.<br>
-									Return bus at 15.45.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									6 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Some ups, downs, roads, paths and mixed terrain.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Mike Burgin who will join the group at Fox House, (<a href="tel:07879 228600">07879 228600</a>) any walk enquiries.
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin by Wednesday 19th June if joining this walk.
+								Please contact Martin if joining this walk by Friday 5th July to make sure we have enough guides
+								and also to let him know where you will meet the group.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -266,21 +185,123 @@ lastUpdated="5th June 2024"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-0207">
+					<article class="d-flex" id="event-1307">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2024-07-02 09:10">TUESDAY 2nd JULY</time> - CIRCULAR WALK AROUND CALVER AND THE RIVER DERWENT
+									<time datetime="2024-07-13 13:10">SATURDAY 13th JULY</time> - GARDEN VISIT
+								</h3>
+							</div>
+							<div class="card-body">
+								Members travelling by bus meet Poundland High Street 13.10 to catch the 13.25 no 81 bus on Arundel Gate.
+							</div>
+							<div class="card-footer">
+								Please contact Sue to make sure we have enough guides.<br>
+								It would also be helpful if those travelling by car could also let Sue know for numbers.
+								<br>
+								<a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a><br>
+								<a href="tel:07970 311329">07970 311329</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2507">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-07-25 09:15">THURSDAY 25th JULY</time> - QUEEN'S HEAD POND HILL - ROUTE TO BE DECIDED ON THE DAY
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Interchange (main foyer) 9.10 to catch the 9.35 no 65 bus to Calver Crossroads - Circular walk starts 10.15.
+									Queen's Head Pond Hill 9.15 to travel by mini bus leaving 9.30 to Fairhomes. Arrives 10am to start the walk.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Easy walking on good paths around Calver and the river Derwent.
+									To be decided on the day due to weather conditions.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Approx 7 to 8 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Moderate walking, some steep ascents and descents.<br>
+									It is essential to wear good walking boots on this walk.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please let Martin know if joining this walk by Friday 19th July to make sure we have enough guides
+								and also where you are meeting so we know who will be at the start to meet VI's at the Queen's Head.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2807">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-07-28 09:40">SUNDAY 28th JULY</time> - ROTHERHAM TO SHEFFIELD VICTORIA QUAYS AND CITY CENTRE FOLLOWING CANAL
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.40 to catch the 10.05 tram at Sheffield Cathedral to Rotherham Central Station where walk will start 10.30 from the station.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									We follow the Sheffield and Tinsley Canal from Rotherham to Sheffield Victoria Quays and into Sheffield City Centre.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									7 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good, mainly level paths.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Steve and Chris (<a href="tel:07960 119903">07960 119903</a> any walk enquiries) 
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin if joining this walk by Wednesday 24th.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0608">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-08-06 09:50">TUESDAY 6th AUGUST</time> - TONGUE GUTTER, TRANS-PENNINE-TRAIL FROM SHIREGREEN TO ECCLESFIELD
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.50 to catch the 10.16 no 8 bus to Chaucer School Parson Cross where walk starts 10.40.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Linear walk.
+									Easy Walking on good paths through Tongue Gutter, Crossing Barnsley Rd,
+									then taking the Trans-Pennine-Trail through open spaces through Shiregreen to Ecclesfield.<br>
+									Walk will finish In Ecclesfield and for those who want to there is a nice chip shop that sells hot
+									roast pork sandwiches and if you buy a sandwich, you get the chips for free.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
@@ -288,7 +309,7 @@ lastUpdated="5th June 2024"
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									No stiles, easy walking.
+									Easy walking on good paths - there are no stiles or ascents.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
@@ -298,28 +319,11 @@ lastUpdated="5th June 2024"
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin by Friday 29th June if joining this walk
-								letting him know where you will be meeting the group to make sure enough guides at the start of the walk.
+								Please contact Martin if joining this walk letting him know where you will be meeting
+								to make sure enough guides at the start of the walk by Friday 26th July.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2606">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2024-06-26 18:00">WEDNESDAY 26th JUNE</time> - AGM (UPDATED)
-								</h3>
-							</div>
-							<div class="card-body">
-								To be held at SRSB Mappin Street 6pm.
-							</div>
-							<div class="card-footer">
-								Cost £7 payable on the door (please make sure you have the correct change).<br>
-								The <a href="news_and_views.asp#sviwg_committee_post">Committee details</a> are also available on the news page.
 							</div>
 						</div>
 					</article>

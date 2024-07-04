@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="5th June 2024"
+lastUpdated="26th June 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -32,6 +32,47 @@ lastUpdated="5th June 2024"
 				<h2 class="text-center">POSTS</h2>
 
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">FIONA AND KEIRIAN - ITEMS FOR DONATION</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Fiona and Keirian have the following items they wish to donate which were from Keirian's Grandmother;-
+								</p>
+								<ul>
+									<li>
+										VictorReader Stratus, Daisy CD digital talking book e-reader including a few book CDs
+										(If registered as visually impaired can get sent more CDs by RNIB on a regular basis)
+									</li>
+									<li>Talking clocks x2 (both small square clocks)</li>
+									<li>Liquid level indicator for a mug</li>
+									<li>Various hand-held magnifying glasses including 3 light-up magnifiers</li>
+									<li>BBumperStops tactile dots</li>
+									<li>Couple of pairs of sunglasses (quite small size)</li>
+								</ul>
+							</div>
+							<div class="card-footer">
+								If interested please contact Fiona on <a href="tel:07884 030297">07884 030297</a>.
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">SUE'S BIRTHDAY THANKS</h3>
+							</div>
+							<div class="card-body">
+								To all those who came on the Coach ramble thank you for singing on my birthday. It was a lovely surprise and made my day.
+							</div>
+							<div class="card-footer">
+								- Sue
+							</div>
+						</div>
+					</article>
 
 					<article id="sviwg_committee_post" class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
@@ -102,25 +143,6 @@ lastUpdated="5th June 2024"
 							</div>
 							<div class="card-footer">
 								With thanks, Gail.
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">NIGEL'S THANKS</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									Nigel would like to thank all your good wishes during this stressful time of leaving his home at Nether Edge for several years.
-								</p>
-								<p>
-									Nigel has moved to a flat at Gleadless Townend, near to amenities and public transport.
-								</p>
-								<p>
-									We wish him lots of happy years there and look forward to seeing him on walks and social occasions when he has sorted himself out.
-								</p>
 							</div>
 						</div>
 					</article>

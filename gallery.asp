@@ -85,7 +85,7 @@ lastUpdated="2nd Aug 2024"
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
 									<img src="images/photo_gallery/2023/Ladybower Reservoir - Coffee break.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
-									<figcaption class="figure-caption">Coffee break time in the wooden area below Ladybower Reservoir, close to the Yorkshire Bridge pub (16th November).</figcaption>
+									<figcaption class="figure-caption">Coffee break time in the wooded area below Ladybower Reservoir, close to the Yorkshire Bridge pub (16th November).</figcaption>
 								</figure>
 							</div>
 						</div>

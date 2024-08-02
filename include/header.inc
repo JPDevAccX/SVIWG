@@ -96,13 +96,13 @@
 							</li>
 							<li class="nav-item">
 								<%
-									If title = "Photos" Then
+									If title = "Gallery" Then
 										Response.Write("<a class='nav-link active'")
 									Else
 										Response.Write("<a class='nav-link'")
 									End If
-									Response.Write(" href='photos.asp'>")
-									Response.Write("PHOTOS</a>")
+									Response.Write(" href='gallery.asp'>")
+									Response.Write("GALLERY</a>")
 								%>
 							</li>
 							<li class="nav-item">

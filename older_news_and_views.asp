@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="2nd August 2024"
+lastUpdated="2nd Aug 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 

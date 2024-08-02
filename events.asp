@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="2nd August 2024"
+lastUpdated="2nd Aug 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -263,7 +263,7 @@ lastUpdated="2nd August 2024"
 								There is also a number 257 bus which goes back via the A57 at 44 minutes past each hour.
 								<br>
 								Please contact Martin if joining this walk letting him know where you will be meeting
-								the group no later than Friday 16th August,	making sure we have enough guides at the start of the walk.
+								the group no later than Friday 16th August, making sure we have enough guides at the start of the walk.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>

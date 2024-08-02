@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="26th June 2024"
+lastUpdated="2nd August 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -36,26 +36,16 @@ lastUpdated="26th June 2024"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">FIONA AND KEIRIAN - ITEMS FOR DONATION</h3>
+								<h3 class="card-title fs-5">ATTENTION ALL THOSE WHO WENT ON THE COACH RAMBLE</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									Fiona and Keirian have the following items they wish to donate which were from Keirian's Grandmother;-
+									We have received a grant from South Yorkshire Association Committee for Coach Ramble.<br>
+									All members are entitled to claim back their £10 paid towards the coach.
 								</p>
-								<ul>
-									<li>
-										VictorReader Stratus, Daisy CD digital talking book e-reader including a few book CDs
-										(If registered as visually impaired can get sent more CDs by RNIB on a regular basis)
-									</li>
-									<li>Talking clocks x2 (both small square clocks)</li>
-									<li>Liquid level indicator for a mug</li>
-									<li>Various hand-held magnifying glasses including 3 light-up magnifiers</li>
-									<li>BBumperStops tactile dots</li>
-									<li>Couple of pairs of sunglasses (quite small size)</li>
-								</ul>
 							</div>
 							<div class="card-footer">
-								If interested please contact Fiona on <a href="tel:07884 030297">07884 030297</a>.
+								Please contact Eileen. Thank you.
 							</div>
 						</div>
 					</article>
@@ -63,74 +53,7 @@ lastUpdated="26th June 2024"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">SUE'S BIRTHDAY THANKS</h3>
-							</div>
-							<div class="card-body">
-								To all those who came on the Coach ramble thank you for singing on my birthday. It was a lovely surprise and made my day.
-							</div>
-							<div class="card-footer">
-								- Sue
-							</div>
-						</div>
-					</article>
-
-					<article id="sviwg_committee_post" class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">SVIWG COMMITTEE</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									<b>Current members:</b><br>
-									<ul>
-										<li>Sue Hill - Chair</li>
-										<li>Martin Wing - Vice Chair</li>
-										<li>Pauline Bullivant - Secretary</li>
-										<li>Stan Wainwright - Treasurer</li>
-										<li>Gail Fagan - Newsletter</li>
-										<li>Eileen Ingham - Walk Coordinator</li>
-										<li>Margaret Patrick - Social Secretary, co-opted member</li>
-										<li>Christine Hewitt, Hilary Myers, Judith Morton - co-opted members</li>
-									</ul>
-								</p>
-								<p>
-									<b>Election of Officers:</b><br>
-									<p>
-										All members are willing to stand again with the exception of Chris Hewitt who has stepped down from the Committee.
-									</p>
-									<p>
-										Chris has been a long standing member of the group and an excellent Chair, also Membership secretary.<br>
-										On behalf of the group we Thank You Chris for your hard work and look forward to meeting on social occasions and walks.
-									</p>
-									<p>
-										Anyone in the group who would like to take on any role or indeed join the Committee please let Sue know or anyone on the Committee.
-									</p>
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">HOW TO DESCRIBE A CANAL TOW PATH TO SOMEONE WHO CANNOT SEE</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									Adrian Childs
-									<a href="https://www.theguardian.com/commentisfree/2024/may/01/how-do-you-describe-the-view-to-someone-who-cant-see-i-couldnt-even-do-justice-to-a-canal-towpath">
-										writes in the Guardian
-									</a>
-									as he led his friend on a walk.
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">SIGHTED GUIDE TRAINING (UPDATED)</h3>
+								<h3 class="card-title fs-5">SIGHTED GUIDE TRAINING</h3>
 							</div>
 							<div class="card-body">
 								<p>

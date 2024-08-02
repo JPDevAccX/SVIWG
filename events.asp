@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="26th June 2024"
+lastUpdated="2nd August 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -71,29 +71,29 @@ lastUpdated="26th June 2024"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 10th JUL</td>
-								<td class="text-center"><a href="#event-1007">AGDEN RESERVOIR TO BRADFIELD CRICKET PITCH FOR LUNCH</a></td>
-								<td class="text-end">FRI 5th JUL</td>
-							</tr>
-							<tr>
-								<td>SAT 13th JUL</td>
-								<td class="text-center"><a href="#event-1307">GARDEN VISIT</a></td>
-								<td class="text-end">N/A</td>
-							</tr>
-							<tr>
-								<td>THU 25th JUL</td>
-								<td class="text-center"><a href="#event-2507">QUEEN'S HEAD POND HILL - ROUTE TO BE DECIDED ON THE DAY</a></td>
-								<td class="text-end">FRI 19th JUL</td>
-							</tr>
-							<tr>
-								<td>SUN 28th JUL</td>
-								<td class="text-center"><a href="#event-2807">ROTHERHAM TO SHEFFIELD VICTORIA QUAYS AND CITY CENTRE FOLLOWING CANAL</a></td>
-								<td class="text-end">WED 24th JUL</td>
-							</tr>
-							<tr>
 								<td>TUE 6th AUG</td>
-								<td class="text-center"><a href="#event-0608">TONGUE GUTTER, TRANS-PENNINE-TRAIL FROM SHIREGREEN TO ECCLESFIELD</a></td>
+								<td class="text-center"><a href="#event-0608">TONGUE GUTTER, TRANS-PENNINE-TRAIL FROM SHIREGREEN TO ECCLESFIELD (UPDATED)</a></td>
 								<td class="text-end">FRI 26th JUL</td>
+							</tr>
+								<tr>
+								<td>WED 14th AUG</td>
+								<td class="text-center"><a href="#event-1408">FULWOOD, LADY CANNINGS, RINGINGLOW, PORTER VALLEY FORGE DAM, FULWOOD SHOPS</a></td>
+								<td class="text-end">FRI 9th AUG</td>
+							</tr>
+								<tr>
+								<td>THUR 22nd AUG</td>
+								<td class="text-center"><a href="#event-2208">ABNEY MOOR VIA SHATTON, OFFERTON HALL AND RETURNING TO BAMFORD</a></td>
+								<td class="text-end">FRI 16th AUG</td>
+							</tr>
+								<tr>
+								<td>SUN 25th AUG</td>
+								<td class="text-center"><a href="#event-2508">ACROSS WHIRLOW HALL FARM, DOWNHILL INTO LIMB VALLEY, TO WHIRLOW BROOK HALL</a></td>
+								<td class="text-end">WED 21st AUG</td>
+							</tr>
+								<tr>
+								<td>TUE 3rd SEP</td>
+								<td class="text-center"><a href="#event-0309">PARKIN WOODS AND COUNTRY TRACKS AROUND CHAPELTOWN AND ECCLESFIELD</a></td>
+								<td class="text-end">FRI 30th AUG</td>
 							</tr>
 							<tr>
 								<td>MON 9th SEP</td>
@@ -143,146 +143,6 @@ lastUpdated="26th June 2024"
 
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex" id="event-1007">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2024-07-10 09:00">WEDNESDAY 10th JULY</time> - AGDEN RESERVOIR TO BRADFIELD CRICKET PITCH FOR LUNCH
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.00 to catch 9.16 blue route tram to Hillsborough Interchange,
-									then to catch the 9.55 no 61 bus to Bradfield bus turn around walk starts 10.25.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Agden reservoir to cricket pitch at Bradfield for lunch, option to leave the walk, after to walk around Dam Flask.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Approx 6 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Mainly good paths with some tree roots.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Norman Pearson (<a href="tel:07803 437931">07803 437931</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Parking is available at the back of the cricket pitch near the children's playground.
-								<br>
-								Please contact Martin if joining this walk by Friday 5th July to make sure we have enough guides
-								and also to let him know where you will meet the group.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-1307">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2024-07-13 13:10">SATURDAY 13th JULY</time> - GARDEN VISIT
-								</h3>
-							</div>
-							<div class="card-body">
-								Members travelling by bus meet Poundland High Street 13.10 to catch the 13.25 no 81 bus on Arundel Gate.
-							</div>
-							<div class="card-footer">
-								Please contact Sue to make sure we have enough guides.<br>
-								It would also be helpful if those travelling by car could also let Sue know for numbers.
-								<br>
-								<a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a><br>
-								<a href="tel:07970 311329">07970 311329</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2507">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2024-07-25 09:15">THURSDAY 25th JULY</time> - QUEEN'S HEAD POND HILL - ROUTE TO BE DECIDED ON THE DAY
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Queen's Head Pond Hill 9.15 to travel by mini bus leaving 9.30 to Fairhomes. Arrives 10am to start the walk.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									To be decided on the day due to weather conditions.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Approx 7 to 8 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Moderate walking, some steep ascents and descents.<br>
-									It is essential to wear good walking boots on this walk.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please let Martin know if joining this walk by Friday 19th July to make sure we have enough guides
-								and also where you are meeting so we know who will be at the start to meet VI's at the Queen's Head.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2807">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2024-07-28 09:40">SUNDAY 28th JULY</time> - ROTHERHAM TO SHEFFIELD VICTORIA QUAYS AND CITY CENTRE FOLLOWING CANAL
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.40 to catch the 10.05 tram at Sheffield Cathedral to Rotherham Central Station where walk will start 10.30 from the station.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									We follow the Sheffield and Tinsley Canal from Rotherham to Sheffield Victoria Quays and into Sheffield City Centre.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									7 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Good, mainly level paths.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Steve and Chris (<a href="tel:07960 119903">07960 119903</a> any walk enquiries) 
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin if joining this walk by Wednesday 24th.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
 					<article class="d-flex" id="event-0608">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
@@ -299,9 +159,10 @@ lastUpdated="26th June 2024"
 									<b>The Route:</b>
 									Linear walk.
 									Easy Walking on good paths through Tongue Gutter, Crossing Barnsley Rd,
-									then taking the Trans-Pennine-Trail through open spaces through Shiregreen to Ecclesfield.<br>
-									Walk will finish In Ecclesfield and for those who want to there is a nice chip shop that sells hot
-									roast pork sandwiches and if you buy a sandwich, you get the chips for free.
+									then taking the Trans-Pennine-Trail through open spaces through
+									Shiregreen to Ecclesfield where the walk will finish.<br>
+									Please note the shop where David said you could buy pork sandwiches for lunch has now closed.<br>
+									Please bring packed lunch as usual.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
@@ -321,6 +182,169 @@ lastUpdated="26th June 2024"
 							<div class="card-footer">
 								Please contact Martin if joining this walk letting him know where you will be meeting
 								to make sure enough guides at the start of the walk by Friday 26th July.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1408">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-08-14">WEDNESDAY 14TH AUGUST</time> - FULWOOD, LADY CANNINGS, RINGINGLOW, PORTER VALLEY FORGE DAM, FULWOOD SHOPS
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.50 to catch the 10.10 no 120 bus to Fulwood Barncliffe Road Terminus where walk starts 10.43.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Lanes and paths around Fulwood up to Lady Cannings Plantation, to Ringinglow to Porter Valley Forge Dam, return to Fulwood Shops for the bus.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									6 1/2 miles with possible break off points.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Lanes, paths and woods.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Judy Gathercole (<a href="tel:07557 272559">07557 272559</a> any walk enquiries). 
+								</li>
+							</ul>
+							<div class="card-footer">
+								Anyone joining this walk please contact Martin letting him know where you will be meeting the group
+								making sure we have enough guides for this walk by Friday 9th August.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2208">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-08-22">THURSDAY 22ND AUGUST</time> - ABNEY MOOR VIA SHATTON, OFFERTON HALL AND RETURNING TO BAMFORD
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Interchange 9.15 to catch the 9.46 no 272 bus to Bamford bus terminus where walk starts 10.30.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									The walk is over Abney Moor via Shatton, Offerton Hall and returning to Bamford.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									8 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									A couple of long steep climbs to Offerton Hall and Abney Moor,
+									some rough paths also some decent paths, a few stiles (similar to a Rangers walk).
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Joe Fagan who will meet the group at Bamford (<a href="tel:07791 634319">07791 634319</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Bus number 272 returns at 2.11pm and 4.11pm.<br>
+								There is also a number 257 bus which goes back via the A57 at 44 minutes past each hour.
+								<br>
+								Please contact Martin if joining this walk letting him know where you will be meeting
+								the group no later than Friday 16th August,	making sure we have enough guides at the start of the walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2508">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-08-25">SUNDAY 25TH AUGUST</time> - ACROSS WHIRLOW HALL FARM, DOWNHILL INTO LIMB VALLEY, TO WHIRLOW BROOK HALL
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.25 to catch the 10.17 no 88 bus from Snig Hill to Bents Green Terminus where walk starts 10.45.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Linear walk across to Whirlow Hall Farm (toilets available), continuing downhill into the Limb Valley to Whirlow Brook Hall.<br>
+									We walk through Ecclesall Woods to Abbey Lane before crossing Abbeydale Road.<br>
+									Through Hutcliffe Woods, we return to Abbeydale Road to catch the return bus to Sheffield at Millhouses.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									5 1/2 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Mostly downhill with good woodland paths.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									 Steve and Chris (<a href="tel:07960 119903">07960 119903</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin no later than Wednesday 21st August making sure enough guides for this walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0309">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2024-09-03">TUESDAY 3RD SEPTEMBER</time> - PARKIN WOODS AND COUNTRY TRACKS AROUND CHAPELTOWN AND ECCLESFIELD
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.45 to catch the 10.07 no 1a bus to Chapeltown where this circular walk starts at 10.55.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Walking around Parkin woods and country tracks around Chapeltown and Ecclesfield.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Approx 4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Two short ascents with no stiles.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David (<a href="tel:07554 143262">07554 143262</a> any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								After the walk we can have our lunch outside the Wagon and Horses pub where there are tables and chairs.
+								<br>
+								Please contact Martin if joining this walk by Friday 30th August to make sure we have enough guides
+								also letting him know where you will be meeting the group.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -384,6 +408,23 @@ lastUpdated="26th June 2024"
 				<h2 class="text-center" id="current_walk_news">CURRENT WALK NEWS</h2>
 
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									ATTENTION ALL THOSE WHO WENT ON THE COACH RAMBLE
+								</h3>
+							</div>
+							<div class="card-body">
+								We have received a grant from South Yorkshire Association Committee for Coach Ramble.<br>
+								All members are entitled to claim back their £10 paid towards the coach.
+							</div>
+							<div class="card-footer">
+								Please contact Eileen. Thank you.
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">

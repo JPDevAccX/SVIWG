@@ -1,6 +1,6 @@
 <%
 title="Photos"
-lastUpdated="16th May 2024"
+lastUpdated="2nd August 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -20,7 +20,6 @@ lastUpdated="16th May 2024"
 				<a href="#photos_2022">2022</a>
 				<a href="#photos_2021">2021</a>
 				<a href="photos_other.asp">Other Photos</a>
-				
 			</nav>
 
 			<!-- 2024 -->
@@ -36,7 +35,7 @@ lastUpdated="16th May 2024"
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
 									<img src="images/photo_gallery/2024/Fox House Inn to Hathersage 1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
-									<figcaption class="figure-caption">A walk from Fox House Inn to Hathersage in May.</figcaption>
+									<figcaption class="figure-caption">Getting across a stream near Grindleford in the Hope Valley during a walk to Hathersage in May.</figcaption>
 								</figure>
 							</div>
 
@@ -67,17 +66,8 @@ lastUpdated="16th May 2024"
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<img src="images/photo_gallery/2023/Mike and Nigel b 3 1 23.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
-									<figcaption class="figure-caption">Nigel and Mike in January - making the best of the dry weather.</figcaption>
-								</figure>
-							</div>
-						</div>
-
-						<div class="row">
-							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
-								<figure class="figure">
-									<img src="images/photo_gallery/2023/Gordon Guiding Mick.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
-									<figcaption class="figure-caption">Gordon Guiding Mick in Derbyshire.</figcaption>
+									<img src="images/photo_gallery/2023/Ladybower Reservoir - Coffee break.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">Coffee break time in the wooded area below Ladybower Reservoir, close to the Yorkshire Bridge pub (16th November).</figcaption>
 								</figure>
 							</div>
 						</div>
@@ -102,6 +92,25 @@ lastUpdated="16th May 2024"
 								</figure>
 							</div>
 						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2023/Mike and Nigel b 3 1 23.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">Nigel and Mike in January - making the best of the dry weather.</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2023/Gordon Guiding Mick.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">Gordon Guiding Mick in Derbyshire.</figcaption>
+								</figure>
+							</div>
+						</div>
+
 					</section>
 					<!-- END MISECELLANEOUS 1 -->
 					<hr>

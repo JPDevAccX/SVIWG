@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="2nd Aug 2024"
+lastUpdated="29th Aug 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -26,6 +26,23 @@ lastUpdated="2nd Aug 2024"
 
 				<div class="d-flex flex-column gap-5">
 				
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">ATTENTION ALL THOSE WHO WENT ON THE COACH RAMBLE</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									We have received a grant from South Yorkshire Association Committee for Coach Ramble.<br>
+									All members are entitled to claim back their £10 paid towards the coach.
+								</p>
+							</div>
+							<div class="card-footer">
+								Please contact Eileen. Thank you.
+							</div>
+						</div>
+					</article>
+
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">

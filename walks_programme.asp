@@ -1,6 +1,6 @@
 <%
 title="Annual Programme"
-lastUpdated="16th Dec 2023"
+lastUpdated="29th Aug 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -44,15 +44,15 @@ lastUpdated="16th Dec 2023"
 								<tr><td>2nd Jul</td>
 								<td class="text-end">David Cadet and Paul Foxton</td></tr>
 								<tr><td>6th Aug</td>
-								<td class="text-end">David Cadet and Paul Foxton</td></tr>
+								<td class="text-end">David Cadet</td></tr>
 								<tr><td>3rd Sep</td>
-								<td class="text-end">David Cadet and Paul Foxton</td></tr>
+								<td class="text-end">David Cadet</td></tr>
 								<tr><td>1st Oct</td>
-								<td class="text-end">David Cadet and Paul Foxton</td></tr>
+								<td class="text-end">David Cadet</td></tr>
 								<tr><td>5th Nov</td>
-								<td class="text-end">David Cadet and Paul Foxton</td></tr>
+								<td class="text-end">David Cadet</td></tr>
 								<tr><td>3rd Dec</td>
-								<td class="text-end">David Cadet and Paul Foxton</td></tr>
+								<td class="text-end">David Cadet</td></tr>
 							</tbody>
 						</table>
 					</section>
@@ -80,7 +80,7 @@ lastUpdated="16th Dec 2023"
 								<tr><td>8th May</td>
 								<td class="text-end">Rob Haslam</td></tr>
 								<tr><td>12th Jun</td>
-								<td class="text-end">Coach Ramble Matt Gulty</td></tr>
+								<td class="text-end">Coach Ramble (Matt Goulty)</td></tr>
 								<tr><td>10th Jul</td>
 								<td class="text-end">Norman Pearson</td></tr>
 								<tr><td>14th Aug</td>

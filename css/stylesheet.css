@@ -64,10 +64,12 @@
   border: 3px inset lightgray;
 }
 
-.sviwg-inset-subtle-image {
-  border-width: 2px;
-  border-color: #777 #888 #888 #777;
-  border-style: solid;
+@media all and (display-mode: browser) {
+  .sviwg-inset-subtle-image {
+    border-width: 2px;
+    border-color: #777 #888 #888 #777;
+    border-style: solid;
+  }
 }
 
 .sviwg-large-font {
@@ -179,6 +181,9 @@
 
 .sviwg-photos img {
   max-height: 400px;
+}
+.sviwg-photos video {
+  max-height: 520px;
 }
 
 .sviwg-photos-larger img {

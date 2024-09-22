@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="2nd Aug 2024"
+lastUpdated="29th Aug 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -10,7 +10,7 @@ lastUpdated="2nd Aug 2024"
 			<h2 class="text-center">PHOTO AND VIDEO GALLERY</h2>
 
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 text-center sviwg-photos-notice">
-				If you'd like to submit photos or videos of the group, please send them to <a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>.<br>
+				If you'd like to submit photos of the group, please send them to <a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>.<br>
 				Please include a description and if possible the date they were taken and we'll publish them on the site.
 			</section>
 
@@ -29,12 +29,57 @@ lastUpdated="2nd Aug 2024"
 				
 					<!-- MISCELLANEOUS 1 -->
 					<section class="d-flex flex-column gap-4">
+
 						<h4 class="text-center">A SELECTION OF EVENTS</h4>
 
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
 								<figure class="figure">
-									<video controls height="520px">
+									<img src="images/photo_gallery/2024/Abney Moor.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Joe Fagan sent in this photo of a walk on Abney Moor in August. 
+										Looks like everyone was taking a break, sheltering from the wind!
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Fulwood to Forge Dam 1.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+										<figcaption class="figure-caption">
+										August walk from Fulwood to Forge Dam (1) - Top of a hill
+										</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Fulwood to Forge Dam 2.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+										<figcaption class="figure-caption">
+										August walk from Fulwood (2) - Rotary Clubs table
+										</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Fulwood to Forge Dam 3.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										August walk from Fulwood (3) - Taking a break!
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<!-- TODO -->
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<video controls width="294" height="520" class="figure-img sviwg-inset-subtle-image" alt="">
 										<source src="videos/VIDEO-2024-07-30-10-02-08.mp4" type="video/mp4" />
 										<p>
 											Your browser doesn't support HTML video.
@@ -44,10 +89,10 @@ lastUpdated="2nd Aug 2024"
 										</p>
 									</video>
 
-									<figcaption class="figure-caption">Coach Ramble trip in Bridlington</figcaption>
+									<figcaption class="figure-caption">Coach Ramble trip from Flamborough to Bridlington (12th June)</figcaption>
 								</figure>
 							</div>
-							</div>
+						</div>
 
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">

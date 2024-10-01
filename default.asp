@@ -1,6 +1,6 @@
 <%
 title="Home"
-lastUpdated="26th Feb 2024"
+lastUpdated="22nd Sep 2024"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -139,7 +139,7 @@ lastUpdated="26th Feb 2024"
 					<div class="col-5-sm col-md-4">
 						<div class="d-flex gap-2 align-items-center">
 							<a href="https://www.sheffieldcitytrust.org/" tabindex="-1" aria-hidden="true">
-								<img src="https://www.sheffieldcitytrust.org/themes/siv/content/images/brand/logo_alt.png" class="sviwg-small-logo" alt="">
+								<img src="images/orgs/Sheffield CT Logo.jpeg" class="sviwg-small-logo" alt="">
 							</a>
 							<a href="https://www.sheffieldcitytrust.org/">SHEFFIELD CITY TRUST</a>
 						</div>
@@ -148,6 +148,35 @@ lastUpdated="26th Feb 2024"
 						- For their generosity.
 					</div>
 				</div>
+
+			<div class="row">
+				<div class="col-5-sm col-md-4">
+					<div class="d-flex gap-2 align-items-center">
+						<a href="https://www.sycf.org.uk/" tabindex="-1" aria-hidden="true">
+							<img src="images/orgs/SYCF Logo.svg" class="sviwg-small-logo sycf-purple p-1" alt="">
+						</a>
+						<a href="https://www.sycf.org.uk/">SOUTH YORKSHIRE'S COMMUNITY FOUNDATION</a>
+					</div>
+				</div>
+				<div class="col my-auto">
+					- For their generous support.
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-5-sm col-md-4">
+					<div class="d-flex gap-2 align-items-center">
+						<a href="https://www.tnlcommunityfund.org.uk/" tabindex="-1" aria-hidden="true">
+							<img src="images/orgs/TNLCF Logo Cropped.png" class="sviwg-small-logo" alt="">
+						</a>
+						<a href="https://www.tnlcommunityfund.org.uk/">THE NATIONAL LOTTERY COMMUNITY FUND</a>
+					</div>
+				</div>
+				<div class="col my-auto">
+					- For their generous support.
+				</div>
+			</div>
+
 			</section>
 		</main>
 

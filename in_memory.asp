@@ -1,6 +1,6 @@
 <%
 title="In Memory"
-lastUpdated="16th Dec 2023"
+lastUpdated="1st Oct 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -11,6 +11,91 @@ lastUpdated="16th Dec 2023"
 			<h2 class="text-center">~ IN MEMORY ~</h2>
 
 			<div class="d-flex flex-column gap-5">
+						
+				<article class="d-flex">
+					<div class="card mx-auto sviwg-text-card sviwg-news-card">
+						<div class="card-header">
+							<h3 class="card-title fs-5">OBITUARY - PAUL FOXTON</h3>
+						</div>
+						<div class="card-body">
+							<p>
+								It is very sad news that our friend Paul Foxton died Monday 5th August in hospital.
+								This is a shock to our members who knew Paul as it happened so suddenly after his diagnosis of Lung Cancer.
+							</p>
+							<p>
+								Paul was very popular in our group always cheerful and happy to be walking with us.
+								He also loved his Pop quizzes acting as the Quizmaster asking group questions whenever we had time during a break
+								and also entertaining the members on holiday whilst relaxing in the bar after their evening meal.
+							</p>
+							<p>
+								Our condolences must go to his wife Carol, daughter Melanie and family,
+								also his good friend David Cadet with whom they provided the group with Tuesday walks each month after
+								thoroughly going out to check making sure they were fit for the group. 
+							</p>
+							<p>
+								You will be very much missed Paul.
+							</p>
+						</div>
+						<div class="card-footer">
+							Gail
+						</div>
+						<div class="border-top p-3">
+							<div class="card mx-auto sviwg-news-comment border">
+								<div class="card-header">
+									<h4 class="card-title fs-5">NIGEL'S RECOLLECTIONS OF PAUL</h4>
+								</div>
+								<div class="card-body">
+									<p>
+									My recollections of Paul was a gregarious, friendly and affable person who always had a smile on his face.
+									</p>
+									<p>
+									He was full of enthusiasm for the group and devised along with David Cadet some very interesting and varied walks
+									for the group which was a credit to both of them.<br>
+									Not to forget Paul's love of quizzes he was such a nice man he will greatly be missed by all of us.
+									</p>
+									<p>
+										Rest in Peace old friend.
+									</p>
+								</div>
+								<div class="card-footer">
+									Nigel
+								</div>
+							</div>
+						</div>
+						<div class="border-top p-3">
+							<div class="card mx-auto sviwg-news-comment border">
+								<div class="card-header">
+									<h4 class="card-title fs-5">DAVID'S MEMORIES OF HIS FRIEND</h4>
+								</div>
+								<div class="card-body">
+									<p>
+									Paul was my friend, I had known him since I became a Member Of SVIWG.
+									</p>
+									<p>
+									This last couple of years, Paul and I spent a lot of time together planning and recceing Tuesday walks.
+									Paul was always there when I needed him and nothing was ever too much trouble, for that I am eternally grateful.
+									</p>
+									<p>
+									We shared some wonderful adventures and on the odd occasion we found ourselves saying "Where are we"?<br>
+									We would have a laugh about it and Paul would say to me
+									"David that's the reason why we recce walks, to find out if and where you go wrong."
+									</p>
+									<p>
+									He wasn't just my friend, he was everyone's friend.<br>
+									I will miss him. We will miss him, he was a fantastic walker and a wonderful sighted guide for all of our lovely VIPS.
+									</p>
+									<p>
+									On behalf of all who knew him. R.I.P. Paul.
+									</p>
+								</div>
+								<div class="card-footer">
+									David
+								</div>
+							</div>
+						</div>
+					</div>
+				</article>
+
 				<article class="d-flex">
 					<div class="card mx-auto sviwg-text-card sviwg-news-card">
 						<div class="card-header">

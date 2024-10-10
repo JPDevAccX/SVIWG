@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="29th Aug 2024"
+lastUpdated="1st Oct 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -25,7 +25,79 @@ lastUpdated="29th Aug 2024"
 				<h2 class="text-center">POSTS</h2>
 
 				<div class="d-flex flex-column gap-5">
-				
+	
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">CAROL'S STAGE DEBUT AT THE CRUCIBLE THEATRE</h3>
+							</div>
+							<div class="card-body">
+								<b>Something Old, Something New, Experience by Carol Adams</b><br>
+								<br>
+								<p>
+									I wouldn't say I'm scared, I wouldn't say I'm not.
+									Memories of the past linger, rehearsing lines, adrenaline shot, I'm older now, my memory not what it used to be,
+									Excitement in meeting new people, wondering what's next for me, It seemed so far off at first and then wow -
+									So many more lines than I expected, right now.
+								</p>
+								<p>
+									On reflection, I wonder if I'll learn them all in time,
+									Something new to dive into, but oh, will I shine?
+									Will I have to dance or sing, make the audience ring? It's a wedding scene, so will there be bling?
+									A lot on my mind - can I still stand tall, After surgery, and pull it off at all?
+								</p>
+								<p>
+									At first, I doubt myself, but then I take a stand, Rehearsals begin, lines spoken, all carefully planned.
+									I hope to keep everything authentic and true, Looking forward to knowing my lines through and through,
+									Then there are cues to remember, every one, How many times will I pour my soul into this run?
+								</p>
+								<p>
+									Today is a day of rest, tomorrow's the final prep, Opening night looms and I've got one last step.
+									We started in July, now the end is near, Just a week to go, and we'll give it all here,
+									The stage is set, the people I've met - What will the critics say, what will we get?
+								</p>
+								<p>
+									We hope for success in every show and pray for applause from row to row.
+									I wonder about emotions, seeking approval high,
+									The lines in my head, will they stick when I try?
+									We all worry about missing a cue but the audience won't know, they haven't a clue.
+								</p>
+								<p>
+									Here's just one song but I won't be the singer, My lines are rehearsed, I won't be a winger,
+									I'm playing a registrar - does this role fit me? I'll give it my best and hope for victory.
+								</p>
+								<p>
+									I'm so tired I could sleep for a week but I carry on, though rest seems bleak,
+									The gym is my refuge at dawn's early light, Before trying to sleep, though it's still a fight.
+								</p>
+								<p>
+									The dress rehearsal was a bit of a flop, Missing lines and prop mishaps that just won't stop,
+									Are we ready for this, is time on our side? But then adrenaline kicks in and I'm along for the ride.
+								</p>
+								<p>
+									The audiences are plenty, they clap as we leave, There's a buzz backstage, no time to grieve.
+									At our first party, everyone craves more but there's still work to do, still things to explore.
+								</p>
+								<p>
+									Every day's different, changes are made, Lines and scenes cut, to make the grade,
+									Suddenly, confidence rises and I find my stride, It's a great show, with pride I confide.
+								</p>
+								<p>
+									The audience laughs, and I make some cry, Despite any noise, we don't let it die,
+									At last, it's here - we've made it through, Knowing 600 people have watched our debut.
+								</p>
+								<p>
+									Now it's all over, no more lines to learn, We scream, shout, and take our turn,
+									The adrenaline fades, and I finally sleep, With memories of this time, forever to keep.
+								</p>
+								<p>
+									Thanks to all for their support - I'm worn out but proud, Proud I did it, that I made it, I say aloud,
+									Proud of this unforgettable scene, Standing on stage, feeling serene, I owned it, just like the rest, That registrar role, I gave it my best.
+								</p>
+							</div>
+						</div>
+					</article>
+
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">

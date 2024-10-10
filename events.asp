@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="29th Aug 2024"
+lastUpdated="1st Oct 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -69,41 +69,26 @@ lastUpdated="29th Aug 2024"
 								<th scope="col" class="text-end">Notify&nbsp;By</th>
 							</tr>
 						</thead>
-						<tbody>
+						<tbody>			
 							<tr>
-								<td>TUE 3rd SEP</td>
-								<td class="text-center"><a href="#event-0309">PARKIN WOODS AND COUNTRY TRACKS AROUND CHAPELTOWN AND ECCLESFIELD</a></td>
-								<td class="text-end">FRI 30th AUG</td>
+								<td>WED 9th OCT</td>
+								<td class="text-center"><a href="#event-0910">SHINY SHEFF, CRICKET FIELDS, REDMIRES CONDUIT, RIVELIN DAMS, NATURE RESERVE</a></td>
+								<td class="text-end">FRI 4th OCT</td>
 							</tr>
 							<tr>
-								<td>MON 9th SEP</td>
-								<td class="text-center">
-									<div class="d-flex justify-content-center">
-										<div class="d-flex flex-column justify-content-center">
-											<svg xmlns="http://www.w3.org/2000/svg" width="1.6em" viewBox="0 0 64 64"><path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/></svg>
-										</div>	
-										<a href="#event-0909" class="mx-1">GROUP HOLIDAY - AMBLE INN</a>
-										<div class="d-flex flex-column justify-content-center">
-											<svg xmlns="http://www.w3.org/2000/svg" width="1.6em" viewBox="0 0 64 64"><path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/></svg>
-										</div>	
-									</div>
-								</td>
-								<td class="text-end">N/A</td>
+								<td>THU 17th OCT</td>
+								<td class="text-center"><a href="#event-1710">HOPE STATION, TOWNHEAD BRIDGE, EDALE END, JAGGERS CLOUGH, EDALE STATION</a></td>
+								<td class="text-end">FRI 11th OCT</td>
 							</tr>
 							<tr>
-								<td>THUR 19th SEP</td>
-								<td class="text-center"><a href="#event-1909">FAIRHOLMES (ROUTE DECIDED ON THE DAY)</a></td>
-								<td class="text-end">FRI 13th SEP</td>
+								<td>SUN 27th OCT</td>
+								<td class="text-center"><a href="#event-2710">GRINDLEFORD, FROGGATT, STONEY MIDDLETON, EYAM, RILEY GRAVES</a></td>
+								<td class="text-end">WED 23rd OCT</td>
 							</tr>
 							<tr>
-								<td>SUN 22nd SEP</td>
-								<td class="text-center"><a href="#event-2209">ELSECAR PARK, WESTWOOD COUNTRY PARK, TRANS PENNINE TRAIL TO CHAPELTOWN</a></td>
-								<td class="text-end">WED 18th SEP</td>
-							</tr>
-							<tr>
-								<td>TUE 1st OCT</td>
-								<td class="text-center"><a href="#event-0110">CIRCULAR WALK TO REMEMBER PAUL FOXTON</a></td>
-								<td class="text-end">WED 25th SEP</td>
+								<td>TUE 5th NOV</td>
+								<td class="text-center"><a href="#event-0511">BURNGREAVE RD, CEMETERY, ABBEYFIELD PARK, OSGATHORPE PARK, CRABTREE PONDS</a></td>
+								<td class="text-end">FRI 1st NOV</td>
 							</tr>
 						</tbody>
 					</table>
@@ -137,41 +122,42 @@ lastUpdated="29th Aug 2024"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex" id="event-0309">
+					<article class="d-flex" id="event-0910">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2024-09-03">TUESDAY 3RD SEPTEMBER</time> - PARKIN WOODS AND COUNTRY TRACKS AROUND CHAPELTOWN AND ECCLESFIELD
+									<time datetime="20241009">WEDNESDAY 9TH OCTOBER</time> -  SHINY SHEFF, CRICKET FIELDS, REDMIRES CONDUIT, RIVELIN DAMS, NATURE RESERVE
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Poundland High Street 9.45 to catch the 10.07 no 1a bus to Chapeltown where this circular walk starts at 10.55.
+										Poundland High Street 9.30 to catch the 9.50 No.51 bus opposite Cathedral on Church Street,
+										to Shiny Sheff where walk starts 10.20 at the junction between Redmires Road and Crimicar Road. 
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Walking around Parkin woods and country tracks around Chapeltown and Ecclesfield.
+										Paths alongside of cricket fields and then on Redmires Conduit pathway.<br>
+										Proceeds down Wyming Brook trail to Rivelin Dams, then a gradual moderate climb back up through
+										the Nature Reserve (SSSI) with some short steep sections on rocky paths.<br>
+										Exit nature reserve on Lodge Lane and then walk back to Shiny Sheff on Redmires Road.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									Approx 4 miles.
+										5 1/2 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Two short ascents with no stiles.
+ 										Paths are a mixture of tarmac, gravel, soil, rocky.
+										There are a few steps and only walk-through types of stiles to get through.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									David (<a href="tel:07554 143262">07554 143262</a> any walk enquiries).
+										David Guile (<a href="tel:07553 944116">07553 944116</a>) any walk enquiries.
 								</li>
 							</ul>
 							<div class="card-footer">
-								After the walk we can have our lunch outside the Wagon and Horses pub where there are tables and chairs.
-								<br>
-								Please contact Martin if joining this walk by Friday 30th August to make sure we have enough guides
-								also letting him know where you will be meeting the group.
+								Please contact Martin by Friday 4th October for him to make sure enough guides at the start.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -179,64 +165,44 @@ lastUpdated="29th Aug 2024"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-0909">
+					<article class="d-flex" id="event-1710">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<svg xmlns="http://www.w3.org/2000/svg" width="1.6em" viewBox="0 0 64 64"><path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/></svg>
-									<span class="align-middle ms-1">GROUP HOLIDAY - <time datetime="2024-09-09">SEPTEMBER 9th to 14th</time> - AMBLE INN</span>
-								</h3>
-							</div>
-							<div class="card-body">
-								Staying at the Amble Inn, Amble.<br>
-								Prices quoted include bed, breakfast, and an allowance of £26 for the evening meal.<br>
-								A single occupancy room will be £715 for 5 nights. A double occupancy room will be £470 for 5 nights.<br>
-								The costs cover tips for the coach driver and coach parking. All transport costs will be covered by the walking group.
-							</div>
-							<div class="card-footer">
-								Please contact Margaret Patrick on <a href="tel:07946 382896">07946 382896</a>
-								or email <a href="mailto:megdpatrick@gmail.com">megdpatrick@gmail.com</a>.<br>
-								A £50 deposit will be required on booking.<br>
-								Please make cheques payable to SVIWG and send to Stan Wainwright, 129 Mount View Road, Norton Lees, S8 8PJ.<br>
-								To pay direct to the SVIWG bank account please contact Stan for information at <a href="mailto:stan.wainwright@uwclub.net">stan.wainwright@uwclub.net</a>.
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-1909">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2024-09-19">THURSDAY 19TH SEPTEMBER</time> - FAIRHOLMES (ROUTE DECIDED ON THE DAY)
+									<time datetime="20241017">THURSDAY 17TH OCTOBER</time> - HOPE STATION, TOWNHEAD BRIDGE, EDALE END, JAGGERS CLOUGH, EDALE STATION
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Queen's Head Pub Pond Hill 9.15 to travel by mini bus leaving 9.30 to Fairholmes where walk starts 10am.
+										Sheffield Train station 8.45 to catch 9.14 train to Hope Station where walk starts 9.45.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Decided on the day due to weather conditions.
+										Linear walk to Edale Station.<br>
+										Hope station - Killhill Bridge - Townhead Bridge - Oaker Farm - Edale End - Backside Wood -
+										Jaggers Clough - Rowland Cote - Ollerbrook - Edale Station.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									Around 8 miles.
+										6 1/2 miles
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Varied - some climbs, good paths, some rough terrain.
+										Valley Paths, some stiles, gates, mud but all well marked paths.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Peak Park Rangers who will meet the group at Fairholmes (<a href="tel:07502 547221">07502 547221</a> any walk enquiries). 
+										Steve Brown (<a href="tel:07801 906126">07801 906126</a> any walk enquiries).
 								</li>
 							</ul>
 							<div class="card-footer">
-								<b>Please note it is essential to wear good walking boots on this walk.</b>
+								Return train 1532 or 1632 to Sheffield. Book Edale return as ticket.<br>
+								Car drivers can park at Hope Station or on the approach road (fee payable) then return to Hope station by train from Edale.<br>
+								Cafes and pubs in Edale while waiting for train.<br>
 								<br>
-								Please contact Martin by Friday 13th September if going on this walk letting him know
-								where you will be meeting the group for him to make sure enough guides are at the start of the walk.			
+								Please contact Martin by Friday 11th October if joining this walk - also please let him know where you intend to meet the group,
+								making sure we have enough guides at start for VI's.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -244,41 +210,44 @@ lastUpdated="29th Aug 2024"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-2209">
+					<article class="d-flex" id="event-2710">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20240922">SUNDAY 22ND SEPTEMBER</time> - ELSECAR PARK, WESTWOOD COUNTRY PARK, TRANS PENNINE TRAIL TO CHAPELTOWN
+									<time datetime="20241027">SUNDAY 27TH OCTOBER</time> - GRINDLEFORD, FROGGATT, STONEY MIDDLETON, EYAM, RILEY GRAVES
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Sheffield train station 9.15 to catch the 9.38 train to Elsecar,
-									where we will wait at the station for the 9.58 train from Barnsley due 10.09.
+								 	Sheffield Interchange (main foyer) 9.15 to catch the 9.35 no 65 bus to Grindleford where walk starts 10.10
+									from the bus stop just past the river. There is roadside parking nearby.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Linear walk to Chapeltown for buses and trains to Barnsley and Sheffield.<br>
-									We pick up the Barnsley Boundary Walk at Elsecar Park, and follow it to Westwood Country Park,
-									then Trans Pennine Trail to Chapeltown.
+									Froggatt, Stoney Middleton, Eyam and back to Grindleford via the Riley Graves.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									7 miles.
+									 6 1/2 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Mainly good paths, fields, some stiles, no steep ascents.
+									Field and woodland paths and some walking on minor roads. No stiles but some uphill sections.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									David Kayley (<a href="tel:07840 133768">07840 133768</a> any walk enquiries).
+									Mike Wilson who will join the group at the Interchange
+									(<a href="tel:07538 001933">07538 001933</a> any walk enquiries).
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin by Wednesday 18th September letting him know where you will meet
-								the group to ensure VIP's have enough guides for the start of the walk.							
+								Please note that return buses are infrequent, being at 14.19 and 16.20 from Grindleford
+								and that there is a midday bus passing through Stoney Middleton and Eyam should anyone want to shorten the walk.
+								There is also an hourly train service from Grindleford to Sheffield.<br>
+								<br>
+								Please contact Martin if joining this walk letting him know where you will be meeting the group
+								no later than Wednesday 23rd October, making sure we have enough guides at the start of the walk.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -286,24 +255,24 @@ lastUpdated="29th Aug 2024"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-0110">
+					<article class="d-flex" id="event-0511">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20241001">TUESDAY 1ST OCTOBER</time> - CIRCULAR WALK TO REMEMBER PAUL FOXTON
+									<time datetime="20241105">TUESDAY 5TH NOVEMBER</time> - BURNGREAVE RD, CEMETERY, ABBEYFIELD PARK, OSGATHORPE PARK, CRABTREE PONDS
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Poundland High Street 10.05 to catch 10.24 no 43 bus on Arundel Gate (opposite Poundland)
-									to Graves Park, Meadowhead entrance, where walk starts 10.55.
+								 	Poundland High Street 10.05 to catch the 10.33 no 75 bus to Burngreave Road where the walk starts 10.45 and finishes.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									From the park gates we will make our way to St James Church, Norton where we are going to have a short service in memory of Paul Foxton.<br>
-									Then we will make our way to the Rose Garden Cafe in the park for lunch (It was a favourite of Paul's).<br>
-									After lunch we will continue walking around the park and wooded areas before making our way back to the start.
+									Crossing Burngreave Rd we will walk down Melrose Rd to Burngreave Cemetery where there are some nice views of the City,
+									then making our way to Abbeyfield Park for Coffee stop.<br>
+									We then continue to Osgathorpe Park, then crossing Barnsley Rd to Crabtree Ponds for our Lunch stop.<br>
+									After lunch we will pass through Upper Roe Wood, then back to Burngreave Rd where there are lots of buses to get back to town.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
@@ -311,7 +280,7 @@ lastUpdated="29th Aug 2024"
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Easy walking on good paths, no stiles.
+									Good paths, one mild ascent, no stiles.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
@@ -319,7 +288,8 @@ lastUpdated="29th Aug 2024"
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin by Wednesday 25th September if going on this walk letting him know where you will be meeting the group.
+								Please contact Martin letting him know where you will start the walk by Friday 1st November
+								so he knows if he has enough guides at the start of the walk.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -359,23 +329,6 @@ lastUpdated="29th Aug 2024"
 				<h2 class="text-center" id="current_walk_news">CURRENT WALK NEWS</h2>
 
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									ATTENTION ALL THOSE WHO WENT ON THE COACH RAMBLE
-								</h3>
-							</div>
-							<div class="card-body">
-								We have received a grant from South Yorkshire Association Committee for Coach Ramble.<br>
-								All members are entitled to claim back their £10 paid towards the coach.
-							</div>
-							<div class="card-footer">
-								Please contact Eileen. Thank you.
-							</div>
-						</div>
-					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">

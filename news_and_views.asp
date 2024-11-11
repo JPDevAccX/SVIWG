@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="1st Oct 2024"
+lastUpdated="1st Nov 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -36,11 +36,25 @@ lastUpdated="1st Oct 2024"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">BEN'S CHARITY - CLOTHES DONATIONS WANTED</h3>
+								<h3 class="card-title fs-5">A FOND FAREWELL</h3>
 							</div>
 							<div class="card-body">
-								Ben's Charity are in need of walking shoes and trainers for their clients and also any t-shirts and shorts.<br>
-								These can be dropped off at 22 Wilkinson Street S10 2GB, Monday to Friday 10 to 4pm.
+								<p>
+									Dear Friends.
+								</p>
+								<p>
+									By the time you read this newsletter we shall (hopefully) be getting settled into our new home in Woody Point, Queensland.
+								</p>
+								<p>
+									I have been a guide with SVIWG for 20 plus years, it has been one of the best things I have ever done.
+									I've met some incredible folks and made good friends (you know who you are) along the way.
+								</p>
+								<p>
+									I shall miss your friendship, fun and sometimes challenges. Wishing everyone health and happiness.
+								</p>
+							</div>
+							<div class="card-footer">
+								Regards, Janet Murphy.
 							</div>
 						</div>
 					</article>
@@ -48,12 +62,19 @@ lastUpdated="1st Oct 2024"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">ST. VINCENT DE PAUL - FURNITURE DONATIONS WANTED</h3>
+								<h3 class="card-title fs-5">OBITUARY</h3>
 							</div>
 							<div class="card-body">
-								The St. Vincent de Paul furniture charity shop is in need of furniture donations
-								which they will collect in the Sheffield and Rotherham areas.
-								Please call <a href="tel:0114 2552545">0114 2552545</a>.
+								<p>
+									It is with regret to have to tell you Paul Starkey, an old friend to our group, died in September.
+								</p>
+								<p>
+									Paul was one of our first guides and he was always good fun to walk with.
+									Paul did not have good health for many years.
+								</p>
+								<p>
+									Our condolences to his family and friends and to those who remember him in our group.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -65,15 +86,46 @@ lastUpdated="1st Oct 2024"
 							</div>
 							<div class="card-body">
 								<p>
-									We have now set a date of Thursday 3rd October 2024, 10am to approx 1pm.<br>
-									This allows for members who have put their names down for any holidays they may have.
+									A big thank you to all of our lovely guides who gave up their morning to attend a training day with Alison Anthony.
+									Alison is a senior Re-hab trainer at Howden House.
 								</p>
 								<p>
-									Sue will be contacting all to confirm they can still come to the meeting. I hope this date suits most of you.
+									Alison said what a lovely group it was and not too serious we had laughs along the way.
+								</p>
+								<p>
+									We will hold another one sometime next year with new potential guides (here's hoping) also if anyone need a re-fresher.
+									Meanwhile we always put our training videos in the newsletter if you need a refresh. Thank you all.
 								</p>
 							</div>
 							<div class="card-footer">
-								With thanks, Gail.
+								- Gail.
+								<br><br>
+								<i>Webmaster's note: The training videos are also linked from <a href="resources.asp">the resources page</a></i>.
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">COMMITTEE VACANCIES</h3>
+							</div>
+							<div class="card-body">
+								We have two vacancies for our Committee, one being the Treasurer.<br>
+								If interested please contact Sue Hill (<a href="contact.asp">contact details here</a>).
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">WILD YORKSHIRE WAY</h3>
+							</div>
+							<div class="card-body">
+								A 526-mile walk around Yorkshire is described on the very interesting
+								<a href="https://www.wildyorkshireway.co.uk/" target="_blank">"Wild Yorkshire Way" website</a>.<br>
+								It also has some links to other walk-related sites.
 							</div>
 						</div>
 					</article>

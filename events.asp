@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="1st Oct 2024"
+lastUpdated="11th Nov 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -71,24 +71,24 @@ lastUpdated="1st Oct 2024"
 						</thead>
 						<tbody>			
 							<tr>
-								<td>WED 9th OCT</td>
-								<td class="text-center"><a href="#event-0910">SHINY SHEFF, CRICKET FIELDS, REDMIRES CONDUIT, RIVELIN DAMS, NATURE RESERVE</a></td>
-								<td class="text-end">FRI 4th OCT</td>
+								<td>WED 13th NOV</td>
+								<td class="text-center"><a href="#event-1311">GRINDLEFORD STATION, OXHAY WOOD, HATHERSAGE BOOTHS, COPPICE WOOD, HAY WOOD, PADLEY GORGE FOOT</a></td>
+								<td class="text-end">FRI 8th NOV</td>
 							</tr>
 							<tr>
-								<td>THU 17th OCT</td>
-								<td class="text-center"><a href="#event-1710">HOPE STATION, TOWNHEAD BRIDGE, EDALE END, JAGGERS CLOUGH, EDALE STATION</a></td>
-								<td class="text-end">FRI 11th OCT</td>
+								<td>THU 21st NOV</td>
+								<td class="text-center"><a href="#event-2111">MEET QUEEN'S HEAD POND HILL (ROUTE TO BE DECIDED ON THE DAY)</a></td>
+								<td class="text-end">FRI 15th NOV</td>
 							</tr>
 							<tr>
-								<td>SUN 27th OCT</td>
-								<td class="text-center"><a href="#event-2710">GRINDLEFORD, FROGGATT, STONEY MIDDLETON, EYAM, RILEY GRAVES</a></td>
-								<td class="text-end">WED 23rd OCT</td>
+								<td>SUN 24th NOV</td>
+								<td class="text-center"><a href="#event-2411">WOODHOUSE CO-OP, SHIRTCLIFF WOOD, SHIRE BROOK VALLEY RESERVE, LINLEY BANK MEADOWS RESERVE</a></td>
+								<td class="text-end">WED 20th NOV</td>
 							</tr>
 							<tr>
-								<td>TUE 5th NOV</td>
-								<td class="text-center"><a href="#event-0511">BURNGREAVE RD, CEMETERY, ABBEYFIELD PARK, OSGATHORPE PARK, CRABTREE PONDS</a></td>
-								<td class="text-end">FRI 1st NOV</td>
+								<td>TUE 3rd DEC</td>
+								<td class="text-center"><a href="#event-0312">WISEWOOD INN, THEN AROUND THE LOXLEY AREA FOLLOWED BY CHRISTMAS LUNCH AT THE INN</a></td>
+								<td class="text-end">WED 13th NOV</td>
 							</tr>
 						</tbody>
 					</table>
@@ -120,44 +120,42 @@ lastUpdated="1st Oct 2024"
 
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
-
 				<div class="d-flex flex-column gap-5">
-					<article class="d-flex" id="event-0910">
+
+					<article class="d-flex" id="event-1311">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20241009">WEDNESDAY 9TH OCTOBER</time> -  SHINY SHEFF, CRICKET FIELDS, REDMIRES CONDUIT, RIVELIN DAMS, NATURE RESERVE
+									<time datetime="20241113">WEDNESDAY 13TH NOVEMBER</time> - GRINDLEFORD STATION, OXHAY WOOD, HATHERSAGE BOOTHS, COPPICE WOOD, HAY WOOD, PADLEY GORGE FOOT
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-										Poundland High Street 9.30 to catch the 9.50 No.51 bus opposite Cathedral on Church Street,
-										to Shiny Sheff where walk starts 10.20 at the junction between Redmires Road and Crimicar Road. 
+ 									Sheffield Train station 8.45 to catch 9.14 train to Grindleford Station where walk starts 9.35.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-										Paths alongside of cricket fields and then on Redmires Conduit pathway.<br>
-										Proceeds down Wyming Brook trail to Rivelin Dams, then a gradual moderate climb back up through
-										the Nature Reserve (SSSI) with some short steep sections on rocky paths.<br>
-										Exit nature reserve on Lodge Lane and then walk back to Shiny Sheff on Redmires Road.
+									Grindleford station - Padley Chapel - Oxhay Wood - Greenwood Farm - Hathersage Booths - Harper Lees -
+									Coppice Wood - Grindleford Bridge - Hay Wood - Padley Gorge Foot - Grindleford station.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-										5 1/2 miles.
+									5 1/2 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
- 										Paths are a mixture of tarmac, gravel, soil, rocky.
-										There are a few steps and only walk-through types of stiles to get through.
+									Woodland tracks and valley paths, no stiles, several hand gates, mud in Coppice Wood plus one steeper downhill section from Hathersage Booths
+									to the River Derwent via a railway foot crossing and a climb through the Hay Wood but all on well marked paths.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-										David Guile (<a href="tel:07553 944116">07553 944116</a>) any walk enquiries.
+									Steve Brown (<a href="tel:07801 906126">07801 906126</a> any walk enquiries).
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin by Friday 4th October for him to make sure enough guides at the start.
+								Please contact Martin no later than Friday 8th November letting him know where you intend
+								to start the walk to make sure enough guides at the start of the walk.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -165,44 +163,38 @@ lastUpdated="1st Oct 2024"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-1710">
+					<article class="d-flex" id="event-2111">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20241017">THURSDAY 17TH OCTOBER</time> - HOPE STATION, TOWNHEAD BRIDGE, EDALE END, JAGGERS CLOUGH, EDALE STATION
+									<time datetime="20241121">THURSDAY 21st NOVEMBER</time> - MEET QUEEN'S HEAD POND HILL (ROUTE TO BE DECIDED ON THE DAY)
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-										Sheffield Train station 8.45 to catch 9.14 train to Hope Station where walk starts 9.45.
+ 									Queen's Head Pond Hill 9.15 to leave 9.30 by mini bus to Fairholmes walk starts 10am.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-										Linear walk to Edale Station.<br>
-										Hope station - Killhill Bridge - Townhead Bridge - Oaker Farm - Edale End - Backside Wood -
-										Jaggers Clough - Rowland Cote - Ollerbrook - Edale Station.
+									 To be decided on the day due to weather conditions.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-										6 1/2 miles
+									Around 8 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-										Valley Paths, some stiles, gates, mud but all well marked paths.
+									Some climbs rocky surfaces some good paths, walking boots are essential on this walk, moderate walking.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-										Steve Brown (<a href="tel:07801 906126">07801 906126</a> any walk enquiries).
+									Peak park rangers (<a href="tel:07502 547221">07502 547221</a> any walk enquiries).
 								</li>
 							</ul>
 							<div class="card-footer">
-								Return train 1532 or 1632 to Sheffield. Book Edale return as ticket.<br>
-								Car drivers can park at Hope Station or on the approach road (fee payable) then return to Hope station by train from Edale.<br>
-								Cafes and pubs in Edale while waiting for train.<br>
-								<br>
-								Please contact Martin by Friday 11th October if joining this walk - also please let him know where you intend to meet the group,
-								making sure we have enough guides at start for VI's.
+								Please contact Martin by Friday 15th November if joining this walk making sure there
+								are enough guides for VI's to meet at the start.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -210,44 +202,39 @@ lastUpdated="1st Oct 2024"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-2710">
+					<article class="d-flex" id="event-2411">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20241027">SUNDAY 27TH OCTOBER</time> - GRINDLEFORD, FROGGATT, STONEY MIDDLETON, EYAM, RILEY GRAVES
+									<time datetime="20241124">SUNDAY 24th NOVEMBER</time> - WOODHOUSE CO-OP, SHIRTCLIFF WOOD, SHIRE BROOK VALLEY RESERVE, LINLEY BANK MEADOWS RESERVE
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-								 	Sheffield Interchange (main foyer) 9.15 to catch the 9.35 no 65 bus to Grindleford where walk starts 10.10
-									from the bus stop just past the river. There is roadside parking nearby.
+ 									Poundland High Street 9.25 to catch the 9.45 no 24 bus Arundel Gate stop AG3
+									to Woodhouse Co-op Chapel Street where the walk starts 10.15.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Froggatt, Stoney Middleton, Eyam and back to Grindleford via the Riley Graves.
+									 Shirtcliff Brook, Shirtcliff Wood, Shire Brook Valley Nature Reserve, Linley Bank Meadows Nature Reserve,
+									 Shire Brook Nature Reserve, back to Woodhouse Coop to catch the number 24 or 25 bus to town.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									 6 1/2 miles.
+									6 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Field and woodland paths and some walking on minor roads. No stiles but some uphill sections.
+									Muddy woodland paths, good country park paths, grassy tracks. One short steep descent otherwise relatively flat.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Mike Wilson who will join the group at the Interchange
-									(<a href="tel:07538 001933">07538 001933</a> any walk enquiries).
+									Fiona Preston (<a href="tel:07884 030297">07884 030297</a> any walk enquiries).
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please note that return buses are infrequent, being at 14.19 and 16.20 from Grindleford
-								and that there is a midday bus passing through Stoney Middleton and Eyam should anyone want to shorten the walk.
-								There is also an hourly train service from Grindleford to Sheffield.<br>
-								<br>
-								Please contact Martin if joining this walk letting him know where you will be meeting the group
-								no later than Wednesday 23rd October, making sure we have enough guides at the start of the walk.
+								Please contact Martin by Wednesday 20th November to make sure we have enough guides for this walk.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -255,32 +242,29 @@ lastUpdated="1st Oct 2024"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-0511">
+					<article class="d-flex" id="event-0312">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20241105">TUESDAY 5TH NOVEMBER</time> - BURNGREAVE RD, CEMETERY, ABBEYFIELD PARK, OSGATHORPE PARK, CRABTREE PONDS
+									<time datetime="20241203">TUESDAY 3rd DECEMBER</time> - WISEWOOD INN, THEN AROUND THE LOXLEY AREA FOLLOWED BY CHRISTMAS LUNCH AT THE INN
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-								 	Poundland High Street 10.05 to catch the 10.33 no 75 bus to Burngreave Road where the walk starts 10.45 and finishes.
+ 									Poundland High Street 9.40 to catch the 10.03 no 52a from Church Street to the Wisewood Inn where walk starts 10.55.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Crossing Burngreave Rd we will walk down Melrose Rd to Burngreave Cemetery where there are some nice views of the City,
-									then making our way to Abbeyfield Park for Coffee stop.<br>
-									We then continue to Osgathorpe Park, then crossing Barnsley Rd to Crabtree Ponds for our Lunch stop.<br>
-									After lunch we will pass through Upper Roe Wood, then back to Burngreave Rd where there are lots of buses to get back to town.
+									Around the Loxley area.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									4 miles.
+									2 1/2 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Good paths, one mild ascent, no stiles.
+									Good tracks, wooded areas could be muddy.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
@@ -288,11 +272,19 @@ lastUpdated="1st Oct 2024"
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin letting him know where you will start the walk by Friday 1st November
-								so he knows if he has enough guides at the start of the walk.
+								Afterwards Christmas lunch at the Wisewood Inn.<br>
+								<br>
+								Please contact Martin for the walk only, making sure we have enough guides to cover at the start of the walk.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+								<br><br>
+								Eileen requires a £10 deposit to book your place for the Christmas lunch.<br>
+								Please contact her for menu choices by Wednesday November 13th.<br>
+								The menu is <a href="https://www.loxleybrewery.co.uk/wisewood-inn/christmas-menu/">available here</a>.
+								<br>
+								<a href="tel:0114 2814414">0114 2814414</a> or
+								<a href="mailto:supanan48@hotmail.com">supanan48@hotmail.com</a>
 							</div>
 						</div>
 					</article>

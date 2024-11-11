@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="29th Aug 2024"
+lastUpdated="1st Nov 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -26,11 +26,231 @@ lastUpdated="29th Aug 2024"
 			<section class="border border-3 p-2 p-md-4" id="gallery_2024">
 				<h3 class="text-center">~ 2024 ~</h3>
 				<div class="d-flex flex-column gap-4">
+
+					<!-- NORTHUMBERLAND HOLIDAY -->
+					<section class="d-flex flex-column gap-4">
+
+						<h4 class="text-center">NORTHUMBERLAND HOLIDAY (SEPTEMBER 2024)</h4>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Everybody smile!
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Rocky beach and cliffs
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 3.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Watching the waves
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 4.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										A nice break among the trees
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 5.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										The dogs smile for the camera too!
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 6.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Careful on the steps!
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 7.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Further up we go!
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 8.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Along the beach
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 9.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Dunstanburgh Castle Ruins in the distance (1)
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 10.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Dunstanburgh Castle Ruins in the distance (2)
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 11.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Up a grassy hill
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 12.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Sandra and Linda, with golden lab Dottie
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 14.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Anne gets an adoring look from Dottie
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 15.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										David gatecrashes the scene!
+									</figcaption>
+								</figure>
+							</div>
+	
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Northumberland Holiday 2024 - 13.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										The Cragside Country House, built for the Baron William Armstrong, and a National Trust property
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+						
+					</section>
+
+					<hr>
 				
 					<!-- MISCELLANEOUS 1 -->
 					<section class="d-flex flex-column gap-4">
 
 						<h4 class="text-center">A SELECTION OF EVENTS</h4>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Hope to Edale 1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Hope to Edale linear walk (1) (October 2024)
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Hope to Edale 2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Hope to Edale linear walk (2) (October 2024)
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Rivelin Dams and Nature Reserve - 1.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										A wet walk up to Rivelin Dams and the Nature Reserve (October 2024)
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<video controls width="294" height="520" class="figure-img sviwg-inset-subtle-image" alt="">
+										<source src="videos/Rivelin Dams and Nature Reserve.mp4" type="video/quicktime" />
+										<p>
+											Your browser doesn't support HTML video.
+											Here is a
+											<a href="videos/Rivelin Dams and Nature Reserve.mp4">link to the video</a>
+											instead.
+										</p>
+									</video>
+									<figcaption class="figure-caption">
+										Trying to stay out of the water!
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Rivelin Dams and Nature Reserve - 2.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Hope everyone is wearing good boots!
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2024/Rivelin Dams and Nature Reserve - 3.jpeg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Rivelin Dams and Nature Reserve - A misty view from up high
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<hr>
 
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
@@ -43,6 +263,8 @@ lastUpdated="29th Aug 2024"
 								</figure>
 							</div>
 						</div>
+
+						<hr>
 
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
@@ -74,7 +296,7 @@ lastUpdated="29th Aug 2024"
 							</div>
 						</div>
 
-						<!-- TODO -->
+						<hr>
 
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
@@ -84,7 +306,7 @@ lastUpdated="29th Aug 2024"
 										<p>
 											Your browser doesn't support HTML video.
 											Here is a
-											<a href="videos/VIDEO-2024-07-30-10-02-08.mp4" download="videos/VIDEO-2024-07-30-10-02-08.mp4">link to the video</a>
+											<a href="videos/VIDEO-2024-07-30-10-02-08.mp4" download>link to the video</a>
 											instead.
 										</p>
 									</video>
@@ -93,6 +315,8 @@ lastUpdated="29th Aug 2024"
 								</figure>
 							</div>
 						</div>
+
+						<hr>
 
 						<div class="row">
 							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">

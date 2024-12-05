@@ -28,7 +28,7 @@
 		<!-- HEADER AND NAVBAR -->
 		<header class="sviwg-header mt-1 mb-4">
 			<h1>SHEFFIELD VISUALLY IMPAIRED WALKING GROUP</h1>
-			<img src="images/sviwg_logo_new.jpg" class="sviwg-logo" alt="S&nbsp;V&nbsp;I&nbsp;W&nbsp;G logo" />
+			<img src="images/sviwg_logo_new.png" class="sviwg-logo" alt="S&nbsp;V&nbsp;I&nbsp;W&nbsp;G logo" />
 
 			<!-- NAVBAR -->
 			<nav class="navbar navbar-expand-lg bg-body-tertiary sviwg-navbar">

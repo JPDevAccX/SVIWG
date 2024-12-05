@@ -1,6 +1,6 @@
 <%
 title="In Memory"
-lastUpdated="1st Oct 2024"
+lastUpdated="27th Nov 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -11,7 +11,27 @@ lastUpdated="1st Oct 2024"
 			<h2 class="text-center">~ IN MEMORY ~</h2>
 
 			<div class="d-flex flex-column gap-5">
-						
+
+				<article class="d-flex">
+					<div class="card mx-auto sviwg-text-card sviwg-news-card">
+						<div class="card-header">
+							<h3 class="card-title fs-5">OBITUARY - PAUL STARKEY</h3>
+						</div>
+						<div class="card-body">
+							<p>
+								It is with regret to have to tell you Paul Starkey, an old friend to our group, died in September.
+							</p>
+							<p>
+								Paul was one of our first guides and he was always good fun to walk with.
+								Paul did not have good health for many years.
+							</p>
+							<p>
+								Our condolences to his family and friends and to those who remember him in our group.
+							</p>
+						</div>
+					</div>
+				</article>
+
 				<article class="d-flex">
 					<div class="card mx-auto sviwg-text-card sviwg-news-card">
 						<div class="card-header">

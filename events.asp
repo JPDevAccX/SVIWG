@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="11th Nov 2024"
+lastUpdated="27th Nov 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -58,6 +58,10 @@ lastUpdated="11th Nov 2024"
 			<div class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<section>
 					<h2 class="text-center" id="upcoming_sviwg_events_summary">UPCOMING SVIWG EVENTS</h2>
+			
+					<aside class="text-center border border-3 border-primary-subtle p-3 mb-3 fst-italic">
+						(Please note that Thursday and Sunday walks will be added in January)
+					</aside>
 
 					<div class="text-center fs-5 mb-4">IT'S IMPORTANT TO NOTE THAT WALKS MAY BE MUDDY IN PLACES DEPENDING ON THE RECENT WEATHER</div>
 
@@ -71,24 +75,24 @@ lastUpdated="11th Nov 2024"
 						</thead>
 						<tbody>			
 							<tr>
-								<td>WED 13th NOV</td>
-								<td class="text-center"><a href="#event-1311">GRINDLEFORD STATION, OXHAY WOOD, HATHERSAGE BOOTHS, COPPICE WOOD, HAY WOOD, PADLEY GORGE FOOT</a></td>
-								<td class="text-end">FRI 8th NOV</td>
-							</tr>
-							<tr>
-								<td>THU 21st NOV</td>
-								<td class="text-center"><a href="#event-2111">MEET QUEEN'S HEAD POND HILL (ROUTE TO BE DECIDED ON THE DAY)</a></td>
-								<td class="text-end">FRI 15th NOV</td>
-							</tr>
-							<tr>
-								<td>SUN 24th NOV</td>
-								<td class="text-center"><a href="#event-2411">WOODHOUSE CO-OP, SHIRTCLIFF WOOD, SHIRE BROOK VALLEY RESERVE, LINLEY BANK MEADOWS RESERVE</a></td>
-								<td class="text-end">WED 20th NOV</td>
-							</tr>
-							<tr>
 								<td>TUE 3rd DEC</td>
 								<td class="text-center"><a href="#event-0312">WISEWOOD INN, THEN AROUND THE LOXLEY AREA FOLLOWED BY CHRISTMAS LUNCH AT THE INN</a></td>
 								<td class="text-end">WED 13th NOV</td>
+							</tr>
+							<tr>
+								<td>WED 11th DEC</td>
+								<td class="text-center"><a href="#event-1112">WHEATA WOODS, WHARNCLIFFE WOODS, GRENOSIDE WOODS</a></td>
+								<td class="text-end">FRI 6th DEC</td>
+							</tr>
+							<tr>
+								<td>WED 8th JAN</td>
+								<td class="text-center"><a href="#event-0801">CATHEDRAL, KELHAM ISLAND, BURNGREAVE CEMETERY, WINCOBANK, MEADOWHALL</a></td>
+								<td class="text-end">FRI 3rd JAN</td>
+							</tr>
+							<tr>
+								<td>TUE 14th JAN</td>
+								<td class="text-center"><a href="#event-1401">WALK AROUND DORE AND TOTLEY</a></td>
+								<td class="text-end">FRI 10th JAN</td>
 							</tr>
 						</tbody>
 					</table>
@@ -121,126 +125,6 @@ lastUpdated="11th Nov 2024"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex" id="event-1311">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20241113">WEDNESDAY 13TH NOVEMBER</time> - GRINDLEFORD STATION, OXHAY WOOD, HATHERSAGE BOOTHS, COPPICE WOOD, HAY WOOD, PADLEY GORGE FOOT
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
- 									Sheffield Train station 8.45 to catch 9.14 train to Grindleford Station where walk starts 9.35.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Grindleford station - Padley Chapel - Oxhay Wood - Greenwood Farm - Hathersage Booths - Harper Lees -
-									Coppice Wood - Grindleford Bridge - Hay Wood - Padley Gorge Foot - Grindleford station.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									5 1/2 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Woodland tracks and valley paths, no stiles, several hand gates, mud in Coppice Wood plus one steeper downhill section from Hathersage Booths
-									to the River Derwent via a railway foot crossing and a climb through the Hay Wood but all on well marked paths.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Steve Brown (<a href="tel:07801 906126">07801 906126</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin no later than Friday 8th November letting him know where you intend
-								to start the walk to make sure enough guides at the start of the walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2111">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20241121">THURSDAY 21st NOVEMBER</time> - MEET QUEEN'S HEAD POND HILL (ROUTE TO BE DECIDED ON THE DAY)
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
- 									Queen's Head Pond Hill 9.15 to leave 9.30 by mini bus to Fairholmes walk starts 10am.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									 To be decided on the day due to weather conditions.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Around 8 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Some climbs rocky surfaces some good paths, walking boots are essential on this walk, moderate walking.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Peak park rangers (<a href="tel:07502 547221">07502 547221</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin by Friday 15th November if joining this walk making sure there
-								are enough guides for VI's to meet at the start.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2411">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20241124">SUNDAY 24th NOVEMBER</time> - WOODHOUSE CO-OP, SHIRTCLIFF WOOD, SHIRE BROOK VALLEY RESERVE, LINLEY BANK MEADOWS RESERVE
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
- 									Poundland High Street 9.25 to catch the 9.45 no 24 bus Arundel Gate stop AG3
-									to Woodhouse Co-op Chapel Street where the walk starts 10.15.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									 Shirtcliff Brook, Shirtcliff Wood, Shire Brook Valley Nature Reserve, Linley Bank Meadows Nature Reserve,
-									 Shire Brook Nature Reserve, back to Woodhouse Coop to catch the number 24 or 25 bus to town.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									6 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Muddy woodland paths, good country park paths, grassy tracks. One short steep descent otherwise relatively flat.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Fiona Preston (<a href="tel:07884 030297">07884 030297</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin by Wednesday 20th November to make sure we have enough guides for this walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
 
 					<article class="d-flex" id="event-0312">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
@@ -280,11 +164,136 @@ lastUpdated="11th Nov 2024"
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
 								<br><br>
 								Eileen requires a £10 deposit to book your place for the Christmas lunch.<br>
-								Please contact her for menu choices by Wednesday November 13th.<br>
+								Please contact her for menu choices by <b>Wednesday November 13th</b>.<br>
 								The menu is <a href="https://www.loxleybrewery.co.uk/wisewood-inn/christmas-menu/">available here</a>.
 								<br>
 								<a href="tel:0114 2814414">0114 2814414</a> or
 								<a href="mailto:supanan48@hotmail.com">supanan48@hotmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1112">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20241211">WEDNESDAY 11th DECEMBER</time> - WHEATA WOODS, WHARNCLIFFE WOODS, GRENOSIDE WOODS
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.30 to catch the 10.00 no 86 bus to The Angel PH Grenoside where walk starts 10.30.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Circular walk.<br>
+									Wheata Woods, Wharncliffe Woods and Grenoside woods, possible breaking off before going through Grenoside woods.
+									Those finishing there can follow the path to Main Street Grenoside.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									6 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good woodland paths, fields, no stiles.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Norman Pearson (<a href="tel:07803 437931">07803 437931</a>) any walk enquiries.
+								</li>
+							</ul>
+							<div class="card-footer">
+								Free car parking in the Community Centre Grenoside.<br>
+								<br>
+								Please contact Martin by <b>Friday 6th December</b> for him to make sure enough guides to assist VI's at the start of the walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0801">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250108">WEDNESDAY 8TH JANUARY</time> - CATHEDRAL, KELHAM ISLAND, BURNGREAVE CEMETERY, WINCOBANK, MEADOWHALL
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.45 to start walking 10.15.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Cathedral, Kelham Island, Burngreave Cemetery, and Wincobank, Meadowhall.<br>
+									Should anyone want to shorten the walk, the route crosses various bus routes.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									5 1/2 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Mixture of urban pavements and paths through park and woodland with some uphill sections.<br>
+									Paths may be muddy. 
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Mike Wilson (<a href="tel:07538 001933">07538 001933</a>) any walk enquiries. 
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin if joining this walk letting him know where you will meet the group
+								to make sure enough guides at the start of the walk by <b>Friday 3rd January</b>.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1401">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250114">TUESDAY 14th JANUARY</time> - WALK AROUND DORE AND TOTLEY
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.30 to catch the 9.55 no 81 bus to Dore Village where walk starts 10.30.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Walk around Dore and Totley.
+									Finishing in time for lunch at Dore Cafe.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									5 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Country tracks, couple of stiles, mild ascents. Wooded areas could be muddy at this time of year.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David Cadet (<a href="tel:07554 143262">07554 143262</a>) and
+									Norman Pearson (<a href="tel:07803 437931">07803 437931</a>)
+									any walk enquiries.
+								</li>
+							</ul>
+							<div class="card-footer">
+								As always please contact Martin if joining this walk by <b>Friday 10th January</b> letting him know where
+								you intend to start the walk making sure we have enough guides for VI's.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
 							</div>
 						</div>
 					</article>

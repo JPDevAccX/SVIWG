@@ -1,6 +1,6 @@
 <%
 title="Documents"
-lastUpdated="1st Nov 2024"
+lastUpdated="27th Nov 2024"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -57,75 +57,57 @@ lastUpdated="1st Nov 2024"
 			<!-- NEWSLETTER ARCHIVE -->
 			<section class="border border-3 p-2 p-md-4" id="resources_newsletters">
 				<h3 class="text-center">NEWSLETTER ARCHIVE</h3>
+
+				<h4 class="text-center fs-5 text-light-emphasis fw-semibold">2024</h4>
+				<div class="row border border-4 text-center mx-0 text-bg-light pb-1">
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter December 2024.rtf" target="_blank">DEC</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter November 2024.rtf" target="_blank">NOV</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter October 2024.rtf" target="_blank">OCT</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter September 2024.rtf" target="_blank">SEP</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter August 2024.rtf" target="_blank">AUG</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter July 2024.rtf" target="_blank">JUL</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter June 2024.rtf" target="_blank">JUN</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter May 2024.rtf" target="_blank">MAY</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter April 2024.rtf" target="_blank">APR</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter March 2024.rtf" target="_blank">MAR</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter February 2024.rtf" target="_blank">FEB</a></div>
+					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter January 2024.pdf" target="_blank">JAN</a></div>
+				</div>
 				
-
-					<table class="table caption-top mx-auto border border-4">
-						<caption class="text-center">2024</caption>
-						<tbody class="table-light text-center">
-							<tr>
-								<td><a href="docs/newsletters/SVIWG Newsletter November 2024.rtf" target="_blank">NOV</a></td>
-								<td><a href="docs/newsletters/SVIWG Newsletter October 2024.rtf" target="_blank">OCT</a></td>	
-								<td><a href="docs/newsletters/SVIWG Newsletter September 2024.rtf" target="_blank">SEP</a></td>
-								<td><a href="docs/newsletters/SVIWG Newsletter August 2024.rtf" target="_blank">AUG</a></td>	
-							</tr>
-							<tr>
-								<td><a href="docs/newsletters/SVIWG Newsletter July 2024.rtf" target="_blank">JUL</a></td>
-								<td><a href="docs/newsletters/SVIWG Newsletter June 2024.rtf" target="_blank">JUN</a></td>
-								<td><a href="docs/newsletters/SVIWG Newsletter May 2024.rtf" target="_blank">MAY</a></td>
-								<td><a href="docs/newsletters/SVIWG Newsletter April 2024.rtf" target="_blank">APR</a></td>	
-							</tr>
-							<tr>
-								<td><a href="docs/newsletters/SVIWG Newsletter March 2024.rtf" target="_blank">MAR</a></td>
-								<td><a href="docs/newsletters/SVIWG Newsletter February 2024.rtf" target="_blank">FEB</a></td>
-								<td><a href="docs/newsletters/SVIWG Newsletter January 2024.pdf" target="_blank">JAN</a></td>
-							</tr>
-						</tbody>
-					</table>
-
 				</section>
 
 			<!-- AGM MINUTES AND CONSTITUTION -->
 			<section class="border border-3 p-2 p-md-4" id="resources_internal">
 				<h3 class="text-center">AGM MINUTES AND CONSTITUTION</h3>
-				
-				<div class="d-flex flex-column gap-4">
-					<table class="table caption-top mx-auto border border-4">
-						<caption class="fs-5 text-center">MINUTES</caption>
-						<tbody class="table-light">
-							<tr class="text-center">
-								<td><a href="docs/internal/2023 AGM SVIWG Minutes.pdf" target="_blank">2023</a></td>
-								<td><a href="docs/internal/2022 AGM SVIWG Minutes.pdf" target="_blank">2022</a></td>
-								<td><a href="docs/internal/2021 AGM SVIWG Minutes.pdf" target="_blank">2021</a></td>
-							</tr>
-							<tr class="text-center">
-								<td class="sviwg-not-present">2020</td>
-								<td><a href="docs/internal/2019 AGM SVIWG Minutes.pdf" target="_blank">2019</a></td>
-								<td><a href="docs/internal/2018 AGM SVIWG Minutes.pdf" target="_blank">2018</a></td>
-							</tr>
-							<tr class="text-center">
-								<td><a href="docs/internal/2017 AGM SVIWG Minutes.pdf" target="_blank">2017</a></td>
-								<td><a href="docs/internal/2016 AGM SVIWG Minutes.pdf" target="_blank">2016</a></td>
-								<td><a href="docs/internal/2015 AGM SVIWG Minutes.pdf" target="_blank">2015</a></td>
-							</tr>
-							<tr class="text-center">
-								<td><a href="docs/internal/2014 AGM SVIWG Minutes.pdf" target="_blank">2014</a></td>
-								<td><a href="docs/internal/2013 AGM SVIWG Minutes.pdf" target="_blank">2013</a></td>
-								<td><a href="docs/internal/2012 AGM SVIWG Minutes.pdf" target="_blank">2012</a></td>
-							</tr>
-							<tr class="text-center">
-								<td><a href="docs/internal/2011 AGM SVIWG Minutes.pdf" target="_blank">2011</a></td>
-							</tr>
-						</tbody>
-					</table>
 
-					<div class="card mx-auto">
+				<div class="d-flex flex-column gap-4">
+					<article>
+						<h4 class="text-center fs-5 text-light-emphasis fw-semibold">MINUTES</h4>
+						<div class="row border border-4 text-center mx-0 text-bg-light pb-1">
+							<div class="col-4 p-2"><a href="docs/internal/2023 AGM SVIWG Minutes.pdf" target="_blank">2023</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2022 AGM SVIWG Minutes.pdf" target="_blank">2022</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2021 AGM SVIWG Minutes.pdf" target="_blank">2021</a></div>
+							<div class="col-4 p-2 sviwg-not-present">2020</div>
+							<div class="col-4 p-2"><a href="docs/internal/2019 AGM SVIWG Minutes.pdf" target="_blank">2019</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2018 AGM SVIWG Minutes.pdf" target="_blank">2018</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2017 AGM SVIWG Minutes.pdf" target="_blank">2017</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2016 AGM SVIWG Minutes.pdf" target="_blank">2016</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2015 AGM SVIWG Minutes.pdf" target="_blank">2015</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2014 AGM SVIWG Minutes.pdf" target="_blank">2014</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2013 AGM SVIWG Minutes.pdf" target="_blank">2013</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2012 AGM SVIWG Minutes.pdf" target="_blank">2012</a></div>
+							<div class="col-4 p-2"><a href="docs/internal/2011 AGM SVIWG Minutes.pdf" target="_blank">2011</a></div>
+						</div>
+					</article>
+
+					<article class="card mx-auto">
 						<div class="card-body">
 							<h4 class="card-title fs-5">SVIWG CONSTITUTION</h4>
 						</div>
 						<div class="card-footer">
 							<a href="docs/internal/SVIWG CONSTITUTION.pdf" target="_blank" class="btn btn-primary">PDF</a>
 						</div>
-					</div>
+					</article>
 				</div>
 			</section>
 			<!-- END AGM MINUTES AND CONSTITUTION -->

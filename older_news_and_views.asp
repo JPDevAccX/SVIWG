@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="27th Nov 2024"
+lastUpdated="8th Jan 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -24,6 +24,19 @@ lastUpdated="27th Nov 2024"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">SUPPORTER NEWS</h3>
+							</div>
+							<div class="card-body">
+								See <a href="https://www.bbc.co.uk/news/articles/cx2lql5ljpdo" target="_blank">this BBC News article</a>
+								about Uriah Rennie, who donated to our group £16,000.00 in 4 year increments.<br>
+								On behalf of the SVIWG very well deserved by him and congratulations from us all.
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

@@ -1,6 +1,6 @@
 <%
-title="Contact Us"
-lastUpdated="23rd Feb 2024"
+title="Contact"
+lastUpdated="12th Jan 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -12,7 +12,7 @@ lastUpdated="23rd Feb 2024"
 				<section class="border p-4 d-flex flex-column gap-2">
 					<article class="row border bg-light-subtle">
 						<div class="col-lg-3 fw-bold">
-							Susan Hill
+							Sue Hill
 						</div>
 						<div class="col-lg-2">
 							Chair
@@ -93,9 +93,9 @@ lastUpdated="23rd Feb 2024"
 				</section>
 
 				<section class="border p-5 d-flex flex-column gap-2">
-					Any donations will be gratefully received.
+					Any donations will be very gratefully received.
 					If you wish to make a donation, please forward to our Treasurer:
-					<b>Mr S. Wainright c/o SRSB, 5 Mappin Street, Sheffield S1 4DT</b>
+					<b>Mr Stan Wainwright, Treasurer, SVIWG, c/o SRSB, 5 Mappin Street, Sheffield, S1 4DT</b>
 				</section>
 		
 		</main>

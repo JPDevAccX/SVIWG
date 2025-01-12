@@ -1,6 +1,6 @@
 <%
 title="Home"
-lastUpdated="22nd Sep 2024"
+lastUpdated="12th Jan 2025"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -20,23 +20,26 @@ lastUpdated="22nd Sep 2024"
 		<!-- MAIN CONTENT -->
 		<main class="container-fluid g-0 sviwg-main-container d-flex flex-column gap-3">
 
+			<h1 class="fs-3 text-center">Welcome to the website of the Sheffield Visually Impaired Walking Group</h1>
+
 			<section class="border border-3 sviwg-large-font p-2 p-md-4">
 				<h2 class="text-center">WHAT WE DO</h2>
 				<p>
-					<b>THE SHEFFIELD VISUALLY IMPAIRED WALKING GROUP</b> offers visually impaired people (VIP's) the opportunity to
-					go walking regularly, assisted by trained volunteer guides.
+					<b>THE SHEFFIELD VISUALLY IMPAIRED WALKING GROUP</b>
+					offers visually impaired people (VIP's) the opportunity to go walking regularly, assisted by trained volunteer guides.
 				</p>
 				<p>
 				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 512 512"><path fill="currentColor" d="M138.156 79.563c-31.152.182-59.2 12.183-81.656 49.656c14.524 7.443 25.94 20.494 34.594 36.718c23.192-19.45 47.258-25.422 70.344-26.032c1.115-.03 2.232-.056 3.343-.062c7.78-.04 15.44.485 22.907 1.28l-2 18.595c-30.506-3.252-57.477-3.168-86.53 24.03c3.292 8.65 6.04 17.943 8.374 27.72c14.596-9.007 29.497-12.176 44.064-12.25c1.196-.007 2.402-.004 3.594.03c11.435.33 22.625 2.46 33.25 5.094l-4.5 18.125c-26.066-6.46-48.34-9.59-72.375 8.905a386.606 386.606 0 0 1 2.906 20.313c.392 3.398.713 6.826 1.03 10.28c9.115-3.8 18.35-5.536 27.375-5.687c1.955-.03 3.91.018 5.844.126c15.46.867 30.124 5.716 44.25 11.188l-6.75 17.437c-13.48-5.22-26.388-9.287-38.532-9.967c-10.51-.59-20.403 1.075-30.75 6.906c.684 13.683.838 27.62.5 41.56c16.186.72 33.618.074 50.28-1.936l5-.594l3.25 3.844c18.406 21.86 30.335 55.44 32.063 102c10.888-1.433 21.697-3.74 32.564-7.375c-25.184-102.074-34.018-205.22-.344-308.533c-31.203-16.298-66.677-30.76-99.063-31.343c-1.01-.018-2.026-.037-3.03-.03zm219.906 16.124c-15.74.036-30.8 2.812-43.156 7.938c-16.887 7.006-28.18 17.81-31.97 31.875c23.718 102.41 13.683 179.952.595 283.344c5.66 1.64 12.74 3.086 20.75 4.344c4-48.36 26.424-86.188 55.72-107.844l4.313-3.188l4.937 2.125c8.365 3.59 19.527 6.158 32.22 7.72a525.553 525.553 0 0 1-1.158-16.188c-22.766-17.532-51.772-17.002-77.906-9.187l-5.344-17.906c11.303-3.38 23.542-5.617 35.97-5.876c15.748-.33 31.8 2.563 46.593 10.406c-.017-6.967.15-13.778.563-20.375c.287-4.61.706-9.106 1.218-13.5c-22.627-20.67-45.18-19.31-71.812-14.906l-3.03-18.44c7.198-1.19 14.614-2.136 22.155-2.468c1.413-.062 2.828-.108 4.25-.125c17.42-.198 35.295 3.27 52.092 15c2.5-10.14 6-19.322 10.875-27.218c-26.413-28.12-52.972-30.288-83.156-29.47l-.5-18.656c2.146-.058 4.296-.086 6.47-.094c2.174-.008 4.37.003 6.563.063c27.6.754 56.7 7.326 82.875 33.968c10.384-8.308 24.128-12.26 40-10.718c-3.77-22.168-14.12-39.038-28.344-51.78c-16.68-14.942-38.927-24.045-61.625-27.376a137.134 137.134 0 0 0-20.158-1.469zM64.625 333.47c-24.22 19.75-43.225 53.82-44.938 98.686c34.014 11.948 82.977 16.013 169.657-1.125c-1.105-42.536-11.057-71.93-24.813-90.342c-35.766 3.787-73.08 2.453-99.905-7.22zm302.813 0c-24.21 19.752-43.226 53.83-44.938 98.686c34.01 11.95 82.986 16.008 169.656-1.125c-1.105-42.54-11.054-71.93-24.812-90.342c-35.758 3.783-73.088 2.45-99.906-7.22z"/></svg>
 					<span class="align-middle">
-						<b>WALKS</b> - We have an annual programme of walks in and around the Peak District and South Yorkshire.<br>
-						Walks vary in length and degree of difficulty to suit the varying capabilities of the VIP's.<br>
-						So - whether you want an easy 4 to 5 mile amble, a 6 to 7 mile ramble around the countryside, or a more
-						demanding hike into the hills, we will have something to suit you.<br>
-						All VIP's and potential guides are welcome to come along for a walk and try the group out without any commitment.
-						If VIP's want to bring a sighted friend with them the first time they come, that’s fine too.
-						Why not also bring your guide dog. He or she will enjoy the exercise as well.
+						<b>WALKS</b> - 	We have an annual programme of walks in and around the Peak District and South Yorkshire which vary in length and degree of difficulty.
+						So whether you want an easy 4 to 5 mile amble, a 6 to 7 mile ramble around the countryside, or a more
+						demanding hike into the hills, we will have something to suit you.
 					</span>
+				</p>
+				<p>
+					All VIP's and potential guides are welcome to come along for a walk and try the group out without any commitment.
+					If VIP's want to bring a sighted friend with them the first time they come, that's fine too.
+					Guide dogs are also welcome!
 				</p>
 				<p>
 				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M8 6v6m7-6v6M2 12h19.6M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2c0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3"/><circle cx="7" cy="18" r="2"/><path d="M9 18h5"/><circle cx="16" cy="18" r="2"/></g></svg>
@@ -71,111 +74,66 @@ lastUpdated="22nd Sep 2024"
 			</section>
 
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
-				<h2 class="text-center">OUR ORGANISATION</h2>
+				<h2 class="text-center">GETTING INVOLVED</h2>
 				<p>
-					Members are kept informed by our website and a monthly newsletter, either printed or emailed.<br>
-					We rely on donations and funds that we raise ourselves through sponsorship, etc. to meet our running costs.
+					If you would like more information about <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span> or may be interested in joining our group as a VIP or a guide please
+					contact the chair, <b>Sue Hill</b> on <a href="tel:07970 311329">07970&nbsp;311329</a>,
+					or send an email to <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>.
 				</p>
 				<p>
-					IF YOU WOULD LIKE MORE INFORMATION ABOUT <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span> or may be interested in joining our group as a VIP or a guide please
-					contact the chair, <b>Susan Hill</b> on <a href="tel:07970311329">07970311329</a>,
-					or send an email to <a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>.<br>
-					Alternatively, you can contact our Vice Chair / Membership Secretary, <b>Martin Wing</b> on <a href="tel:07747443812">07747443812</a>,
+					Alternatively, you can contact our Vice Chair / Membership Secretary, <b>Martin Wing</b> on <a href="tel:07747 443812">07747&nbsp;443812</a>,
 					or send an email to <a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>.
 				</p>
 				<p>
-					Any donations will be gratefully received. Please forward to our Treasurer: <b>Mr S. Wainright c/o SRSB, 5 Mappin Street, Sheffield S1 4DT.</b>
+					You can also visit our <a href="about_sviwg.asp">"About"</a> page to learn more about our organisation and its history.
 				</p>
 			</section>
 
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
-				<h2 class="text-center">SUPPORTING ORGANISATIONS</h2>
-				<div class="text-center fs-5 mb-4">We gratefully receive support from the following organisations:</div>
+				<h2 class="text-center">OUR SUPPORTERS</h2>
 				
-				<div class="row">
-					<div class="col-5-sm col-md-4">
-						<div class="d-flex gap-2 align-items-center">
-							<a href="https://www.srsb.org.uk/" tabindex="-1" aria-hidden="true">
-								<img src="images/orgs/srsb_logo.png" class="sviwg-small-logo" alt=""></a>
-							<a href="https://www.srsb.org.uk/">SHEFFIELD ROYAL SOCIETY FOR THE BLIND</a>
-						</div>
-					</div>
-					<div class="col my-auto">
-						- Who provide us with facilities for meeting and sending out information to members.
-					</div>
-				</div>
+				<div class="row align-items-center">
 
-				<div class="row">
-					<div class="col-5-sm col-md-4">
-						<div class="d-flex gap-2 align-items-center">
-							<a href="https://www.sheffield.gov.uk/" tabindex="-1" aria-hidden="true">
-								<img src="images/jwalden-Purple-arrow-shape.png" class="sviwg-small-logo" alt="">
-							</a>
-							<a href="https://www.sheffield.gov.uk/">SHEFFIELD CITY COUNCIL</a>
-						</div>
+					<div class="col-4 col-md-2 d-flex justify-content-center d-flex justify-content-center">	
+						<a href="https://www.srsb.org.uk/" tabindex="-1" aria-hidden="true">
+						<img src="images/orgs/srsb_logo.png" class="sviwg-small-logo" alt="SHEFFIELD ROYAL SOCIETY FOR THE BLIND"></a>	
 					</div>
-					<div class="col my-auto">
-						- The Physical Disability and
-						<a href="https://www.sheffield.gov.uk/disability-mental-health/sensory-impairment">Sensory Impairment Service</a>.
-						Who organise training for our guides, and refer and provide information to registered VIP's.
-					</div>
-				</div>
 
-				<div class="row">
-					<div class="col-5-sm col-md-4">
-						<div class="d-flex gap-2 align-items-center">
-							<a href="https://sheffieldramblers.org/" tabindex="-1" aria-hidden="true">
-								<img src="images/orgs/Ramblers Group Logos Vertical RGB Sheffield.png" class="sviwg-small-logo" alt="">
-							</a>
-							<a href="https://sheffieldramblers.org/">SHEFFIELD RAMBLERS</a>
-						</div>
+					<div class="col-4 col-md-2 d-flex justify-content-center">
+						<a href="https://www.sheffield.gov.uk/" tabindex="-1" aria-hidden="true">
+							<img src="https://www.sheffield.gov.uk/themes/custom/bbd_localgov/logo.png"
+							class="sviwg-small-logo"
+							alt="SHEFFIELD CITY COUNCIL"
+							style="background-color: #333; outline: 3px solid #333"
+						>
+						</a>
 					</div>
-					<div class="col my-auto">
-						- Who provide walk leaders and many of the guides for our walks.
-					</div>
-				</div>
 
-				<div class="row">
-					<div class="col-5-sm col-md-4">
-						<div class="d-flex gap-2 align-items-center">
-							<a href="https://www.sheffieldcitytrust.org/" tabindex="-1" aria-hidden="true">
-								<img src="images/orgs/Sheffield CT Logo.jpeg" class="sviwg-small-logo" alt="">
-							</a>
-							<a href="https://www.sheffieldcitytrust.org/">SHEFFIELD CITY TRUST</a>
-						</div>
+					<div class="col-4 col-md-2 d-flex justify-content-center">
+						<a href="https://sheffieldramblers.org/" tabindex="-1" aria-hidden="true">
+							<img src="images/orgs/Ramblers Group Logos Vertical RGB Sheffield.png" class="sviwg-small-logo" alt="SHEFFIELD RAMBLERS">
+						</a>
 					</div>
-					<div class="col my-auto">
-						- For their generosity.
+			
+					<div class="col-4 col-md-2 d-flex justify-content-center">
+						<a href="https://www.sheffieldcitytrust.org/" tabindex="-1" aria-hidden="true">
+							<img src="images/orgs/Sheffield CT Logo.jpeg" class="sviwg-small-logo" alt="SHEFFIELD CITY TRUST">
+						</a>
 					</div>
-				</div>
-
-			<div class="row">
-				<div class="col-5-sm col-md-4">
-					<div class="d-flex gap-2 align-items-center">
+	
+					<div class="col-4 col-md-2 d-flex justify-content-center">
 						<a href="https://www.sycf.org.uk/" tabindex="-1" aria-hidden="true">
-							<img src="images/orgs/SYCF Logo.svg" class="sviwg-small-logo sycf-purple p-1" alt="">
+							<img src="images/orgs/SYCF Logo.svg" class="sviwg-small-logo sycf-purple p-1" alt="SOUTH YORKSHIRE'S COMMUNITY FOUNDATION">
 						</a>
-						<a href="https://www.sycf.org.uk/">SOUTH YORKSHIRE'S COMMUNITY FOUNDATION</a>
 					</div>
-				</div>
-				<div class="col my-auto">
-					- For their generous support.
-				</div>
-			</div>
 
-			<div class="row">
-				<div class="col-5-sm col-md-4">
-					<div class="d-flex gap-2 align-items-center">
+					<div class="col-4 col-md-2 d-flex justify-content-center">
 						<a href="https://www.tnlcommunityfund.org.uk/" tabindex="-1" aria-hidden="true">
-							<img src="images/orgs/TNLCF Logo Cropped.png" class="sviwg-small-logo" alt="">
+							<img src="images/orgs/TNLCF Logo Cropped.png" class="sviwg-small-logo" alt="THE NATIONAL LOTTERY COMMUNITY FUND">
 						</a>
-						<a href="https://www.tnlcommunityfund.org.uk/">THE NATIONAL LOTTERY COMMUNITY FUND</a>
 					</div>
+
 				</div>
-				<div class="col my-auto">
-					- For their generous support.
-				</div>
-			</div>
 
 			</section>
 		</main>

@@ -263,3 +263,26 @@
 .sycf-purple {
 	background-color: #4e2170;
 }
+
+.sviwg-hcard-header {
+	background-color: #f7f7f7 ;
+	border-radius: inherit;
+}
+
+.sviwg-hcard-header {
+	@media (max-width: 767px) {
+		border-bottom: 2px solid #dee2e6;
+		border-bottom-left-radius: 0 ;
+		border-bottom-right-radius: 0 ;
+	}
+
+	@media (min-width: 768px) {
+		border-right: 2px solid #dee2e6;
+		border-top-right-radius: 0 ;
+		border-bottom-right-radius: 0 ;
+	}	
+}
+
+.br-inherit {
+	border-radius: inherit ;
+}

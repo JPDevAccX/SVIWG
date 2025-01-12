@@ -17,7 +17,7 @@
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
 		integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 		crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="css/stylesheet_20240922.css" />
+	<link rel="stylesheet" href="css/stylesheet_20250112.css" />
 
 	<title>SVIWG - <%=title%></title>
 </head>
@@ -116,15 +116,26 @@
 									Response.Write("RESOURCES</a>")
 								%>
 							</li>
+							<li class="nav-item">
+								<%
+									If title = "About SVIWG" Then
+										Response.Write("<a class='nav-link active'")
+									Else
+										Response.Write("<a class='nav-link'")
+									End If
+									Response.Write(" href='about_sviwg.asp'>")
+									Response.Write("ABOUT US</a>")
+								%>
+							</li>
 						</ul>
 							<%
-								If title = "Contact Us" Then
+								If title = "Contact" Then
 									Response.Write("<a class='nav-link sviwg-contact active'")
 								Else
 									Response.Write("<a class='nav-link sviwg-contact'")
 								End If
 								Response.Write(" href='contact.asp'>")
-								Response.Write("CONTACT US</a>")
+								Response.Write("CONTACT</a>")
 							%>
 					</div>
 				</div>

@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="8th Jan 2025"
+lastUpdated="12th Jan 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -51,7 +51,7 @@ lastUpdated="8th Jan 2025"
 
 			<nav aria-label="Sections" class="d-flex justify-content-evenly sviwg-large-font">
 				<a href="#upcoming_sviwg_events">SVIWG Events</a>
-				<!-- <a href="#upcoming_other_walks">Other Walks</a> -->
+				<a href="#upcoming_other_walks">Other Walks</a>
 				<a href="#current_walk_news">Walk News</a>
 			</nav>
 
@@ -94,7 +94,7 @@ lastUpdated="8th Jan 2025"
 					</table>
 				</section>
 
-				<!-- <section>
+				<section>
 					<h2 class="text-center" id="upcoming_other_walks_summary">OTHER UPCOMING WALKS</h2>
 
 					<table class="table mx-auto sviwg-table sviwg-table-walks sviwg-table-walks-other sviwg-max-w1120">
@@ -115,7 +115,7 @@ lastUpdated="8th Jan 2025"
 							</tr>
 						</tbody>
 					</table>
-				</section> -->
+				</section>
 			</div>
 
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
@@ -283,7 +283,7 @@ lastUpdated="8th Jan 2025"
 				</div>
 			</section>
 
-			<!-- <section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
+			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center" id="upcoming_other_walks">OTHER WALKS</h2>
 
 				<div class="d-flex flex-column gap-5">
@@ -296,17 +296,23 @@ lastUpdated="8th Jan 2025"
 								</h3>
 							</div>
 							<div class="card-body">
-								The first Thursday each month Rotherham Sight and Sound and Sheffield Royal Society for the Blind have a short walk around the Wickersley area Rotherham.
-								This is a steady 3 mile walk with a visit to the beautiful Winthrop Gardens then lunch in their cafe. Transport and Guides are provided.
+								The first Thursday each month Rotherham Sight and Sound and Sheffield Royal Society for the Blind have a
+								short walk around the Wickersley area in Rotherham.
+								This is a steady 3 mile walk with a visit to the beautiful Winthrop Gardens then lunch in their cafe.
+								Transport and Guides are provided.
 							</div>
 							<div class="card-footer">
-								Please contact Ben Gilder for more information on <a href="tel:0114 2722757">0114 2722757</a> or email <a href="mailto:info@srsb.org.uk">info@srsb.org.uk</a>
+								Please contact SRSB on <a href="tel:0114 2722757">0114 2722757</a>
+								or send an email to <a href="mailto:activities@srsb.org.uk">activities@srsb.org.uk</a>
+								to book a place or for more information.<br>
+								Additional details are available from the
+								<a href="https://www.srsb.org.uk/Rotherham-Health-Walks/" target="_blank">event page on SRSB's website</a>.
 							</div>
 						</div>
 					</article>
 
 				</div>
-			</section> -->
+			</section>
 
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center" id="current_walk_news">CURRENT WALK NEWS</h2>

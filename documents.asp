@@ -55,26 +55,34 @@ lastUpdated="27th Nov 2024"
 			<!-- END RULES AND GUIDANCE -->
 			
 			<!-- NEWSLETTER ARCHIVE -->
-			<section class="border border-3 p-2 p-md-4" id="resources_newsletters">
+			<section class="border border-3 p-2 p-md-4 d-flex flex-column gap-3" id="resources_newsletters">
 				<h3 class="text-center">NEWSLETTER ARCHIVE</h3>
 
-				<h4 class="text-center fs-5 text-light-emphasis fw-semibold">2024</h4>
-				<div class="row border border-4 text-center mx-0 text-bg-light pb-1">
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter December 2024.rtf" target="_blank">DEC</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter November 2024.rtf" target="_blank">NOV</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter October 2024.rtf" target="_blank">OCT</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter September 2024.rtf" target="_blank">SEP</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter August 2024.rtf" target="_blank">AUG</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter July 2024.rtf" target="_blank">JUL</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter June 2024.rtf" target="_blank">JUN</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter May 2024.rtf" target="_blank">MAY</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter April 2024.rtf" target="_blank">APR</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter March 2024.rtf" target="_blank">MAR</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter February 2024.rtf" target="_blank">FEB</a></div>
-					<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter January 2024.pdf" target="_blank">JAN</a></div>
-				</div>
-				
+				<section>
+					<h4 class="text-center fs-5 text-light-emphasis fw-semibold">2025</h4>
+					<div class="row border border-4 text-center mx-0 text-bg-light pb-1">	
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter January 2025.rtf" target="_blank">JAN</a></div>
+					</div>
 				</section>
+				
+				<section>
+					<h4 class="text-center fs-5 text-light-emphasis fw-semibold">2024</h4>
+					<div class="row border border-4 text-center mx-0 text-bg-light pb-1">	
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter December 2024.rtf" target="_blank">DEC</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter November 2024.rtf" target="_blank">NOV</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter October 2024.rtf" target="_blank">OCT</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter September 2024.rtf" target="_blank">SEP</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter August 2024.rtf" target="_blank">AUG</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter July 2024.rtf" target="_blank">JUL</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter June 2024.rtf" target="_blank">JUN</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter May 2024.rtf" target="_blank">MAY</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter April 2024.rtf" target="_blank">APR</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter March 2024.rtf" target="_blank">MAR</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter February 2024.rtf" target="_blank">FEB</a></div>
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter January 2024.pdf" target="_blank">JAN</a></div>
+					</div>
+				</section>
+			</section>
 
 			<!-- AGM MINUTES AND CONSTITUTION -->
 			<section class="border border-3 p-2 p-md-4" id="resources_internal">

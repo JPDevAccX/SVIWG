@@ -34,11 +34,7 @@
 			<nav class="navbar navbar-expand-lg bg-body-tertiary sviwg-navbar">
 				<div class="container-xxl">
 					<%
-						If title = "Home" Then
-							Response.Write("<a class='navbar-brand pe-sm-3 active' href='default.asp'>WELCOME</a>")
-						Else
-							Response.Write("<a class='navbar-brand pe-sm-3' href='default.asp'>WELCOME</a>")
-						End If
+							Response.Write("<span class='pe-sm-3 d-lg-none' href='default.asp'>" + title + "</span>")
 					%>
 					
 					<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -48,6 +44,28 @@
 					</button>
 					<div class="collapse navbar-collapse" id="navbarSupportedContent">
 						<ul class="navbar-nav me-auto mb-2 mb-lg-0 mr-3 pe-5">
+							<li class="nav-item">
+								<%
+									If title = "Welcome" Then
+										Response.Write("<a class='nav-link active'")
+									Else
+										Response.Write("<a class='nav-link'")
+									End If
+									Response.Write(" href='default.asp'>")
+									Response.Write("WELCOME</a>")
+								%>
+							</li>
+							<li class="nav-item">
+								<%
+									If title = "About SVIWG" Then
+										Response.Write("<a class='nav-link active'")
+									Else
+										Response.Write("<a class='nav-link'")
+									End If
+									Response.Write(" href='about_sviwg.asp'>")
+									Response.Write("ABOUT US</a>")
+								%>
+							</li>
 							<li class="nav-item dropdown pe-2">
 								<%
 									If title = "Events" or title = "Annual Programme" Then
@@ -114,17 +132,6 @@
 									End If
 									Response.Write(" href='resources.asp'>")
 									Response.Write("RESOURCES</a>")
-								%>
-							</li>
-							<li class="nav-item">
-								<%
-									If title = "About SVIWG" Then
-										Response.Write("<a class='nav-link active'")
-									Else
-										Response.Write("<a class='nav-link'")
-									End If
-									Response.Write(" href='about_sviwg.asp'>")
-									Response.Write("ABOUT US</a>")
 								%>
 							</li>
 						</ul>

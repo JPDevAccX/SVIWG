@@ -1,5 +1,5 @@
 <%
-title="Home"
+title="Welcome"
 lastUpdated="12th Jan 2025"
 %>
 

@@ -10,7 +10,7 @@
 			<p class="text-center fs-5">
 				Site managed by James Percival (<a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>)
 			</p>
-			<p class="text-center text-muted">&copy; 2024 <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span></p>
+			<p class="text-center text-muted">&copy; 2025 <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span></p>
 		</footer>
 
 	</div>

@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="31st Jan 2025"
+lastUpdated="2nd Mar 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -24,6 +24,30 @@ lastUpdated="31st Jan 2025"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">GROUP HOLIDAY THIS YEAR</h3>
+							</div>
+							<div class="card-body">
+								The Committee would like to know if there is any interest in a group holiday this year.<br>
+								Please respond if you would like the group to arrange a holiday by contacting Sue Hill.
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">COMMITTEE VACANCIES</h3>
+							</div>
+							<div class="card-body">
+								We have three vacancies for our SVIWG Committee, one as Treasurer and another for a Minute secretary.<br>
+								Please contact Sue if interested. (<a href="contact.asp">contact details here</a>).
+							</div>
+						</div>
+					</article>	
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

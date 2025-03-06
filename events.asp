@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="31st Jan 2025"
+lastUpdated="6th Mar 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -45,7 +45,9 @@ lastUpdated="31st Jan 2025"
 					<li>
 						Any members leaving walks early please let the leader or back marker know.
 					</li>
-
+					<li>
+						For questions regarding specific walks, please only contact the walk leader(s), whose details are given below.
+					</li>
 				</ul>
 			</section>
 
@@ -71,29 +73,58 @@ lastUpdated="31st Jan 2025"
 						</thead>
 						<tbody>			
 							<tr>
-								<td>TUE 4th FEB</td>
-								<td class="text-center"><a href="#event-0402">WESTWOOD, THORNCLIFFE WOOD, PARKIN WOOD, AROUND HIGH GREEN</a></td>
-								<td class="text-end">FRI 31st JAN</td>
+								<td>WED 12th MAR</td>
+								<td class="text-center"><a href="#event-1203">HATHERSAGE, PADLEY CHAPEL, GREENWOOD FARM, BACK TO HATHERSAGE</a></td>
+								<td class="text-end">FRI 7th MAR</td>
 							</tr>
 							<tr>
-								<td>WED 12th FEB</td>
-								<td class="text-center"><a href="#event-1202">UNSTONE WOODS, APPERKNOWLE, MIDDLE HANDLEY, BACK TO UNSTONE</a></td>
-								<td class="text-end">FRI 7th FEB</td>
+								<td>THU 20th MAR</td>
+								<td class="text-center"><a href="#event-2003">STARTING FROM FAIRHOLMES (ROUTE DECIDED ON THE DAY)</a></td>
+								<td class="text-end">FRI 14th MAR</td>
 							</tr>
 							<tr>
-								<td>THUR 20th FEB</td>
-								<td class="text-center"><a href="#event-2002">COLDWELL LANE, MALIN BRIDGE, ACORN HILL, RIVELIN PUB, RAILS ROAD, SANDYGATE</a></td>
-								<td class="text-end">FRI 14th FEB</td>
+								<td>SUN 30th MAR</td>
+								<td class="text-center"><a href="#event-3003">HUNTERS BAR, ENDCLIFFE PARK, FORGE DAM, BACK TO PARK ENTRANCE</a></td>
+								<td class="text-end">WED 26th MAR</td>
 							</tr>
 							<tr>
-								<td>SUN 23rd FEB</td>
-								<td class="text-center"><a href="#event-2302">ELSECAR HERITAGE CENTRE, NEEDLE'S EYE, HOOBER STAND, WENTWORTH WOODHOUSE, ELSECAR PARK</a></td>
-								<td class="text-end">WED 19th FEB</td>
+								<td>TUE 1st APR</td>
+								<td class="text-center"><a href="#event-0104">FIELDS AND COUNTRY TRACKS AROUND BAKEWELL</a></td>
+								<td class="text-end">FRI 28th MAR</td>
 							</tr>
 							<tr>
-								<td>TUE 4th MAR</td>
-								<td class="text-center"><a href="#event-0403">STARTING FROM DORE AND TOTLEY STATION BUS STOP (ROUTE TO BE ANNOUNCED)</a></td>
-								<td class="text-end">FRI 28th FEB</td>
+								<td>SAT 31st MAY</td>
+								<td class="text-center"><a href="#event-3105">GARDEN PARTY (CELEBRATING 25 YEARS OF SVIWG)</a></td>
+								<td class="text-end">TBA</td>
+							</tr>
+							<tr>
+								<td>WED 25th JUN</td>
+								<td class="text-center"><a href="#event-2506">AGM</a></td>
+								<td class="text-end">TBA</td>
+							</tr>
+							<tr>
+								<td>WED 9th JUL</td>
+								<td class="text-center"><a href="#event-0907">COACH RAMBLE TO NEWSTED ABBEY</a></td>
+								<td class="text-end">TBA</td>
+							</tr>
+							<tr>
+								<td>MON 15th SEP</td>
+								<td class="text-center">
+									<div class="d-flex justify-content-center">
+										<div class="d-flex flex-column justify-content-center">
+											<svg xmlns="http://www.w3.org/2000/svg" width="1.6em" viewBox="0 0 64 64">
+												<path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/>
+											</svg>
+										</div>	
+										<a href="#event-1509" class="mx-1">GROUP HOLIDAY - RIPON INN </a>
+										<div class="d-flex flex-column justify-content-center">
+											<svg xmlns="http://www.w3.org/2000/svg" width="1.6em" viewBox="0 0 64 64">
+												<path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/>
+											</svg>
+										</div>	
+									</div>
+								</td>
+								<td class="text-end">ASAP</td>
 							</tr>
 						</tbody>
 					</table>
@@ -127,22 +158,147 @@ lastUpdated="31st Jan 2025"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex" id="event-0402">
+					<article class="d-flex" id="event-1203">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20250204">TUESDAY 4th FEBRUARY</time> - WESTWOOD, THORNCLIFFE WOOD, PARKIN WOOD, AROUND HIGH GREEN
+									<time datetime="20250312">WEDNESDAY 12th MARCH</time> - HATHERSAGE, PADLEY CHAPEL, GREENWOOD FARM, BACK TO HATHERSAGE
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Poundland High Street 9.45 to catch the 10.12 no 1 bus to Wortley Road, High Green where the walk starts and finishes,
-									with the start at 10.55.
+									Sheffield train station 9.45 to catch the 10.14 train to Hathersage where walk starts 10.40 from the station.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Westwood, Thorncliffe Wood, Parkin Wood, Fields and Country Tracks around High Green.
+									Short ascent through fields to Padley Chapel.
+									The back of the Chapel provides a perfect spot for lunch with stones to sit on.
+									Gradual ascent along good broad path for approx 1.5 miles from Padley Chapel past Greenwood Farm
+									with Scraperlow Farm on the right at the highest point.
+									Approximately 300 yards of road walking at the top of this section.
+									Shorter steeper descent through woodland and field back to Hathersage.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									5 1/2 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									No stiles. Some gates, tree roots, and loose stones to be mindful of. Paths may be muddy alongside the river.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Andy Abbey (<a href="tel:07587 082473">07587 082473</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin by <b>Friday 7th March</b> to make sure we have enough guides for VI's,
+								particularly at the start to meet at the station.
+								<b></b>
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2003">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250320">THURSDAY 20th MARCH</time> - STARTING FROM FAIRHOLMES (ROUTE DECIDED ON THE DAY)
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Queen's Head pub Pond Hill 9.15 to travel by mini bus leaving 9.30 to Fairholmes where walk starts 10.00.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									To be decided on the day due to weather conditions.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									7 to 8 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Some hill climbs with rough tracks, some easy paths and moderate walking.
+									It is advised to wear good walking boots on this walk.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin to make sure we have enough guides for this walk by <b>Friday 14th March</b>
+								letting him know where you intend to start the walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-3003">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250330">SUNDAY 30th MARCH</time> - HUNTERS BAR, ENDCLIFFE PARK, FORGE DAM, BACK TO PARK ENTRANCE
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 10.20 to catch the 10.43 no 88 bus (CS 123) to Hunters Bar, Neill Road.
+									Walk starts from Hunters Bar entrance 11am.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Endcliffe Park to Forge Dam. Return by similar route, back to Park entrance.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good flat paths.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Les Seaman (<a href="tel:07547 115946">07547 115946</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please remember to contact Martin by <b>Wednesday 26th March</b> if joining this walk
+								letting him know where you will start the walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0104">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250401">TUESDAY 1st APRIL</time> - FIELDS AND COUNTRY TRACKS AROUND BAKEWELL
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Interchange (main foyer) 9.15 to catch the 9.40 no 218 bus to Bakewell, walk starts 10.35.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Circular walk.
+									Walking on good paths, fields, and country tracks around the Bakewell area including a small section of the Monsal.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
@@ -150,15 +306,15 @@ lastUpdated="31st Jan 2025"
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Country tracks and fields, a couple of stiles, mild ascents, may be muddy at this time of year.
+									Country tracks and fields with one steep ascent.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									David Cadet (<a href="tel:07554 143262">07554 143262</a> for any walk enquiries).
+									David Cadet (<a href="tel:07554 143262">07554 143262</a> or <a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a> for any walk enquiries). 
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin if joining this walk by <b>Friday 31st January</b> for him to make sure enough guides at the start of the walk.
+								Please contact Martin by <b>Friday 28th March</b> so he knows he has enough guides also to meet VI's at the start of the walk.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -166,172 +322,63 @@ lastUpdated="31st Jan 2025"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-1202">
+					<article class="d-flex" id="event-3105">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20250212">WEDNESDAY 12th FEBRUARY</time> - UNSTONE WOODS, APPERKNOWLE, MIDDLE HANDLEY, BACK TO UNSTONE
+									<time datetime="20250531">SATURDAY 31st MAY</time> - GARDEN PARTY (CELEBRATING 25 YEARS OF SVIWG)
 								</h3>
 							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.30 to catch the no 43 bus across Arundel Gate (opposite Poundland) 9.54 to Unstone Junior School where walk starts 10.40.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									A round walk - Unstone Woods, Apperknowle, Middle Handley, returning back to Unstone.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Around 7 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Couple of steep inclines, can be muddy at this time of year.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Joe Fagan who will meet the group at Unstone (<a href="tel:07791 634319">07791 634319</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Car parking in nearby Community free Car Park. S18 4AL.
-								<br><br>
-								Please contact Martin by <b>Friday 7th February</b> letting him know where you will be meeting the group to ensure enough guides for VI's.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							<div class="card-body">
+								Taking place at Mike Jackson's home, Dore, 2 - 5 p.m.
 							</div>
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-2002">
+					<article class="d-flex" id="event-2506">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20250220">THURSDAY 20TH FEBRUARY</time> - COLDWELL LANE, MALIN BRIDGE, ACORN HILL, RIVELIN PUB, RAILS ROAD, SANDYGATE
+									<time datetime="20250625">WEDNESDAY 25th JUNE</time> - AGM
 								</h3>
 							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland 9.10 to catch the 9.34 no 51 bus Church Street (opposite Cathedral) to Sandygate/Coldwell Lane arrives 9.55.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Down Coldwell Lane footpath to walk past allotment gardens on Den Bank and then pathways alongside River Rivelin to Malin Bridge.
-									Continue on path alongside River Loxley to Acorn Hill and climb steep path to go across Stannington to path descending to Rivelin pub.
-									Proceed alongside river to Rails Road and then uphill path / track to Sandygate for No 51 bus back to Sheffield.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Approx 8 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Some stiles.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David Guile (<a href="tel:07553 944116">07553 944116</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please all members remember to contact Martin by <b>Friday 14th February</b>
-								making sure we have enough guides to meet VI's at the start of the walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							<div class="card-body">
+								Taking place at Mappin Street in the evening.
 							</div>
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-2302">
+					<article class="d-flex" id="event-0907">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20250223">SUNDAY 23RD FEBRUARY</time> - ELSECAR HERITAGE CENTRE, NEEDLE'S EYE, HOOBER STAND, WENTWORTH WOODHOUSE, ELSECAR PARK
+									<time datetime="20250907">WEDNESDAY 9th JULY</time> - COACH RAMBLE TO NEWSTED ABBEY
 								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield Railway station 9.10 to catch the 9.37 platform 1a train to Elsecar.
-									The train from Barnsley leaves 9.58 and arrives Elsecar 10.07 where the walk will start.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Walk from the train station to Elsecar heritage centre,
-									from the heritage centre we walk to the needles eye (one of Wentworth Woodhouse's follies) where we could stop for a coffee.<br>
-									From there walk on Street Lane up to Hoober stand.
-									Walk down the woods back on to the lane and head back towards Wentworth Woodhouse where we could have lunch on the steps of the house.
-									There is also a cafe, toilets and gift shop.<br>
-									Back up to the village and go down the church path opposite the garden centre.
-									Through the old churchyard and back onto the main street. Here we can go back on the fields all the way back to Elsecar park.
-									There are several pubs, cafes and antique centre.<br>
-									It is then a 10 minute walk back up to the train station.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									7 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Mixed terrain, several stiles.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Matt Gulty (<a href="tel:07738 005412">07738 005412</a> any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Car drivers can park at the station free of charge.
-								<br><br>
-								Please remember to contact Martin by <b>Wednesday 19th February</b> if joining this walk
-								for him to make sure enough guides at Sheffield train station to meet VI's .
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
 							</div>
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-0403">
+					<article class="d-flex" id="event-1509">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20250304">TUESDAY 4TH MARCH</time> - STARTING FROM DORE AND TOTLEY STATION BUS STOP (ROUTE TO BE ANNOUNCED)
+									<svg xmlns="http://www.w3.org/2000/svg" width="1.2em" viewBox="0 0 64 64">
+										<path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/>
+									</svg>
+									<span class="align-middle ms-1">
+										<time datetime="20250915">MONDAY 15th &mdash; SATURDAY 20th SEPTEMBER</time> - GROUP HOLIDAY - RIPON INN
+									</span>
 								</h3>
 							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.55 to catch the no 97 10.23 bus (opposite Crucible) walk starts 10.45 from the Dore and Totley station bus stop.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Linear walk. Route to be announced.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									To be announced.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Easy walking, one short ascent at the start with no stiles.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David Cadet (<a href="tel:07554 143262">07554 143262</a> for any walk enquiries). 
-								</li>
-							</ul>
+							<div class="card-body">
+								This year we have booked accommodation for 22 people staying at the
+								<a href="https://www.inncollectiongroup.com/ripon-inn/" target="_blank">Ripon Inn</a> in the borough of Harrogate.<br>
+								Cost for 5 days bed, breakfast, and evening meal (£26 allowance) is including coach transport and driver tips.<br>
+								£432.50 per person sharing, Twin or Double bed, Single occupancy £645.
+							</div>
 							<div class="card-footer">
-								Please remember to contact Martin by <b>Friday 28th February</b> for him to know for sure if he has enough guides for this walk
-								and enough guides to meet VI's at the start of the walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+								Please contact Hilary ASAP as we have to pay a 10 percent deposit of £50 per person to secure your place.
+								<a href="mailto:hilarymyers16@gmail.com">hilarymyers16@gmail.com</a> or <a href="tel:0114 2306604">0114 2306604</a> 
 							</div>
 						</div>
 					</article>
@@ -374,20 +421,6 @@ lastUpdated="31st Jan 2025"
 				<h2 class="text-center" id="current_walk_news">CURRENT WALK NEWS</h2>
 
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									GROUP HOLIDAY THIS YEAR
-								</h3>
-							</div>
-							<div class="card-body">
-								The Committee would like to know if there is any interest in a group holiday this year.<br>
-								Please respond if you would like the group to arrange a holiday by contacting Sue Hill.
-							</div>
-						</div>
-					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">

@@ -24,7 +24,7 @@ lastUpdated="12th Jan 2025"
 				<h2 class="text-center">ABOUT SVIWG</h2>
 				<p>
 					Our organisation was founded back in the year 2000 and we've been supporting visually impaired walkers in Sheffield
-					and the surrounding areas for over 25 years. You can read a little bit about our past on <a href="sviwg_history.asp">our history page</a>.
+					and the surrounding areas for 25 years. You can read a little bit about our past on <a href="sviwg_history.asp">our history page</a>.
 				</p>
 				<p>
 					We are run by a committee, whose members are all active in the group.<br>

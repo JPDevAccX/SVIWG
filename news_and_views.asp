@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="2nd Mar 2025"
+lastUpdated="28th Mar 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -44,97 +44,6 @@ lastUpdated="2nd Mar 2025"
 								would like to hand it over to someone else now.<br>
 								She would be on hand to advise if anyone is not familiar with this role so please contact Sue Hill if interested
 								(<a href="contact.asp">contact details here</a>).
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">OUR HISTORY - PART THREE</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									Mike Jackson MBE joined our group in 2000 not long after it had started.
-								</p>
-								<p>
-									He soon became a popular character, and as well as our bi-monthly walks with the Peak Park Rangers he arranged the alternative walk on Thursdays.
-									This ensured we now had a walk each week in our schedule.
-								</p>
-								<p>
-									Mike certainly pushed the envelope, taking blind members with guides to places we could only imagine as blind people.
-									These walks were not for the faint hearted.<br>
-									He received his MBE for services in the community, showcasing his garden in Dore each year,
-									mountain rescue, and also a member of the Rotary club.
-								</p>
-								<p>
-									The star of our group must be Betsy Wilson however who is no longer with us,
-									who when the group began was instrumental in helping the Committee get started,
-									becoming our first Chair, starting the newsletter,
-									and pushing the group by telling everyone who would listen when out walking about the SVIWG.
-								</p>
-							</div>
-							<div class="card-footer">
-								- Gail
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">OUR HISTORY - PART TWO</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									Further to my first history memories I have been asked if I can think of any other.
-								</p>
-								<p>
-									We have had many wonderful guides and still have passing through our group.<br>
-									Some names which left their mark are Jean and Gordon Worthington who joined around one year after the group started.
-									They encouraged the fourth Sunday walk and also helped to get the committee rolling.
-									Also they took the group on their first three holidays all on public transport.
-									The first being the Isle of Wight and the next two to Teignmouth on the train.
-								</p>
-								<p>
-									Another memorable holiday was to Austria on a walking trip - this was arranged by a VI member.
-								</p>
-								<p>
-									After that Hilary Myers, a VI, took on the role and arranged many holidays with great precision leaving no stone unturned.
-									By now the holiday group had grown to around 30 or so, which was no mean feat.
-								</p>
-								<p>
-									Other memorable guides were Peter and Brenda Sunderland and Jack Burling
-									who were amongst the first guides with the Ramblers to step up and come out with our group.
-								</p>
-								<p>
-									John Bater, a VI, came along and was a great addition as he had an encyclopaedic knowledge of our countryside and further,
-									and as his sight was not too bad he could also lead walks.
-								</p>
-								<p>
-									Not forgetting Eric Andrews, a VI, but also an adventurer who arranged many fundraising events;
-									Walking up Ben Nevis, Snowdon, and Scafell Pike, and also Tandem riding at the Manchester Velodrome.
-								</p>
-								<p>
-									Steve Brown also arranged to cross the sands at Morecambe Bay.
-								</p>
-							</div>
-							<div class="card-footer">
-								- Gail
-							</div>
-						</div>
-					</article>
-					
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">VOLUNTEERING OPPORTUNITIES</h3>
-							</div>
-							<div class="card-body">
-								The Friends of Whirlow Brook Park are looking for volunteers for two upcoming work days.<br>
-								On Saturday 15 February they will be hedge-laying, and on Saturday 15 March Orchard-planting.<br>
-								If anyone is free on either of those days and fancies a bit of exercise, please contact Nicola Gilbert at <a href="mailto:nicolaanngilbert@gmail.com">nicolaanngilbert@gmail.com</a>.<br>
-								They have offered to do a guided tour of the park for our group in spring, it would be nice to be able to reciprocate .
 							</div>
 						</div>
 					</article>

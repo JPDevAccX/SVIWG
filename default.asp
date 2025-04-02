@@ -85,7 +85,7 @@ lastUpdated="12th Jan 2025"
 					or send an email to <a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>.
 				</p>
 				<p>
-					You can also visit our <a href="about_sviwg.asp">"About"</a> page to learn more about our organisation and its history.
+					You can also visit our <a href="about_sviwg.asp">"About"</a> and <a href="sviwg_history.asp">"History"</a> pages to learn more about our organisation.
 				</p>
 			</section>
 

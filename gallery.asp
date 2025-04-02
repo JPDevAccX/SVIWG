@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="1st Nov 2024"
+lastUpdated="28th Mar 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -15,12 +15,117 @@ lastUpdated="1st Nov 2024"
 			</section>
 
 			<nav aria-label="Years" class="d-flex justify-content-evenly">
+				<a href="#gallery_2025">2025</a>
 				<a href="#gallery_2024">2024</a>
 				<a href="#gallery_2023">2023</a>
 				<a href="#gallery_2022">2022</a>
 				<a href="#gallery_2021">2021</a>
 				<a href="gallery_other.asp">Other Media</a>	
 			</nav>
+
+			<!-- 2025 -->
+			<section class="border border-3 p-2 p-md-4" id="gallery_2025">
+				<h3 class="text-center">~ 2025 ~</h3>
+				<div class="d-flex flex-column gap-4">
+
+					<!-- NORTHUMBERLAND HOLIDAY -->
+					<section class="d-flex flex-column gap-4">
+
+						<h4 class="text-center">
+							PEAK PARK RANGERS WALK FROM FAIRHOLMES (20th MARCH)
+							<br>
+							<span class="fs-5">(sent in by kryanmurray and Anne Batty)</span>
+						</h4>
+
+						<div class="row">
+							<div class="col-sm-8 col-md-6 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250320_A1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Woodland trail
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-6 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250320_A4.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Colourful terrain under a blue sky
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-6 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250320_A5.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										A rugged steep ascent
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250320_A2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">The group relaxes in a grassy field under the sun</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250320_B1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Looking down on the reservoir
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250320_B2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Group in the distance in a sea of browns, yellows, and greens
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250320_B4.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">Something amphibious in the water!</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250320_B5.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">National Trust sign for Little Howden Moor</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+					
+					<!-- MISCELLANEOUS 1 -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">MARCH 4th WALK</h4>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Walk - Castle Inn Near Bradway.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">Stopping for drinks at the Castle Inn, near Bradway</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+				</div>
+			</section>
+			<!-- END 2025 -->
 
 			<!-- 2024 -->
 			<section class="border border-3 p-2 p-md-4" id="gallery_2024">

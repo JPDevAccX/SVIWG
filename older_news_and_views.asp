@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="28th Mar 2025"
+lastUpdated="2nd May 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -24,6 +24,21 @@ lastUpdated="28th Mar 2025"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">COMMITTEE VACANCY</h3>
+							</div>
+							<div class="card-body">
+								We have a vacancy on our Committee for a Minutes secretary.<br>
+								Pauline who has served on our committee for around 15 years for whom we are very grateful
+								would like to hand it over to someone else now.<br>
+								She would be on hand to advise if anyone is not familiar with this role so please contact Sue Hill if interested
+								(<a href="contact.asp">contact details here</a>).
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

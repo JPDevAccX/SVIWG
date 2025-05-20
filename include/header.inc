@@ -23,6 +23,11 @@
 </head>
 
 <body>
+	<script>
+		window.onload = () => {
+			document.getElementById('navbarDropdown').removeAttribute('href') ;
+		}
+	</script>
 	<div class="container-fluid g-0">
 
 		<!-- HEADER AND NAVBAR -->
@@ -73,7 +78,7 @@
 									Else
 										Response.Write("<a class='nav-link dropdown-toggle'")
 									End If
-									Response.Write(" href='#' id='navbarDropdown' role='button' data-bs-toggle='dropdown' aria-expanded='false'>")
+									Response.Write(" href='events.asp' id='navbarDropdown' role='button' data-bs-toggle='dropdown' aria-expanded='false'>")
 									Response.Write("WALKS AND EVENTS</a>")
 								%>
 								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -85,7 +90,7 @@
 												Response.Write("<a class='dropdown-item'")
 											End If
 											Response.Write(" href='events.asp'>")
-											Response.Write("UPCOMING WALKS AND EVENTS</a>")
+											Response.Write("UPCOMING EVENTS</a>")
 										%>
 									</li>
 									<li>
@@ -96,7 +101,7 @@
 												Response.Write("<a class='dropdown-item'")
 											End If
 											Response.Write(" href='walks_programme.asp'>")
-											Response.Write("ANNUAL WALKS PROGRAMME</a>")
+											Response.Write("ANNUAL PROGRAMME</a>")
 										%>
 									</li>
 								</ul>

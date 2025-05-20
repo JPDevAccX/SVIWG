@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="28th Mar 2025"
+lastUpdated="2nd May 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -36,14 +36,35 @@ lastUpdated="28th Mar 2025"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">COMMITTEE VACANCY</h3>
+								<h3 class="card-title fs-5">IMPORTANT NOTICE</h3>
 							</div>
 							<div class="card-body">
-								We have a vacancy on our Committee for a Minutes secretary.<br>
-								Pauline who has served on our committee for around 15 years for whom we are very grateful
-								would like to hand it over to someone else now.<br>
-								She would be on hand to advise if anyone is not familiar with this role so please contact Sue Hill if interested
-								(<a href="contact.asp">contact details here</a>).
+								<p>
+									Sometimes we have to turn down VI's if there are not enough guides for that particular walk.
+									This is never personal - we are working hard to recruit new guides so our VI's are never turned down for a walk.
+								</p>
+								<p>
+									Judith has set up a Facebook page for our group to send her any photos, videos, etc, hopefully to recruit new guides.
+									Contact details are
+									<a href="mailto:judemorton56@gmail.com">judemorton56@gmail.com</a> or
+									mobile <a href="tel:07896 596413">07896 596413</a>.
+									<br>
+									Also not forgetting our web site managed by James Percival.
+								</p>
+								<p>
+									Also it is most important to contact Martin by the date specified for that particular walk.
+									This gives Martin time to try to find more guides to come along, sometimes forgetting to put their names down.
+								</p>
+								<p>
+									Ideally we would like to have 2 guides for each VI but this is not possible so we always have 2 to 3 spare guides
+									to give other guides who find themselves guiding most of the day a rest.
+								</p>
+								<p>
+									Thank you for your cooperation.
+								</p>
+							</div>
+							<div class="card-footer">
+								 - Gail
 							</div>
 						</div>
 					</article>

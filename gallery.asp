@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="28th Mar 2025"
+lastUpdated="2nd May 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -28,7 +28,56 @@ lastUpdated="28th Mar 2025"
 				<h3 class="text-center">~ 2025 ~</h3>
 				<div class="d-flex flex-column gap-4">
 
-					<!-- NORTHUMBERLAND HOLIDAY -->
+					<!--  -->
+					<section class="d-flex flex-column gap-4">
+
+						<h4 class="text-center">
+							LOXLEY VALLEY TO WADSLEY COMMON (27th APRIL)
+							<br>
+							<span class="fs-5">(sent in by Anne Batty)</span>
+						</h4>
+
+						<div class="row">
+							<div class="col-sm-8 col-md-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/LoxleyWadsley_20250427_1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Weir on the River Loxley
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/LoxleyWadsley_20250427_4.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Sunny spring weather and a few sensible hats
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-8 col-md-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/LoxleyWadsley_20250427_2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Up the steps with backpacks
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/LoxleyWadsley_20250427_3.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										A duck family making ripples in the water
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+						
+					<hr>
+
+					<!-- PEAK PARK RANGERS WALK FROM FAIRHOLMES (20th MARCH) -->
 					<section class="d-flex flex-column gap-4">
 
 						<h4 class="text-center">

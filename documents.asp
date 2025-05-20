@@ -1,6 +1,6 @@
 <%
 title="Documents"
-lastUpdated="28th Mar 2025"
+lastUpdated="2nd May 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -61,6 +61,7 @@ lastUpdated="28th Mar 2025"
 				<section>
 					<h4 class="text-center fs-5 text-light-emphasis fw-semibold">2025</h4>
 					<div class="row border border-4 text-center mx-0 text-bg-light pb-1">
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter May 2025.rtf" target="_blank">MAY</a></div>
 						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter April 2025.rtf" target="_blank">APR</a></div>
 						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter March 2025.rtf" target="_blank">MAR</a></div>
 						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter February 2025.rtf" target="_blank">FEB</a></div>
@@ -95,6 +96,7 @@ lastUpdated="28th Mar 2025"
 					<article>
 						<h4 class="text-center fs-5 text-light-emphasis fw-semibold">MINUTES</h4>
 						<div class="row border border-4 text-center mx-0 text-bg-light pb-1">
+							<div class="col-4 p-2"><a href="docs/internal/2024 AGM SVIWG Minutes.pdf" target="_blank">2024</a></div>
 							<div class="col-4 p-2"><a href="docs/internal/2023 AGM SVIWG Minutes.pdf" target="_blank">2023</a></div>
 							<div class="col-4 p-2"><a href="docs/internal/2022 AGM SVIWG Minutes.pdf" target="_blank">2022</a></div>
 							<div class="col-4 p-2"><a href="docs/internal/2021 AGM SVIWG Minutes.pdf" target="_blank">2021</a></div>

@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="2nd May 2025"
+lastUpdated="28th May 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -28,9 +28,178 @@ lastUpdated="2nd May 2025"
 				<h3 class="text-center">~ 2025 ~</h3>
 				<div class="d-flex flex-column gap-4">
 
-					<!--  -->
+					<!-- PORTER VALLEY TO WHIRLOW BROOK HALL (25th MAY) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							PORTER VALLEY TO WHIRLOW BROOK HALL (25th MAY)
+							<br>
+							<span class="fs-5">(sent in by Anne Batty)</span>
+						</h4>
+						<div class="row">
+							<div class="col-sm-8 col-md-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/PorterValley_To_WhirlowBrook_20250525_6.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Trees and bushes everywhere!
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/PorterValley_To_WhirlowBrook_20250525_7.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Nice and dry here with a convenient log to sit on
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/PorterValley_To_WhirlowBrook_20250525_1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										An inquisitive highland cow checks out the group
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/PorterValley_To_WhirlowBrook_20250525_3.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Lots of foliage
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/PorterValley_To_WhirlowBrook_20250525_4.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Some brightly coloured flowers in bloom
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/PorterValley_To_WhirlowBrook_20250525_5.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Whirlow Brook Park "Onion" shelter
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/PorterValley_To_WhirlowBrook_20250525_2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+											Whirlow Brook Hall
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+
+					<!-- PEAK PARK RANGERS - STRINES ROAD TO FAIRHOLMES VIA BACK TOR (22nd MAY) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							PEAK PARK RANGERS - STRINES ROAD TO FAIRHOLMES VIA BACK TOR (22nd MAY)
+							<br>
+							<span class="fs-5">(sent in by Mike Wilson)</span>
+						</h4>
+						<div class="row">
+							<div class="col-sm-8 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250522_Photo1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Strange rock formations on the Tor
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250522_RouteMap.png" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Map of the route<br>
+										<div class="fs-6">
+										© <a href="https://www.mapbox.com/about/maps">Mapbox</a>
+										©	<a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a><br>
+										<strong><a href="https://apps.mapbox.com/feedback/" target="_blank">Improve this map</a></strong>
+										</div>
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-lg-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250522_Photo2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Looking around from a high point
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250522_Photo3.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+											Walking down to the reservoir with a cloudy sky overhead
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+
+					<!-- ECCLESALL WOODS (14th MAY) -->
 					<section class="d-flex flex-column gap-4">
 
+						<h4 class="text-center">
+							WALK TO ECCLESALL WOODS (14th MAY)
+							<br>
+							<span class="fs-5">(sent in by Anne Batty)</span>
+						</h4>
+
+						<div class="row">
+							<div class="col-sm-8 col-md-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/EcclesallWoods_20250514_2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										A choice of sun or shade as everyone takes a break
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/EcclesallWoods_20250514_3.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Remains of an uprooted tree surrounded by bluebells
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/EcclesallWoods_20250514_1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Not much sunlight getting through this part of the woods
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+
+					<!-- LOXLEY VALLEY TO WADSLEY COMMON (27th APRIL) -->
+					<section class="d-flex flex-column gap-4">
 						<h4 class="text-center">
 							LOXLEY VALLEY TO WADSLEY COMMON (27th APRIL)
 							<br>
@@ -74,18 +243,17 @@ lastUpdated="2nd May 2025"
 								</figure>
 							</div>
 						</div>
-						
+					</section>
+	
 					<hr>
 
 					<!-- PEAK PARK RANGERS WALK FROM FAIRHOLMES (20th MARCH) -->
 					<section class="d-flex flex-column gap-4">
-
 						<h4 class="text-center">
 							PEAK PARK RANGERS WALK FROM FAIRHOLMES (20th MARCH)
 							<br>
 							<span class="fs-5">(sent in by kryanmurray and Anne Batty)</span>
 						</h4>
-
 						<div class="row">
 							<div class="col-sm-8 col-md-6 col-lg-4 mx-auto text-center">
 								<figure class="figure">

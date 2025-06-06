@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="2nd May 2025"
+lastUpdated="28th May 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -32,6 +32,94 @@ lastUpdated="2nd May 2025"
 				<h2 class="text-center">POSTS</h2>
 
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">ELECTION OF COMMITTEE</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									At present the committee is:
+									<section>
+										<h3>Officers</h3>
+										<ul>
+											<li>Chair: Sue Hill</li>
+											<li>Vice Chair: Martin Wing</li>
+											<li>Treasurer: Stan Wainwright</li>
+											<li>Secretary: Pauline Bullivant</li>
+										</ul>
+									</section>
+									<section>
+										<h3>Commmitee:</h3>
+										<ul>
+											<li>Walk Coordinator: Eileen Ingham</li>
+											<li>Newsletter Editor: Gail Fagan</li>
+											<li>Committee Member: Hilary Myers</li>
+										</ul>
+									</section>
+									<section>
+										<h3>Co-opted members:</h3>
+										<ul>
+											<li>Judith Morton</li>
+											<li>Meg Patrick</li>
+										</ul>
+									</section>
+								</p>
+								<p>
+									Stan is stepping down as Treasurer and Andy Abbey will take over as Treasurer.
+								</p>
+								<p>
+									Pauline is also stepping down as Secretary so if anyone in our group would
+									like to take over this role please contact Sue Hill.
+								</p>
+								<p>
+									Darren Johnson will be on the committee as a co-opted member and David Guille as full member, his role being Health and Safety.
+								</p>
+								<p>
+									Eileen is also willing to stand down as Walk Coordinator if anyone would like to take over from Eileen.<br>
+									This role involves arranging with David the dates for his Tuesday walks (usually the first Tuesday in each month) and
+									contacting walk leaders in our group or outside our group to see if they would
+									be willing to lead a walk for the Wednesday and Sunday walks.<br>
+									As walk coordinator, you do not have to know about the walks themselves as this is down to the walk leaders.<br>
+									Please <a href="contact.asp">contact Eileen</a> if interested for further information.
+								</p>
+								<p>
+									Also, if any members would like to be nominated for any of the above roles
+									then please <a href="contact.asp">contact Sue</a>.<br>
+									It would be good to see other new faces on our Committee. 
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">UPDATE ON URIAH RENNIE</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Many of you will remember Uriah as his role in Sheffield City Trust bequeathed to SVIWG £16,000 over four years.
+									This occurred by his friendship with David Cadet.
+								</p>
+								<p>
+									Last year he suffered a rare spine condition and is now in a wheelchair. He is having to learn to walk again.
+								</p>
+								<p>
+									Also with his friendship with Darrell Lomas we have managed to gift him two Rubber Plants as a sign of our concern for him.
+									He would like to thank SVIWG for their good wishes and David Cadet will keep us up to date with his progress.
+									On behalf of the SVIWG I would like to send Uriah our very best wishes for a speedy recovery which I know he will succeed.
+								</p>
+								<p>
+									Latest update on Uriah...He has now been commissioned as Chancellor at the Hallam University.<br>
+									See this <a href="https://www.bbc.co.uk/news/articles/c20x07ql1n7o" target="_blank">BBC news article</a>
+									and interview with Uriah.<br>
+									His very positive attitude is inspiring.
+								</p>
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

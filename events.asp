@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="2nd May 2025"
+lastUpdated="28th May 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -82,26 +82,6 @@ lastUpdated="2nd May 2025"
 						</thead>
 						<tbody>			
 							<tr>
-								<td>TUE 6&nbsp;MAY</td>
-								<td class="text-center"><a href="#event-0605">HATHERSAGE ROAD, BLACKA MOOR, SHORTS LANE, DORE VILLAGE</a></td>
-								<td class="text-end">30&nbsp;APR</td>
-							</tr>
-							<tr>
-								<td>WED 14&nbsp;MAY</td>
-								<td class="text-center"><a href="#event-1405">CHANCET AND PARKBANK WOODS, BEAUCHIEF ABBEY, ECCLESALL WOODS</a></td>
-								<td class="text-end">9&nbsp;MAY</td>
-							</tr>
-							<tr>
-								<td>THU 22&nbsp;MAY</td>
-								<td class="text-center"><a href="#event-2205">WALK STARTS AT FAIRHOLMES (ROUTE TO BE DECIDED ON THE DAY)</a></td>
-								<td class="text-end">16&nbsp;MAY</td>
-							</tr>
-							<tr>
-								<td>SUN 25&nbsp;MAY</td>
-								<td class="text-center"><a href="#event-2505">RINGINGLOW ROAD, TRAP LANE, PORTER VALLEY, LIMB VALLEY, HATHERSAGE ROAD</a></td>
-								<td class="text-end">21&nbsp;MAY</td>
-							</tr>
-							<tr>
 								<td>SAT 31&nbsp;MAY</td>
 								<td class="text-center"><a href="#event-3105">GARDEN PARTY (CELEBRATING 25 YEARS OF SVIWG)</a></td>
 								<td class="text-end">N/A</td>
@@ -112,9 +92,29 @@ lastUpdated="2nd May 2025"
 								<td class="text-end">30&nbsp;MAY</td>
 							</tr>
 							<tr>
+								<td>WED 11&nbsp;JUN</td>
+								<td class="text-center"><a href="#event-1106">ELSECAR, TANKERSLEY, HARLEY, WENTWORTH</a></td>
+								<td class="text-end">6&nbsp;JUN</td>
+							</tr>
+							<tr>
+								<td>THU 19&nbsp;JUN</td>
+								<td class="text-center"><a href="#event-1906">TOTLEY BROOK ROAD, TOTLEY MOOR, HOLMESFIELD, RETURNING VIA GILLFIELD WOODS</a></td>
+								<td class="text-end">13&nbsp;JUN</td>
+							</tr>
+							<tr>
+								<td>SUN 22&nbsp;JUN</td>
+								<td class="text-center"><a href="#event-2206">LONG SHORE, WHITE EDGE MOOR, GROUSE INN, BACK TO LONG SHORE</a></td>
+								<td class="text-end">18&nbsp;JUN</td>
+							</tr>
+							<tr>
 								<td>WED 25&nbsp;JUN</td>
 								<td class="text-center"><a href="#event-2506">AGM</a></td>
-								<td class="text-end">TBA</td>
+								<td class="text-end">11 JUN</td>
+							</tr>
+							<tr>
+								<td>TUE 1&nbsp;JUL</td>
+								<td class="text-center"><a href="#event-0107">CIRCULAR WALK AROUND WHEATA WOOD AND WHARNCLIFFE CHASE</a></td>
+								<td class="text-end">27&nbsp;JUN</td>
 							</tr>
 							<tr>
 								<td>WED 9&nbsp;JUL</td>
@@ -171,176 +171,6 @@ lastUpdated="2nd May 2025"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex" id="event-0605">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250506">TUESDAY 6th MAY</time> - HATHERSAGE ROAD, BLACKA MOOR, SHORTS LANE, DORE VILLAGE
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield Interchange (main foyer) 9.20 to catch the 9.46 no 272 bus to Hathersage Road just before Fox House.<br>
-									Walk will start 10.25.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Linear walk.
-									After alighting the bus we will walk across and down Blacka Moor, leading to Shorts Lane,
-									then walking through open fields which will lead us into Dore Village,
-									where we can enjoy a nice lunch at the Cafe.<br>
-									This is a Tuesday walk we have not done before.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									4 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									There are no stiles but one mild ascent on this walk.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David Cadet (<a href="tel:07554 143262">07554 143262</a> or
-									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>
-									for any walk enquiries). 
-								</li>
-							</ul>
-							<div class="card-footer">
-								As always contact Martin Wing if coming on this walk, also letting him know where you intend to start the walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-1405">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250514">WEDNESDAY 14th MAY</time> - CHANCET AND PARKBANK WOODS, BEAUCHIEF ABBEY, ECCLESALL WOODS
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.40 to catch the 10.11 no 24 bus on Arundel Gate
-									to the top of Abbey Lane The Abbey PH where walk starts 10.40.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Chancet and Parkbank Woods to Beauchief Abbey then Ladies Spring Woods to Ecclesall Woods
-									which we can explore for as long or as short as we like perhaps including a stop at the cafe.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Approx 5 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Woodland paths.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Judy Gathercole (<a href="tel:07557 272559">07557 272559</a> for any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								If coming on this walk it is important to let Martin know
-								so he knows for sure if he has enough guides for VI's by <b>Friday 9th May</b>.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2205">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250522">THURSDAY 22nd MAY</time> - WALK STARTS AT FAIRHOLMES (ROUTE TO BE DECIDED ON THE DAY)
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Queen's Head pub, Pond Hill 9.15 to travel by mini bus leaving 9.30 to Fairholmes where walk starts 10.00.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									To be decided on the day due to weather conditions.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Around 8 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Moderate walking, some climbs, rough ground, some good paths finishing downhill or flat surfaces.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a> for any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								<b>Walking boots on this walk, not trainers please.</b>
-								<br><br>
-								Please contact Martin letting him know where you will meet group for him to make sure
-								we have enough guides at the start of the walk by <b>Friday 16th May</b>.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2505">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250525">SUNDAY 25th MAY</time> - RINGINGLOW ROAD, TRAP LANE, PORTER VALLEY, LIMB VALLEY, HATHERSAGE ROAD
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 10am to catch the no 88 bus at 10.18 on Arundel Gate CS123
-									to 88 Bus Terminus outside Kringle Bakery on Ringinglow Road (Bents Green).
-									Walk starts at 10.40.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Walk a short distance along Ringinglow Road to go down Trap Lane to the Porter Valley.
-									We continue along the valley to turn up to Ringinglow where we cross the road and descend into the Limb Valley,
-									following the path down to Hathersage Road to catch the bus to Sheffield.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									5 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Descent paths.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Steve and Chris (<a href="tel:07507 485822">07507 485822</a> for all walk enquiries). 
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin no later than <b>Wednesday 21st May</b> so he knows he has enough guides,
-								also where you will be starting the walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
 
 					<article class="d-flex" id="event-3105">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
@@ -417,6 +247,135 @@ lastUpdated="2nd May 2025"
 						</div>
 					</article>
 
+					<article class="d-flex" id="event-1106">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250611">WEDNESDAY 11TH JUNE</time> - ELSECAR, TANKERSLEY, HARLEY, WENTWORTH
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Train Station 9.40 to catch the 10.01 train to Elsecar arriving 10.19, Barnsley train arrives at Elsecar 10.09.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									 From Elsecar we walk along the Timberland trail towards Tankersley. Through fields and woodland.
+									 Pick up the Trans Pennine Trail back to Harley. Walk through the village to coach road and head towards Wentworth.
+									 Head back to Elsecar park then back up the hill to the station.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									7 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+								 	Good paths, lovely walk.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Matt Gulty (<a href="tel:07738 005412">07738 005412</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Car drivers can park at Elsecar train station for free.
+								<br><br>
+								Please contact Martin if joining this walk by <b>Friday 6th June</b> so we know we have enough guides to cover
+								this walk also letting him know where you will meet the group so we have enough guides at Sheffield Train Station for VI's.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1906">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250619">THURSDAY 19TH JUNE</time> - TOTLEY BROOK ROAD, TOTLEY MOOR, HOLMESFIELD, RETURNING VIA GILLFIELD WOODS
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.15 to catch the 9.42 no 98 (crossing the dual carriageway AG123)
+									to the 98 Totley bus terminus arrives 10.10.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Circular walk from Totley Brook Road, Totley Moor, towards Holmesfield,
+									returning via Gillfield Woods Penny lane back to the start.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Approx 7 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									This is a Ranger style walk with a couple of challenging climbs with a few stiles.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Joe Fagan who will meet the group at the 98 bus terminus Totley Brook Road.<br>
+									(<a href="tel:07791 634319">07791 634319</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Car drivers park 304 Totley Brook Road S17 3QY.
+								<br><br>
+								Please contact Martin by <b>Friday 13 June</b> so he knows he has enough guides
+								also letting him know where you intend to start the walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2206">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250622">SUNDAY 22ND JUNE</time> - LONG SHORE, WHITE EDGE MOOR, GROUSE INN, BACK TO LONG SHORE
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Interchange (main foyer) 9.20 to catch the 9.51 no 272 bus
+									to Fox House where the walk will start 10.20.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Long Shore, White Edge Moor, Grouse Inn, back to Long Shore.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Approx 4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Woodland paths, moorland.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Nigel Robb (<a href="tel:07538 460680">07538 460680</a> for all walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Return buses 14.38, 15.46, 16.35.
+								<br><br>
+								Please contact Martin if joining this walk by <b>Wednesday 18th June</b> so he knows enough guides for this walk
+								also where you will join the group to make sure enough guides at the start 
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
 					<article class="d-flex" id="event-2506">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
@@ -426,18 +385,58 @@ lastUpdated="2nd May 2025"
 							</div>
 							<div class="card-body">
 								<p>
-								Meeting at Mappin Street.<br>
-								Our AGM 6.30 followed at 7pm by a special celebration or social evening with buffet.
+								AGM and buffet at SRSB Mappin Street 6 for 6.30pm.<br>
+								All are welcome to help us celebrate 25 years as Sheffield's Visually Impaired Walking Group.
 								</p>
 								<p>
-								It would be wonderful if some of the guides and VI's who no longer walk with us would come.
-								We would love to see you and chat about the early years and all the laughs we had.
+								Bring your own drinks and if you have a nice raffle prize that you would like to donate.
 								</p>
 								<p>
-								Please let me know if you would like to attend.<br>
+								We would like to see as many of you as possible,
+								please let me know if you are coming no later than the 11th June.<br>
 								Email: <a href="mailto:hilarymyers16@gmail.com">hilarymyers16@gmail.com</a> or
 								Phone: <a href="tel:0114 2306604">0114 2306604</a>
 								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0107">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250701">TUESDAY 1ST JULY</time> - CIRCULAR WALK AROUND WHEATA WOOD AND WHARNCLIFFE CHASE
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.35 to catch the 10am no 86 bus to the Angel PH Grenoside, where walk starts 10.30.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Circular walk around Wheata Wood and Wharncliffe Chase.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									5 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Easy walking through wooded areas and good paths.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David Cadet
+									(<a href="tel:07554 143262">07554 143262</a> or <a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>
+									for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								It is important to contact Martin by <b>Friday 27th June</b> letting him know where you will meet the group to make sure enough guides.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
 							</div>
 						</div>
 					</article>
@@ -450,7 +449,29 @@ lastUpdated="2nd May 2025"
 								</h3>
 							</div>
 							<div class="card-body">
-								Coach Ramble trip to Newstead Abbey in Nottinghamshire.
+								<p>
+									Sandra Brumby will lead the walk around Newstead Abbey in Nottinghamshire.
+									Newstead Abbey is the former home of Lord Byron.
+								</p>
+								<p>
+									There is a five mile walk through the estate and two conservation villages.
+									The walk is classed as easy and there is a lunch stop at Papplewick Church where there is seating.
+								</p>
+								<p>
+									In the past Sandra has led a group around this walk and also walked regularly with friends.
+									If people do not want to do the walk the Abbey is in beautiful grounds with gardens,
+									lakes and cascades and the flowers will be in full bloom. There is also a cafe and toilet facilities.<br>
+									Dogs can be off the lead for part of the walk.<br>
+									Unfortunately the Abbey is not open on weekdays.
+								</p>
+								<p>
+									Please let Hilary (<a href="mailto:hilarymyers16@gmail.com">hilarymyers16@gmail.com</a>)
+									or Eileen know if you are interested in this outing.<br>
+									£5 payable in advance to Eileen.
+								</p>
+								<p>
+									Thank you.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -498,10 +519,14 @@ lastUpdated="2nd May 2025"
 								</h3>
 							</div>
 							<div class="card-body">
-								The first Thursday each month Rotherham Sight and Sound and Sheffield Royal Society for the Blind have a
-								short walk around the Wickersley area in Rotherham.
-								This is a steady 3 mile walk with a visit to the beautiful Winthrop Gardens then lunch in their cafe.
-								Transport and Guides are provided.
+								<p>
+									The first Thursday each month there is a walk supported by the Rotherham Ramblers,
+									usually around 3 miles finishing at the lovely Winthrop Gardens Wickersley at their cafe for lunch.
+								</p>
+								<p>
+									A minibus leaves SRSB Mappin Street at 9.30, with Rotherham Sight and Sound taking members to the start of the walk from 10am,
+									and the walk itself starting half an hour later at 10:30am.
+								</p>
 							</div>
 							<div class="card-footer">
 								Please contact SRSB on <a href="tel:0114 2722757">0114 2722757</a>

@@ -1,6 +1,6 @@
 <%
 title="Resources"
-lastUpdated="11th Dec 2023"
+lastUpdated="7th Jun 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -113,12 +113,15 @@ lastUpdated="11th Dec 2023"
 								<div class="card-body">
 									<h3 class="card-title fs-5">BUS APP FOR IPHONE</h3>
 									<p>
-										If you have an iPhone, you can download the free Google Maps app and then set up a simple widget to get that app to detect your next nearby bus!
-										Click the button below to view step-by-step instructions for VoiceOver users.
+										If you have an iPhone, there are a number of apps which can help with journey planning and detecting your next nearby bus,
+										including one called "Transit", which is available as a free version.
+										Click the button below for information and VoiceOver instructions on how to use it.
 									</p>
 								</div>
 								<div class="card-footer">
-									<a href="https://www.blindios.uk/google-public-transport-widget-iphone" target="_blank" class="btn btn-primary">View instructions</a>
+									<a href="https://www.blindios.uk/transit-an-app-for-planning-and-making-bus-journeys" target="_blank" class="btn btn-primary">
+										View instructions
+									</a>
 								</div>
 							</div>
 						</div>

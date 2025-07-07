@@ -1,6 +1,6 @@
 <%
 title="Welcome"
-lastUpdated="12th Jan 2025"
+lastUpdated="2nd Jul 2025"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -92,49 +92,28 @@ lastUpdated="12th Jan 2025"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">OUR SUPPORTERS</h2>
 				
-				<div class="row align-items-center">
+				<div class="d-flex flex-wrap align-items-center justify-content-around gap-5">
+					<a href="https://www.srsb.org.uk/" tabindex="-1" aria-hidden="true">
+						<img src="images/orgs/srsb_logo.png" class="sviwg-small-logo" alt="SHEFFIELD ROYAL SOCIETY FOR THE BLIND">
+					</a>	
 
-					<div class="col-4 col-md-2 d-flex justify-content-center d-flex justify-content-center">	
-						<a href="https://www.srsb.org.uk/" tabindex="-1" aria-hidden="true">
-						<img src="images/orgs/srsb_logo.png" class="sviwg-small-logo" alt="SHEFFIELD ROYAL SOCIETY FOR THE BLIND"></a>	
-					</div>
+					<a href="https://www.sheffield.gov.uk/" tabindex="-1" aria-hidden="true">
+						<img src="https://www.sheffield.gov.uk/themes/custom/bbd_localgov/logo.png"
+						class="sviwg-small-logo"
+						alt="SHEFFIELD CITY COUNCIL"
+						style="background-color: #333; outline: 3px solid #333"
+					>
+					</a>
 
-					<div class="col-4 col-md-2 d-flex justify-content-center">
-						<a href="https://www.sheffield.gov.uk/" tabindex="-1" aria-hidden="true">
-							<img src="https://www.sheffield.gov.uk/themes/custom/bbd_localgov/logo.png"
-							class="sviwg-small-logo"
-							alt="SHEFFIELD CITY COUNCIL"
-							style="background-color: #333; outline: 3px solid #333"
-						>
-						</a>
-					</div>
-
-					<div class="col-4 col-md-2 d-flex justify-content-center">
-						<a href="https://sheffieldramblers.org/" tabindex="-1" aria-hidden="true">
-							<img src="images/orgs/Ramblers Group Logos Vertical RGB Sheffield.png" class="sviwg-small-logo" alt="SHEFFIELD RAMBLERS">
-						</a>
-					</div>
-			
-					<div class="col-4 col-md-2 d-flex justify-content-center">
-						<a href="https://www.sheffieldcitytrust.org/" tabindex="-1" aria-hidden="true">
-							<img src="images/orgs/Sheffield CT Logo.jpeg" class="sviwg-small-logo" alt="SHEFFIELD CITY TRUST">
-						</a>
-					</div>
+					<a href="https://sheffieldramblers.org/" tabindex="-1" aria-hidden="true">
+						<img src="images/orgs/Ramblers Group Logos Vertical RGB Sheffield.png" class="sviwg-small-logo" alt="SHEFFIELD RAMBLERS">
+					</a>
 	
-					<div class="col-4 col-md-2 d-flex justify-content-center">
-						<a href="https://www.sycf.org.uk/" tabindex="-1" aria-hidden="true">
-							<img src="images/orgs/SYCF Logo.svg" class="sviwg-small-logo sycf-purple p-1" alt="SOUTH YORKSHIRE'S COMMUNITY FOUNDATION">
-						</a>
-					</div>
-
-					<div class="col-4 col-md-2 d-flex justify-content-center">
-						<a href="https://www.tnlcommunityfund.org.uk/" tabindex="-1" aria-hidden="true">
-							<img src="images/orgs/TNLCF Logo Cropped.png" class="sviwg-small-logo" alt="THE NATIONAL LOTTERY COMMUNITY FUND">
-						</a>
-					</div>
-
+					<a href="https://www.sheffieldcitytrust.org/" tabindex="-1" aria-hidden="true">
+						<img src="images/orgs/Sheffield CT Logo.jpeg" class="sviwg-small-logo" alt="SHEFFIELD CITY TRUST">
+					</a>
 				</div>
-
+	
 			</section>
 		</main>
 

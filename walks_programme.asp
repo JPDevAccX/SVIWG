@@ -1,6 +1,6 @@
 <%
 title="Annual Programme"
-lastUpdated="5th Dec 2024"
+lastUpdated="7th July 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -133,7 +133,7 @@ lastUpdated="5th Dec 2024"
 								<tr><td>22nd Jun</td>
 								<td class="text-end">Nigel Robb</td></tr>
 								<tr><td>27th Jul</td>
-								<td class="text-end">Ann Battie</td></tr>
+								<td class="text-end">Anne Batty</td></tr>
 								<tr><td>24th Aug</td>
 								<td class="text-end">Steve and Chris</td></tr>
 								<tr><td>28th Sep</td>

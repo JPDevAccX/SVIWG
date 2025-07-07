@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="2nd May 2025"
+lastUpdated="7th July 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -24,6 +24,102 @@ lastUpdated="2nd May 2025"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">ELECTION OF COMMITTEE</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									At present the committee is:
+									<section>
+										<h3>Officers</h3>
+										<ul>
+											<li>Chair: Sue Hill</li>
+											<li>Vice Chair: Martin Wing</li>
+											<li>Treasurer: Stan Wainwright</li>
+											<li>Secretary: Pauline Bullivant</li>
+										</ul>
+									</section>
+									<section>
+										<h3>Commmitee:</h3>
+										<ul>
+											<li>Walk Coordinator: Eileen Ingham</li>
+											<li>Newsletter Editor: Gail Fagan</li>
+											<li>Committee Member: Hilary Myers</li>
+										</ul>
+									</section>
+									<section>
+										<h3>Co-opted members:</h3>
+										<ul>
+											<li>Judith Morton</li>
+											<li>Meg Patrick</li>
+										</ul>
+									</section>
+								</p>
+								<p>
+									Stan is stepping down as Treasurer and Andy Abbey will take over as Treasurer.
+								</p>
+								<p>
+									Pauline is also stepping down as Secretary so if anyone in our group would
+									like to take over this role please contact Sue Hill.
+								</p>
+								<p>
+									Darren Johnson will be on the committee as a co-opted member and David Guille as full member, his role being Health and Safety.
+								</p>
+								<p>
+									Eileen is also willing to stand down as Walk Coordinator if anyone would like to take over from Eileen.<br>
+									This role involves arranging with David the dates for his Tuesday walks (usually the first Tuesday in each month) and
+									contacting walk leaders in our group or outside our group to see if they would
+									be willing to lead a walk for the Wednesday and Sunday walks.<br>
+									As walk coordinator, you do not have to know about the walks themselves as this is down to the walk leaders.<br>
+									Please <a href="contact.asp">contact Eileen</a> if interested for further information.
+								</p>
+								<p>
+									Also, if any members would like to be nominated for any of the above roles
+									then please <a href="contact.asp">contact Sue</a>.<br>
+									It would be good to see other new faces on our Committee. 
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">IMPORTANT NOTICE</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Sometimes we have to turn down VI's if there are not enough guides for that particular walk.
+									This is never personal - we are working hard to recruit new guides so our VI's are never turned down for a walk.
+								</p>
+								<p>
+									Judith has set up a Facebook page for our group to send her any photos, videos, etc, hopefully to recruit new guides.
+									Contact details are
+									<a href="mailto:judemorton56@gmail.com">judemorton56@gmail.com</a> or
+									mobile <a href="tel:07896 596413">07896 596413</a>.
+									<br>
+									Also not forgetting our web site managed by James Percival.
+								</p>
+								<p>
+									Also it is most important to contact Martin by the date specified for that particular walk.
+									This gives Martin time to try to find more guides to come along, sometimes forgetting to put their names down.
+								</p>
+								<p>
+									Ideally we would like to have 2 guides for each VI but this is not possible so we always have 2 to 3 spare guides
+									to give other guides who find themselves guiding most of the day a rest.
+								</p>
+								<p>
+									Thank you for your cooperation.
+								</p>
+							</div>
+							<div class="card-footer">
+								 - Gail
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

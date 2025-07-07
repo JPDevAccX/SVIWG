@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="28th May 2025"
+lastUpdated="7th Jun 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -14,12 +14,13 @@ lastUpdated="28th May 2025"
 				Please include a description and if possible the date they were taken and we'll publish them on the site.
 			</section>
 
-			<nav aria-label="Years" class="d-flex justify-content-evenly">
+			<nav aria-label="Years" class="d-flex justify-content-evenly flex-wrap gap-3">
 				<a href="#gallery_2025">2025</a>
 				<a href="#gallery_2024">2024</a>
 				<a href="#gallery_2023">2023</a>
 				<a href="#gallery_2022">2022</a>
 				<a href="#gallery_2021">2021</a>
+				<a href="gallery_party_2025.asp">Garden Party 2025</a>	
 				<a href="gallery_other.asp">Other Media</a>	
 			</nav>
 
@@ -27,6 +28,83 @@ lastUpdated="28th May 2025"
 			<section class="border border-3 p-2 p-md-4" id="gallery_2025">
 				<h3 class="text-center">~ 2025 ~</h3>
 				<div class="d-flex flex-column gap-4">
+
+					<!-- TRACKS AROUND ECCLESFIELD (3rd JUNE) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							TRACKS AROUND ECCLESFIELD (3rd JUNE)
+							<br>
+							<span class="fs-5">(sent in by Judith Morton)</span>
+						</h4>
+						<div class="row">
+							<div class="col-sm-8 col-md-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Tracks_Around_Ecclesfield_20250603_3.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										A brief pause for snacks and drinks
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-8 col-md-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Tracks_Around_Ecclesfield_20250603_1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										A flat stretch of the walk in open fields
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Tracks_Around_Ecclesfield_20250603_2.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Rolling hills and a little more sunlight
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Tracks_Around_Ecclesfield_20250603_4.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">
+										Down a narrow path surrounded by tall grasses
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+
+					<!-- GARDEN PARTY GROUP PHOTOS AND LINK TO MAIN PAGE -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							25 YEAR CELEBRATION GARDEN PARTY - GROUP PHOTOS
+							<br>
+							<span class="fs-5">(sent in by Sue Hill)</span>
+						</h4>
+						<div class="row">
+							<div class="col-sm-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/party/Party25_SueHill_01.jpg"
+										class="figure-img img-fluid sviwg-inset-subtle-image" alt="The whole group poses for a photo #1">
+								</figure>
+							</div>
+							<div class="col-sm-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/party/Party25_SueHill_02.jpg"
+										class="figure-img img-fluid sviwg-inset-subtle-image" alt="The whole group poses for a photo #2">
+								</figure>
+							</div>
+						</div>
+
+					<div class="text-center fs-4 border-1">
+						<a href="gallery_party_2025.asp">Garden Party 2025 Main Gallery Page</a>
+					</div>
+					</section>
+
+					<hr>
 
 					<!-- PORTER VALLEY TO WHIRLOW BROOK HALL (25th MAY) -->
 					<section class="d-flex flex-column gap-4">

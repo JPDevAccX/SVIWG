@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="28th May 2025"
+lastUpdated="7th July 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -36,59 +36,10 @@ lastUpdated="28th May 2025"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">ELECTION OF COMMITTEE</h3>
+								<h3 class="card-title fs-5">COMMITTEE VACANCY</h3>
 							</div>
 							<div class="card-body">
-								<p>
-									At present the committee is:
-									<section>
-										<h3>Officers</h3>
-										<ul>
-											<li>Chair: Sue Hill</li>
-											<li>Vice Chair: Martin Wing</li>
-											<li>Treasurer: Stan Wainwright</li>
-											<li>Secretary: Pauline Bullivant</li>
-										</ul>
-									</section>
-									<section>
-										<h3>Commmitee:</h3>
-										<ul>
-											<li>Walk Coordinator: Eileen Ingham</li>
-											<li>Newsletter Editor: Gail Fagan</li>
-											<li>Committee Member: Hilary Myers</li>
-										</ul>
-									</section>
-									<section>
-										<h3>Co-opted members:</h3>
-										<ul>
-											<li>Judith Morton</li>
-											<li>Meg Patrick</li>
-										</ul>
-									</section>
-								</p>
-								<p>
-									Stan is stepping down as Treasurer and Andy Abbey will take over as Treasurer.
-								</p>
-								<p>
-									Pauline is also stepping down as Secretary so if anyone in our group would
-									like to take over this role please contact Sue Hill.
-								</p>
-								<p>
-									Darren Johnson will be on the committee as a co-opted member and David Guille as full member, his role being Health and Safety.
-								</p>
-								<p>
-									Eileen is also willing to stand down as Walk Coordinator if anyone would like to take over from Eileen.<br>
-									This role involves arranging with David the dates for his Tuesday walks (usually the first Tuesday in each month) and
-									contacting walk leaders in our group or outside our group to see if they would
-									be willing to lead a walk for the Wednesday and Sunday walks.<br>
-									As walk coordinator, you do not have to know about the walks themselves as this is down to the walk leaders.<br>
-									Please <a href="contact.asp">contact Eileen</a> if interested for further information.
-								</p>
-								<p>
-									Also, if any members would like to be nominated for any of the above roles
-									then please <a href="contact.asp">contact Sue</a>.<br>
-									It would be good to see other new faces on our Committee. 
-								</p>
+								We still have a vacancy for a Minutes Secretary for our group. If interested please let our committee know.
 							</div>
 						</div>
 					</article>
@@ -96,63 +47,58 @@ lastUpdated="28th May 2025"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">UPDATE ON URIAH RENNIE</h3>
+								<h3 class="card-title fs-5">GARDEN PARTY</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									Many of you will remember Uriah as his role in Sheffield City Trust bequeathed to SVIWG £16,000 over four years.
-									This occurred by his friendship with David Cadet.
+									A great success!
+									Those of you who unfortunately couldn't make it missed a treat.
 								</p>
 								<p>
-									Last year he suffered a rare spine condition and is now in a wheelchair. He is having to learn to walk again.
+									The weather was kind, the garden was looking spectacular, and the atmosphere was very lively and upbeat.
+									So thanks to Mike for being such a generous and enthusiastic host, he certainly kept us on our toes with the organisation.
 								</p>
 								<p>
-									Also with his friendship with Darrell Lomas we have managed to gift him two Rubber Plants as a sign of our concern for him.
-									He would like to thank SVIWG for their good wishes and David Cadet will keep us up to date with his progress.
-									On behalf of the SVIWG I would like to send Uriah our very best wishes for a speedy recovery which I know he will succeed.
+									Thanks also to the members of the Abbeydale Rotary club for their generous support with advance publicity, practicalities and administration.
+									Thank you to Mike's family and friends who helped on the day and to Nicola for her supreme efficiency in the kitchen.
+									I've never seen anyone produce so many glasses of pimms so fast, with tea and coffee on the boil at the same time.
 								</p>
 								<p>
-									Latest update on Uriah...He has now been commissioned as Chancellor at the Hallam University.<br>
-									See this <a href="https://www.bbc.co.uk/news/articles/c20x07ql1n7o" target="_blank">BBC news article</a>
-									and interview with Uriah.<br>
-									His very positive attitude is inspiring.
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">IMPORTANT NOTICE</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									Sometimes we have to turn down VI's if there are not enough guides for that particular walk.
-									This is never personal - we are working hard to recruit new guides so our VI's are never turned down for a walk.
+									Also thanks to everyone who contributed to the refreshments, I heard lots of appreciative compliments about the cakes.
+									Finally, thank you to everyone who attended and made the afternoon such a convivial gathering, it was a really feel-good event.
 								</p>
 								<p>
-									Judith has set up a Facebook page for our group to send her any photos, videos, etc, hopefully to recruit new guides.
-									Contact details are
-									<a href="mailto:judemorton56@gmail.com">judemorton56@gmail.com</a> or
-									mobile <a href="tel:07896 596413">07896 596413</a>.
-									<br>
-									Also not forgetting our web site managed by James Percival.
-								</p>
-								<p>
-									Also it is most important to contact Martin by the date specified for that particular walk.
-									This gives Martin time to try to find more guides to come along, sometimes forgetting to put their names down.
-								</p>
-								<p>
-									Ideally we would like to have 2 guides for each VI but this is not possible so we always have 2 to 3 spare guides
-									to give other guides who find themselves guiding most of the day a rest.
-								</p>
-								<p>
-									Thank you for your cooperation.
+									We made a profit of just over £500, a fantastic result.
 								</p>
 							</div>
 							<div class="card-footer">
-								 - Gail
+								- Sue
+							</div>
+						</div>
+					</article>
+
+						<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">OBITUARY</h3>
+							</div>
+							<div class="card-body">
+								<p>
+								We are deeply sad to hear of the news of our friend and supporter Uriah Renee who died on the 8th June.
+								</p>
+								<p>
+								Uriah suffered a rare neurological condition which left him paralysed from the waist down.
+								</p>
+								<p>
+								His CV was outstanding living a very good life helping others and he had so much more to offer.
+								</p>
+								<p>
+								Our thoughts to his family and his friends in our group David Cadet who had known Uriah when he was 15 years old
+								and played in the football team that David was refereeing at the time and also Darrel Lomas who was his friend.
+								</p>
+								<p>
+								He certainly left a mark on society and also our group it was a privilege to have known him.
+								</p>
 							</div>
 						</div>
 					</article>

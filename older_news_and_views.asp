@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="7th July 2025"
+lastUpdated="4th August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -24,6 +24,50 @@ lastUpdated="7th July 2025"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">GARDEN PARTY</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									A great success!
+									Those of you who unfortunately couldn't make it missed a treat.
+								</p>
+								<p>
+									The weather was kind, the garden was looking spectacular, and the atmosphere was very lively and upbeat.
+									So thanks to Mike for being such a generous and enthusiastic host, he certainly kept us on our toes with the organisation.
+								</p>
+								<p>
+									Thanks also to the members of the Abbeydale Rotary club for their generous support with advance publicity, practicalities and administration.
+									Thank you to Mike's family and friends who helped on the day and to Nicola for her supreme efficiency in the kitchen.
+									I've never seen anyone produce so many glasses of pimms so fast, with tea and coffee on the boil at the same time.
+								</p>
+								<p>
+									Also thanks to everyone who contributed to the refreshments, I heard lots of appreciative compliments about the cakes.
+									Finally, thank you to everyone who attended and made the afternoon such a convivial gathering, it was a really feel-good event.
+								</p>
+								<p>
+									We made a profit of just over £500, a fantastic result.
+								</p>
+							</div>
+							<div class="card-footer">
+								- Sue
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">COMMITTEE VACANCY</h3>
+							</div>
+							<div class="card-body">
+								We still have a vacancy for a Minutes Secretary for our group. If interested please let our committee know.
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="7th July 2025"
+lastUpdated="4th August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -82,24 +82,29 @@ lastUpdated="7th July 2025"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 9&nbsp;JUL</td>
-								<td class="text-center"><a href="#event-0907">COACH RAMBLE TO NEWSTEAD ABBEY</a></td>
-								<td class="text-end">N/A</td>
-							</tr>
-							<tr>
-								<td>TUE 24&nbsp;JUL</td>
-								<td class="text-center"><a href="#event-2407">WALK FROM FAIRHOLMES (ROUTE TO BE DECIDED ON THE DAY)</a></td>
-								<td class="text-end">18 JUL</td>
-							</tr>
-							<tr>
-								<td>SUN 27&nbsp;JUL</td>
-								<td class="text-center"><a href="#event-2707">BURNCROSS ROAD, ECCLESFIELD CHURCH, HORBURY PATH, CROWN AND CUSHION</a></td>
-								<td class="text-end">23 JUL</td>
-							</tr>
-							<tr>
 								<td>TUE 5&nbsp;AUG</td>
 								<td class="text-center"><a href="#event-0508">DUNGWORTH, STORRS AND LOXLEY VALLEY</a></td>
 								<td class="text-end">1 AUG</td>
+							</tr>
+							<tr>
+								<td>WED 13&nbsp;AUG</td>
+								<td class="text-center"><a href="#event-1308">SANDYGATE HALLAM FOOTBALL GROUND, COPPICE ROAD, RIVELIN VALLEY NATURE TRAIL, MALIN BRIDGE</a></td>
+								<td class="text-end">8 AUG</td>
+							</tr>
+							<tr>
+								<td>SUN 24&nbsp;AUG</td>
+								<td class="text-center"><a href="#event-2408">ROTHERHAM TOWN CENTRE, MINSTER, CANAL TOWPATH TO SHEFFIELD CITY CENTRE</a></td>
+								<td class="text-end">20 AUG</td>
+							</tr>
+							<tr>
+								<td>THU 28&nbsp;AUG</td>
+								<td class="text-center"><a href="#event-2808">BRADWELL, BRADWELL MOOR, BACK TO BRADWELL VIA PINDALE AND SMALLDALE</a></td>
+								<td class="text-end">22 AUG</td>
+							</tr>
+							<tr>
+								<td>TUE 2&nbsp;SEP</td>
+								<td class="text-center"><a href="#event-0509">GRAVES PARK MEADOWHEAD, ST JAMES CHURCH NORTON, ROSE GARDEN CAFE</a></td>
+								<td class="text-end">29 AUG</td>
 							</tr>
 							<tr>
 								<td>MON 15 SEP</td>
@@ -152,126 +157,6 @@ lastUpdated="7th July 2025"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex" id="event-0907">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250907">WEDNESDAY 9th JULY</time> - COACH RAMBLE TO NEWSTEAD ABBEY
-								</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									The Coach ramble to Newstead Abbey will leave the Penny Black Pond Hill 9.30 to 9.45.<br>
-									We have a full coach with a waiting list.
-								</p>
-								<p>
-									Sandra Brumby will lead the walk around Newstead Abbey in Nottinghamshire.
-									Newstead Abbey is the former home of Lord Byron.
-								</p>
-								<p>
-									There is a five mile walk through the estate and two conservation villages.
-									The walk is classed as easy and there is a lunch stop at Papplewick Church where there is seating.
-								</p>
-								<p>
-									In the past Sandra has led a group around this walk and also walked regularly with friends.
-									If people do not want to do the walk the Abbey is in beautiful grounds with gardens,
-									lakes and cascades and the flowers will be in full bloom. There is also a cafe and toilet facilities.<br>
-									Dogs can be off the lead for part of the walk.<br>
-									Unfortunately the Abbey is not open on weekdays.
-								</p>
-								<p>
-									If your name is down please let Hilary or Eileen know if you no longer wish to come along.<br>
-									(<a href="mailto:hilarymyers16@gmail.com">hilarymyers16@gmail.com</a> or <a href="tel:0114 2306604">0114 2306604</a>)
-								</p>
-								<p>
-									Thank you.
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2407">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250724">THURSDAY 24TH JULY</time> - WALK FROM FAIRHOLMES (ROUTE TO BE DECIDED ON THE DAY)
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Queen's Head Pond Hill 9.15 to travel by mini bus leaving 9.30 to Fairholmes where walk starts 10am.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Always to be decided on the day due to weather conditions.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Around 8 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Some climbs, uneven paths, moorland and wooded areas, always recommended to wear walking boots on this walk.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Peak park rangers (<a href="tel:07502 547221">07502 547221</a> for all walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin by <b>Friday 18th July</b> making sure we have enough guides
-								to cover, also letting him know where you will meet the group.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2707">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250727">SUNDAY 27TH JULY</time> - BURNCROSS ROAD, ECCLESFIELD CHURCH, HORBURY PATH, CROWN AND CUSHION
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 10am to catch the no 86 bus at 10.25am on Angel Street to the
-									Crown and Cushion on Burncross Road Chapletown where walk starts 11am.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									We will go through a small wood and fields onto the A61 briefly then through a small wood and more fields towards Whitley.
-									Making our way to behind Ecclesfield church before heading back up the farmers field and past his pea crops and free samples!
-									Reaching the Horbury path leading to the Crown and Cushion.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Around 5 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									A little bit overgrown in some parts by the lush undisturbed flora and fauna!
-									There are about 6 reasonably easy small stiles.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Anne Batty (<a href="tel:07989 053534">07989 053534</a> for any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								As always please contact Martin by <b>Wednesday 23rd July</b> for him
-								to make sure enough guides to assist VI's at the start of the walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
 					<article class="d-flex" id="event-0508">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
@@ -304,7 +189,183 @@ lastUpdated="7th July 2025"
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin by <b>Friday 1st August</b> for him to make sure enough guides to meet group at the start.
+								Please contact Martin by <b>Friday 1st August</b> for him to make sure enough guides to meet the group at the start.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1308">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250813">WEDNESDAY 13TH AUGUST</time> - SANDYGATE HALLAM FOOTBALL GROUND, COPPICE ROAD, RIVELIN VALLEY NATURE TRAIL, MALIN BRIDGE
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 10.30 to catch the no 51 10.45 bus Church Street opposite Cathedral to
+									Sandygate Hallam Football ground, walk starts 11.10.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Linear walk via Coppice Road, along Rivelin Valley Nature Trail to Malin Bridge.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Downhill on footpaths and Bridleway.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Les Seaman who will meet the group at Sandygate
+									(<a href="tel:07547 115946">07547 115946</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin by <b>Friday 8th August</b> making sure we have enough guides,
+								also letting him know where you will meet the group.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2408">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250824">SUNDAY 24TH AUGUST</time> - ROTHERHAM TOWN CENTRE, MINSTER, CANAL TOWPATH TO SHEFFIELD CITY CENTRE
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 10.40 to catch the 11am tram train to Rotherham from Cathedral tram stop
+									to Rotherham central where walk starts 11.25am.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Linear walk.
+									Rotherham Town Centre, passing Minster, before joining canal towpath to return to Sheffield City Centre. 
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									7 miles for full route but options to leave walk at nearby tram stops of
+									Meadowhall South (3 miles), Carbrook (4 miles) or Attercliffe (5 1/2 miles).
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good paths although can be muddy between Carbrook and Attercliffe.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Chris and Steve
+									(<a href="tel:07507 485822">07507 485822</a> for any walk enquiries on day of walk only,
+									otherwise <a href="tel:0114 2666585">0114 2666585</a>).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin by <b>Wednesday 20th August</b> so he knows he has enough guides for VI's,
+								also letting him know where you will meet the group.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2808">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250828">THURSDAY 28TH AUGUST</time> - BRADWELL, BRADWELL MOOR, BACK TO BRADWELL VIA PINDALE AND SMALLDALE
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Interchange (main foyer) 9.20 to catch the 9.40 no 272 (stand D2) Castleton bus to Bradwell
+									where the walk starts 10.36 from the bus stop in the centre of Bradwell
+									at the junction of Towngate and Bridge St, opposite the public conveniences.<br>
+									There is nearby street parking for car drivers.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									A steep ascent on footpaths and lanes through Bradwell and then on some minor roads
+									and through fields up towards Bradwell Moor (471m). Then back to Bradwell via Pindale and Smalldale.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Approx 7 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Steep ascent, moorland and fields.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Mike Wilson (<a href="tel:07538 001933">07538 001933</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Return buses to Sheffield are at 2.58 (272), 3.29 (257b), 3.36 (272),
+								3.44 (772 and change at Ecclesall Road South/Knowle Lane) and 3.50 (257b).
+								<br>
+								Please contact Martin by <b>Friday 22nd August</b> to make sure we have enough guides for this walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0509">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250905">TUESDAY 2ND SEPTEMBER</time> - GRAVES PARK MEADOWHEAD, ST JAMES CHURCH NORTON, ROSE GARDEN CAFE
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street 9.40am to catch the 10.03am number 25 bus to Graves Park Meadowhead
+									where the walk will start and finish.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									We will make our way to St James Church Norton where we will have a short memorial
+									for those members who are no longer with us, as agreed last year,
+									home made cakes and refreshments available for a donation.<br>
+									Afterwards go to the Rose Garden cafe for lunch.
+									For those members who wish to bring their own, there are plenty of seats outside.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Easy walking on good paths with no steep ascents.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David Cadet
+									(<a href="tel:07554 143262">07554 143262</a> or
+									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a> for all walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin by <b>Friday 29th August</b> for him to make sure enough guides,
+								letting him know where you will meet the group.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>

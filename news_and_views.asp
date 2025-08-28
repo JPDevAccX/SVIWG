@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="7th July 2025"
+lastUpdated="4th August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -36,68 +36,44 @@ lastUpdated="7th July 2025"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">COMMITTEE VACANCY</h3>
-							</div>
-							<div class="card-body">
-								We still have a vacancy for a Minutes Secretary for our group. If interested please let our committee know.
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">GARDEN PARTY</h3>
+								<h3 class="card-title fs-5">SRSB'S HISTORY</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									A great success!
-									Those of you who unfortunately couldn't make it missed a treat.
+									<b>Sheffield Royal Society for the Blind</b> (SRSB) is one of Sheffield's oldest independent charities,
+									with a rich history dating back to 1860.
 								</p>
 								<p>
-									The weather was kind, the garden was looking spectacular, and the atmosphere was very lively and upbeat.
-									So thanks to Mike for being such a generous and enthusiastic host, he certainly kept us on our toes with the organisation.
+									The charity was founded by Eliza Harrison in memory of her sister Ann who had empathy for blind people.
+									Their primary aim was to provide opportunities and support and employment for blind individuals.
+									Their first workshops opened on the 17th September 1860 on West Street, marking the beginning of the charity.
 								</p>
 								<p>
-									Thanks also to the members of the Abbeydale Rotary club for their generous support with advance publicity, practicalities and administration.
-									Thank you to Mike's family and friends who helped on the day and to Nicola for her supreme efficiency in the kitchen.
-									I've never seen anyone produce so many glasses of pimms so fast, with tea and coffee on the boil at the same time.
+									The Harrison sisters lived in Weston House (now Weston Park Museum) with their father.
+									Upon selling this to the council, they were provided with the money to set up SRSB.
 								</p>
 								<p>
-									Also thanks to everyone who contributed to the refreshments, I heard lots of appreciative compliments about the cakes.
-									Finally, thank you to everyone who attended and made the afternoon such a convivial gathering, it was a really feel-good event.
+									<ul>
+										<li>
+											<b>1879</b> The school for the blind opened on Manchester Road.
+											This school was later attended by Lord David Blunkett.
+										</li>
+										<li><b>1899</b> Overend cottages are opened in Crosspool providing independent living for blind people.</li>
+										<li><b>1935</b> Cairn Home opens in Crosspool.</li>
+										<li><b>1939</b> The Mappin Street building opens, providing a hub for entertainment.</li>
+										<li><b>2009</b> A new building was built replacing the old one.</li>
+										<li><b>2017</b> SRSB extends its services to Rotherham as Rotherham Sight and Sound (RSS).</li>
+									</ul>
 								</p>
 								<p>
-									We made a profit of just over £500, a fantastic result.
-								</p>
-							</div>
-							<div class="card-footer">
-								- Sue
-							</div>
-						</div>
-					</article>
-
-						<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">OBITUARY</h3>
-							</div>
-							<div class="card-body">
-								<p>
-								We are deeply sad to hear of the news of our friend and supporter Uriah Renee who died on the 8th June.
+									Today the SRSB and RSS continue to provide support and friendship
+									to folks in the Sheffield and Rotherham areas.
 								</p>
 								<p>
-								Uriah suffered a rare neurological condition which left him paralysed from the waist down.
-								</p>
-								<p>
-								His CV was outstanding living a very good life helping others and he had so much more to offer.
-								</p>
-								<p>
-								Our thoughts to his family and his friends in our group David Cadet who had known Uriah when he was 15 years old
-								and played in the football team that David was refereeing at the time and also Darrel Lomas who was his friend.
-								</p>
-								<p>
-								He certainly left a mark on society and also our group it was a privilege to have known him.
+									<b>Royal National Institute of Blind People</b> (RNIB) is a national charity which also
+									provides outstanding support for blind and partially sighted people.
+									Many people think we are the same charity and we often receive donations made out to RNIB.
+									In-fact, like Guide Dogs or Deaf Blind UK, we are all quite separate.
 								</p>
 							</div>
 						</div>

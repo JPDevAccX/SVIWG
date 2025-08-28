@@ -1,6 +1,6 @@
 <%
 title="In Memory"
-lastUpdated="27th Nov 2024"
+lastUpdated="4th August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -11,6 +11,32 @@ lastUpdated="27th Nov 2024"
 			<h2 class="text-center">~ IN MEMORY ~</h2>
 
 			<div class="d-flex flex-column gap-5">
+
+				<article class="d-flex">
+					<div class="card mx-auto sviwg-text-card sviwg-news-card">
+						<div class="card-header">
+							<h3 class="card-title fs-5">OBITUARY - URIAH RENEE</h3>
+						</div>
+						<div class="card-body">
+							<p>
+							We are deeply sad to hear of the news of our friend and supporter Uriah Renee who died on the 8th June.
+							</p>
+							<p>
+							Uriah suffered a rare neurological condition which left him paralysed from the waist down.
+							</p>
+							<p>
+							His CV was outstanding living a very good life helping others and he had so much more to offer.
+							</p>
+							<p>
+							Our thoughts to his family and his friends in our group David Cadet who had known Uriah when he was 15 years old
+							and played in the football team that David was refereeing at the time and also Darrel Lomas who was his friend.
+							</p>
+							<p>
+							He certainly left a mark on society and also our group it was a privilege to have known him.
+							</p>
+						</div>
+					</div>
+				</article>
 
 				<article class="d-flex">
 					<div class="card mx-auto sviwg-text-card sviwg-news-card">

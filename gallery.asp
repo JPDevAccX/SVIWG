@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="7th Jun 2025"
+lastUpdated="5th August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -25,9 +25,133 @@ lastUpdated="7th Jun 2025"
 			</nav>
 
 			<!-- 2025 -->
-			<section class="border border-3 p-2 p-md-4" id="gallery_2025">
+			<section class="border border-3 p-2 p-md-4 gallery-images" id="gallery_2025">
 				<h3 class="text-center">~ 2025 ~</h3>
 				<div class="d-flex flex-column gap-4">
+
+					<!-- PEAK PARK RANGERS WALK FROM FAIRHOLMES (24th JULY) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							PEAK PARK RANGERS WALK FROM FAIRHOLMES (24th JULY)
+							<br>
+							<span class="fs-5">(sent in by kryanmurray)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A03.jpg"
+										alt="The group are sat around a raised concrete slab by the reservoir delving into backpacks and tying shoelaces">
+									<figcaption class="figure-caption">Break time by the edge of the reservoir</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A05.jpg"
+										alt="Two small boats can barely be seen either side of a bridge spanning the reservoir">
+									<figcaption class="figure-caption">Two small boats in the distance</figcaption>
+								</figure>
+							</div>
+
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A06.jpg"
+										alt="A close-up view of some of the group sitting on the raised slab">
+									<figcaption class="figure-caption">Close-up by the reservoir #1</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A07.jpg"
+										alt="Another close-up view of the group facing the slab straight-on">
+									<figcaption class="figure-caption">Close-up by the reservoir #2</figcaption>
+								</figure>
+							</div>
+	
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A10.jpg"
+										alt="A view looking up a hill with small groups spread out walking down and chatting">
+									<figcaption class="figure-caption">Walking and talking on a hill</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A12.jpg"
+										alt="The group assemble at the top of a hill under a cloudy sky for a photo">
+									<figcaption class="figure-caption">Full group photo!</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A09.jpg"
+										alt="Two lambs in a field close up">
+									<figcaption class="figure-caption">Feeling a bit sheepish</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A01.jpg"
+										alt="A shot of the group in the distance along a zig-zagging gravel path
+										not too far from the reservoir edge">
+									<figcaption class="figure-caption">
+										Walking down a narrow gravel path alongside the reservoir
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A02.jpg"
+										alt="The group crosses a narrow lowered bridge surrounded by trees">
+									<figcaption class="figure-caption">Across a narrow bridge</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A04.jpg"
+										alt="Another photo of smiling group members by the reservoir during the break">
+									<figcaption class="figure-caption">Close-up by the reservoir #3</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A08.jpg"
+										alt="The group are spread out climbing a gentle hill away from the reservoir.
+											It's still quite cloudy but there is a little sunlight.">
+									<figcaption class="figure-caption">
+										Climbing up a gentle slope
+									</figcaption>
+								</figure>
+							</div>
+
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A11.jpg"
+										alt="The group are carefully traversing a rocky part of the terrain">
+									<figcaption class="figure-caption">
+										This looks a bit precarious!
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/Rangers_From_Fairholmes_20250724_A13.jpg"
+										alt="A large brown cow in a field stares at the camera">
+									<figcaption class="figure-caption">
+										This cow doesn't look impressed
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
 
 					<!-- TRACKS AROUND ECCLESFIELD (3rd JUNE) -->
 					<section class="d-flex flex-column gap-4">
@@ -47,7 +171,7 @@ lastUpdated="7th Jun 2025"
 							</div>
 						</div>
 
-						<div class="row">
+						<div class="row images-full-height-cover">
 							<div class="col-sm-8 col-md-4 mx-auto text-center">
 								<figure class="figure">
 									<img src="images/photo_gallery/2025/Tracks_Around_Ecclesfield_20250603_1.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">

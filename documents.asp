@@ -1,6 +1,6 @@
 <%
 title="Documents"
-lastUpdated="7th July 2025"
+lastUpdated="4th August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -9,17 +9,17 @@ lastUpdated="7th July 2025"
 		<main class="container-fluid g-0 sviwg-main-container sviwg-large-font d-flex flex-column gap-3">
 			<h2 class="text-center">DOCUMENTS</h2>
 
-				<nav aria-label="Years" class="row text-center">
-					<div class="col-md-4">
-						<a href="#resources_rules_and guidance">Rules and Guidance</a>
-					</div>
-					<div class="col-md-4">
-						<a href="#resources_newsletters">Newsletter archive</a>
-					</div>
-					<div class="col-md-4">
-						<a href="#resources_internal">Minutes and Constitution</a>
-					</div>
-				</nav>
+			<nav aria-label="Years" class="row text-center">
+				<div class="col-md-4">
+					<a href="#resources_rules_and guidance">Rules and Guidance</a>
+				</div>
+				<div class="col-md-4">
+					<a href="#resources_newsletters">Newsletter archive</a>
+				</div>
+				<div class="col-md-4">
+					<a href="#resources_internal">Minutes and Constitution</a>
+				</div>
+			</nav>
 
 			<!-- RULES AND GUIDANCE -->
 			<section class="border border-3 p-2 p-md-4" id="resources_rules_and guidance">
@@ -61,6 +61,7 @@ lastUpdated="7th July 2025"
 				<section>
 					<h4 class="text-center fs-5 text-light-emphasis fw-semibold">2025</h4>
 					<div class="row border border-4 text-center mx-0 text-bg-light pb-1">
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter August 2025.rtf" target="_blank">AUG</a></div>
 						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter July 2025.rtf" target="_blank">JULY</a></div>
 						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter June 2025.rtf" target="_blank">JUNE</a></div>
 						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter May 2025.rtf" target="_blank">MAY</a></div>
@@ -98,6 +99,7 @@ lastUpdated="7th July 2025"
 					<article>
 						<h4 class="text-center fs-5 text-light-emphasis fw-semibold">MINUTES</h4>
 						<div class="row border border-4 text-center mx-0 text-bg-light pb-1">
+							<div class="col-4 p-2"><a href="docs/internal/2025 AGM SVIWG Minutes.pdf" target="_blank">2025</a></div>
 							<div class="col-4 p-2"><a href="docs/internal/2024 AGM SVIWG Minutes.pdf" target="_blank">2024</a></div>
 							<div class="col-4 p-2"><a href="docs/internal/2023 AGM SVIWG Minutes.pdf" target="_blank">2023</a></div>
 							<div class="col-4 p-2"><a href="docs/internal/2022 AGM SVIWG Minutes.pdf" target="_blank">2022</a></div>

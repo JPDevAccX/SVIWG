@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="4th August 2025"
+lastUpdated="31st August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -56,6 +56,14 @@ lastUpdated="4th August 2025"
 				<span>Please see the <a href="#notice_1">notice about guide availability</a> below</span>
 			</div>
 
+			<div class="border border-3 sviwg-large-font p-2 p-md-4 text-center bg-light-subtle">
+				<h2>TUESDAY WALKERS NOTICE</h2>
+				<span>
+					Please note that the Tuesday walk in October will be published in the next newsletter
+					as the first Tuesday walk falls the day before the Wednesday walk in October.
+				</span>
+			</div>
+
 			<nav aria-label="Sections" class="row sviwg-large-font text-center">
 				<div class="col"><a href="#upcoming_sviwg_events">Our Events</a></div>
 				<div class="col"><a href="#upcoming_other_walks">Other Walks</a></div>
@@ -82,29 +90,14 @@ lastUpdated="4th August 2025"
 						</thead>
 						<tbody>
 							<tr>
-								<td>TUE 5&nbsp;AUG</td>
-								<td class="text-center"><a href="#event-0508">DUNGWORTH, STORRS AND LOXLEY VALLEY</a></td>
-								<td class="text-end">1 AUG</td>
-							</tr>
-							<tr>
-								<td>WED 13&nbsp;AUG</td>
-								<td class="text-center"><a href="#event-1308">SANDYGATE HALLAM FOOTBALL GROUND, COPPICE ROAD, RIVELIN VALLEY NATURE TRAIL, MALIN BRIDGE</a></td>
-								<td class="text-end">8 AUG</td>
-							</tr>
-							<tr>
-								<td>SUN 24&nbsp;AUG</td>
-								<td class="text-center"><a href="#event-2408">ROTHERHAM TOWN CENTRE, MINSTER, CANAL TOWPATH TO SHEFFIELD CITY CENTRE</a></td>
-								<td class="text-end">20 AUG</td>
-							</tr>
-							<tr>
-								<td>THU 28&nbsp;AUG</td>
-								<td class="text-center"><a href="#event-2808">BRADWELL, BRADWELL MOOR, BACK TO BRADWELL VIA PINDALE AND SMALLDALE</a></td>
-								<td class="text-end">22 AUG</td>
-							</tr>
-							<tr>
 								<td>TUE 2&nbsp;SEP</td>
-								<td class="text-center"><a href="#event-0509">GRAVES PARK MEADOWHEAD, ST JAMES CHURCH NORTON, ROSE GARDEN CAFE</a></td>
+								<td class="text-center"><a href="#event-0209">GRAVES PARK MEADOWHEAD, ST JAMES CHURCH NORTON, ROSE GARDEN CAFE</a></td>
 								<td class="text-end">29 AUG</td>
+							</tr>
+							<tr>
+								<td>WED 10&nbsp;SEP</td>
+								<td class="text-center"><a href="#event-1009">LOW BRADFIELD, FIGURE OF 8 ROUND AGDEN RESERVOIR THEN DAM FLASK</a></td>
+								<td class="text-end">5 SEP</td>
 							</tr>
 							<tr>
 								<td>MON 15 SEP</td>
@@ -123,6 +116,21 @@ lastUpdated="4th August 2025"
 										</div>	
 									</div>
 								</td>
+								<td class="text-end">N/A</td>
+							</tr>
+							<tr>
+								<td>THU 18&nbsp;SEP</td>
+								<td class="text-center"><a href="#event-1809">WALK FROM FAIRHOLMES (ROUTE TO BE DECIDED ON THE DAY)</a></td>
+								<td class="text-end">12 SEP</td>
+							</tr>
+							<tr>
+								<td>SUN 28&nbsp;SEP</td>
+								<td class="text-center"><a href="#event-2809">PENISTONE, HIGH LEA FARM, SILKSTONE COMMON</a></td>
+								<td class="text-end">24 SEP</td>
+							</tr>
+							<tr>
+								<td>TUE 11&nbsp;NOV</td>
+								<td class="text-center"><a href="#event-1111">VI TRAINING DAY</a></td>
 								<td class="text-end">N/A</td>
 							</tr>
 						</tbody>
@@ -157,181 +165,11 @@ lastUpdated="4th August 2025"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex" id="event-0508">
+					<article class="d-flex" id="event-0209">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="">TUESDAY 5TH AUGUST</time> - DUNGWORTH, STORRS AND LOXLEY VALLEY
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.20 to catch the 9.40 tram to Hillsborough Interchange
-									then the 10.10 no 62 bus to Dungworth where walk starts 10.35.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Linear walk finishing at the Admiral Rodney on Loxley Road via Dungworth, Storrs and Loxley Valley.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									4 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Easy walking through fields and tracks around Dungworth.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David Cadet (<a href="tel:07554 143262">07554 143262</a> or
-									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a> for all walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin by <b>Friday 1st August</b> for him to make sure enough guides to meet the group at the start.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-1308">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250813">WEDNESDAY 13TH AUGUST</time> - SANDYGATE HALLAM FOOTBALL GROUND, COPPICE ROAD, RIVELIN VALLEY NATURE TRAIL, MALIN BRIDGE
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 10.30 to catch the no 51 10.45 bus Church Street opposite Cathedral to
-									Sandygate Hallam Football ground, walk starts 11.10.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Linear walk via Coppice Road, along Rivelin Valley Nature Trail to Malin Bridge.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									4 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Downhill on footpaths and Bridleway.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Les Seaman who will meet the group at Sandygate
-									(<a href="tel:07547 115946">07547 115946</a> for any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin by <b>Friday 8th August</b> making sure we have enough guides,
-								also letting him know where you will meet the group.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2408">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250824">SUNDAY 24TH AUGUST</time> - ROTHERHAM TOWN CENTRE, MINSTER, CANAL TOWPATH TO SHEFFIELD CITY CENTRE
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 10.40 to catch the 11am tram train to Rotherham from Cathedral tram stop
-									to Rotherham central where walk starts 11.25am.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Linear walk.
-									Rotherham Town Centre, passing Minster, before joining canal towpath to return to Sheffield City Centre. 
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									7 miles for full route but options to leave walk at nearby tram stops of
-									Meadowhall South (3 miles), Carbrook (4 miles) or Attercliffe (5 1/2 miles).
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Good paths although can be muddy between Carbrook and Attercliffe.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Chris and Steve
-									(<a href="tel:07507 485822">07507 485822</a> for any walk enquiries on day of walk only,
-									otherwise <a href="tel:0114 2666585">0114 2666585</a>).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin by <b>Wednesday 20th August</b> so he knows he has enough guides for VI's,
-								also letting him know where you will meet the group.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2808">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250828">THURSDAY 28TH AUGUST</time> - BRADWELL, BRADWELL MOOR, BACK TO BRADWELL VIA PINDALE AND SMALLDALE
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield Interchange (main foyer) 9.20 to catch the 9.40 no 272 (stand D2) Castleton bus to Bradwell
-									where the walk starts 10.36 from the bus stop in the centre of Bradwell
-									at the junction of Towngate and Bridge St, opposite the public conveniences.<br>
-									There is nearby street parking for car drivers.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									A steep ascent on footpaths and lanes through Bradwell and then on some minor roads
-									and through fields up towards Bradwell Moor (471m). Then back to Bradwell via Pindale and Smalldale.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Approx 7 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Steep ascent, moorland and fields.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Mike Wilson (<a href="tel:07538 001933">07538 001933</a> for any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Return buses to Sheffield are at 2.58 (272), 3.29 (257b), 3.36 (272),
-								3.44 (772 and change at Ecclesall Road South/Knowle Lane) and 3.50 (257b).
-								<br>
-								Please contact Martin by <b>Friday 22nd August</b> to make sure we have enough guides for this walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-0509">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250905">TUESDAY 2ND SEPTEMBER</time> - GRAVES PARK MEADOWHEAD, ST JAMES CHURCH NORTON, ROSE GARDEN CAFE
+									<time datetime="20250902">TUESDAY 2nd SEPTEMBER</time> - GRAVES PARK MEADOWHEAD, ST JAMES CHURCH NORTON, ROSE GARDEN CAFE
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
@@ -373,6 +211,49 @@ lastUpdated="4th August 2025"
 						</div>
 					</article>
 
+					<article class="d-flex" id="event-1009">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250910">WEDNESDAY 10th SEPTEMBER</time> - LOW BRADFIELD, FIGURE OF 8 ROUND AGDEN RESERVOIR THEN DAM FLASK
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Poundland High Street at 9.20 to catch the 9.40 Tram to Hillsborough Interchange,
+									then the 10.10 no 62 bus to Low Bradfield arrives 10.40 when the walk will start.
+									This will be from the bus turning circle which is situated Arnett Lane / Fair House Lane junction.
+									Plenty of parking nearby or Bradfield car park for the drivers.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									The walk will be a figure of 8 round Agden Reservoir then Dam Flask.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Approx 6.1/2 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Slightly uneven mud tracks round parts of Agden then easy well walked paths round Dam Flask.
+									Anyone wanting to finish after the first dam can easily do so. There are no stiles.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Angela Elliott (<a href="tel:07708 980793">07708 980793</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Contact Martin to put your name down by <b>Friday 5th September</b> so he knows he has enough guides
+								to cover this walk also where you will meet group to ensure guides at Poundland for VI's.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
 					<article class="d-flex" id="event-1509">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
@@ -395,6 +276,120 @@ lastUpdated="4th August 2025"
 										travel article about Ripon
 									</a>
 									which sounds very interesting - take a look to whet your appetite!
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1809">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250918">THURSDAY 18th SEPTEMBER</time> - WALK FROM FAIRHOLMES (ROUTE TO BE DECIDED ON THE DAY)
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Queen's Head Pub 9.15 to leave for Fairholmes at 9.30 minibus.
+									Walk starts 10am.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Always decided on the day due to weather conditions.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									8 to 9 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Some climbs, some good paths and uneven tracks.
+									This walk is for good walkers and always recommend wearing walking boots for this walk not trainers.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Contact Martin to put your name down for this walk by <b>Friday 12th September</b> letting him know
+								where you will meet the group to ensure enough guides at the Queen's Head to meet VI's.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2809">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20250928">SUNDAY 28th SEPTEMBER</time> - PENISTONE, HIGH LEA FARM, SILKSTONE COMMON
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Railway Station 9.15 to catch the 9.37 train to Penistone,
+									arriving at 10.22 for a linear walk to Silkstone Common.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Walk a short distance along the trail past the site of an old railway turntable and a WW2 tank ramp.
+									From there, we climb up to High Lea Farm, taking our time,
+									getting a lovely view of the Penistone Viaduct.
+									We then walk cross country, through woodland and field paths ending at Silkstone Common.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									5 1/2 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Fields and woodland paths.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David Kayley (<a href="tel:07840 133768">07840 133768</a> for any walk enquiries).
+								</li>
+							</ul>
+							<div class="card-footer">
+								There are hourly trains back to Sheffield.
+								<br>
+								Please contact Martin by <b>Wednesday 24th September</b> to make sure enough guides for this walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1111">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20251111">TUESDAY 11th NOVEMBER</time> - VI TRAINING DAY
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									To be held at SRSB Mappin Street 10am to 12 noon.
+									This is for new guides and also for any guides who would like to have a re-fresher
+									as some of our guides have already done so.
+								</p>
+								<p>
+									Alison Anthony, a senior Re-hab officer at Howden House will be conducting the training.
+									Alison has had many, many years training how to guide and also teaching long cane training.
+								</p>
+								<p>
+									Please do not miss this opportunity as it is only undertaken once per year as we get more new guides.
+								</p>
+								<p>
+									Please contact Gail;
+									email <a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>.<br>
+									For guides who have already let me know no need to email again.
 								</p>
 							</div>
 						</div>

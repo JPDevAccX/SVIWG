@@ -1,6 +1,6 @@
 <%
 title="Documents"
-lastUpdated="4th August 2025"
+lastUpdated="31st August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -61,6 +61,7 @@ lastUpdated="4th August 2025"
 				<section>
 					<h4 class="text-center fs-5 text-light-emphasis fw-semibold">2025</h4>
 					<div class="row border border-4 text-center mx-0 text-bg-light pb-1">
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter September 2025.rtf" target="_blank">SEP</a></div>
 						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter August 2025.rtf" target="_blank">AUG</a></div>
 						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter July 2025.rtf" target="_blank">JULY</a></div>
 						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter June 2025.rtf" target="_blank">JUNE</a></div>

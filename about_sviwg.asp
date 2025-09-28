@@ -1,6 +1,6 @@
 <%
 title="About SVIWG"
-lastUpdated="2nd Jul 2025"
+lastUpdated="28th August 2025"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -163,7 +163,7 @@ lastUpdated="2nd Jul 2025"
 					Any donations will be very gratefully received.
 				</p>
 				<p>
-					They should be sent to Mr Stan Wainwright, Treasurer, SVIWG, c/o SRSB, 5 Mappin Street, Sheffield, S1 4DT.
+					They should be sent to Mr Andrew Abbey, Treasurer, SVIWG, c/o SRSB, 5 Mappin Street, Sheffield, S1 4DT.
 				</p>
 				<p>
 					Thank you.

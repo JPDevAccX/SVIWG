@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="4th August 2025"
+lastUpdated="31st August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -24,6 +24,52 @@ lastUpdated="4th August 2025"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">SRSB'S HISTORY</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									<b>Sheffield Royal Society for the Blind</b> (SRSB) is one of Sheffield's oldest independent charities,
+									with a rich history dating back to 1860.
+								</p>
+								<p>
+									The charity was founded by Eliza Harrison in memory of her sister Ann who had empathy for blind people.
+									Their primary aim was to provide opportunities and support and employment for blind individuals.
+									Their first workshops opened on the 17th September 1860 on West Street, marking the beginning of the charity.
+								</p>
+								<p>
+									The Harrison sisters lived in Weston House (now Weston Park Museum) with their father.
+									Upon selling this to the council, they were provided with the money to set up SRSB.
+								</p>
+								<p>
+									<ul>
+										<li>
+											<b>1879</b> The school for the blind opened on Manchester Road.
+											This school was later attended by Lord David Blunkett.
+										</li>
+										<li><b>1899</b> Overend cottages are opened in Crosspool providing independent living for blind people.</li>
+										<li><b>1935</b> Cairn Home opens in Crosspool.</li>
+										<li><b>1939</b> The Mappin Street building opens, providing a hub for entertainment.</li>
+										<li><b>2009</b> A new building was built replacing the old one.</li>
+										<li><b>2017</b> SRSB extends its services to Rotherham as Rotherham Sight and Sound (RSS).</li>
+									</ul>
+								</p>
+								<p>
+									Today the SRSB and RSS continue to provide support and friendship
+									to folks in the Sheffield and Rotherham areas.
+								</p>
+								<p>
+									<b>Royal National Institute of Blind People</b> (RNIB) is a national charity which also
+									provides outstanding support for blind and partially sighted people.
+									Many people think we are the same charity and we often receive donations made out to RNIB.
+									In-fact, like Guide Dogs or Deaf Blind UK, we are all quite separate.
+								</p>
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

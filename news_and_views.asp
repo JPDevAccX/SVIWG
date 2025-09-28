@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="4th August 2025"
+lastUpdated="31st August 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -36,44 +36,84 @@ lastUpdated="4th August 2025"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">SRSB'S HISTORY</h3>
+								<h3 class="card-title fs-5">VI TRAINING DAY - TUESDAY 11th NOVEMBER</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									<b>Sheffield Royal Society for the Blind</b> (SRSB) is one of Sheffield's oldest independent charities,
-									with a rich history dating back to 1860.
+									To be held at SRSB Mappin Street 10am to 12 noon.
+									This is for new guides and also for any guides who would like to have a re-fresher
+									as some of our guides have already done so.
 								</p>
 								<p>
-									The charity was founded by Eliza Harrison in memory of her sister Ann who had empathy for blind people.
-									Their primary aim was to provide opportunities and support and employment for blind individuals.
-									Their first workshops opened on the 17th September 1860 on West Street, marking the beginning of the charity.
+									Alison Anthony, a senior Re-hab officer at Howden House will be conducting the training.
+									Alison has had many, many years training how to guide and also teaching long cane training.
 								</p>
 								<p>
-									The Harrison sisters lived in Weston House (now Weston Park Museum) with their father.
-									Upon selling this to the council, they were provided with the money to set up SRSB.
+									Please do not miss this opportunity as it is only undertaken once per year as we get more new guides.
 								</p>
 								<p>
-									<ul>
-										<li>
-											<b>1879</b> The school for the blind opened on Manchester Road.
-											This school was later attended by Lord David Blunkett.
-										</li>
-										<li><b>1899</b> Overend cottages are opened in Crosspool providing independent living for blind people.</li>
-										<li><b>1935</b> Cairn Home opens in Crosspool.</li>
-										<li><b>1939</b> The Mappin Street building opens, providing a hub for entertainment.</li>
-										<li><b>2009</b> A new building was built replacing the old one.</li>
-										<li><b>2017</b> SRSB extends its services to Rotherham as Rotherham Sight and Sound (RSS).</li>
-									</ul>
+									Please contact Gail;
+									email <a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>.<br>
+									For guides who have already let me know no need to email again.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">OBITUARY</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									It is very sad our former treasurer Stan Wainwright died recently.
 								</p>
 								<p>
-									Today the SRSB and RSS continue to provide support and friendship
-									to folks in the Sheffield and Rotherham areas.
+									Stan was our treasurer for many years doing a brilliant job keeping meticulous records
+									even when it was clear his health was suffering.
+									We saw his decline over the last year but he always came to our Committee Meeting hardly ever missing.
 								</p>
 								<p>
-									<b>Royal National Institute of Blind People</b> (RNIB) is a national charity which also
-									provides outstanding support for blind and partially sighted people.
-									Many people think we are the same charity and we often receive donations made out to RNIB.
-									In-fact, like Guide Dogs or Deaf Blind UK, we are all quite separate.
+									Stan walked with us in the beginning and attempted a few challenges with our group.
+									He was also a keen Table Tennis player before his illness which he never spoke about.
+								</p>
+								<p>
+									Our commiserations to his family and friends.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">POST BOX MAPPING STREET</h3>
+							</div>
+							<div class="card-body">
+								We have a green post box at Mappin Street at the Reception desk
+								for anyone who would like to drop anything off for our group.
+							</div>
+						</div>
+					</article>
+
+						<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">WALK COORDINATOR</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									If you would like to put your name forward for the above please contact Eileen.
+									Her contact details are available on the <a href="contact.asp">contact page</a>.
+								</p>
+								<p>
+									This involves once per year finding walk leaders for the Wednesday and Sunday walks for the next year.
+									You do not have to know about walks as this is the responsibility
+									of the walk leader for their particular walk.
+								</p>
+								<p>
+									If you would like to give it a go please contact Eileen.
 								</p>
 							</div>
 						</div>

@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="31st August 2025"
+lastUpdated="28th September 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -36,25 +36,47 @@ lastUpdated="31st August 2025"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">VI TRAINING DAY - TUESDAY 11th NOVEMBER</h3>
+								<h3 class="card-title fs-5">TUESDAY WALKS</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									To be held at SRSB Mappin Street 10am to 12 noon.
-									This is for new guides and also for any guides who would like to have a re-fresher
-									as some of our guides have already done so.
+									David Cadet has been doing the Tuesday walks for many years they have become
+									very popular with the most attendance of all our walks.
 								</p>
 								<p>
-									Alison Anthony, a senior Re-hab officer at Howden House will be conducting the training.
-									Alison has had many, many years training how to guide and also teaching long cane training.
+									David would like to step down from this role or perhaps have some help
+									with someone taking over some of them.
+									Please contact Eileen as we do not want to lose this very popular walking day.
 								</p>
 								<p>
-									Please do not miss this opportunity as it is only undertaken once per year as we get more new guides.
+									David has been remarkable with his work producing a walk monthly it is not easy as walk leaders
+									will acknowledge the work that goes into checking out walks etc.
 								</p>
 								<p>
-									Please contact Gail;
-									email <a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>.<br>
-									For guides who have already let me know no need to email again.
+									Thank you for any interest.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">CHRISTMAS LUNCH</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Following David Cadet's walk on 2nd December,
+									we will be having Christmas Lunch at the Robin Hood Pub on Abbeydale Road.
+									We need to know numbers.
+								</p>
+								<p>
+									Please let me know if you wish to go. The menu will be in the next newsletter.
+								</p>
+								<p>
+									Email: <a href="mailto:megdpatrick@gmail.com">megdpatrick@gmail.com</a><br>
+									Mobile: <a href="tel:07946 382896">07946 382896</a><br>
+									Confirm asap as we have to confirm numbers.
 								</p>
 							</div>
 						</div>
@@ -67,53 +89,31 @@ lastUpdated="31st August 2025"
 							</div>
 							<div class="card-body">
 								<p>
-									It is very sad our former treasurer Stan Wainwright died recently.
+									It is very sad to let you know that Melvin Oughton died in September.
 								</p>
 								<p>
-									Stan was our treasurer for many years doing a brilliant job keeping meticulous records
-									even when it was clear his health was suffering.
-									We saw his decline over the last year but he always came to our Committee Meeting hardly ever missing.
+									Mel as he was known was very popular.
+									He was Deaf Blind but extremely independent until his eyesight became much worse
+									and he could no longer remain independent.
 								</p>
 								<p>
-									Stan walked with us in the beginning and attempted a few challenges with our group.
-									He was also a keen Table Tennis player before his illness which he never spoke about.
+									Mel enjoyed lots of exotic holidays this being possible with Travel-eyes which was set up
+									for blind folks which they provided a sighted companion for these holidays.
 								</p>
 								<p>
-									Our commiserations to his family and friends.
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">POST BOX MAPPING STREET</h3>
-							</div>
-							<div class="card-body">
-								We have a green post box at Mappin Street at the Reception desk
-								for anyone who would like to drop anything off for our group.
-							</div>
-						</div>
-					</article>
-
-						<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">WALK COORDINATOR</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									If you would like to put your name forward for the above please contact Eileen.
-									Her contact details are available on the <a href="contact.asp">contact page</a>.
+									Mel was a successful business man in his working life a credit due to his dual disabilities.
 								</p>
 								<p>
-									This involves once per year finding walk leaders for the Wednesday and Sunday walks for the next year.
-									You do not have to know about walks as this is the responsibility
-									of the walk leader for their particular walk.
+									He attended the Maude Maxfield school for the deaf in Sheffield. 
+									From there he met his great friend Phillip Timms and when together on a walk
+									they reverted back to their schooldays being very mischievous.
 								</p>
 								<p>
-									If you would like to give it a go please contact Eileen.
+									Mel was a very quietly spoken gentle person and he will be missed by our group.
+								</p>
+								<p>
+									On behalf of the SVIWG I would like to send our condolences to his family and also Phillip.
+									His funeral is at City Road on Wednesday 1st October 1.45pm afterwards at the Angel PH Woodhouse.
 								</p>
 							</div>
 						</div>

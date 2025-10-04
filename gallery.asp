@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="5th August 2025"
+lastUpdated="4th October 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -28,6 +28,99 @@ lastUpdated="5th August 2025"
 			<section class="border border-3 p-2 p-md-4 gallery-images" id="gallery_2025">
 				<h3 class="text-center">~ 2025 ~</h3>
 				<div class="d-flex flex-column gap-4">
+
+					<!-- GROUP HOLIDAY - RIPON (15th - 20th SEPTEMBER) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							GROUP HOLIDAY - RIPON (15th &mdash; 20th SEPTEMBER)
+							<br>
+							<span class="fs-5">(sent in by Phil the driver and Sue Hill)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_03_ds.webp"
+										alt="Walkers in a field going towards and up a gentle incline alongside some very tall trees">
+									<figcaption class="figure-caption">Some mighty tall trees</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_05_ds.webp"
+										alt="Members of the group stand around the Ripon Hornblower in the market square at night,
+										with the Ripon obelisk monument standing tall behind them">
+										<figcaption class="figure-caption">
+											A visit to the Ripon Hornblower who has blown the horn every night at 9pm
+											in the market square since the year 886.
+										</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_01.png"
+										alt="A group member sitting on a wide tree stump in a wooded area with other members standing around or catching up">
+									<figcaption class="figure-caption">This tree stump makes for a handy chair</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_02_ds.webp"
+										alt="A few of the group stand by a wall on a concrete and stone bridge with a car a few metres away,
+										probably waiting to get past">
+									<figcaption class="figure-caption">No fear of heights here</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_04_ds.webp"
+										alt="Some bulls in a partially fenced field with a backdrop of trees not far away">
+									<figcaption class="figure-caption">These animals feel bullish about having their photos taken</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_07_ds.webp"
+										alt="A Ripon Civic Society plaque at no.37 Market Place commemorating the site where Hugh Ripley,
+										the last Wakeman and first Mayor of Ripon once lived">
+									<figcaption class="figure-caption">Learning about the city's history</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_08_ds.webp"
+										alt="The group stands on a wooden canal bridge basked in sunlight,
+										some pointing to things in the distance out of shot">
+									<figcaption class="figure-caption">
+										Kim at the front, with something spotted on the canal
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_09_ds.webp"
+										alt="A group of five brown bulls standing close to each other in a field
+										by a lake under a partially cloudy sky">
+									<figcaption class="figure-caption">These bulls look quite friendly</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_10_ds.webp"
+										alt="Group members carefully walk down some steps in a wooded area">
+									<figcaption class="figure-caption">Taking care down the steps</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
 
 					<!-- PEAK PARK RANGERS WALK FROM FAIRHOLMES (24th JULY) -->
 					<section class="d-flex flex-column gap-4">

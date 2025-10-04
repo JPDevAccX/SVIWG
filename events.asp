@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="31st August 2025"
+lastUpdated="4th October 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -11,7 +11,8 @@ lastUpdated="31st August 2025"
 			<!-- NOTICE -->
 			<section class="row ms-md-1 ms-lg-3">
 				<div class="col-md-5 col-lg-4">
-					<img src="images/arek-adeoye-ljoCgjs63SM-unsplash.jpg" class="img-fluid sviwg-inset-image" alt="Lady running in a park">
+					<img src="images/arek-adeoye-ljoCgjs63SM-unsplash.jpg"
+						class="img-fluid sviwg-inset-image" alt="Lady running in a park">
 				</div>
 				<div class="col d-flex flex-column justify-content-center">
 					<div class="px-2 px-md-0">
@@ -35,18 +36,21 @@ lastUpdated="31st August 2025"
 				<h2 class="text-center">ADDITIONAL INFORMATION</h2>
 				<ul class="d-flex flex-column gap-3">
 					<li>
-						From time to time we take photos to update our web site and also <a href="https://www.srsb.org.uk/">SRSB's web site</a>.<br>
+						From time to time we take photos to update our web site and also
+						<a href="https://www.srsb.org.uk/">SRSB's web site</a>.<br>
 						If anyone does not wish to appear on group photos please make it clear at the beginning of the walk.
 					</li>
 					<li>
 						Whilst every effort is taken by walk leaders, members attending do so at their own risk.<br>
-						All members are required to wear good walking boots and bring their own rucksack food and drink as well as waterproofs where appropriate.
+						All members are required to wear good walking boots and
+						bring their own rucksack food and drink as well as waterproofs where appropriate.
 					</li>
 					<li>
 						Any members leaving walks early please let the leader or back marker know.
 					</li>
 					<li>
-						For questions regarding specific walks, please only contact the walk leader(s), whose details are given below.
+						For questions regarding specific walks, please only contact the walk leader(s), 
+						whose details are given below.
 					</li>
 				</ul>
 			</section>
@@ -54,14 +58,6 @@ lastUpdated="31st August 2025"
 			<div class="border border-3 sviwg-large-font p-2 p-md-4 text-center bg-light-subtle">
 				<h2>IMPORTANT NOTICE</h2>
 				<span>Please see the <a href="#notice_1">notice about guide availability</a> below</span>
-			</div>
-
-			<div class="border border-3 sviwg-large-font p-2 p-md-4 text-center bg-light-subtle">
-				<h2>TUESDAY WALKERS NOTICE</h2>
-				<span>
-					Please note that the Tuesday walk in October will be published in the next newsletter
-					as the first Tuesday walk falls the day before the Wednesday walk in October.
-				</span>
 			</div>
 
 			<nav aria-label="Sections" class="row sviwg-large-font text-center">
@@ -78,7 +74,9 @@ lastUpdated="31st August 2025"
 				<section>
 					<h2 class="text-center" id="upcoming_sviwg_events_summary">UPCOMING SVIWG EVENTS</h2>
 
-					<div class="text-center fs-5 mb-4">IT'S IMPORTANT TO NOTE THAT WALKS MAY BE MUDDY IN PLACES DEPENDING ON THE RECENT WEATHER</div>
+					<div class="text-center fs-5 mb-4">
+						IT'S IMPORTANT TO NOTE THAT WALKS MAY BE MUDDY IN PLACES DEPENDING ON THE RECENT WEATHER
+					</div>
 
 					<table class="table mx-auto sviwg-table sviwg-table-walks sviwg-table-walks-sviwg sviwg-max-w1120">
 						<thead>
@@ -90,47 +88,39 @@ lastUpdated="31st August 2025"
 						</thead>
 						<tbody>
 							<tr>
-								<td>TUE 2&nbsp;SEP</td>
-								<td class="text-center"><a href="#event-0209">GRAVES PARK MEADOWHEAD, ST JAMES CHURCH NORTON, ROSE GARDEN CAFE</a></td>
-								<td class="text-end">29 AUG</td>
+								<td>WED 8&nbsp;OCT</td>
+								<td class="text-center"><a href="#event-0810">
+									FOX HOUSE, LONGSHAW ESTATE, HIGGOR TOR, WINYARDS NIC, OWLER TOR, LONGSHAW</a></td>
+								<td class="text-end">3 OCT</td>
 							</tr>
 							<tr>
-								<td>WED 10&nbsp;SEP</td>
-								<td class="text-center"><a href="#event-1009">LOW BRADFIELD, FIGURE OF 8 ROUND AGDEN RESERVOIR THEN DAM FLASK</a></td>
-								<td class="text-end">5 SEP</td>
+								<td>TUE 14&nbsp;OCT</td>
+								<td class="text-center"><a href="#event-1410">
+									CIRCULAR WALK AROUND BURNCROSS, CHARLTON BROOK AND CHAPELTOWN</a></td>
+								<td class="text-end">10 OCT</td>
 							</tr>
 							<tr>
-								<td>MON 15 SEP</td>
-								<td class="text-center">
-									<div class="d-flex justify-content-center">
-										<div class="d-flex flex-column justify-content-center">
-											<svg xmlns="http://www.w3.org/2000/svg" width="1.6em" viewBox="0 0 64 64">
-												<path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/>
-											</svg>
-										</div>	
-										<a href="#event-1509" class="mx-1">GROUP HOLIDAY - RIPON INN </a>
-										<div class="d-flex flex-column justify-content-center">
-											<svg xmlns="http://www.w3.org/2000/svg" width="1.6em" viewBox="0 0 64 64">
-												<path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/>
-											</svg>
-										</div>	
-									</div>
-								</td>
-								<td class="text-end">N/A</td>
+								<td>THU 23&nbsp;OCT</td>
+								<td class="text-center"><a href="#event-2310">
+									HOPE STATION, TOWN HEAD, BAGSHAW BRIDGE, WOOLER KNOLL, ASTON, HOPE STATION</a></td>
+								<td class="text-end">17 OCT</td>
 							</tr>
 							<tr>
-								<td>THU 18&nbsp;SEP</td>
-								<td class="text-center"><a href="#event-1809">WALK FROM FAIRHOLMES (ROUTE TO BE DECIDED ON THE DAY)</a></td>
-								<td class="text-end">12 SEP</td>
+								<td>SUN 26&nbsp;OCT</td>
+								<td class="text-center"><a href="#event-2610">
+									HOLYMOORSIDE, HARPER HILL, STUBBING AND BACK TO SLATEPIT DALE</a></td>
+								<td class="text-end">22 OCT</td>
 							</tr>
 							<tr>
-								<td>SUN 28&nbsp;SEP</td>
-								<td class="text-center"><a href="#event-2809">PENISTONE, HIGH LEA FARM, SILKSTONE COMMON</a></td>
-								<td class="text-end">24 SEP</td>
+								<td>TUE 4&nbsp;NOV</td>
+								<td class="text-center"><a href="#event-0411">
+									CONCORDE PARK, WOOLEY WOOD, TRANS PENNINE TRAIL, MORRISONS ECCLESFIELD</a></td>
+								<td class="text-end">31 OCT</td>
 							</tr>
 							<tr>
 								<td>TUE 11&nbsp;NOV</td>
-								<td class="text-center"><a href="#event-1111">VI TRAINING DAY</a></td>
+								<td class="text-center"><a href="#event-1111">
+									VI TRAINING DAY</a></td>
 								<td class="text-end">N/A</td>
 							</tr>
 						</tbody>
@@ -151,7 +141,11 @@ lastUpdated="31st August 2025"
 						<tbody>
 							<tr>
 								<td>1st THU</td>
-								<td class="text-center"><a href="#event-short-walk-with-rss-and-srsb">SHORT WALK WITH RSS AND SRSB EVERY FIRST THURSDAY OF THE MONTH IN ROTHERHAM</a></td>
+								<td class="text-center">
+									<a href="#event-short-walk-with-rss-and-srsb">
+										SHORT WALK WITH RSS AND SRSB EVERY FIRST THURSDAY OF THE MONTH IN ROTHERHAM
+									</a>
+								</td>
 								<td class="text-end">
 									(<a href="#event-short-walk-with-rss-and-srsb">see here</a>)
 								</td>
@@ -165,26 +159,67 @@ lastUpdated="31st August 2025"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex" id="event-0209">
+				<article class="d-flex" id="event-0810">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20250902">TUESDAY 2nd SEPTEMBER</time> - GRAVES PARK MEADOWHEAD, ST JAMES CHURCH NORTON, ROSE GARDEN CAFE
+									<time datetime="20251008">WEDNESDAY 8th OCTOBER</time> -
+									FOX HOUSE, LONGSHAW ESTATE, HIGGOR TOR, WINYARDS NIC, OWLER TOR, LONGSHAW
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Poundland High Street 9.40am to catch the 10.03am number 25 bus to Graves Park Meadowhead
-									where the walk will start and finish.
+									Sheffield Interchange main foyer 9.30 to catch the
+									9.45 no 272 bus to Fox House where walk starts 10.16.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									We will make our way to St James Church Norton where we will have a short memorial
-									for those members who are no longer with us, as agreed last year,
-									home made cakes and refreshments available for a donation.<br>
-									Afterwards go to the Rose Garden cafe for lunch.
-									For those members who wish to bring their own, there are plenty of seats outside.
+									Longshaw estate, Burbage Edge, Higgor Tor, Carl Wark, Winyards Nic, Mother Cap, Owler Tor, Longshaw.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Around 6 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Some climbing rocky and stoney paths (walking shoes or boots for this walk recommended).
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Nigel Robb (<a href="tel:07538 460680">07538 460680</a>) for any walk enquiries.
+								</li>
+							</ul>
+							<div class="card-footer">
+								Return buses to Sheffield 14.03, 15.00.
+								<br>
+								Contact Martin by <b>Friday 3rd October</b> if joining this walk letting him know where you
+								intend to start the walk so he knows enough guides to cover this walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1410">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20251014">TUESDAY 14th OCTOBER</time> -
+									CIRCULAR WALK AROUND BURNCROSS, CHARLTON BROOK AND CHAPELTOWN
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Argos Snigg Hill 9.45 to catch the no 86 bus 10am Snigg Hill
+									to the Acorn Pub Burncross where walk starts 10.30.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Circular walk.
+									Easy walking on good paths around Burncross, Charlton Brook and Chapeltown.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
@@ -192,18 +227,17 @@ lastUpdated="31st August 2025"
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Easy walking on good paths with no steep ascents.
+									Easy paths.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									David Cadet
-									(<a href="tel:07554 143262">07554 143262</a> or
-									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a> for all walk enquiries).
+									David (<a href="tel:07554 143262">07554 143262</a>) and
+									Anne (<a href="tel:07989 053534">07989 053534</a>) for all walk enquiries.
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin by <b>Friday 29th August</b> for him to make sure enough guides,
-								letting him know where you will meet the group.
+								Please contact Martin to let him know if you are joining this walk by <b>Friday 10th October</b>
+								also letting him know where you will meet the group to ensure enough guides at the start.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -211,42 +245,47 @@ lastUpdated="31st August 2025"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-1009">
+					<article class="d-flex" id="event-2310">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20250910">WEDNESDAY 10th SEPTEMBER</time> - LOW BRADFIELD, FIGURE OF 8 ROUND AGDEN RESERVOIR THEN DAM FLASK
+									<time datetime="20251023">THURSDAY 23rd OCTOBER</time> -
+									HOPE STATION, TOWN HEAD, BAGSHAW BRIDGE, WOOLER KNOLL, ASTON, HOPE STATION
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Poundland High Street at 9.20 to catch the 9.40 Tram to Hillsborough Interchange,
-									then the 10.10 no 62 bus to Low Bradfield arrives 10.40 when the walk will start.
-									This will be from the bus turning circle which is situated Arnett Lane / Fair House Lane junction.
-									Plenty of parking nearby or Bradfield car park for the drivers.
+									Sheffield Rail station 8.40 to catch the 9.14 train to Hope station arrives 0938
+									where the walk will start at 0945.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									The walk will be a figure of 8 round Agden Reservoir then Dam Flask.
+									Hope station - Killhill Bridge - Town Head - Oaker Farm - Bagshaw Bridge -
+									Edale End - Wooler Knoll - Win Hill - Aston - Hope Station.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									Approx 6.1/2 miles.
+									Approx 7 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Slightly uneven mud tracks round parts of Agden then easy well walked paths round Dam Flask.
-									Anyone wanting to finish after the first dam can easily do so. There are no stiles.
+									Field paths which may be muddy, tarmac/stony lanes, wicket gates, various stiles,
+									one long, steady climb to Wooler Knoll ridge from Edale End then gentler on to Win Hill,
+									one steeper descent on a good path from below Win Hill towards Aston.<br>
+									If weather inclement the party will descend to the valley
+									from Wooler Knoll and return to Hope station.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Angela Elliott (<a href="tel:07708 980793">07708 980793</a> for any walk enquiries).
+									Steve Brown (<a href="tel:07801 906126">07801 906126</a>) for all your walk enquiries.
 								</li>
 							</ul>
 							<div class="card-footer">
-								Contact Martin to put your name down by <b>Friday 5th September</b> so he knows he has enough guides
-								to cover this walk also where you will meet group to ensure guides at Poundland for VI's.
+								Train back to Sheffield 38 minutes past each hour.
+								<br>
+								Contact Martin letting him know where you will meet the group
+								by <b>Friday 17th October</b> to ensure enough guides.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -254,93 +293,26 @@ lastUpdated="31st August 2025"
 						</div>
 					</article>
 
-					<article class="d-flex" id="event-1509">
+					<article class="d-flex" id="event-2610">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<svg xmlns="http://www.w3.org/2000/svg" width="1.2em" viewBox="0 0 64 64">
-										<path fill="#ffce31" d="M62 25.2H39.1L32 3l-7.1 22.2H2l18.5 13.7l-7 22.1L32 47.3L50.5 61l-7.1-22.2z"/>
-									</svg>
-									<span class="align-middle ms-1">
-										<time datetime="20250915">MONDAY 15th &mdash; SATURDAY 20th SEPTEMBER</time> - GROUP HOLIDAY - RIPON INN
-									</span>
-								</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									We will stay at the <a href="https://www.inncollectiongroup.com/ripon-inn/" target="_blank">Ripon Inn</a>, Nr Yorkshire.<br>
-								</p>
-								<p>
-									Here is a
-									<a href="https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/ripon-yorkshire-forgotten-city/" target="_blank">
-										travel article about Ripon
-									</a>
-									which sounds very interesting - take a look to whet your appetite!
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-1809">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250918">THURSDAY 18th SEPTEMBER</time> - WALK FROM FAIRHOLMES (ROUTE TO BE DECIDED ON THE DAY)
+									<time datetime="20251026">SUNDAY 26th OCTOBER</time> -
+									HOLYMOORSIDE, HARPER HILL, STUBBING AND BACK TO SLATEPIT DALE
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Queen's Head Pub 9.15 to leave for Fairholmes at 9.30 minibus.
-									Walk starts 10am.
+									Poundland High Street 9.15 to catch the X17 9.38 Gold Wirksworth bus from stop AG12 on Arundel Gate
+									(opposite the Crucible Theatre) to the High Lane stop between Chesterfield and Matlock where the walk
+									will start at 10.35.<br>
+									Using Google maps, car drivers will see that this stop is on the A632 Matlock Road approximately
+									3.5 miles from Chesterfield at Slatepit Dale, limited car parking on side roads.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Always decided on the day due to weather conditions.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									8 to 9 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Some climbs, some good paths and uneven tracks.
-									This walk is for good walkers and always recommend wearing walking boots for this walk not trainers.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a> for any walk enquiries).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Contact Martin to put your name down for this walk by <b>Friday 12th September</b> letting him know
-								where you will meet the group to ensure enough guides at the Queen's Head to meet VI's.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2809">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20250928">SUNDAY 28th SEPTEMBER</time> - PENISTONE, HIGH LEA FARM, SILKSTONE COMMON
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield Railway Station 9.15 to catch the 9.37 train to Penistone,
-									arriving at 10.22 for a linear walk to Silkstone Common.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Walk a short distance along the trail past the site of an old railway turntable and a WW2 tank ramp.
-									From there, we climb up to High Lea Farm, taking our time,
-									getting a lovely view of the Penistone Viaduct.
-									We then walk cross country, through woodland and field paths ending at Silkstone Common.
+									Holymoorside, Harper Hill, Stubbing and back to Slatepit Dale.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
@@ -348,17 +320,61 @@ lastUpdated="31st August 2025"
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Fields and woodland paths.
+									Minor roads, field and woodland paths and tracks across undulating countryside with some stiles.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									David Kayley (<a href="tel:07840 133768">07840 133768</a> for any walk enquiries).
+									Mike Wilson (<a href="tel:07538 001933">07538 001933</a>) any walk enquiries.
 								</li>
 							</ul>
 							<div class="card-footer">
-								There are hourly trains back to Sheffield.
+								Please contact Martin no later than <b>Wednesday 22nd October</b> if joining this walk
+								also letting him know where you will meet the group.
 								<br>
-								Please contact Martin by <b>Wednesday 24th September</b> to make sure enough guides for this walk.
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0411">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20251104">TUESDAY 4th NOVEMBER</time> -
+									CONCORDE PARK, WOOLEY WOOD, TRANS PENNINE TRAIL, MORRISONS ECCLESFIELD
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Argos Snigg Hill 9.30 to catch the 10.03 no 75 bus on Arundel Gate
+									to Concorde Park where walk starts 10.30.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Linear walk.
+									Concorde Park, Wooley Wood, Trans Pennine Trail, Morrisons Ecclesfield.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Easy walking, one stile, no ascent.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David Cadet (<a href="tel:07554 143262">07554 143262</a> or 
+									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>)
+									for all walk enquiries.
+								</li>
+							</ul>
+							<div class="card-footer">
+								It is important to let Martin know if joining this walk by <b>Friday 31st October</b>
+								so he knows enough guides to cover also where you will meet the group.<br>
+								If you put your name down and can no longer make the walk please let him know.
 								<br>
 								<a href="tel:07747 443812">07747 443812</a> or
 								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
@@ -416,7 +432,8 @@ lastUpdated="31st August 2025"
 									usually around 3 miles finishing at the lovely Winthrop Gardens Wickersley at their cafe for lunch.
 								</p>
 								<p>
-									A minibus leaves SRSB Mappin Street at 9.30, with Rotherham Sight and Sound taking members to the start of the walk from 10am,
+									A minibus leaves SRSB Mappin Street at 9.30, with Rotherham Sight and Sound
+									taking members to the start of the walk from 10am,
 									and the walk itself starting half an hour later at 10:30am.
 								</p>
 							</div>
@@ -425,7 +442,9 @@ lastUpdated="31st August 2025"
 								or send an email to <a href="mailto:activities@srsb.org.uk">activities@srsb.org.uk</a>
 								to book a place or for more information.<br>
 								Additional details are available from the
-								<a href="https://www.srsb.org.uk/Rotherham-Health-Walks/" target="_blank">event page on SRSB's website</a>.
+								<a href="https://www.srsb.org.uk/Rotherham-Health-Walks/" target="_blank">
+									event page on SRSB's website
+								</a>.
 							</div>
 						</div>
 					</article>
@@ -446,10 +465,12 @@ lastUpdated="31st August 2025"
 							<div class="card-body">
 								<p>
 									Sometimes we have to turn down VI's if there are not enough guides for that particular walk.
-									This is never personal - we are working hard to recruit new guides so our VI's are never turned down for a walk.
+									This is never personal -
+									we are working hard to recruit new guides so our VI's are never turned down for a walk.
 								</p>
 								<p>
-									Judith has set up a Facebook page for our group to send her any photos, videos, etc, hopefully to recruit new guides.
+									Judith has set up a Facebook page for our group to send her any photos,
+									videos, etc, hopefully to recruit new guides.
 									Contact details are
 									<a href="mailto:judemorton56@gmail.com">judemorton56@gmail.com</a> or
 									mobile <a href="tel:07896 596413">07896 596413</a>.
@@ -458,11 +479,12 @@ lastUpdated="31st August 2025"
 								</p>
 								<p>
 									Also it is most important to contact Martin by the date specified for that particular walk.
-									This gives Martin time to try to find more guides to come along, sometimes forgetting to put their names down.
+									This gives Martin time to try to find more guides to come along,
+									sometimes forgetting to put their names down.
 								</p>
 								<p>
-									Ideally we would like to have 2 guides for each VI but this is not possible so we always have 2 to 3 spare guides
-									to give other guides who find themselves guiding most of the day a rest.
+									Ideally we would like to have 2 guides for each VI but this is not possible so we always have
+									2 to 3 spare guides to give other guides who find themselves guiding most of the day a rest.
 								</p>
 								<p>
 									Thank you for your cooperation.
@@ -482,11 +504,15 @@ lastUpdated="31st August 2025"
 								</h3>
 							</div>
 							<div class="card-body">
-								If anyone has any items in good order - Rucksacks, Walking Poles, Waterproof Jackets and Trousers - that they no longer require, please inform Judith as we are compiling a list of items to circulate amongst any new members or anyone who requires these items.
+								If anyone has any items in good order - Rucksacks, Walking Poles, Waterproof Jackets and Trousers -
+								that they no longer require, please inform Judith as we are compiling a list of items to circulate
+								amongst any new members or anyone who requires these items.
 								Thank You.
 							</div>
 							<div class="card-footer">
-								 Cheers, Judith (Email: <a href="mailto:judemorton56@gmail.com">judemorton56@gmail.com</a> / Mobile: <a href="tel:07896596413">07896596413</a>)
+								 Cheers, Judith
+								 (Email: <a href="mailto:judemorton56@gmail.com">judemorton56@gmail.com</a> /
+								 Mobile: <a href="tel:07896596413">07896596413</a>)
 							</div>
 						</div>
 					</article>
@@ -500,12 +526,16 @@ lastUpdated="31st August 2025"
 							</div>
 							<div class="card-body">
 								<p>
-									Here is <a href="https://youtu.be/-jqepQ8yASM">a video</a> showing how to guide a V I person - it will help our new guides, also well practiced members and also VIP's.
+									Here is <a href="https://youtu.be/-jqepQ8yASM">a video</a> showing how to guide a V I person -
+									it will help our new guides, also well practiced members and also VIP's.
 									It is by Amar Latif who founded the company Traveleyes which specialises in holidays for VIP's.
 									I think it is extremely good, so perhaps members would like to take a look.
 								</p>
 								<p>
-									<b>We regularly organise training days for new members and anyone who has already had training but would like a refresher.</b>
+									<b>
+										We regularly organise training days for new members and
+										anyone who has already had training but would like a refresher.
+									</b>
 								</p>
 							</div>
 							<div class="card-footer">

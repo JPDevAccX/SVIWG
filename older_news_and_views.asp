@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="28th September 2025"
+lastUpdated="9th November 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -28,6 +28,55 @@ lastUpdated="28th September 2025"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
+								<h3 class="card-title fs-5">TUESDAY WALKS</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									David Cadet has been doing the Tuesday walks for many years they have become
+									very popular with the most attendance of all our walks.
+								</p>
+								<p>
+									David would like to step down from this role or perhaps have some help
+									with someone taking over some of them.
+									Please contact Eileen as we do not want to lose this very popular walking day.
+								</p>
+								<p>
+									David has been remarkable with his work producing a walk monthly it is not easy as walk leaders
+									will acknowledge the work that goes into checking out walks etc.
+								</p>
+								<p>
+									Thank you for any interest.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">CHRISTMAS LUNCH</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Following David Cadet's walk on 2nd December,
+									we will be having Christmas Lunch at the Robin Hood Pub on Abbeydale Road.
+									We need to know numbers.
+								</p>
+								<p>
+									Please let me know if you wish to go. The menu will be in the next newsletter.
+								</p>
+								<p>
+									Email: <a href="mailto:megdpatrick@gmail.com">megdpatrick@gmail.com</a><br>
+									Mobile: <a href="tel:07946 382896">07946 382896</a><br>
+									Confirm asap as we have to confirm numbers.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
 								<h3 class="card-title fs-5">VI TRAINING DAY - TUESDAY 11th NOVEMBER</h3>
 							</div>
 							<div class="card-body">
@@ -47,31 +96,6 @@ lastUpdated="28th September 2025"
 									Please contact Gail;
 									email <a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>.<br>
 									For guides who have already let me know no need to email again.
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">OBITUARY</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									It is very sad our former treasurer Stan Wainwright died recently.
-								</p>
-								<p>
-									Stan was our treasurer for many years doing a brilliant job keeping meticulous records
-									even when it was clear his health was suffering.
-									We saw his decline over the last year but he always came to our Committee Meeting hardly ever missing.
-								</p>
-								<p>
-									Stan walked with us in the beginning and attempted a few challenges with our group.
-									He was also a keen Table Tennis player before his illness which he never spoke about.
-								</p>
-								<p>
-									Our commiserations to his family and friends.
 								</p>
 							</div>
 						</div>

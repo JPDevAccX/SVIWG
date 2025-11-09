@@ -78,7 +78,7 @@ lastUpdated="4th October 2025"
 								<figure class="figure">
 									<img src="images/photo_gallery/2025/holiday/GroupHoliday2025_04_ds.webp"
 										alt="Some bulls in a partially fenced field with a backdrop of trees not far away">
-									<figcaption class="figure-caption">These animals feel bullish about having their photos taken</figcaption>
+									<figcaption class="figure-caption">These animals feel bullish about having their photo taken</figcaption>
 								</figure>
 							</div>
 							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">

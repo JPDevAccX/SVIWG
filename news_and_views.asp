@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="28th September 2025"
+lastUpdated="9th November 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -36,84 +36,32 @@ lastUpdated="28th September 2025"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
-								<h3 class="card-title fs-5">TUESDAY WALKS</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									David Cadet has been doing the Tuesday walks for many years they have become
-									very popular with the most attendance of all our walks.
-								</p>
-								<p>
-									David would like to step down from this role or perhaps have some help
-									with someone taking over some of them.
-									Please contact Eileen as we do not want to lose this very popular walking day.
-								</p>
-								<p>
-									David has been remarkable with his work producing a walk monthly it is not easy as walk leaders
-									will acknowledge the work that goes into checking out walks etc.
-								</p>
-								<p>
-									Thank you for any interest.
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">CHRISTMAS LUNCH</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									Following David Cadet's walk on 2nd December,
-									we will be having Christmas Lunch at the Robin Hood Pub on Abbeydale Road.
-									We need to know numbers.
-								</p>
-								<p>
-									Please let me know if you wish to go. The menu will be in the next newsletter.
-								</p>
-								<p>
-									Email: <a href="mailto:megdpatrick@gmail.com">megdpatrick@gmail.com</a><br>
-									Mobile: <a href="tel:07946 382896">07946 382896</a><br>
-									Confirm asap as we have to confirm numbers.
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
 								<h3 class="card-title fs-5">OBITUARY</h3>
 							</div>
 							<div class="card-body">
 								<p>
-									It is very sad to let you know that Melvin Oughton died in September.
+									We are sorry to inform you that our friend Derek Taylor died early October.
 								</p>
 								<p>
-									Mel as he was known was very popular.
-									He was Deaf Blind but extremely independent until his eyesight became much worse
-									and he could no longer remain independent.
+									Derek was around at the beginning of SVIWG and remained a constant coming each Wednesday without fail.
+									Derek was also a great sportsman loving cricket and playing at a high level
+									also running the Sheffield half marathon each year.
+									Derek was very smart and when he was not in walking clothes he was to be seen around always in a suit.
 								</p>
 								<p>
-									Mel enjoyed lots of exotic holidays this being possible with Travel-eyes which was set up
-									for blind folks which they provided a sighted companion for these holidays.
+									He lost his wife two years ago after years of marriage and we could see his decline from there.
+									When he was no longer able to walk with us he always came to our social events
+									the last being at our AGM this year.
 								</p>
 								<p>
-									Mel was a successful business man in his working life a credit due to his dual disabilities.
+									Our condolences to his two sons and their families
+									also his Grandchildren whom he adored and this was also the same for them.
 								</p>
 								<p>
-									He attended the Maude Maxfield school for the deaf in Sheffield. 
-									From there he met his great friend Phillip Timms and when together on a walk
-									they reverted back to their schooldays being very mischievous.
+									We will miss you Derek. Thank you for many years of support. Gail.
 								</p>
 								<p>
-									Mel was a very quietly spoken gentle person and he will be missed by our group.
-								</p>
-								<p>
-									On behalf of the SVIWG I would like to send our condolences to his family and also Phillip.
-									His funeral is at City Road on Wednesday 1st October 1.45pm afterwards at the Angel PH Woodhouse.
+									Derek's funeral is to be held Hutcliffe Wood 31st October at 3.30pm.
 								</p>
 							</div>
 						</div>

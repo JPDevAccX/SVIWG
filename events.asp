@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="4th October 2025"
+lastUpdated="9th November 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -88,40 +88,34 @@ lastUpdated="4th October 2025"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 8&nbsp;OCT</td>
-								<td class="text-center"><a href="#event-0810">
-									FOX HOUSE, LONGSHAW ESTATE, HIGGOR TOR, WINYARDS NIC, OWLER TOR, LONGSHAW</a></td>
-								<td class="text-end">3 OCT</td>
-							</tr>
-							<tr>
-								<td>TUE 14&nbsp;OCT</td>
-								<td class="text-center"><a href="#event-1410">
-									CIRCULAR WALK AROUND BURNCROSS, CHARLTON BROOK AND CHAPELTOWN</a></td>
-								<td class="text-end">10 OCT</td>
-							</tr>
-							<tr>
-								<td>THU 23&nbsp;OCT</td>
-								<td class="text-center"><a href="#event-2310">
-									HOPE STATION, TOWN HEAD, BAGSHAW BRIDGE, WOOLER KNOLL, ASTON, HOPE STATION</a></td>
-								<td class="text-end">17 OCT</td>
-							</tr>
-							<tr>
-								<td>SUN 26&nbsp;OCT</td>
-								<td class="text-center"><a href="#event-2610">
-									HOLYMOORSIDE, HARPER HILL, STUBBING AND BACK TO SLATEPIT DALE</a></td>
-								<td class="text-end">22 OCT</td>
-							</tr>
-							<tr>
-								<td>TUE 4&nbsp;NOV</td>
-								<td class="text-center"><a href="#event-0411">
-									CONCORDE PARK, WOOLEY WOOD, TRANS PENNINE TRAIL, MORRISONS ECCLESFIELD</a></td>
-								<td class="text-end">31 OCT</td>
-							</tr>
-							<tr>
 								<td>TUE 11&nbsp;NOV</td>
 								<td class="text-center"><a href="#event-1111">
 									VI TRAINING DAY</a></td>
 								<td class="text-end">N/A</td>
+							</tr>
+							<tr>
+								<td>WED 12&nbsp;NOV</td>
+								<td class="text-center"><a href="#event-1211">
+									ELSECAR STATION, PARK, WENTWORTH VILLAGE, WENTWORTH WOODHOUSE CAFE, ELSECAR HERITAGE CENTRE</a></td>
+								<td class="text-end">7 NOV</td>
+							</tr>
+							<tr>
+								<td>THU 20&nbsp;NOV</td>
+								<td class="text-center"><a href="#event-2011">
+									MEET QUEEN'S HEAD PH POND HILL, ROUTE (AROUND 8 MILES) TO BE DECIDED ON THE DAY</a></td>
+								<td class="text-end">14 NOV</td>
+							</tr>
+							<tr>
+								<td>SUN 23&nbsp;NOV</td>
+								<td class="text-center"><a href="#event-2311">
+									TRAIN STATION, NORFOLK PARK, ARBOURTHORNE, MANOR FIELDS, MANOR LODGE, SKYE EDGE, PARK HILL FLATS</a></td>
+								<td class="text-end">19 NOV</td>
+							</tr>
+							<tr>
+								<td>TUE 2&nbsp;DEC</td>
+								<td class="text-center"><a href="#event-0212">
+									CHRISTMAS WALK AND LUNCH AT THE ROBIN HOOD PUB</a></td>
+								<td class="text-end">15 NOV</td>
 							</tr>
 						</tbody>
 					</table>
@@ -159,229 +153,6 @@ lastUpdated="4th October 2025"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 
-				<article class="d-flex" id="event-0810">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20251008">WEDNESDAY 8th OCTOBER</time> -
-									FOX HOUSE, LONGSHAW ESTATE, HIGGOR TOR, WINYARDS NIC, OWLER TOR, LONGSHAW
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield Interchange main foyer 9.30 to catch the
-									9.45 no 272 bus to Fox House where walk starts 10.16.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Longshaw estate, Burbage Edge, Higgor Tor, Carl Wark, Winyards Nic, Mother Cap, Owler Tor, Longshaw.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Around 6 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Some climbing rocky and stoney paths (walking shoes or boots for this walk recommended).
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Nigel Robb (<a href="tel:07538 460680">07538 460680</a>) for any walk enquiries.
-								</li>
-							</ul>
-							<div class="card-footer">
-								Return buses to Sheffield 14.03, 15.00.
-								<br>
-								Contact Martin by <b>Friday 3rd October</b> if joining this walk letting him know where you
-								intend to start the walk so he knows enough guides to cover this walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-1410">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20251014">TUESDAY 14th OCTOBER</time> -
-									CIRCULAR WALK AROUND BURNCROSS, CHARLTON BROOK AND CHAPELTOWN
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Argos Snigg Hill 9.45 to catch the no 86 bus 10am Snigg Hill
-									to the Acorn Pub Burncross where walk starts 10.30.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Circular walk.
-									Easy walking on good paths around Burncross, Charlton Brook and Chapeltown.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									4 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Easy paths.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David (<a href="tel:07554 143262">07554 143262</a>) and
-									Anne (<a href="tel:07989 053534">07989 053534</a>) for all walk enquiries.
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin to let him know if you are joining this walk by <b>Friday 10th October</b>
-								also letting him know where you will meet the group to ensure enough guides at the start.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2310">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20251023">THURSDAY 23rd OCTOBER</time> -
-									HOPE STATION, TOWN HEAD, BAGSHAW BRIDGE, WOOLER KNOLL, ASTON, HOPE STATION
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield Rail station 8.40 to catch the 9.14 train to Hope station arrives 0938
-									where the walk will start at 0945.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Hope station - Killhill Bridge - Town Head - Oaker Farm - Bagshaw Bridge -
-									Edale End - Wooler Knoll - Win Hill - Aston - Hope Station.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									Approx 7 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Field paths which may be muddy, tarmac/stony lanes, wicket gates, various stiles,
-									one long, steady climb to Wooler Knoll ridge from Edale End then gentler on to Win Hill,
-									one steeper descent on a good path from below Win Hill towards Aston.<br>
-									If weather inclement the party will descend to the valley
-									from Wooler Knoll and return to Hope station.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Steve Brown (<a href="tel:07801 906126">07801 906126</a>) for all your walk enquiries.
-								</li>
-							</ul>
-							<div class="card-footer">
-								Train back to Sheffield 38 minutes past each hour.
-								<br>
-								Contact Martin letting him know where you will meet the group
-								by <b>Friday 17th October</b> to ensure enough guides.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-2610">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20251026">SUNDAY 26th OCTOBER</time> -
-									HOLYMOORSIDE, HARPER HILL, STUBBING AND BACK TO SLATEPIT DALE
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Poundland High Street 9.15 to catch the X17 9.38 Gold Wirksworth bus from stop AG12 on Arundel Gate
-									(opposite the Crucible Theatre) to the High Lane stop between Chesterfield and Matlock where the walk
-									will start at 10.35.<br>
-									Using Google maps, car drivers will see that this stop is on the A632 Matlock Road approximately
-									3.5 miles from Chesterfield at Slatepit Dale, limited car parking on side roads.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Holymoorside, Harper Hill, Stubbing and back to Slatepit Dale.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									5 1/2 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Minor roads, field and woodland paths and tracks across undulating countryside with some stiles.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Mike Wilson (<a href="tel:07538 001933">07538 001933</a>) any walk enquiries.
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin no later than <b>Wednesday 22nd October</b> if joining this walk
-								also letting him know where you will meet the group.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-0411">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20251104">TUESDAY 4th NOVEMBER</time> -
-									CONCORDE PARK, WOOLEY WOOD, TRANS PENNINE TRAIL, MORRISONS ECCLESFIELD
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Argos Snigg Hill 9.30 to catch the 10.03 no 75 bus on Arundel Gate
-									to Concorde Park where walk starts 10.30.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Linear walk.
-									Concorde Park, Wooley Wood, Trans Pennine Trail, Morrisons Ecclesfield.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									4 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Easy walking, one stile, no ascent.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David Cadet (<a href="tel:07554 143262">07554 143262</a> or 
-									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>)
-									for all walk enquiries.
-								</li>
-							</ul>
-							<div class="card-footer">
-								It is important to let Martin know if joining this walk by <b>Friday 31st October</b>
-								so he knows enough guides to cover also where you will meet the group.<br>
-								If you put your name down and can no longer make the walk please let him know.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-							</div>
-						</div>
-					</article>
-
 					<article class="d-flex" id="event-1111">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
@@ -391,21 +162,233 @@ lastUpdated="4th October 2025"
 							</div>
 							<div class="card-body">
 								<p>
-									To be held at SRSB Mappin Street 10am to 12 noon.
-									This is for new guides and also for any guides who would like to have a re-fresher
-									as some of our guides have already done so.
+									To be held at SRSB Mappin Street 10am - 12noon.
+									Thanks to our guides who have shown interest in above and
+									Sue Hill and myself look forward to seeing you there.
+								</p>
+							</div>
+							<div class="card-footer">
+								- Gail
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-1211">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2025112">WEDNESDAY 12th NOVEMBER</time> - ELSECAR STATION, PARK, WENTWORTH VILLAGE, WENTWORTH WOODHOUSE CAFE, ELSECAR HERITAGE CENTRE
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Train station main foyer 9.40 to catch Sheffield train
+									which departs at 10.01 and arrives at Elsecar at 10.19.
+									Platform 4A Barnsley train departs at 10.00 and arrives at 10.09.
+									Cars can park for free at Elsecar train station.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									From Elsecar train station head down the hill to Elsecar park. Loop around the reservoir.
+									Cross the road and head through fields and woodland to Wentworth village.
+									Walk through the village and down to Wentworth Woodhouse cafe there.
+									Back up towards the village and towards the needles eye monument.
+									Downhill back to Elsecar heritage centre then back to the train station.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									6 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good paths.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Matt Gulty (<a href="tel:07738 005412">07738 005412</a>) for any walk enquiries.
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin if joining this walk letting him know where you will meet
+								to ensure enough guides for this walk by <b>Friday 7th November</b>.	
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2011">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20251120">THURSDAY 20th NOVEMBER</time> - MEET QUEEN'S HEAD PH POND HILL, ROUTE (AROUND 8 MILES) TO BE DECIDED ON THE DAY
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Queen's Head PH Pond Hill 9.15 to leave by mini bus 9.30 to Fairholmes where walk starts 10am.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Always to be decided on the day due to weather conditions.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Around 8 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									For moderate walkers. Some climbs and rough walking, some good paths as well.
+									Always wear good walking boots on this walk.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a>) for all walk enquiries.
+								</li>
+							</ul>
+							<div class="card-footer">
+								Martin will need to know numbers to make sure enough guides
+								and where you will start this walk from by <b>Friday 14th November</b>.
+								Please note if you put your name down and can no longer make it please make sure you let him know. 
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-2311">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20251123">SUNDAY 23rd NOVEMBER</time> - TRAIN STATION, NORFOLK PARK, ARBOURTHORNE, MANOR FIELDS, MANOR LODGE, SKYE EDGE, PARK HILL FLATS
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Railway Station (main foyer) 9.45 to start the walk 10am.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Train Station, Cholera Monument, Norfolk Park, Arbourthorne, Manor Fields, Manor Lodge, Skye Edge, Park Hill flats, train station.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									5 1/2 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good paths, some ascents.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Fiona Preston (<a href="tel:07884 030297">07884 030297</a>) any walk enquiries. 
+								</li>
+							</ul>
+							<div class="card-footer">
+								It is important for all members to contact Martin by <b>Wednesday 19th November</b>
+								for him to make sure enough guides for this walk.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0212">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20251202">TUESDAY 2nd DECEMBER</time> - CHRISTMAS WALK AND LUNCH AT THE ROBIN HOOD PUB
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									10am on Arundel Gate opposite Poundland in order to catch the 10.20am no 97 bus to the Robin Hood Pub.<br>
+									<b>Important:</b> If parking in the car park at the RH pub you need to enter your registration.<br>
+									Walk starts 10.45.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Walking through the woods.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									3 miles approx.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Easy walking, no stiles.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David Cadet (<a href="tel:07554 143262">07554 143262</a> or
+									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>).
+								</li>
+							</ul>
+							<div class="card-footer">
+								Please contact Martin if joining this walk, only not for menu choices.
+								<br>
+								<a href="tel:07747 443812">07747 443812</a> or
+								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+								<br><br>
+								For menu choices instead, please <a href="#event-0212b">contact Meg Patrick (see below)</a>.
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="event-0212b">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="20251202">TUESDAY 2nd DECEMBER, 12:30pm</time> - CHRISTMAS LUNCH AT THE ROBIN HOOD PUB MILLHOUSES<br>
+									(3 COURSES £23.99 OR 2 COURSES £20.99)
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									<b>STARTERS:</b> Beer battered mushrooms. Halloumi fries served with Roquito hot honey.
+									King prawn cocktail. Leek and potato soup. Crispy chicken tenders served with BBQ dressing.
 								</p>
 								<p>
-									Alison Anthony, a senior Re-hab officer at Howden House will be conducting the training.
-									Alison has had many, many years training how to guide and also teaching long cane training.
+									<b>MAINS:</b> Turkey served with all the trimmings. Turkey and Pancetta Pie served with vegetables. 
+									Festive Hunter's Chicken Schnitzel served with cranberry sauce, back bacon Camembert cheese,
+									served with skin on fries.
+									Maple glazed pork belly served with crackling and seasonal vegetables. 
+									Camembert and bacon stack burger, maple cured bacon, cranberry and BBQ sauce,
+									served with skin on fries. 
+									Root veg Wellington butternut squash, carrot and sweet potato
+									encased in flaky pastry served with seasonal vegetables.
+									Grilled Sea bass and prawn served in a white wine and butter sauce served with vegetables.
 								</p>
 								<p>
-									Please do not miss this opportunity as it is only undertaken once per year as we get more new guides.
+									<b>SIDES:</b> Pigs in blankets £3.99, Pork and Apple stuffing £2.99, Yorkshire pudding £2.99.
 								</p>
 								<p>
-									Please contact Gail;
-									email <a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>.<br>
-									For guides who have already let me know no need to email again.
+									<b>DESSERTS:</b> Chocolate Fudge cake topped with rich chocolate sauce served with whipped cream.
+									Apple and Cinnamon pie with custard. Cherry Eaton mess sundae.
+									Sticky toffee Christmas pudding served with custard. 
+									Salted caramel profiteroles served with whipped cream toffee and chocolate sauce.
+								</p>
+							</div>
+							<div class="card-footer">
+								<p>
+									Please let me have your menu choices by <b>Saturday 15th November</b>.
+									A five pound deposit will have to be paid for each person. The final balance will be paid on the day.
+									If you need to cancel your booking after that date please let me know as soon as possible
+									as the pub needs 24 hours notice and you could be charged for it.
+								</p>
+								<p>
+									Contact details are Meg Patrick
+									(<a href="mailto:megdpatrick@gmail.com">megdpatrick@gmail.com</a> or
+									<a href="tel:07946 382896">07946 382896</a>).<br>
+									<b>No phone calls please</b>. Either email or text me.<br>
+									Thank you. Looking forward to seeing you all, Meg.
 								</p>
 							</div>
 						</div>

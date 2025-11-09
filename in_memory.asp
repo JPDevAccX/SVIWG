@@ -1,6 +1,6 @@
 <%
 title="In Memory"
-lastUpdated="4th August 2025"
+lastUpdated="9th November 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -11,6 +11,68 @@ lastUpdated="4th August 2025"
 			<h2 class="text-center">~ IN MEMORY ~</h2>
 
 			<div class="d-flex flex-column gap-5">
+
+				<article class="d-flex">
+					<div class="card mx-auto sviwg-text-card sviwg-news-card">
+						<div class="card-header">
+							<h3 class="card-title fs-5">OBITUARY - MELVIN OUGHTON</h3>
+						</div>
+						<div class="card-body">
+							<p>
+								It is very sad to let you know that Melvin Oughton died in September.
+							</p>
+							<p>
+								Mel as he was known was very popular.
+								He was Deaf Blind but extremely independent until his eyesight became much worse
+								and he could no longer remain independent.
+							</p>
+							<p>
+								Mel enjoyed lots of exotic holidays this being possible with Travel-eyes which was set up
+								for blind folks which they provided a sighted companion for these holidays.
+							</p>
+							<p>
+								Mel was a successful business man in his working life a credit due to his dual disabilities.
+							</p>
+							<p>
+								He attended the Maude Maxfield school for the deaf in Sheffield. 
+								From there he met his great friend Phillip Timms and when together on a walk
+								they reverted back to their schooldays being very mischievous.
+							</p>
+							<p>
+								Mel was a very quietly spoken gentle person and he will be missed by our group.
+							</p>
+							<p>
+								On behalf of the SVIWG I would like to send our condolences to his family and also Phillip.
+								His funeral is at City Road on Wednesday 1st October 1.45pm afterwards at the Angel PH Woodhouse.
+							</p>
+						</div>
+					</div>
+				</article>
+
+				<article class="d-flex">
+					<div class="card mx-auto sviwg-text-card sviwg-news-card">
+						<div class="card-header">
+							<h3 class="card-title fs-5">OBITUARY - STAN WAINWRIGHT</h3>
+						</div>
+						<div class="card-body">
+							<p>
+								It is very sad our former treasurer Stan Wainwright died recently.
+							</p>
+							<p>
+								Stan was our treasurer for many years doing a brilliant job keeping meticulous records
+								even when it was clear his health was suffering.
+								We saw his decline over the last year but he always came to our Committee Meeting hardly ever missing.
+							</p>
+							<p>
+								Stan walked with us in the beginning and attempted a few challenges with our group.
+								He was also a keen Table Tennis player before his illness which he never spoke about.
+							</p>
+							<p>
+								Our commiserations to his family and friends.
+							</p>
+						</div>
+					</div>
+				</article>
 
 				<article class="d-flex">
 					<div class="card mx-auto sviwg-text-card sviwg-news-card">

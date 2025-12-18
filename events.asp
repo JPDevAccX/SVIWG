@@ -1,9 +1,9 @@
 <%
 title="Events"
-lastUpdated="9th November 2025"
+lastUpdated="11th December 2025"
 %>
 
-<!-- #include file = "include/header.inc" --> 
+	<!-- #include file = "include/header.inc" -->
 
 		<!-- MAIN CONTENT -->
 		<main class="container-fluid g-0 sviwg-main-container d-flex flex-column gap-3">
@@ -49,7 +49,7 @@ lastUpdated="9th November 2025"
 						Any members leaving walks early please let the leader or back marker know.
 					</li>
 					<li>
-						For questions regarding specific walks, please only contact the walk leader(s), 
+						For questions regarding specific walks, please only contact the walk leader(s),
 						whose details are given below.
 					</li>
 				</ul>
@@ -83,39 +83,36 @@ lastUpdated="9th November 2025"
 							<tr>
 								<th scope="col">Date</th>
 								<th scope="col" class="text-center">Description</th>
-								<th scope="col" class="text-end">Notify&nbsp;By</th>
+								<th scope="col" class="text-end">Register</th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
-								<td>TUE 11&nbsp;NOV</td>
-								<td class="text-center"><a href="#event-1111">
-									VI TRAINING DAY</a></td>
-								<td class="text-end">N/A</td>
+								<td>WED 10&nbsp;DEC</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_1">
+										Wheata Woods, Wharncliffe Woods and Grenoside
+									</a>
+								</td>
+								<td class="text-end">5 DEC</td>
 							</tr>
 							<tr>
-								<td>WED 12&nbsp;NOV</td>
-								<td class="text-center"><a href="#event-1211">
-									ELSECAR STATION, PARK, WENTWORTH VILLAGE, WENTWORTH WOODHOUSE CAFE, ELSECAR HERITAGE CENTRE</a></td>
-								<td class="text-end">7 NOV</td>
+								<td>TUE 6&nbsp;JAN</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_2">
+										Wortley Post Office, Past the Church, Wortley Hall, Gamekeeper&#039;s Lodge
+									</a>
+								</td>
+								<td class="text-end">2 JAN</td>
 							</tr>
 							<tr>
-								<td>THU 20&nbsp;NOV</td>
-								<td class="text-center"><a href="#event-2011">
-									MEET QUEEN'S HEAD PH POND HILL, ROUTE (AROUND 8 MILES) TO BE DECIDED ON THE DAY</a></td>
-								<td class="text-end">14 NOV</td>
-							</tr>
-							<tr>
-								<td>SUN 23&nbsp;NOV</td>
-								<td class="text-center"><a href="#event-2311">
-									TRAIN STATION, NORFOLK PARK, ARBOURTHORNE, MANOR FIELDS, MANOR LODGE, SKYE EDGE, PARK HILL FLATS</a></td>
-								<td class="text-end">19 NOV</td>
-							</tr>
-							<tr>
-								<td>TUE 2&nbsp;DEC</td>
-								<td class="text-center"><a href="#event-0212">
-									CHRISTMAS WALK AND LUNCH AT THE ROBIN HOOD PUB</a></td>
-								<td class="text-end">15 NOV</td>
+								<td>WED 14&nbsp;JAN</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_3">
+										Sheffield Cathedral, Kelham Island, Burngreave Cemetery, Wincobank Hill, Meadowhall Interchange
+									</a>
+								</td>
+								<td class="text-end">9 JAN</td>
 							</tr>
 						</tbody>
 					</table>
@@ -129,7 +126,7 @@ lastUpdated="9th November 2025"
 							<tr>
 								<th scope="col">Date</th>
 								<th scope="col" class="text-center">Description</th>
-								<th scope="col" class="text-end">Notify&nbsp;By</th>
+								<th scope="col" class="text-end">Register</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -153,128 +150,126 @@ lastUpdated="9th November 2025"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex" id="event-1111">
+					<article class="d-flex" id="event_1">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20251111">TUESDAY 11th NOVEMBER</time> - VI TRAINING DAY
-								</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									To be held at SRSB Mappin Street 10am - 12noon.
-									Thanks to our guides who have shown interest in above and
-									Sue Hill and myself look forward to seeing you there.
-								</p>
-							</div>
-							<div class="card-footer">
-								- Gail
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-1211">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2025112">WEDNESDAY 12th NOVEMBER</time> - ELSECAR STATION, PARK, WENTWORTH VILLAGE, WENTWORTH WOODHOUSE CAFE, ELSECAR HERITAGE CENTRE
+									<time datetime="2025-12-10">
+										WEDNESDAY 10th DECEMBER
+									</time> -
+									Wheata Woods, Wharncliffe Woods and Grenoside
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Sheffield Train station main foyer 9.40 to catch Sheffield train
-									which departs at 10.01 and arrives at Elsecar at 10.19.
-									Platform 4A Barnsley train departs at 10.00 and arrives at 10.09.
-									Cars can park for free at Elsecar train station.
+									Front Cathedral Church Street 9.40 to catch the 10.00 no 86 on Angel Street to the Angel PH Grenoside
+									where walk starts approx 10.30.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									From Elsecar train station head down the hill to Elsecar park. Loop around the reservoir.
-									Cross the road and head through fields and woodland to Wentworth village.
-									Walk through the village and down to Wentworth Woodhouse cafe there.
-									Back up towards the village and towards the needles eye monument.
-									Downhill back to Elsecar heritage centre then back to the train station.
+									Wheata Woods, Wharncliffe Woods and Grenoside back to the start.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									6 miles.
+									~6 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Good paths.
+									Easy walking through woods and fields.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Matt Gulty (<a href="tel:07738 005412">07738 005412</a>) for any walk enquiries.
+									Norman Pearson (<a href="tel:07803 437931">07803 437931</a>)
+									for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact
+									Martin (<a href="tel:07747 443812">07747 443812</a> or <a
+										href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by
+									Friday 5th December.
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please contact Martin if joining this walk letting him know where you will meet
-								to ensure enough guides for this walk by <b>Friday 7th November</b>.	
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+								Please let Martin know where you will start the walk to ensure we have enough VI's.
+
+								Return buses from Grenoside Angel PH no 86 buses are at 14.44, 15.24 and 15.54.
+
+								Usually there's free parking at Grenoside Community Centre, but please check.
 							</div>
 						</div>
 					</article>
-
-					<article class="d-flex" id="event-2011">
+					<article class="d-flex" id="event_2">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20251120">THURSDAY 20th NOVEMBER</time> - MEET QUEEN'S HEAD PH POND HILL, ROUTE (AROUND 8 MILES) TO BE DECIDED ON THE DAY
+									<time datetime="2026-01-06">
+										TUESDAY 6th JANUARY
+									</time> -
+									Wortley Post Office, Past the Church, Wortley Hall, Gamekeeper&#039;s Lodge
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Queen's Head PH Pond Hill 9.15 to leave by mini bus 9.30 to Fairholmes where walk starts 10am.
+									Queen&#039;s Head Pond Hill 9.45 to travel by mini bus 10.00 to Wortley Post office opposite the Church
+									where car drivers can park. (Ann will meet anyone coming from Barnsley at the train station).
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Always to be decided on the day due to weather conditions.
+									Walking a short way along the road past the church, through a copse and down a path to a few steps
+									entering a small wood, cross a field and onto the drive to Wortley Hall. We can explore the gardens
+									including the walled fruit garden where there are beehives and trees and a pond. From there we walk down
+									the track to the Gamekeeper&#039;s lodge. We then go round a field and take the path back to Wortley
+									Hall.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									Around 8 miles.
+									4 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									For moderate walkers. Some climbs and rough walking, some good paths as well.
-									Always wear good walking boots on this walk.
+									Easy with two stiles.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a>) for all walk enquiries.
+									Ann Batty (<a href="tel:07989 053534">07989 053534</a>)
+									for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact
+									Martin (<a href="tel:07747 443812">07747 443812</a> or <a
+										href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by
+									Friday 2nd January.
 								</li>
 							</ul>
 							<div class="card-footer">
-								Martin will need to know numbers to make sure enough guides
-								and where you will start this walk from by <b>Friday 14th November</b>.
-								Please note if you put your name down and can no longer make it please make sure you let him know. 
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+								Please let Martin know your travel arrangements, if you need the mini-bus or are travelling by car.
 							</div>
 						</div>
 					</article>
-
-					<article class="d-flex" id="event-2311">
+					<article class="d-flex" id="event_3">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="20251123">SUNDAY 23rd NOVEMBER</time> - TRAIN STATION, NORFOLK PARK, ARBOURTHORNE, MANOR FIELDS, MANOR LODGE, SKYE EDGE, PARK HILL FLATS
+									<time datetime="2026-01-14">
+										WEDNESDAY 14th JANUARY
+									</time> -
+									Sheffield Cathedral, Kelham Island, Burngreave Cemetery, Wincobank Hill, Meadowhall Interchange
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Sheffield Railway Station (main foyer) 9.45 to start the walk 10am.
+									Front of Sheffield Cathedral Church Street 10.30 for a linear walk to Meadowhall Interchange.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Train Station, Cholera Monument, Norfolk Park, Arbourthorne, Manor Fields, Manor Lodge, Skye Edge, Park Hill flats, train station.
+									Via Kelham Island, Burngreave Cemetery and Wincobank Hill. Return by tram, bus or train.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
@@ -282,118 +277,28 @@ lastUpdated="9th November 2025"
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Good paths, some ascents.
+									A mixture of pavements and park and woodland paths with some uphill sections.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Fiona Preston (<a href="tel:07884 030297">07884 030297</a>) any walk enquiries. 
+									Mike Wilson (<a href="tel:07538 001933">07538 001933</a>)
+									for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact
+									Martin (<a href="tel:07747 443812">07747 443812</a> or <a
+										href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by
+									Friday 9th January.
 								</li>
 							</ul>
 							<div class="card-footer">
-								It is important for all members to contact Martin by <b>Wednesday 19th November</b>
-								for him to make sure enough guides for this walk.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
+								Please note paths may be muddy at this time of year and that the route crosses various bus routes should
+								anyone want to shorten the walk.
 							</div>
 						</div>
 					</article>
-
-					<article class="d-flex" id="event-0212">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20251202">TUESDAY 2nd DECEMBER</time> - CHRISTMAS WALK AND LUNCH AT THE ROBIN HOOD PUB
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									10am on Arundel Gate opposite Poundland in order to catch the 10.20am no 97 bus to the Robin Hood Pub.<br>
-									<b>Important:</b> If parking in the car park at the RH pub you need to enter your registration.<br>
-									Walk starts 10.45.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Walking through the woods.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									3 miles approx.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Easy walking, no stiles.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David Cadet (<a href="tel:07554 143262">07554 143262</a> or
-									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>).
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please contact Martin if joining this walk, only not for menu choices.
-								<br>
-								<a href="tel:07747 443812">07747 443812</a> or
-								<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>
-								<br><br>
-								For menu choices instead, please <a href="#event-0212b">contact Meg Patrick (see below)</a>.
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="event-0212b">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="20251202">TUESDAY 2nd DECEMBER, 12:30pm</time> - CHRISTMAS LUNCH AT THE ROBIN HOOD PUB MILLHOUSES<br>
-									(3 COURSES £23.99 OR 2 COURSES £20.99)
-								</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									<b>STARTERS:</b> Beer battered mushrooms. Halloumi fries served with Roquito hot honey.
-									King prawn cocktail. Leek and potato soup. Crispy chicken tenders served with BBQ dressing.
-								</p>
-								<p>
-									<b>MAINS:</b> Turkey served with all the trimmings. Turkey and Pancetta Pie served with vegetables. 
-									Festive Hunter's Chicken Schnitzel served with cranberry sauce, back bacon Camembert cheese,
-									served with skin on fries.
-									Maple glazed pork belly served with crackling and seasonal vegetables. 
-									Camembert and bacon stack burger, maple cured bacon, cranberry and BBQ sauce,
-									served with skin on fries. 
-									Root veg Wellington butternut squash, carrot and sweet potato
-									encased in flaky pastry served with seasonal vegetables.
-									Grilled Sea bass and prawn served in a white wine and butter sauce served with vegetables.
-								</p>
-								<p>
-									<b>SIDES:</b> Pigs in blankets £3.99, Pork and Apple stuffing £2.99, Yorkshire pudding £2.99.
-								</p>
-								<p>
-									<b>DESSERTS:</b> Chocolate Fudge cake topped with rich chocolate sauce served with whipped cream.
-									Apple and Cinnamon pie with custard. Cherry Eaton mess sundae.
-									Sticky toffee Christmas pudding served with custard. 
-									Salted caramel profiteroles served with whipped cream toffee and chocolate sauce.
-								</p>
-							</div>
-							<div class="card-footer">
-								<p>
-									Please let me have your menu choices by <b>Saturday 15th November</b>.
-									A five pound deposit will have to be paid for each person. The final balance will be paid on the day.
-									If you need to cancel your booking after that date please let me know as soon as possible
-									as the pub needs 24 hours notice and you could be charged for it.
-								</p>
-								<p>
-									Contact details are Meg Patrick
-									(<a href="mailto:megdpatrick@gmail.com">megdpatrick@gmail.com</a> or
-									<a href="tel:07946 382896">07946 382896</a>).<br>
-									<b>No phone calls please</b>. Either email or text me.<br>
-									Thank you. Looking forward to seeing you all, Meg.
-								</p>
-							</div>
-						</div>
-					</article>
-
 				</div>
 			</section>
 
@@ -440,6 +345,28 @@ lastUpdated="9th November 2025"
 
 				<div class="d-flex flex-column gap-5">
 
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
+							<div class="card-header">
+								<h3 class="card-title fs-5">MEETING POINT IN TOWN</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Please note that for all walks where we previously met at Poundland we will now meet at the Cathedral
+									tram stop Church Street.
+								</p>
+								<p>
+									There have been several unpleasant incidents near Poundland and the former Argos so for future walks
+									the meeting point is the Cathedral.
+								</p>
+								<p>Many thanks.</p>
+							</div>
+							<div class="card-footer">
+								- Sue Hill
+							</div>
+						</div>
+					</article>
+
 					<article id="notice_1" class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
 							<div class="card-header">
@@ -474,7 +401,7 @@ lastUpdated="9th November 2025"
 								</p>
 							</div>
 							<div class="card-footer">
-								 - Gail
+								- Gail
 							</div>
 						</div>
 					</article>
@@ -493,9 +420,9 @@ lastUpdated="9th November 2025"
 								Thank You.
 							</div>
 							<div class="card-footer">
-								 Cheers, Judith
-								 (Email: <a href="mailto:judemorton56@gmail.com">judemorton56@gmail.com</a> /
-								 Mobile: <a href="tel:07896596413">07896596413</a>)
+								Cheers, Judith
+								(Email: <a href="mailto:judemorton56@gmail.com">judemorton56@gmail.com</a> /
+								Mobile: <a href="tel:07896596413">07896596413</a>)
 							</div>
 						</div>
 					</article>
@@ -522,7 +449,7 @@ lastUpdated="9th November 2025"
 								</p>
 							</div>
 							<div class="card-footer">
-								 Please contact Gail if you are interested.
+								Please contact Gail if you are interested.
 							</div>
 						</div>
 					</article>
@@ -530,4 +457,4 @@ lastUpdated="9th November 2025"
 			</section>
 		</main>
 
-<!-- #include file = "include/footer.inc" -->
+	<!-- #include file = "include/footer.inc" -->

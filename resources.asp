@@ -1,6 +1,6 @@
 <%
 title="Resources"
-lastUpdated="7th Jun 2025"
+lastUpdated="18th December 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -64,6 +64,19 @@ lastUpdated="7th Jun 2025"
 								</div>
 								<div class="card-footer">
 									<a href="https://www.guidedogs.org.uk/getting-support/information-and-advice/sighted-guiding-instructional-videos" target="_blank" class="btn btn-primary">Visit site</a>
+								</div>
+							</div>
+						</div>
+						<div class="col">
+							<div class="card mx-auto">
+								<img class="object-fit-cover card-image-top" src="images/ion-fet-QRawWgV6gmo-unsplash.jpg" alt="">
+								<div class="card-body">
+									<h3 class="card-title fs-5">SIGHT CONDITIONS VIDEO - "WHAT DO WE SEE?"</h3>
+									<p>An informative video from the Thomas Pocklington Trust
+										showing what it's like to have various types of visual impairment.</p>
+								</div>
+								<div class="card-footer">
+									<a href="https://youtu.be/JfMUOv8wjbo" target="_blank" class="btn btn-primary">View video</a>
 								</div>
 							</div>
 						</div>
@@ -139,6 +152,7 @@ lastUpdated="7th Jun 2025"
 								</div>
 							</div>
 						</div>
+						<div class="col"></div>
 						<div class="col">
 							<div class="card mx-auto">
 								<img class="object-fit-cover card-image-top" src="images/absolutvision-WYd_PkCa1BY-unsplash.jpg" alt="">

@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="4th October 2025"
+lastUpdated="18th December 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -28,6 +28,43 @@ lastUpdated="4th October 2025"
 			<section class="border border-3 p-2 p-md-4 gallery-images" id="gallery_2025">
 				<h3 class="text-center">~ 2025 ~</h3>
 				<div class="d-flex flex-column gap-4">
+
+					<!-- Norfolk Park, Arbourthorne, Manor Lodge, Sky Edge (23rd November) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							NORFOLK PARK, ARBOURTHORNE, MANOR LODGE, SKY EDGE (23rd NOVEMBER)
+							<br>
+							<span class="fs-5">(sent in by Sarah Anderson)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/NorfolkPark_Arbourthorne_ManorLodge_SkyeEdge_20251123_1.webp"
+										alt="Members of the group walk on a carpet of brown leaves with bare trees overhead">
+									<figcaption class="figure-caption">Walkers in a very autumn-like scene</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/NorfolkPark_Arbourthorne_ManorLodge_SkyeEdge_20251123_2.webp"
+										alt="The group, most well-dressed for winter, climb up winding steps up a steep woodland hill">
+									<figcaption class="figure-caption">Good exercise going up this way</figcaption>
+								</figure>
+							</div>
+						</div>
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2025/NorfolkPark_Arbourthorne_ManorLodge_SkyeEdge_20251123_3.webp"
+										alt="Two walkers ambling along in-front along a narrow level path at the top of the steps">
+									<figcaption class="figure-caption">Easier walking half-way up the hill</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
 
 					<!-- GROUP HOLIDAY - RIPON (15th - 20th SEPTEMBER) -->
 					<section class="d-flex flex-column gap-4">

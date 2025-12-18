@@ -1,12 +1,18 @@
 <%
 title="Annual Programme"
-lastUpdated="7th July 2025"
+lastUpdated="18th December 2025"
 %>
 
 <!-- #include file = "include/header.inc" --> 
 
+		<nav aria-label="Years" class="d-flex justify-content-evenly fs-4 mb-4 fw-semibold">
+			<a href="walks_programme.asp">2025</a>
+			<a href="walks_programme_2026.asp">2026</a>
+		</nav>
+
 		<!-- MAIN CONTENT -->
 		<main class="container-fluid g-0 sviwg-main-container d-flex flex-column gap-3 border border-3 sviwg-large-font p-2 p-md-4 gap-2">
+
 			<h2 class="text-center">ANNUAL WALKS PROGRAMME 2025</h2>
 
 			<nav aria-label="Days" class="d-flex justify-content-evenly">
@@ -20,7 +26,7 @@ lastUpdated="7th July 2025"
 
 				<div class="d-flex">
 					<section class="mx-auto sviwg-width-1024" id="annual_tue_walks">
-						<h3 class="fs-3 sviwg-caption-heading">TUESDAY WALKS 2025</h3>
+						<h3 class="fs-3 sviwg-caption-heading">TUESDAY WALKS</h3>
 						<table class="table table-striped sviwg-table">
 							<thead>
 								<tr>
@@ -60,7 +66,7 @@ lastUpdated="7th July 2025"
 
 				<div class="d-flex">
 					<section class="mx-auto sviwg-width-1024" id="annual_wed_walks">
-						<h3 class="fs-3 sviwg-caption-heading">WEDNESDAY WALKS 2025</h3>
+						<h3 class="fs-3 sviwg-caption-heading">WEDNESDAY WALKS</h3>
 						<table class="table table-striped sviwg-table">
 							<thead>
 								<tr>
@@ -100,7 +106,7 @@ lastUpdated="7th July 2025"
 
 				<div class="d-flex" id="annual_thur_walks">
 					<section class="mx-auto sviwg-width-1024">
-						<h3 class="fs-3 sviwg-caption-heading">THURSDAY WALKS 2025</h3>
+						<h3 class="fs-3 sviwg-caption-heading">THURSDAY WALKS</h3>
 						<div class="sviwg-table sviwg-text-panel p-3">
 							Thursday walks take place on the third or fourth Thursday of the month.<br>
 							Every other month (January - March - May, etc.) will be led by Peak Park Rangers.<br>
@@ -111,7 +117,7 @@ lastUpdated="7th July 2025"
 
 				<div class="d-flex">
 					<section class="mx-auto sviwg-width-1024" id="annual_sun_walks">
-						<h3 class="fs-3 sviwg-caption-heading">SUNDAY WALKS 2025</h3>
+						<h3 class="fs-3 sviwg-caption-heading">SUNDAY WALKS</h3>
 						<table class="table table-striped sviwg-table">
 							<thead>
 								<tr>

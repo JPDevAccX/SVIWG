@@ -106,6 +106,7 @@
 
 .sviwg-width-1024 {
   width: 1024px;
+  max-width: 100%;
 }
 
 .sviwg-max-w1120 {

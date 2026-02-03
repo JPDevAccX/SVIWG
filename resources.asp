@@ -152,7 +152,6 @@ lastUpdated="18th December 2025"
 								</div>
 							</div>
 						</div>
-						<div class="col"></div>
 						<div class="col">
 							<div class="card mx-auto">
 								<img class="object-fit-cover card-image-top" src="images/absolutvision-WYd_PkCa1BY-unsplash.jpg" alt="">

@@ -1,6 +1,6 @@
 <%
 title="SVIWG HISTORY"
-lastUpdated="5th Mar 2025"
+lastUpdated="18th December 2025"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -168,13 +168,13 @@ lastUpdated="5th Mar 2025"
 					</tr>
 					<tr>
 						<td>Stan Wainwright</td>
-						<td>Treasurer (2013&nbsp;-)</td>
+						<td>Treasurer (2013&nbsp;-&nbsp;2025)</td>
 					</tr>
 					<tr>
 						<td>David Cadet</td>
 						<td>
 							Chair (2017&nbsp;-&nbsp;2021),
-							Tuesday Walks Programmer (2021&nbsp;-)
+							Tuesday Walks Programmer (2021&nbsp;-&nbsp;2025)
 						</td>
 					</tr>
 					<tr>
@@ -188,7 +188,7 @@ lastUpdated="5th Mar 2025"
 					</tr>
 					<tr>
 						<td>Pauline Bullivant</td>
-						<td>Minutes Secretary (2012&nbsp;-&nbsp;2017, 2019&nbsp;-)</td>
+						<td>Minutes Secretary (2012&nbsp;-&nbsp;2017, 2019&nbsp;-&nbsp;2025)</td>
 					</tr>
 					<tr>
 						<td>Christine Whittaker</td>

@@ -1,6 +1,6 @@
 <%
 title="Documents"
-lastUpdated="18th December 2025"
+lastUpdated="14th January 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -57,6 +57,13 @@ lastUpdated="18th December 2025"
 			<!-- NEWSLETTER ARCHIVE -->
 			<section class="border border-3 p-2 p-md-4 d-flex flex-column gap-3" id="resources_newsletters">
 				<h3 class="text-center">NEWSLETTER ARCHIVE</h3>
+
+				<section>
+					<h4 class="text-center fs-5 text-light-emphasis fw-semibold">2026</h4>
+					<div class="row border border-4 text-center mx-0 text-bg-light pb-1">
+						<div class="col-3 p-2"><a href="docs/newsletters/SVIWG Newsletter January 2026.rtf" target="_blank">JAN</a></div>
+					</div>
+				</section>
 
 				<section>
 					<h4 class="text-center fs-5 text-light-emphasis fw-semibold">2025</h4>

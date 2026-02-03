@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="11th December 2025"
+lastUpdated="14th January 2026"
 %>
 
 	<!-- #include file = "include/header.inc" -->
@@ -88,31 +88,40 @@ lastUpdated="11th December 2025"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 10&nbsp;DEC</td>
-								<td class="text-center text-uppercase">
-									<a href="#event_1">
-										Wheata Woods, Wharncliffe Woods and Grenoside
-									</a>
-								</td>
-								<td class="text-end">5 DEC</td>
-							</tr>
-							<tr>
-								<td>TUE 6&nbsp;JAN</td>
-								<td class="text-center text-uppercase">
-									<a href="#event_2">
-										Wortley Post Office, Past the Church, Wortley Hall, Gamekeeper&#039;s Lodge
-									</a>
-								</td>
-								<td class="text-end">2 JAN</td>
-							</tr>
-							<tr>
 								<td>WED 14&nbsp;JAN</td>
 								<td class="text-center text-uppercase">
 									<a href="#event_3">
-										Sheffield Cathedral, Kelham Island, Burngreave Cemetery, Wincobank Hill, Meadowhall Interchange
+										Sheffield Cathedral, Kelham Island, Burngreave Cemetery, Wincobank Hill, Meadowhall Interchange.
 									</a>
 								</td>
 								<td class="text-end">9 JAN</td>
+							</tr>
+							<tr>
+								<td>THU 22&nbsp;JAN</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_39">
+										Walk from Fairholmes (route decided on the day)
+									</a>
+								</td>
+								<td class="text-end">16 JAN</td>
+							</tr>
+							<tr>
+								<td>SUN 25&nbsp;JAN</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_4">
+										Forge Dam, Coit Lane, Whinfell Quarry Gardens, Ecclesall Woods, Millhouses
+									</a>
+								</td>
+								<td class="text-end">21 JAN</td>
+							</tr>
+							<tr>
+								<td>TUE 3&nbsp;FEB</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_5">
+										Worrall, Holdsworth, High Bradfield, Low Bradfield
+									</a>
+								</td>
+								<td class="text-end">30 JAN</td>
 							</tr>
 						</tbody>
 					</table>
@@ -150,108 +159,6 @@ lastUpdated="11th December 2025"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex" id="event_1">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2025-12-10">
-										WEDNESDAY 10th DECEMBER
-									</time> -
-									Wheata Woods, Wharncliffe Woods and Grenoside
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Front Cathedral Church Street 9.40 to catch the 10.00 no 86 on Angel Street to the Angel PH Grenoside
-									where walk starts approx 10.30.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Wheata Woods, Wharncliffe Woods and Grenoside back to the start.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									~6 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Easy walking through woods and fields.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Norman Pearson (<a href="tel:07803 437931">07803 437931</a>)
-									for any walk enquiries.
-								</li>
-								<li class="list-group-item">
-									<b>Registration:</b>
-									Please contact
-									Martin (<a href="tel:07747 443812">07747 443812</a> or <a
-										href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by
-									Friday 5th December.
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please let Martin know where you will start the walk to ensure we have enough VI's.
-
-								Return buses from Grenoside Angel PH no 86 buses are at 14.44, 15.24 and 15.54.
-
-								Usually there's free parking at Grenoside Community Centre, but please check.
-							</div>
-						</div>
-					</article>
-					<article class="d-flex" id="event_2">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2026-01-06">
-										TUESDAY 6th JANUARY
-									</time> -
-									Wortley Post Office, Past the Church, Wortley Hall, Gamekeeper&#039;s Lodge
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Queen&#039;s Head Pond Hill 9.45 to travel by mini bus 10.00 to Wortley Post office opposite the Church
-									where car drivers can park. (Ann will meet anyone coming from Barnsley at the train station).
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Walking a short way along the road past the church, through a copse and down a path to a few steps
-									entering a small wood, cross a field and onto the drive to Wortley Hall. We can explore the gardens
-									including the walled fruit garden where there are beehives and trees and a pond. From there we walk down
-									the track to the Gamekeeper&#039;s lodge. We then go round a field and take the path back to Wortley
-									Hall.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									4 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Easy with two stiles.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Ann Batty (<a href="tel:07989 053534">07989 053534</a>)
-									for any walk enquiries.
-								</li>
-								<li class="list-group-item">
-									<b>Registration:</b>
-									Please contact
-									Martin (<a href="tel:07747 443812">07747 443812</a> or <a
-										href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by
-									Friday 2nd January.
-								</li>
-							</ul>
-							<div class="card-footer">
-								Please let Martin know your travel arrangements, if you need the mini-bus or are travelling by car.
-							</div>
-						</div>
-					</article>
 					<article class="d-flex" id="event_3">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
@@ -259,7 +166,7 @@ lastUpdated="11th December 2025"
 									<time datetime="2026-01-14">
 										WEDNESDAY 14th JANUARY
 									</time> -
-									Sheffield Cathedral, Kelham Island, Burngreave Cemetery, Wincobank Hill, Meadowhall Interchange
+									Sheffield Cathedral, Kelham Island, Burngreave Cemetery, Wincobank Hill, Meadowhall Interchange.
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
@@ -286,16 +193,147 @@ lastUpdated="11th December 2025"
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
-									Please contact
-									Martin (<a href="tel:07747 443812">07747 443812</a> or <a
-										href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by
-									Friday 9th January.
+									Please contact Martin
+									(<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Friday 9th January.
 								</li>
 							</ul>
 							<div class="card-footer">
-								Please note paths may be muddy at this time of year and that the route crosses various bus routes should
-								anyone want to shorten the walk.
+								<p>
+									Please note paths may be muddy at this time of year and that the route crosses various bus routes
+									should anyone want to shorten the walk.
+								</p>
+							</div>
+						</div>
+					</article>
+					<article class="d-flex" id="event_39">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-01-22">
+										THURSDAY 22nd JANUARY
+									</time> -
+									Walk from Fairholmes (route decided on the day)
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Queen&#039;s Head Pond Hill 9.15 to travel by minibus
+									leaving 9.30 to Fairholmes where walk starts at 10am.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									To be decided on the day due to weather conditions.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									~8 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Hills, rocky paths, some good surfaces, grassy and woodland areas.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Peak Park Rangers  (<a href="tel:07502 547221">07502 547221</a>) for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin
+									(<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Friday 16th January.
+								</li>
+							</ul>
+						</div>
+					</article>
+					<article class="d-flex" id="event_4">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-01-25">
+										SUNDAY 25th JANUARY
+									</time> -
+									Forge Dam, Coit Lane, Whinfell Quarry Gardens, Ecclesall Woods, Millhouses
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield interchange (main foyer) 9.45 to catch 10.10 no 120 bus to Flat Street
+									to the terminus on Barncliffe Road where walk starts at 10.30.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									We will walk down to Forge Dam then make our way via Coit Lane and Whinfell Quarry Gardens
+									to Ecclesall Woods. After exploring the woods a bit we will finish at Millhouses.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									6 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Woodland paths.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Judy Gathercole (<a href="tel:07557 272559">07557 272559</a>) for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin
+									(<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Wednesday 21st January.
+								</li>
+							</ul>
+						</div>
+					</article>
+					<article class="d-flex" id="event_5">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-02-03">TUESDAY 3rd FEBRUARY</time> -
+									Worrall, Holdsworth, High Bradfield, Low Bradfield
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Cathedral Tram Stop Church Street 9.30 to catch 9.47 no 57a Stocksbridge bus on Snig Hill
+									to the first stop after the Blue Ball pub, arriving 10.12 at Haggstones Road, S35 0PB.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Linear walk.<br>
+									Worrall across open fields to Holdsworth, High Bradfield and finishing in Low Bradfield.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									~4.5 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Moderate easy walk, 2 short ascents, 5 stiles, one slight deep drop.
+									Walking through fields, tracks and small amount of roads.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Marie and Ray Gelder (<a href="tel:07999 752263">07999 752263</a>) for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin
+									(<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Friday 30th January.
+								</li>
+							</ul>
+							<div class="card-footer">
+								<p>Note that for walkers wishing to do so, there is an opportunity to break off in High Bradfield.</p>
 							</div>
 						</div>
 					</article>
@@ -304,7 +342,6 @@ lastUpdated="11th December 2025"
 
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center" id="upcoming_other_walks">OTHER WALKS</h2>
-
 				<div class="d-flex flex-column gap-5">
 
 					<article class="d-flex" id="event-short-walk-with-rss-and-srsb">
@@ -323,6 +360,7 @@ lastUpdated="11th December 2025"
 									A minibus leaves SRSB Mappin Street at 9.30, with Rotherham Sight and Sound
 									taking members to the start of the walk from 10am,
 									and the walk itself starting half an hour later at 10:30am.
+									Note that there is a small charge for transport.
 								</p>
 							</div>
 							<div class="card-footer">

@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="14th January 2026"
+lastUpdated="4th February 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -24,6 +24,33 @@ lastUpdated="14th January 2026"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">
+										SVIWG member receives an OBE in the new year honour&#039;s list
+									</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Congratulations to Robert Nolan who has received an OBE in the new year honour&#039;s list.
+								</p>
+								<p>
+									Robert is the Chair of Deaf Blind UK this role he has carried out since 2018 and previously
+									before that Chair of Deaf Blind Scotland for many years.<br>
+									Robert also is a trustee for SRSB.
+								</p>
+								<p>
+									This is absolutely fabulous so richly deserved.
+									For full details see
+									<a href="https://www.facebook.com/share/p/17y3jCwzzs/?mibextid=wwXIfr">this link</a>.
+								</p>
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

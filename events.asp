@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="14th January 2026"
+lastUpdated="4th February 2026"
 %>
 
 	<!-- #include file = "include/header.inc" -->
@@ -88,40 +88,40 @@ lastUpdated="14th January 2026"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 14&nbsp;JAN</td>
+								<td>WED 11&nbsp;FEB</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_3">
-										Sheffield Cathedral, Kelham Island, Burngreave Cemetery, Wincobank Hill, Meadowhall Interchange.
+									<a href="#event_6">
+										Wadsley, Worrall, Oughtibridge, Middlewood
 									</a>
 								</td>
-								<td class="text-end">9 JAN</td>
+								<td class="text-end">6 FEB</td>
 							</tr>
 							<tr>
-								<td>THU 22&nbsp;JAN</td>
+								<td>SUN 22&nbsp;FEB</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_39">
-										Walk from Fairholmes (route decided on the day)
+									<a href="#event_7">
+										Elsecar station, Mill Lane, Harley, Thorpe Hesley, Thorpe Head, Wentworth
 									</a>
 								</td>
-								<td class="text-end">16 JAN</td>
+								<td class="text-end">19 FEB</td>
 							</tr>
 							<tr>
-								<td>SUN 25&nbsp;JAN</td>
+								<td>THU 26&nbsp;FEB</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_4">
-										Forge Dam, Coit Lane, Whinfell Quarry Gardens, Ecclesall Woods, Millhouses
+									<a href="#event_40">
+										Hope station, Town Head, Bagshaw Bridge, Wooler Knoll, Aston
 									</a>
 								</td>
-								<td class="text-end">21 JAN</td>
+								<td class="text-end">20 FEB</td>
 							</tr>
 							<tr>
-								<td>TUE 3&nbsp;FEB</td>
+								<td>TUE 3&nbsp;MAR</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_5">
-										Worrall, Holdsworth, High Bradfield, Low Bradfield
+									<a href="#event_8">
+										Barncliffe Road, Porter Valley, Ringinglow, Limb Valley, Whirlow, Ecclesall Woods, Abbeydale Road.
 									</a>
 								</td>
-								<td class="text-end">30 JAN</td>
+								<td class="text-end">28 FEB</td>
 							</tr>
 						</tbody>
 					</table>
@@ -158,125 +158,190 @@ lastUpdated="14th January 2026"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex" id="event_3">
+					<article class="d-flex" id="event_6">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-01-14">
-										WEDNESDAY 14th JANUARY
+									<time datetime="2026-02-11">
+										WEDNESDAY 11th FEBRUARY
 									</time> -
-									Sheffield Cathedral, Kelham Island, Burngreave Cemetery, Wincobank Hill, Meadowhall Interchange.
+									Wadsley, Worrall, Oughtibridge, Middlewood
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Front of Sheffield Cathedral Church Street 10.30 for a linear walk to Meadowhall Interchange.
+									Cathedral Tram stop Church Street 9.30 to walk to Snigg Hill to catch the no 57a Stockbridge bus
+									to the Sportsman pub in Wadsley which is just passed Wadsley Church arriving 10.15.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Via Kelham Island, Burngreave Cemetery and Wincobank Hill. Return by tram, bus or train.
+									Linear walk. From Wadsley across open common land, Worrall, Oughtibridge along by the river Don
+									to arrive at Middlewood tram stop.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									5 1/2 miles.
+									5.5 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									A mixture of pavements and park and woodland paths with some uphill sections.
+									Moderate, long gradual ascent through fields, tracks and some road walking. 3 stiles.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Mike Wilson (<a href="tel:07538 001933">07538 001933</a>)
-									for any walk enquiries.
+									Marie Gelder or Ray Gelder (<a href="tel:07999 752263">07999 752263</a>) for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
 									Please contact Martin
 									(<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 9th January.
+									by Friday 6th February.
 								</li>
 							</ul>
 							<div class="card-footer">
 								<p>
-									Please note paths may be muddy at this time of year and that the route crosses various bus routes
-									should anyone want to shorten the walk.
+									Please let Martin know where you will meet the group to assist with guiding in town.
+								</p>
+								<p>
+									Note that there is an opportunity to break off in Oughtibridge for walkers who wish to do so.
 								</p>
 							</div>
 						</div>
 					</article>
-					<article class="d-flex" id="event_39">
+					<article class="d-flex" id="event_7">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-01-22">
-										THURSDAY 22nd JANUARY
+									<time datetime="2026-02-22">
+										SUNDAY 22nd FEBRUARY
 									</time> -
-									Walk from Fairholmes (route decided on the day)
+									Elsecar station, Mill Lane, Harley, Thorpe Hesley, Thorpe Head, Wentworth
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Queen&#039;s Head Pond Hill 9.15 to travel by minibus
-									leaving 9.30 to Fairholmes where walk starts at 10am.
+									Sheffield train station 9.10, Trains Sheffield to Elsecar 9.36 from platform 1B arriving at 9.54.
+									Barnsley to Elsecar 9.58 from platform 1 arriving at 10.07.
+									Free car parking at the station meeting group 10.10.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									To be decided on the day due to weather conditions.
+									From the station head into Elsecar park to mill lane then down Barrow hill to the village of Harley.
+									Up coach road then into Thorpe Hesley. From Barnsley road in Thorpe head back up towards Wentworth.
+									From Wentworth head back towards Elsecar.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									~8 miles.
+									~7 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Hills, rocky paths, some good surfaces, grassy and woodland areas.
+									Paths, roads, fields, woods uphill and downhill with several stiles. 
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Peak Park Rangers  (<a href="tel:07502 547221">07502 547221</a>) for any walk enquiries.
+									Matt Gulty (<a href="tel:07738 005412">07738 005412</a>) for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
 									Please contact Martin
 									(<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 16th January.
+									by Thursday 19th February.
 								</li>
 							</ul>
+							<div class="card-footer">
+								<p>
+									The only person to contact for this and any other walks is Martin
+									who keeps a list of all members	attending to ensure enough guides.
+									Also please let him know where you will meet the group for
+									any VI&#039;s coming from Sheffield train station.</p>
+							</div>
 						</div>
 					</article>
-					<article class="d-flex" id="event_4">
+					<article class="d-flex" id="event_40">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-01-25">
-										SUNDAY 25th JANUARY
+									<time datetime="2026-02-26">
+										THURSDAY 26th FEBRUARY
 									</time> -
-									Forge Dam, Coit Lane, Whinfell Quarry Gardens, Ecclesall Woods, Millhouses
+									Hope station, Town Head, Bagshaw Bridge, Wooler Knoll, Aston
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Sheffield interchange (main foyer) 9.45 to catch 10.10 no 120 bus to Flat Street
-									to the terminus on Barncliffe Road where walk starts at 10.30.
+									Sheffield Rail station 8.40 to catch the 9.14 train to Hope station arrives 0938
+									where the walk will start at 0945.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									We will walk down to Forge Dam then make our way via Coit Lane and Whinfell Quarry Gardens
-									to Ecclesall Woods. After exploring the woods a bit we will finish at Millhouses.
+									Hope station - Killhill Bridge - Town Head - Oaker Farm - Bagshaw Bridge
+									- Edale End - Wooler Knoll - Win Hill - Aston - Hope Station.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									6 miles.
+									~7 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Woodland paths.
+									Field paths which may be muddy, tarmac/stony lanes, wicket gates, various stiles, one long, steady climb to Wooler Knoll ridge from Edale End then gentler on to Win Hill, one steeper descent on a good path from below Win Hill towards Aston.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Steve Brown (<a href="tel:07801 906126">07801 906126</a>) for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin
+									(<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Friday 20th February.
+								</li>
+							</ul>
+							<div class="card-footer">
+								<p>
+									Please let Martin know where you will meet the group to assist at Sheffield station.
+								</p>
+								<p>
+									If weather is inclement the party will descend to the valley
+									from Wooler Knoll and return to Hope station.
+								</p>
+							</div>
+						</div>
+					</article>
+					<article class="d-flex" id="event_8">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-03-03">
+										TUESDAY 3rd MARCH
+									</time> -
+									Barncliffe Road, Porter Valley, Ringinglow, Limb Valley, Whirlow, Ecclesall Woods, Abbeydale Road.
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Interchange (main foyer) 9.30 to catch 9.47 no 120 bus on Flat Street
+									to Lodge Moor terminus on Barncliffe Road arriving 10.17.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Linear Walk. Walk down to Porter Valley before we venture uphill to Ringinglow.
+									Then it&#039;s downhill all the way through the Limb Valley to Whirlow (possible break-off point)
+									and on down through Ecclesall Woods to Abbeydale Road.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									Unknown.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Unknown.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
@@ -287,53 +352,13 @@ lastUpdated="14th January 2026"
 									Please contact Martin
 									(<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Wednesday 21st January.
-								</li>
-							</ul>
-						</div>
-					</article>
-					<article class="d-flex" id="event_5">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2026-02-03">TUESDAY 3rd FEBRUARY</time> -
-									Worrall, Holdsworth, High Bradfield, Low Bradfield
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Cathedral Tram Stop Church Street 9.30 to catch 9.47 no 57a Stocksbridge bus on Snig Hill
-									to the first stop after the Blue Ball pub, arriving 10.12 at Haggstones Road, S35 0PB.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Linear walk.<br>
-									Worrall across open fields to Holdsworth, High Bradfield and finishing in Low Bradfield.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									~4.5 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Moderate easy walk, 2 short ascents, 5 stiles, one slight deep drop.
-									Walking through fields, tracks and small amount of roads.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Marie and Ray Gelder (<a href="tel:07999 752263">07999 752263</a>) for any walk enquiries.
-								</li>
-								<li class="list-group-item">
-									<b>Registration:</b>
-									Please contact Martin
-									(<a href="tel:07747 443812">07747 443812</a> or
-									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 30th January.
+									by Saturday 28th February.
 								</li>
 							</ul>
 							<div class="card-footer">
-								<p>Note that for walkers wishing to do so, there is an opportunity to break off in High Bradfield.</p>
+								<p>
+									For any further information about this walk contact Judy.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -382,28 +407,6 @@ lastUpdated="14th January 2026"
 				<h2 class="text-center" id="current_walk_news">CURRENT WALK NEWS</h2>
 
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
-							<div class="card-header">
-								<h3 class="card-title fs-5">MEETING POINT IN TOWN</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									Please note that for all walks where we previously met at Poundland we will now meet at the Cathedral
-									tram stop Church Street.
-								</p>
-								<p>
-									There have been several unpleasant incidents near Poundland and the former Argos so for future walks
-									the meeting point is the Cathedral.
-								</p>
-								<p>Many thanks.</p>
-							</div>
-							<div class="card-footer">
-								- Sue Hill
-							</div>
-						</div>
-					</article>
 
 					<article id="notice_1" class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">

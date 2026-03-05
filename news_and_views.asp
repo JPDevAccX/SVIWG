@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="4th February 2026"
+lastUpdated="5th March 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -32,22 +32,33 @@ lastUpdated="4th February 2026"
 				<h2 class="text-center">POSTS</h2>
 
 				<div class="d-flex flex-column gap-5">
-
-				<article class="d-flex">
-					<div class="card mx-auto sviwg-text-card sviwg-news-card">
-						<div class="card-header">
-							<h3 class="card-title d-flex gap-2 justify-content-between">
-								<div class="fs-5">Group holiday</div>
-							</h3>
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">Social events at SRSB</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Friday 17th April - Cheese and Wine tasting evening.<br>
+									Starts 7pm, 5 Mappin Street.<br>
+									This popular event supported by Starmore Boss along with Porterbrook Deli.<br>
+									Fundraising event is open to everyone. Book ASAP to	avoid disappointment. £25 per person.<br>
+									Tel: <a href="tel:0114 2722757">0114 2722757</a><br>
+									Email: <a href="mailto:info@srsb.org.uk">info@srsb.org.uk</a>
+								</p>
+								<p>
+									SRSB are excited to announce a weekly running club starting on Thursday 5th February at
+									Sheffield Hallam Athletic Stadium, Woodburn Road.
+									The time is 12 until 2pm.<br>
+									Suitable for all for complete beginners or seasoned runners.<br>
+									Costs £3.50 per session, card only.<br>
+									Tel: <a href="tel:0114 2722757">0114 2722757</a>
+								</p>
+							</div>
 						</div>
-						<div class="card-body">
-							<p>
-								Due to lack of demand there will be no holiday this year.
-							</p>
-						</div>
-					</div>
-				</article>
-
+					</article>
 				</div>
 			</section>
 

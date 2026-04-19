@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="5th March 2026"
+lastUpdated="2nd April 2026"
 %>
 
 	<!-- #include file = "include/header.inc" -->
@@ -88,40 +88,40 @@ lastUpdated="5th March 2026"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 11&nbsp;MAR</td>
+								<td>WED 8&nbsp;APR</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_9">
-										Bamford, Shatton Lane, Elmore Farm Brough Lane, Wolf&#039;s Pit
+									<a href="#event_12">
+										Wyming Brook car park, Redmires Reservoirs
 									</a>
 								</td>
-								<td class="text-end">6 MAR</td>
+								<td class="text-end">N/A</td>
 							</tr>
 							<tr>
-								<td>THU 19&nbsp;MAR</td>
+								<td>THU 16&nbsp;APR</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_41">
-										Walk from Fairholmes (route decided on the day)
+									<a href="#event_42">
+										Totley Brook Road towards Holmsfield, Gillfield Wood, Penny Lane
 									</a>
 								</td>
-								<td class="text-end">13 MAR</td>
+								<td class="text-end">10 APR</td>
 							</tr>
 							<tr>
-								<td>SUN 22&nbsp;MAR</td>
+								<td>SUN 26&nbsp;APR</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_10">
-										Coppice Road, Rivelin Nature trail, Malin Bridge
+									<a href="#event_13">
+										Loxley Valley, Wadsley Common, Middlewood Tram terminus
 									</a>
 								</td>
-								<td class="text-end">18 MAR</td>
+								<td class="text-end">22 APR</td>
 							</tr>
 							<tr>
-								<td>TUE 31&nbsp;MAR</td>
+								<td>TUE 5&nbsp;MAY</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_11">
-										Longshaw, Robin Hood&#039;s Well, White Edge Moor, Grouse Inn
+									<a href="#event_14">
+										Linear walk
 									</a>
 								</td>
-								<td class="text-end">27 MAR</td>
+								<td class="text-end">24 APR</td>
 							</tr>
 						</tbody>
 					</table>
@@ -158,39 +158,86 @@ lastUpdated="5th March 2026"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex" id="event_9">
+				
+					<article class="d-flex" id="event_12">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-03-11">WEDNESDAY 11th MARCH</time> -
-									Bamford, Shatton Lane, Elmore Farm Brough Lane, Wolf&#039;s Pit
+									<time datetime="2026-04-08">
+										WEDNESDAY 8th APRIL
+									</time> -
+									Wyming Brook car park, Redmires Reservoirs
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Sheffield Railway station 10.00 to catch the 10.14 train to Bamford, arriving 10.40. The group leaves the
-									station and will proceed to Shatton Lane over the bridge to meet car drivers at 11am.
+									Cathedral Tram stop 10.05 to catch 10.20 no 51 bus to Lodge Moor Terminus
+									where the walk starts approx 11am.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Shatton Lane, Elmore Farm Brough Lane, Wolf&#039;s Pit, Shatton Lane, back to Bamford.
+									Across paths to Wyming Brook car park then across open land to Redmires Reservoirs,
+									going anti-clockwise around three reservoirs, and return to start.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									6.5 miles.
+									5.5 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Easy road walking, some grassy footpaths, 750 feet of continuous ascent and descent but not steep but good
-									paths to walk on, first and last half mile is on a busy road so care to be taken. This walk is across open
-									fields with exposed areas open to wind and rain. Suitable footwear and waterproofs necessary. There are no
-									obvious places to sit for lunch so bring a mat or stand.
+									Generally easy gradual gradient with no steep ascents, some rocky sections a few steps.
+									Possibly some muddy sections.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Andy Abbey (<a href="tel:07587 082473">07587 082473</a>)
+									David Guille (<a href="tel:07553 944116">07553 944116</a>) for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin
+									(<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									if going on this walk.
+								</li>
+							</ul>
+							<div class="card-footer">
+								<p>Please let Martin know where you intend to meet the group, making sure there are enough guides to meet
+									VI&#039;s in town.</p>
+							</div>
+						</div>
+					</article>
+					<article class="d-flex" id="event_42">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-04-16">
+										THURSDAY 16th APRIL
+									</time> -
+									Totley Brook Road towards Holmsfield, Gillfield Wood, Penny Lane
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Cathedral Church Street 9.15 to catch no 98 Totley 9.45 bus (opposite Crucible) to Totley Terminus,
+									Totley Brook Road. Arrives 10.15.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Totley Brook Road towards Holmsfield, Gillfield Wood, Penny Lane back to the start.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									~7 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Ranger style walk. Some stiles and two steep ascents.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Joe Fagan (<a href="tel:07502 547221">07502 547221</a>)
 									for any walk enquiries.
 								</li>
 								<li class="list-group-item">
@@ -198,119 +245,80 @@ lastUpdated="5th March 2026"
 									Please contact Martin
 									(<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 6th March.
+									by Friday 10th April.
 								</li>
 							</ul>
 							<div class="card-footer">
-								<p>
-									Car drivers can usually park over the bridge or Shatton Lane.<br>
-									Trains return to Sheffield 14.42 or 15.42.
-								</p>
+								<p>Please let Martin know where you will meet the group.</p>
 							</div>
 						</div>
 					</article>
-					<article class="d-flex" id="event_41">
+					<article class="d-flex" id="event_13">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-03-19">THURSDAY 19th MARCH</time> -
-									Walk from Fairholmes (route decided on the day)
+									<time datetime="2026-04-26">
+										SUNDAY 26th APRIL
+									</time> -
+									Loxley Valley, Wadsley Common, Middlewood Tram terminus
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Queens Head pub Pond Hill 9.15 to travel by mini bus leaving 9.30 to Fairholmes.
+									Cathedral Tram stop 10am to catch the blue line tram to Malin Bridge tram stop.
+									Those travelling by car can park at Malin Bridge car park free of charge. Walk starts 10.30.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									To be decided on the day due to weather conditions.
+									Loxley Valley then climbs on to Wadsley Common and finishes at Middlewood Tram terminus.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									~8 miles.
+									~7 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Some climbing, rough and good paths, moderate walking.
+									Steep hill and 3 stiles.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a>)
+									Sam Butler (<a href="tel:07867 381581">07867 381581</a>)
 									for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
-									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
+									Please contact Martin
+									(<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 13th March.
+									by Wednesday 22nd April.
 								</li>
 							</ul>
 							<div class="card-footer">
-								<p>Please let Martin know where you intend to meet the group.</p>
+								<p>Please let Martin know where you will meet the group for him to make sure there are enough guides at the
+									start to meet VI&#039;s.</p>
 							</div>
 						</div>
 					</article>
-					<article class="d-flex" id="event_10">
+					<article class="d-flex" id="event_14">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-03-22">SUNDAY 22nd MARCH</time> -
-									Coppice Road, Rivelin Nature trail, Malin Bridge
+									<time datetime="2026-05-05">
+										TUESDAY 5th MAY
+									</time> -
+									Linear walk
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Sheffield Cathedral Church Street 10.30 to catch no 51 10.50 bus
-									to Sandygate Football club walk starts 11.10.
+									Cathedral tram stop 9.40 to catch 10.09 X17 bus to Donkey Derby Chesterfield Tapton Lock,
+									Hollingwood Hub, Staveley catching bus 77 to Cavendish Street Chesterfield. Then X17 to Sheffield.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Walking along Coppice Road, Rivelin Nature trail downhill to Malin Bridge
-									to catch the tram back into town.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									~4 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Downhill along paths and bridleways.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Les Seaman (<a href="tel:07547 115946">07547 115946</a>) for any walk enquiries.
-								</li>
-								<li class="list-group-item">
-									<b>Registration:</b>
-									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
-									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Wednesday 18th March.
-								</li>
-							</ul>
-							<div class="card-footer">
-								<p>Note that Les will meet the group at Sandygate.</p>
-							</div>
-						</div>
-					</article>
-					<article class="d-flex" id="event_11">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2026-03-31">TUESDAY 31st MARCH</time> -
-									Longshaw, Robin Hood&#039;s Well, White Edge Moor, Grouse Inn
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield interchange main foyer 9.20 to catch 9.45 no 272 mainline bus to Fox House arrives 10.16.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Longshaw, walking to lodge passing Robin Hood&#039;s Well crossing the B654 to White Edge Moor, continuing
-									through wooded area crossing the B654 by the Grouse Inn, returning back to Longshaw.
+									Linear walk.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
@@ -318,24 +326,22 @@ lastUpdated="5th March 2026"
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									On good paths with some easy inclines.
+									On good paths with no break off points.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Nigel Robb (<a href="tel:07538 460680">07538 460680</a>)
-									for any walk enquiries.
+									Susan Ives (<a href="tel:0114 2749567">0114 2749567</a>) for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
 									Please contact Martin
 									(<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 27th March.
+									by Friday 24th April.
 								</li>
 							</ul>
 							<div class="card-footer">
-								<p>Return buses to Sheffield at 14.03, 15.00, 16.39, also stagecoach at 14.23.</p>
-								<p>Please let Martin know where you will meet the group. </p>
+								<p>Please let Martin know where you intend to meet the group.</p>
 							</div>
 						</div>
 					</article>

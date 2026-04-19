@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="18th December 2025"
+lastUpdated="19th April 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -15,6 +15,7 @@ lastUpdated="18th December 2025"
 			</section>
 
 			<nav aria-label="Years" class="d-flex justify-content-evenly flex-wrap gap-3">
+				<a href="#gallery_2026">2026</a>
 				<a href="#gallery_2025">2025</a>
 				<a href="#gallery_2024">2024</a>
 				<a href="#gallery_2023">2023</a>
@@ -23,6 +24,224 @@ lastUpdated="18th December 2025"
 				<a href="gallery_party_2025.asp">Garden Party 2025</a>	
 				<a href="gallery_other.asp">Other Media</a>	
 			</nav>
+
+			<!-- 2026 -->
+			<section class="border border-3 p-2 p-md-4 gallery-images" id="gallery_2026">
+				<h3 class="text-center">~ 2026 ~</h3>
+				<div class="d-flex flex-column gap-4">
+
+					<!-- WALK TO RIVELIN (22nd MARCH) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							WALK TO RIVELIN (22nd MARCH)
+							<br>
+							<span class="fs-5">(sent in by Michelle)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Rivelin_20260322_01.webp"
+										alt="A member of the group leans against the railing of a woodland bridge above a stream">
+									<figcaption class="figure-caption">Downhill stream in the woods</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Rivelin_20260322_06.webp"
+										alt="Over a dozen members of the group pose for a photo by a short bridge">
+									<figcaption class="figure-caption">Group photo</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Rivelin_20260322_02.webp"
+										alt="A small 2015 plaque on a post gives thanks to founder Betsy Wilson on her 80th birthday">
+									<figcaption class="figure-caption">
+										Celebrating Betsy Wilson, the founder of the SVIWG
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Rivelin_20260322_03.webp"
+										alt="A member of the group stands on a dirt footpath in a wooded area near a bridge">
+									<figcaption class="figure-caption">
+										More trees and bridges
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Rivelin_20260322_04.webp"
+										alt="A guide dog stands under a chair on public transport">
+									<figcaption class="figure-caption">
+										Canine transportation service!
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Rivelin_20260322_05.webp"
+										alt="A close-up of a white and orange flower">
+									<figcaption class="figure-caption">
+										Flower close-up
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+
+					<!-- PEAK PARK RANGERS WALK FROM FAIRHOLMES (19th MARCH) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							PEAK PARK RANGERS WALK FROM FAIRHOLMES (19th MARCH)
+							<br>
+							<span class="fs-5">(sent in by kryanmurray and Gail Fagan)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Rangers_From_Fairholmes_20260319_05.jpg"
+										alt="Water flowing over Derwent Dam seen behind a row of trees">
+									<figcaption class="figure-caption">Derwent Dam below</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Rangers_From_Fairholmes_20260319_06.jpg"
+										alt="The group sitting scattered around on a Derwent hill">
+									<figcaption class="figure-caption">Lounging out on the rocks</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Rangers_From_Fairholmes_20260319_01.jpg"
+										alt="The coach-and-horses rock formation in the distance up a shallow incline">
+									<figcaption class="figure-caption">
+										Rock Formation on Derwent Edge: <b>Coach and Horses</b>
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Rangers_From_Fairholmes_20260319_02.jpg"
+										alt="A close-up of the salt-cellar rock formation">
+									<figcaption class="figure-caption">
+										Rock Formation on Derwent Edge: <b>The Salt Cellar</b>
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Rangers_From_Fairholmes_20260319_03.jpg"
+										alt="Some of the group shown resting up a hill">
+									<figcaption class="figure-caption">
+										Lunch Stop on Derwent Edge, including Ranger Frank in high vis jacket,
+										who has supported SVIWG for 25 years
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Rangers_From_Fairholmes_20260319_04.jpg"
+										alt="Three members of the group in front of the salt-cellar formation">
+									<figcaption class="figure-caption">
+										Lunch stop on Derwent Edge, with the Salt Cellar rock formation
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+
+					<!-- Walk from Elsecar station (22nd February) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							WALK TO WENTWORTH (22nd FEBRUARY)
+							<br>
+							<span class="fs-5">(sent in by Michelle)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Wentworth_20260222_1.jpg"
+										alt="A black and white photo of the Needle's Eye monument at a distance">
+									<figcaption class="figure-caption">The Needle's Eye in Wentworth</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Wentworth_20260222_7.jpg"
+										alt="A few people stand outside Wentworth Woodhouse">
+									<figcaption class="figure-caption">The impressive Wentworth Woodhouse country house</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Wentworth_20260222_2.jpg"
+										alt="A closer-up view of the Needle's Eye in colour">
+									<figcaption class="figure-caption">The monument close-up</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Wentworth_20260222_4.jpg"
+										alt="Branches of a flowering tree close up">
+									<figcaption class="figure-caption">Some nice flowers</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Wentworth_20260222_5.jpg"
+										alt="Another close up of some tree branches">
+									<figcaption class="figure-caption">Not-so-flowery branches</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Wentworth_20260222_6.jpg"
+										alt="Some of the group smile for a photo on steps leading to a building entrance">
+									<figcaption class="figure-caption">Small group photo!</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Wentworth_20260222_8.jpg"
+										alt="A photo of the Hoober Stand surrounded on one side by tall trees">
+									<figcaption class="figure-caption">The Hoober Stand, another Wentworth folly</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_To_Wentworth_20260222_3.jpg"
+										alt="Some barren-looking trees with clouds overhead">
+									<figcaption class="figure-caption">Tall trees pointing up to the sky</figcaption>
+								</figure>
+							</div>
+						</div>
+
+					</section>
+				</div>
+			</section>
+			<!-- END 2026 -->
 
 			<!-- 2025 -->
 			<section class="border border-3 p-2 p-md-4 gallery-images" id="gallery_2025">

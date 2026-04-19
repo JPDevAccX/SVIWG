@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="5th March 2026"
+lastUpdated="2nd April 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -32,6 +32,20 @@ lastUpdated="5th March 2026"
 				<h2 class="text-center">POSTS</h2>
 
 				<div class="d-flex flex-column gap-5">
+					
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">AGM</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>Date for your diary: June 24 is when our AGM will be held.<br>Details to follow.</p>
+							</div>
+						</div>
+					</article>
+
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">

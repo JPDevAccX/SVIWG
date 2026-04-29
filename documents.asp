@@ -1,6 +1,6 @@
 <%
 title="Documents"
-lastUpdated="2nd April 2026"
+lastUpdated="24th April 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -30,22 +30,13 @@ lastUpdated="2nd April 2026"
 							<div class="card mx-auto">
 								<img class="object-fit-cover card-image-top" src="images/jess-bailey-ycTvvg1mPU4-unsplash.jpg" alt="">
 								<div class="card-body">
-									<h4 class="card-title fs-5">RULES FOR WALKERS</h4>
+									<h4 class="card-title fs-5">Health & Safety Documentation<br>(April 2026)</h4>
 								</div>
 								<div class="card-footer">
-									<a href="docs/rules_and_guidance/rules_for_walkers.html" target="_blank" class="btn btn-primary">Web</a>
-									<a href="docs/rules_and_guidance/Rules For Walkers.pdf" target="_blank" class="btn btn-primary">PDF</a>
-								</div>
-							</div>
-						</div>
-						<div class="col">
-							<div class="card mx-auto">
-								<img class="object-fit-cover card-image-top" src="images/john-price-wzRQfEw9CMc-unsplash.jpg" alt="">
-								<div class="card-body">
-									<h4 class="card-title fs-5">GUIDE DOGS GUIDANCE</h4>
-								</div>
-								<div class="card-footer">
-									<a href="docs/rules_and_guidance/DogsGuidanceonWalks13.pdf" target="_blank" class="btn btn-primary">PDF</a>
+									<a href="docs/rules_and_guidance/SVIWG - Health and Safety documentation for Sheffield Visually Impaired Walking Group.docx"
+										class="btn btn-primary">DOCX</a>
+									<a href="docs/rules_and_guidance/SVIWG - Health and Safety documentation for Sheffield Visually Impaired Walking Group.pdf"
+										target="_blank" class="btn btn-primary">PDF</a>
 								</div>
 							</div>
 						</div>

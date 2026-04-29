@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="2nd April 2026"
+lastUpdated="24th April 2026"
 %>
 
 	<!-- #include file = "include/header.inc" -->
@@ -352,6 +352,47 @@ lastUpdated="2nd April 2026"
 				<h2 class="text-center" id="current_walk_news">CURRENT WALK NEWS</h2>
 
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									UPDATED HEALTH & SAFETY DOCUMENTATION
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Hi everyone,
+								</p>
+								<p>
+									You may be aware that we have been working on new Health and Safety Documentation.
+									The preparation of the documentation has been completed by David Guile.
+									The aim is to provide a complete and current framework to make our walks safe
+									and to reduce the risks of accidents and the possibility of injury for everyone.
+								</p>
+								<p>
+									The new Health and Safety Documentation, prepared specifically for SVIWG,
+									will replace the documents that were provided up until now.
+									A copy of the new documentation is available from the <a href="documents.asp">documents page</a>,
+									and we will commence implementation in the near future.<br>
+									It is important that you please read through everything and familiarise yourself
+									with the contents at your convenience.<br>
+									Any questions or feedback are of course welcome.
+								</p>
+								<p>
+									It would be extremely helpful if you could please confirm
+									that you have read the documents once you have completed that.<br>
+									Please inform Sue Hill by email or message.<br>
+									(<a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>)
+								</p>
+							</div>
+							<div class="card-footer">
+								Kind Regards,<br>
+								Sue Hill<br>
+								<i>(Webmaster note: Some minor changes made to the above news post for the sake of clarity)</i>
+							</div>
+						</div>
+					</article>
 
 					<article id="notice_1" class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">

@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="24th April 2026"
+lastUpdated="7th May 2026"
 %>
 
 	<!-- #include file = "include/header.inc" -->
@@ -88,40 +88,49 @@ lastUpdated="24th April 2026"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 8&nbsp;APR</td>
+								<td>WED 13&nbsp;MAY</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_12">
-										Wyming Brook car park, Redmires Reservoirs
+									<a href="#event_15">
+										Whirlow Brook Park, Winfell Quarry Gardens, Ecclesall Woods, Millhouses
+									</a>
+								</td>
+								<td class="text-end">8 MAY</td>
+							</tr>
+							<tr>
+								<td>SUN 24&nbsp;MAY</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_16">
+										Along TPT, through cemetery to Thurlstone, Royd Moor, Scout Dyke reservoir, Penistone
+									</a>
+								</td>
+								<td class="text-end">20 MAY</td>
+							</tr>
+							<tr>
+								<td>THU 28&nbsp;MAY</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_43">
+										Walk from Bamford bus turnaround (route decided on the day)
+									</a>
+								</td>
+								<td class="text-end">22 MAY</td>
+							</tr>
+							<tr>
+								<td>TUE 2&nbsp;JUN</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_17">
+										Short walk around Thrybergh country park
+									</a>
+								</td>
+								<td class="text-end">27 MAY</td>
+							</tr>
+							<tr>
+								<td>WED 8&nbsp;JUL</td>
+								<td class="text-center text-uppercase">
+									<a href="#event_21">
+										Coach Ramble to Cleethorpes
 									</a>
 								</td>
 								<td class="text-end">N/A</td>
-							</tr>
-							<tr>
-								<td>THU 16&nbsp;APR</td>
-								<td class="text-center text-uppercase">
-									<a href="#event_42">
-										Totley Brook Road towards Holmsfield, Gillfield Wood, Penny Lane
-									</a>
-								</td>
-								<td class="text-end">10 APR</td>
-							</tr>
-							<tr>
-								<td>SUN 26&nbsp;APR</td>
-								<td class="text-center text-uppercase">
-									<a href="#event_13">
-										Loxley Valley, Wadsley Common, Middlewood Tram terminus
-									</a>
-								</td>
-								<td class="text-end">22 APR</td>
-							</tr>
-							<tr>
-								<td>TUE 5&nbsp;MAY</td>
-								<td class="text-center text-uppercase">
-									<a href="#event_14">
-										Linear walk
-									</a>
-								</td>
-								<td class="text-end">24 APR</td>
 							</tr>
 						</tbody>
 					</table>
@@ -159,93 +168,44 @@ lastUpdated="24th April 2026"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 				
-					<article class="d-flex" id="event_12">
+					<article class="d-flex" id="event_15">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-04-08">
-										WEDNESDAY 8th APRIL
+									<time datetime="2026-05-13">
+										WEDNESDAY 13th MAY
 									</time> -
-									Wyming Brook car park, Redmires Reservoirs
+									Whirlow Brook Park, Winfell Quarry Gardens, Ecclesall Woods, Millhouses
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Cathedral Tram stop 10.05 to catch 10.20 no 51 bus to Lodge Moor Terminus
-									where the walk starts approx 11am.
+									Cathedral Tram Stop 9.25 to catch 9.47 no 81 bus to Whirlow Brook Park arriving 10.20.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Across paths to Wyming Brook car park then across open land to Redmires Reservoirs,
-									going anti-clockwise around three reservoirs, and return to start.
+									Linear walk. After a walk through Winfell Quarry Gardens crossing to Ecclesall Woods,
+									and finishing at Millhouses.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									5.5 miles.
+									4-5 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Generally easy gradual gradient with no steep ascents, some rocky sections a few steps.
-									Possibly some muddy sections.
+									Woodland paths.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									David Guille (<a href="tel:07553 944116">07553 944116</a>) for any walk enquiries.
-								</li>
-								<li class="list-group-item">
-									<b>Registration:</b>
-									Please contact Martin
-									(<a href="tel:07747 443812">07747 443812</a> or
-									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									if going on this walk.
-								</li>
-							</ul>
-							<div class="card-footer">
-								<p>Please let Martin know where you intend to meet the group, making sure there are enough guides to meet
-									VI&#039;s in town.</p>
-							</div>
-						</div>
-					</article>
-					<article class="d-flex" id="event_42">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2026-04-16">
-										THURSDAY 16th APRIL
-									</time> -
-									Totley Brook Road towards Holmsfield, Gillfield Wood, Penny Lane
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Cathedral Church Street 9.15 to catch no 98 Totley 9.45 bus (opposite Crucible) to Totley Terminus,
-									Totley Brook Road. Arrives 10.15.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Totley Brook Road towards Holmsfield, Gillfield Wood, Penny Lane back to the start.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									~7 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Ranger style walk. Some stiles and two steep ascents.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Joe Fagan (<a href="tel:07502 547221">07502 547221</a>)
+									Judy Gathercole (<a href="tel:07557 272559">07557 272559</a>)
 									for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
-									Please contact Martin
-									(<a href="tel:07747 443812">07747 443812</a> or
+									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 10th April.
+									by Friday 8th May.
 								</li>
 							</ul>
 							<div class="card-footer">
@@ -253,95 +213,180 @@ lastUpdated="24th April 2026"
 							</div>
 						</div>
 					</article>
-					<article class="d-flex" id="event_13">
+					<article class="d-flex" id="event_16">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-04-26">
-										SUNDAY 26th APRIL
+									<time datetime="2026-05-24">
+										SUNDAY 24th MAY
 									</time> -
-									Loxley Valley, Wadsley Common, Middlewood Tram terminus
+									Along TPT, through cemetery to Thurlstone, Royd Moor, Scout Dyke reservoir, Penistone
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Cathedral Tram stop 10am to catch the blue line tram to Malin Bridge tram stop.
-									Those travelling by car can park at Malin Bridge car park free of charge. Walk starts 10.30.
+									Sheffield railway station at 9.15 to catch the 9.34 train to Penistone where the walk starts 10.15.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Loxley Valley then climbs on to Wadsley Common and finishes at Middlewood Tram terminus.
+									Circular walk. Along TPT through the cemetery to Thurlstone, then a steady walk uphill
+									to Royd Moor viewing point. Down over fields to Scout Dyke reservoir, then return to Penistone.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									~7 miles.
+									6.5 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Steep hill and 3 stiles.
+									Mainly decent paths and fields with 3 stiles.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Sam Butler (<a href="tel:07867 381581">07867 381581</a>)
+									David Kayley (<a href="tel:07840 133768">07840 133768</a>)
 									for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
-									Please contact Martin
-									(<a href="tel:07747 443812">07747 443812</a> or
+									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Wednesday 22nd April.
+									by Wednesday 20th May.
 								</li>
 							</ul>
-							<div class="card-footer">
-								<p>Please let Martin know where you will meet the group for him to make sure there are enough guides at the
-									start to meet VI&#039;s.</p>
-							</div>
 						</div>
 					</article>
-					<article class="d-flex" id="event_14">
+					<article class="d-flex" id="event_43">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-05-05">
-										TUESDAY 5th MAY
+									<time datetime="2026-05-28">
+										THURSDAY 28th MAY
 									</time> -
-									Linear walk
+									Walk from Bamford bus turnaround (route decided on the day)
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Cathedral tram stop 9.40 to catch 10.09 X17 bus to Donkey Derby Chesterfield Tapton Lock,
-									Hollingwood Hub, Staveley catching bus 77 to Cavendish Street Chesterfield. Then X17 to Sheffield.
+									Sheffield interchange (main foyer) 9.40 to catch the 10am no 257 bus to Bamford bus turnaround.
+									Arrives 10.42 where the walk will start.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Linear walk.
+									To be decided on the day.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									4.5 miles.
+									~8 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									On good paths with no break off points.
+									Moderate walking, some climbs, open moorland.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Susan Ives (<a href="tel:0114 2749567">0114 2749567</a>) for any walk enquiries.
+									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a>)
+									for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
-									Please contact Martin
-									(<a href="tel:07747 443812">07747 443812</a> or
+									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 24th April.
+									by Friday 22nd May.
 								</li>
 							</ul>
 							<div class="card-footer">
-								<p>Please let Martin know where you intend to meet the group.</p>
+								<p>Return buses 272 at 14.46 and 16.25, 257 at 44 minutes past the hour.</p>
+								<p>Please let Martin know where you will meet the group.</p>
+							</div>
+						</div>
+					</article>
+					<article class="d-flex" id="event_17">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-06-02">
+										TUESDAY 2nd JUNE
+									</time> -
+									Short walk around Thrybergh country park
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield interchange (main foyer) 9.40 to catch the 10.03 X3 bus to Thrybergh country park
+									where walk starts 10.55.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Circular Walk. A short but beautiful walk around the country park.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									3 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Totally flat easy walking with no stiles.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David Cadet
+									(<a href="tel:07554 143262">07554 143262</a> or
+									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>)
+									for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Wednesday 27th May.
+								</li>
+							</ul>
+							<div class="card-footer">
+								<p>Note that David is looking to extend this walk.</p>
+								<p>Car drivers can park at the country park cafe and toilets there with buses every 15 minutes.</p>
+								<p>Please let Martin know where you will meet the group.</p>
+							</div>
+						</div>
+					</article>
+					<article class="d-flex" id="event_21">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-07-08">
+										WEDNESDAY 8th JULY
+									</time> -
+									Coach Ramble to Cleethorpes
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Penny Black Pub, Pond Hill, leaving 9.30.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									An approximately 5 mile walk with a shorter option for those who want it.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									TBC
+								</li>
+							</ul>
+							<div class="card-footer">
+								<p>
+									Please contact Eileen
+									(<a href="tel:07952 241775">07952 241775</a> or <a href="tel:0114 2814414">0114 2814414</a>).
+								</p>
+								<p>
+									Places only reserved when money has been paid, either to Eileen,
+									or bank transfer to SVIWG (details below).
+								</p>
+								<p>
+									Sort code: 40 41 07<br>
+									Account number: 71852566
+								</p>
 							</div>
 						</div>
 					</article>

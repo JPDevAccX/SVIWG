@@ -1,6 +1,6 @@
 <%
 title="Contact"
-lastUpdated="28th August 2025"
+lastUpdated="27th April 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -70,7 +70,7 @@ lastUpdated="28th August 2025"
 						</div>
 						<div class="col-lg-4">
 							<img src="images/icons/envelope-at.svg" class="sviwg-small-icon" alt="">
-							<a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>
+							<a href="mailto:gail.fagan106@gmail.com">gail.fagan106@gmail.com</a>
 						</div>
 						<div class="col-lg-3">
 							<img src="images/icons/telephone.svg" class="sviwg-small-icon" alt="">

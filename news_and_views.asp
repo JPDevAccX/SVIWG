@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="24th April 2026"
+lastUpdated="7th May 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -22,7 +22,7 @@ lastUpdated="24th April 2026"
 							Please send any photos to us and we will put them on the website - <a href="mailto:sviwg_webmaster@proton.me">sviwg_webmaster@proton.me</a>.<br>
 							Please send articles for Newsletter to Gail Fagan
 							(tel: <a href="tel:0114 2667764">0114 2667764</a> / email:
-							<a href="mailto:gail.fagan@guidemail.co.uk">gail.fagan@guidemail.co.uk</a>)
+							<a href="mailto:gail.fagan106@gmail.com">gail.fagan106@gmail.com</a>)
 						</span>
 					</div>
 				</div>
@@ -36,8 +36,100 @@ lastUpdated="24th April 2026"
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">
+										Obituary
+									</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									I am sorry to tell you about the death of Eric Andrews.
+								</p>
+								<p>
+									Eric was a former Chair of our group and really pushed boundaries
+									within our group with regards to fundraising.
+								</p>
+								<p>
+									He arranged a trip to Ben Nevis, Scafell Pike, Tandem cycling around the Manchester Velodrome.<br>
+									Also Gliding as a fun day out for our group.
+								</p>
+								<p>
+									When he no longer was able to partake in our walks Eric and Marcia always attended our social events.
+								</p>
+								<p>
+									His working life was spent in the Merchant navy and later as a draughtsman
+									designing rooms at the Hallamshire hospital.
+								</p>
+								<p>
+									We send our condolences to his family also his friends from our group.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">
+										Open Garden
+									</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Mike Jackson is once again opening his garden on Saturday 30th May, 2 to 5pm.<br>
+									9 Newfield Crescent, Dore, Sheffield.
+								</p>
+								<p>
+									Many of you will remember the fantastic day we had last year
+									celebrating our 25th anniversary of the SVIWG.
+								</p>
+								<p>
+									Free entrance refreshments provided, with donations gratefully received
+									going to Children's Air Ambulance, a very worthwhile cause.
+								</p>
+								<p>
+									It is a wonderful opportunity for our members to visit again
+									if they did not feel they had a good look around last year.
+								</p>
+								<p>
+									Members must arrange their own transport.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">
+										VI walking group: Good for everyone
+									</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Please see this
+									<a href="https://tnfsoundings.org.uk/publications/information/vi/vi-walking-group/" target="_blank">
+										link to the	TNF Sounds website
+									</a>
+									where the interview is there to be listened to.
+								</p>
+								<p>
+									They did Mike Jackson a good justice given the recording wasn't great so they couldn't use it.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
 								<h3 class="card-title fs-5">
-									UPDATED HEALTH & SAFETY DOCUMENTATION
+									Updated Health & Safety Documentation
 								</h3>
 							</div>
 							<div class="card-body">
@@ -54,7 +146,9 @@ lastUpdated="24th April 2026"
 									The new Health and Safety Documentation, prepared specifically for SVIWG,
 									will replace the documents that were provided up until now.
 									A copy of the new documentation is available from the <a href="documents.asp">documents page</a>,
-									and we will commence implementation in the near future.<br>
+									and we will commence implementation in the near future.
+								</p>
+								<p>
 									It is important that you please read through everything and familiarise yourself
 									with the contents at your convenience.<br>
 									Any questions or feedback are of course welcome.
@@ -87,33 +181,6 @@ lastUpdated="24th April 2026"
 						</div>
 					</article>
 
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title d-flex gap-2 justify-content-between">
-									<div class="fs-5">Social events at SRSB</div>
-								</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									Friday 17th April - Cheese and Wine tasting evening.<br>
-									Starts 7pm, 5 Mappin Street.<br>
-									This popular event supported by Starmore Boss along with Porterbrook Deli.<br>
-									Fundraising event is open to everyone. Book ASAP to	avoid disappointment. £25 per person.<br>
-									Tel: <a href="tel:0114 2722757">0114 2722757</a><br>
-									Email: <a href="mailto:info@srsb.org.uk">info@srsb.org.uk</a>
-								</p>
-								<p>
-									SRSB are excited to announce a weekly running club starting on Thursday 5th February at
-									Sheffield Hallam Athletic Stadium, Woodburn Road.
-									The time is 12 until 2pm.<br>
-									Suitable for all for complete beginners or seasoned runners.<br>
-									Costs £3.50 per session, card only.<br>
-									Tel: <a href="tel:0114 2722757">0114 2722757</a>
-								</p>
-							</div>
-						</div>
-					</article>
 				</div>
 			</section>
 

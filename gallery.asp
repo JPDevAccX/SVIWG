@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="19th April 2026"
+lastUpdated="8th May 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -29,6 +29,59 @@ lastUpdated="19th April 2026"
 			<section class="border border-3 p-2 p-md-4 gallery-images" id="gallery_2026">
 				<h3 class="text-center">~ 2026 ~</h3>
 				<div class="d-flex flex-column gap-4">
+
+					<!-- WALK FROM LOXLEY VALLEY (26th APRIL) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							WALK FROM LOXLEY VALLEY (26th APRIL)
+							<br>
+							<span class="fs-5">(sent in by Michelle)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_From_Loxley_Valley_20260426_04.webp"
+										alt="Six members of the group sit back on a shallow incline near a stone wall">
+									<figcaption class="figure-caption">Lounging in the grass under whispy clouds</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_From_Loxley_Valley_20260426_01.webp"
+										alt="The group pose behind a huge iron capstan">
+									<figcaption class="figure-caption">
+										The
+										<a href="https://friendsoftheloxleyvalley.com/loxley-valley-water-power-heritage-sites-wisewood-forge/" target="_blank">
+											Wisewood Forge capstan</a>, part of the historic dam system
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_From_Loxley_Valley_20260426_02.webp"
+										alt="A narrow path stretching out into the distance with tall trees either side">
+									<figcaption class="figure-caption">
+										Long shadows cross this narrow path 
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_From_Loxley_Valley_20260426_03.webp"
+										alt="A group-member carefully traverses a stile over a stone wall">
+									<figcaption class="figure-caption">
+										Walking with Stile!
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
 
 					<!-- WALK TO RIVELIN (22nd MARCH) -->
 					<section class="d-flex flex-column gap-4">

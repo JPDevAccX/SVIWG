@@ -1,6 +1,6 @@
 <%
 title="In Memory"
-lastUpdated="9th November 2025"
+lastUpdated="3rd June 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -12,39 +12,74 @@ lastUpdated="9th November 2025"
 
 			<div class="d-flex flex-column gap-5">
 
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header">
-								<h3 class="card-title fs-5">OBITUARY - DEREK TAYLOR</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									We are sorry to inform you that our friend Derek Taylor died early October.
-								</p>
-								<p>
-									Derek was around at the beginning of SVIWG and remained a constant coming each Wednesday without fail.
-									Derek was also a great sportsman loving cricket and playing at a high level
-									also running the Sheffield half marathon each year.
-									Derek was very smart and when he was not in walking clothes he was to be seen around always in a suit.
-								</p>
-								<p>
-									He lost his wife two years ago after years of marriage and we could see his decline from there.
-									When he was no longer able to walk with us he always came to our social events
-									the last being at our AGM this year.
-								</p>
-								<p>
-									Our condolences to his two sons and their families
-									also his Grandchildren whom he adored and this was also the same for them.
-								</p>
-								<p>
-									We will miss you Derek. Thank you for many years of support. Gail.
-								</p>
-								<p>
-									Derek's funeral is to be held Hutcliffe Wood 31st October at 3.30pm.
-								</p>
-							</div>
+				<article class="d-flex">
+					<div class="card mx-auto sviwg-text-card sviwg-news-card">
+						<div class="card-header">
+							<h3 class="card-title d-flex gap-2 justify-content-between">
+								<div class="fs-5">
+									OBITUARY - ERIC ANDREWS
+								</div>
+							</h3>
 						</div>
-					</article>
+						<div class="card-body">
+							<p>
+								I am sorry to tell you about the death of Eric Andrews.
+							</p>
+							<p>
+								Eric was a former Chair of our group and really pushed boundaries
+								within our group with regards to fundraising.
+							</p>
+							<p>
+								He arranged a trip to Ben Nevis, Scafell Pike, Tandem cycling around the Manchester Velodrome.<br>
+								Also Gliding as a fun day out for our group.
+							</p>
+							<p>
+								When he no longer was able to partake in our walks Eric and Marcia always attended our social events.
+							</p>
+							<p>
+								His working life was spent in the Merchant navy and later as a draughtsman
+								designing rooms at the Hallamshire hospital.
+							</p>
+							<p>
+								We send our condolences to his family also his friends from our group.
+							</p>
+						</div>
+					</div>
+				</article>
+
+				<article class="d-flex">
+					<div class="card mx-auto sviwg-text-card sviwg-news-card">
+						<div class="card-header">
+							<h3 class="card-title fs-5">OBITUARY - DEREK TAYLOR</h3>
+						</div>
+						<div class="card-body">
+							<p>
+								We are sorry to inform you that our friend Derek Taylor died early October.
+							</p>
+							<p>
+								Derek was around at the beginning of SVIWG and remained a constant coming each Wednesday without fail.
+								Derek was also a great sportsman loving cricket and playing at a high level
+								also running the Sheffield half marathon each year.
+								Derek was very smart and when he was not in walking clothes he was to be seen around always in a suit.
+							</p>
+							<p>
+								He lost his wife two years ago after years of marriage and we could see his decline from there.
+								When he was no longer able to walk with us he always came to our social events
+								the last being at our AGM this year.
+							</p>
+							<p>
+								Our condolences to his two sons and their families
+								also his Grandchildren whom he adored and this was also the same for them.
+							</p>
+							<p>
+								We will miss you Derek. Thank you for many years of support. Gail.
+							</p>
+							<p>
+								Derek's funeral is to be held Hutcliffe Wood 31st October at 3.30pm.
+							</p>
+						</div>
+					</div>
+				</article>
 
 				<article class="d-flex">
 					<div class="card mx-auto sviwg-text-card sviwg-news-card">

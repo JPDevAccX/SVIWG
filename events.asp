@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="7th May 2026"
+lastUpdated="3rd June 2026"
 %>
 
 	<!-- #include file = "include/header.inc" -->
@@ -88,45 +88,54 @@ lastUpdated="7th May 2026"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 13&nbsp;MAY</td>
+								<td>WED 10&nbsp;JUN</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_15">
-										Whirlow Brook Park, Winfell Quarry Gardens, Ecclesall Woods, Millhouses
+									<a href="#standardwalk_18">
+										Elsecar Park, Broadcar Road, Skier Spring Woods, Wentworth, Elsecar Heritage Centre
 									</a>
 								</td>
-								<td class="text-end">8 MAY</td>
+								<td class="text-end">5 JUN</td>
 							</tr>
 							<tr>
-								<td>SUN 24&nbsp;MAY</td>
+								<td>WED 24&nbsp;JUN</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_16">
-										Along TPT, through cemetery to Thurlstone, Royd Moor, Scout Dyke reservoir, Penistone
+									<a href="#generalevent_1">
+										AGM
 									</a>
 								</td>
-								<td class="text-end">20 MAY</td>
+								<td class="text-end">14 JUN</td>
 							</tr>
 							<tr>
-								<td>THU 28&nbsp;MAY</td>
+								<td>THU 25&nbsp;JUN</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_43">
-										Walk from Bamford bus turnaround (route decided on the day)
+									<a href="#standardwalk_44">
+										Chatsworth House, Hunting Tower, Swiss Lake, Beeley, Carlton Lees, Edensor
 									</a>
 								</td>
-								<td class="text-end">22 MAY</td>
+								<td class="text-end">19 JUN</td>
 							</tr>
 							<tr>
-								<td>TUE 2&nbsp;JUN</td>
+								<td>SUN 28&nbsp;JUN</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_17">
-										Short walk around Thrybergh country park
+									<a href="#standardwalk_19">
+										Endcliffe Park, Trippet Wood, Sheppard Wheel, Forge Dam, Crimicar Lane
 									</a>
 								</td>
-								<td class="text-end">27 MAY</td>
+								<td class="text-end">24 JUN</td>
+							</tr>
+							<tr>
+								<td>TUE 30&nbsp;JUN</td>
+								<td class="text-center text-uppercase">
+									<a href="#standardwalk_20">
+										Short circular walk to celebrate Judith and Sue Hill&#039;s 70th birthday
+									</a>
+								</td>
+								<td class="text-end">27 JUN</td>
 							</tr>
 							<tr>
 								<td>WED 8&nbsp;JUL</td>
 								<td class="text-center text-uppercase">
-									<a href="#event_21">
+									<a href="#standardwalk_21">
 										Coach Ramble to Cleethorpes
 									</a>
 								</td>
@@ -168,112 +177,100 @@ lastUpdated="7th May 2026"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 				
-					<article class="d-flex" id="event_15">
+					<article class="d-flex" id="standardwalk_18">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-05-13">
-										WEDNESDAY 13th MAY
+									<time datetime="2026-06-10">
+										WEDNESDAY 10th JUNE
 									</time> -
-									Whirlow Brook Park, Winfell Quarry Gardens, Ecclesall Woods, Millhouses
+									Elsecar Park, Broadcar Road, Skier Spring Woods, Wentworth, Elsecar Heritage Centre
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Cathedral Tram Stop 9.25 to catch 9.47 no 81 bus to Whirlow Brook Park arriving 10.20.
+									Sheffield railway station 9.40 to catch the Sheffield to Leeds train to Elsecar which leaves 10.02 arriving
+									Elsecar 10.19. Barnsley train leaves 10.00 arriving at Elsecar 10.09.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Linear walk. After a walk through Winfell Quarry Gardens crossing to Ecclesall Woods,
-									and finishing at Millhouses.
+									From the train station we head to Elsecar Park around the reservoir then head towards Broadcar Road. Skier
+									Spring Woods. Exit the woods at Harley then along to Wentworth. There is a bus from there for those who want a
+									shorter walk. From Wentworth we head back to Elsecar Heritage Centre.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									4-5 miles.
+									5-7 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Woodland paths.
+									Woodland and fields - mixture of road, paths, fields and woodland.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Judy Gathercole (<a href="tel:07557 272559">07557 272559</a>)
+									Matt Gulty (<a href="tel:07738 005412">07738 005412</a>)
 									for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
-									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
-									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 8th May.
+									Please contact
+									Martin (<a href="tel:07747 443812">07747 443812</a> or <a
+										href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by
+									Friday 5th June.
 								</li>
 							</ul>
 							<div class="card-footer">
-								<p>Please let Martin know where you will meet the group.</p>
+								<p>Free parking at Elsecar.</p>
 							</div>
 						</div>
 					</article>
-					<article class="d-flex" id="event_16">
+
+					<article class="d-flex" id="generalevent_1">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-05-24">
-										SUNDAY 24th MAY
+									<time datetime="2026-06-24">
+										WEDNESDAY 24th JUNE
 									</time> -
-									Along TPT, through cemetery to Thurlstone, Royd Moor, Scout Dyke reservoir, Penistone
+									AGM
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>Wednesday 24th June, SRSB Mappin Street.<br>Please join us for a buffet supper, arrival 6 to 6.30, meeting
+									starts 6.30 prompt and buffet 7pm.</p>
+								<p>Join us for a social evening meeting your fellow VI&#039;s and guides, some that you have not already met, and
+									enjoy food, tea, coffee and soft drinks, also great raffle prizes.</p>
+								<p>Find out what the group has done and what they intend to do over the next year.</p>
+								<p>If you wish to have an alcoholic drink, please bring your own.</p>
+							</div>
+							<div class="card-footer">
+								<p>Contact Hilary by no later than 14th June for catering purposes.<br><a href="tel:0114 2306604">0114 2306604</a>
+									or <a href="mailto:hilarymyers16@gmail.com">hilarymyers16@gmail.com</a><br>Cost £7 per person pay at the door.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="standardwalk_44">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-06-25">
+										THURSDAY 25th JUNE
+									</time> -
+									Chatsworth House, Hunting Tower, Swiss Lake, Beeley, Carlton Lees, Edensor
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Sheffield railway station at 9.15 to catch the 9.34 train to Penistone where the walk starts 10.15.
+									Meet Sheffield Interchange (main foyer) 9.45 to catch 10.04 218 bus to Edensor, arrives 10.50.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Circular walk. Along TPT through the cemetery to Thurlstone, then a steady walk uphill
-									to Royd Moor viewing point. Down over fields to Scout Dyke reservoir, then return to Penistone.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									6.5 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Mainly decent paths and fields with 3 stiles.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									David Kayley (<a href="tel:07840 133768">07840 133768</a>)
-									for any walk enquiries.
-								</li>
-								<li class="list-group-item">
-									<b>Registration:</b>
-									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
-									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Wednesday 20th May.
-								</li>
-							</ul>
-						</div>
-					</article>
-					<article class="d-flex" id="event_43">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2026-05-28">
-										THURSDAY 28th MAY
-									</time> -
-									Walk from Bamford bus turnaround (route decided on the day)
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield interchange (main foyer) 9.40 to catch the 10am no 257 bus to Bamford bus turnaround.
-									Arrives 10.42 where the walk will start.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									To be decided on the day.
+									Chatsworth House, Hunting Tower, Swiss Lake, Beeley, Carlton Lees, return to Edensor.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
@@ -281,58 +278,112 @@ lastUpdated="7th May 2026"
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Moderate walking, some climbs, open moorland.
+									Good paths through woodland and across moorland and pastures,
+									the uphill section from Chatsworth House to the	Hunting Tower is fairly steep,
+									the descent to Beeley is on a disused road with a couple of stiles.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a>)
+									Mike Wilson (<a href="tel:07538 001933">07538 001933</a>)
+									for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin
+									(<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Friday 19th June.
+								</li>
+							</ul>
+							<div class="card-footer">
+								Buses back from Edensor, 14.51, 15.51 and 16.31.<br>
+								Car parking at Edensor may be limited.<br>
+								Please let Martin know where you will meet the group.
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="standardwalk_19">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-06-28">
+										SUNDAY 28th JUNE
+									</time> -
+									Endcliffe Park, Trippet Wood, Sheppard Wheel, Forge Dam, Crimicar Lane
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Cathedral Tram Stop 9.25 to catch the 9.59 no 88 bus Arundel Gate opposite Crucible
+									to Hunters Bar arriving 10.03.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Linear walk. Endcliffe Park, corner Ecclesall Road and Brockobank Road, crossing Rustlings Road,
+									Trippet Wood,	passing Ibbertson wheel pond to reach the historic Sheppard Wheel,
+									open on Sundays which is interesting to look around.
+									Continue to Forge Dam then Crimicar Lane to catch the 120 bus to town.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Easy pathways with short inclines.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Nigel Robb (<a href="tel:07538 460680">07538 460680</a>)
 									for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
 									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 22nd May.
+									by Wednesday 24th June.
 								</li>
 							</ul>
 							<div class="card-footer">
-								<p>Return buses 272 at 14.46 and 16.25, 257 at 44 minutes past the hour.</p>
 								<p>Please let Martin know where you will meet the group.</p>
 							</div>
 						</div>
 					</article>
-					<article class="d-flex" id="event_17">
+
+					<article class="d-flex" id="standardwalk_20">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
-									<time datetime="2026-06-02">
-										TUESDAY 2nd JUNE
+									<time datetime="2026-06-30">
+										TUESDAY 30th JUNE
 									</time> -
-									Short walk around Thrybergh country park
+									Short circular walk to celebrate Judith and Sue Hill's 70th birthday
 								</h3>
 							</div>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<b>Meet at:</b>
-									Sheffield interchange (main foyer) 9.40 to catch the 10.03 X3 bus to Thrybergh country park
-									where walk starts 10.55.
+									Meet Cathedral tram stop 9.40 to catch 10.06 no 81 bus from Arundel Gate
+									to Dore Village where the walk starts 10.35.
 								</li>
 								<li class="list-group-item">
 									<b>The Route:</b>
-									Circular Walk. A short but beautiful walk around the country park.
+									Circular walk. A short walk to celebrate Judith and Sue Hill's 70th birthday,
+									stopping at the wonderful Dore cafe for lunch.
 								</li>
 								<li class="list-group-item">
 									<b>Distance:</b>
-									3 miles.
+									~3 miles.
 								</li>
 								<li class="list-group-item">
 									<b>Terrain:</b>
-									Totally flat easy walking with no stiles.
+									Short walk with one steep ascent.
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									David Cadet
-									(<a href="tel:07554 143262">07554 143262</a> or
+									David Cadet (<a href="tel:07554 143262">07554 143262</a> or
 									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>)
 									for any walk enquiries.
 								</li>
@@ -340,17 +391,17 @@ lastUpdated="7th May 2026"
 									<b>Registration:</b>
 									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
 									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Wednesday 27th May.
+									by Saturday 27th June.
 								</li>
 							</ul>
 							<div class="card-footer">
-								<p>Note that David is looking to extend this walk.</p>
-								<p>Car drivers can park at the country park cafe and toilets there with buses every 15 minutes.</p>
-								<p>Please let Martin know where you will meet the group.</p>
+								Car parking nearby, side roads in the village.<br>
+								Please let Martin know where you will meet the group to	assist VI's in town.
 							</div>
 						</div>
 					</article>
-					<article class="d-flex" id="event_21">
+
+					<article class="d-flex" id="standardwalk_21">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
 								<h3 class="card-title fs-5">
@@ -376,8 +427,8 @@ lastUpdated="7th May 2026"
 							</ul>
 							<div class="card-footer">
 								<p>
-									Please contact Eileen
-									(<a href="tel:07952 241775">07952 241775</a> or <a href="tel:0114 2814414">0114 2814414</a>).
+									Please contact Eileen (<a href="tel:07952 241775">07952 241775</a> or
+									<a href="tel:0114 2814414">0114	2814414</a>).
 								</p>
 								<p>
 									Places only reserved when money has been paid, either to Eileen,
@@ -390,6 +441,44 @@ lastUpdated="7th May 2026"
 							</div>
 						</div>
 					</article>
+				</div>
+			</section>
+
+			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
+				<h2 class="text-center" id="upcoming_other_walks">OTHER WALKS</h2>
+				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex" id="event-short-walk-with-rss-and-srsb">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-other">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									SHORT WALK WITH RSS AND SRSB
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									The first Thursday each month there is a walk supported by the Rotherham Ramblers,
+									usually around 3 miles finishing at the lovely Winthrop Gardens Wickersley at their cafe for lunch.
+								</p>
+								<p>
+									A minibus leaves SRSB Mappin Street at 9.30, with Rotherham Sight and Sound
+									taking members to the start of the walk from 10am,
+									and the walk itself starting half an hour later at 10:30am.
+									Note that there is a small charge for transport.
+								</p>
+							</div>
+							<div class="card-footer">
+								Please contact SRSB on <a href="tel:0114 2722757">0114 2722757</a>
+								or send an email to <a href="mailto:activities@srsb.org.uk">activities@srsb.org.uk</a>
+								to book a place or for more information.<br>
+								Additional details are available from the
+								<a href="https://www.srsb.org.uk/Rotherham-Health-Walks/" target="_blank">
+									event page on SRSB's website
+								</a>.
+							</div>
+						</div>
+					</article>
+
 				</div>
 			</section>
 

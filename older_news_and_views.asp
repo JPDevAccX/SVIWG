@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="7th May 2026"
+lastUpdated="3rd June 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -24,6 +24,106 @@ lastUpdated="7th May 2026"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">
+										Open Garden
+									</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Mike Jackson is once again opening his garden on Saturday 30th May, 2 to 5pm.<br>
+									9 Newfield Crescent, Dore, Sheffield.
+								</p>
+								<p>
+									Many of you will remember the fantastic day we had last year
+									celebrating our 25th anniversary of the SVIWG.
+								</p>
+								<p>
+									Free entrance refreshments provided, with donations gratefully received
+									going to Children's Air Ambulance, a very worthwhile cause.
+								</p>
+								<p>
+									It is a wonderful opportunity for our members to visit again
+									if they did not feel they had a good look around last year.
+								</p>
+								<p>
+									Members must arrange their own transport.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">
+										VI walking group: Good for everyone
+									</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Please see this
+									<a href="https://tnfsoundings.org.uk/publications/information/vi/vi-walking-group/" target="_blank">
+										link to the	TNF Sounds website
+									</a>
+									where the interview is there to be listened to.
+								</p>
+								<p>
+									They did Mike Jackson a good justice given the recording wasn't great so they couldn't use it.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									Updated Health & Safety Documentation
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Hi everyone,
+								</p>
+								<p>
+									You may be aware that we have been working on new Health and Safety Documentation.
+									The preparation of the documentation has been completed by David Guile.
+									The aim is to provide a complete and current framework to make our walks safe
+									and to reduce the risks of accidents and the possibility of injury for everyone.
+								</p>
+								<p>
+									The new Health and Safety Documentation, prepared specifically for SVIWG,
+									will replace the documents that were provided up until now.
+									A copy of the new documentation is available from the <a href="documents.asp">documents page</a>,
+									and we will commence implementation in the near future.
+								</p>
+								<p>
+									It is important that you please read through everything and familiarise yourself
+									with the contents at your convenience.<br>
+									Any questions or feedback are of course welcome.
+								</p>
+								<p>
+									It would be extremely helpful if you could please confirm
+									that you have read the documents once you have completed that.<br>
+									Please inform Sue Hill by email or message.<br>
+									(<a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>)
+								</p>
+							</div>
+							<div class="card-footer">
+								Kind Regards,<br>
+								Sue Hill<br>
+								<i>(Webmaster note: Some minor changes made to the above news post for the sake of clarity)</i>
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="8th May 2026"
+lastUpdated="7th June 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -1365,6 +1365,20 @@ lastUpdated="8th May 2026"
 								<figure class="figure">
 									<img src="images/photo_gallery/2023/Back Down The Valley.jpg" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
 									<figcaption class="figure-caption">BACK DOWN THE VALLEY</figcaption>
+								</figure>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2023/Walk_Around_Baslow_Extra_2023021_01.webp" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">DESCENDING TO THE STREAM</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2023/Walk_Around_Baslow_Extra_2023021_02.webp" class="figure-img img-fluid sviwg-inset-subtle-image" alt="">
+									<figcaption class="figure-caption">ACROSS THE STREAM</figcaption>
 								</figure>
 							</div>
 						</div>

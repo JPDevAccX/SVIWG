@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="3rd June 2026"
+lastUpdated="3rd July 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -24,6 +24,37 @@ lastUpdated="3rd June 2026"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">
+										<time datetime="2026-06-24">
+											WEDNESDAY 24th JUNE
+										</time> -
+										AGM
+									</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Wednesday 24th June, SRSB Mappin Street.<br>
+									Please join us for a buffet supper, arrival 6 to 6.30, meeting starts 6.30 prompt and buffet 7pm.
+								</p>
+								<p>
+									Join us for a social evening meeting your fellow VI's and guides, some that you have not already met,
+									and	enjoy food, tea, coffee and soft drinks, also great raffle prizes.
+								</p>
+								<p>
+									Find out what the group has done and what they intend to do over the next year.
+								</p>
+								<p>
+									If you wish to have an alcoholic drink, please bring your own.
+								</p>
+							</div>
+						</div>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="7th June 2026"
+lastUpdated="19th July 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -29,6 +29,117 @@ lastUpdated="7th June 2026"
 			<section class="border border-3 p-2 p-md-4 gallery-images" id="gallery_2026">
 				<h3 class="text-center">~ 2026 ~</h3>
 				<div class="d-flex flex-column gap-4">
+
+					<!-- COACH RAMBLE TO CLEETHORPES (8th JULY) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							COACH RAMBLE TO CLEETHORPES (8th JULY)
+							<br>
+							<span class="fs-5">(sent in by Louise Gower)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/CoachRamble_To_Cleethorpes_20260708_01.jpg"
+										alt="Members sit around a circular stone bench near the beach, many with hats on">
+									<figcaption class="figure-caption">A to Z by the beach (#1)</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/CoachRamble_To_Cleethorpes_20260708_02.jpg"
+										alt="Members sit around a circular stone bench near the beach, many with hats on">
+									<figcaption class="figure-caption">A to Z by the beach (#2)</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+
+					<!-- WALK AROUND THRYBERGH COUNTRY PARK (2nd JUNE) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							WALK AROUND THRYBERGH COUNTRY PARK (2nd JUNE)
+							<br>
+							<span class="fs-5">(sent in by Maryline Tergella)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_Around_Thrybergh_20260602_01.webp"
+										alt="A view of the reservoir under a cloudy sky with lots of birds on the grass and water">
+									<figcaption class="figure-caption">Lots of birds by the reservoir</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_Around_Thrybergh_20260602_02.webp"
+										alt="An angled shot of the group, some sitting at benches, with four guide dogs present">
+									<figcaption class="figure-caption">Dogs and owners taking a break outside the reception</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_Around_Thrybergh_20260602_03.webp"
+										alt="A recently painted wall-mural with a large swan, yellow canaries, and four decorative panels depicting the changing seasons">
+									<figcaption class="figure-caption">
+										A new
+										<a href="https://fluxrotherham.org.uk/new-community-mural-at-thrybergh-country-park/" target="_blank">
+											community-inspired mural</a>
+										on one of the buildings
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Walk_Around_Thrybergh_20260602_04.webp"
+										alt="A postcard-style collage based on the previous three photos and consisting of five postcards pinned to a board">
+									<figcaption class="figure-caption">
+										Photo collage! 
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+
+					<!-- PEAK PARK RANGERS WALK (28th MAY) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							PEAK PARK RANGERS WALK (28th MAY)
+							<br>
+							<span class="fs-5">(sent in by Katharine Ryan-Murray)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-10 col-md-8 col-lg-6 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Peak_Park_Rangers_Walk_20260528_01.jpg"
+										alt="The group stop at the top of a hill in front of a fence, partly shaded from an overhanging tree, with all sitting except for one member in a high-vis jacket">
+									<figcaption class="figure-caption">Resting in sun and shade</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Peak_Park_Rangers_Walk_20260528_02.jpg"
+										alt="The group, all seemingly equipped with backpacks, walk down a dirt path under tall trees, in sunny weather">
+									<figcaption class="figure-caption">Trees overhead glowing in the sunlight</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
 
 					<!-- WALK FROM LOXLEY VALLEY (26th APRIL) -->
 					<section class="d-flex flex-column gap-4">

@@ -1,6 +1,6 @@
 <%
 title="Welcome"
-lastUpdated="2nd Jul 2025"
+lastUpdated="14th July 2026"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -107,10 +107,6 @@ lastUpdated="2nd Jul 2025"
 
 					<a href="https://sheffieldramblers.org/" tabindex="-1" aria-hidden="true">
 						<img src="images/orgs/Ramblers Group Logos Vertical RGB Sheffield.png" class="sviwg-small-logo" alt="SHEFFIELD RAMBLERS">
-					</a>
-	
-					<a href="https://www.sheffieldcitytrust.org/" tabindex="-1" aria-hidden="true">
-						<img src="images/orgs/Sheffield CT Logo.jpeg" class="sviwg-small-logo" alt="SHEFFIELD CITY TRUST">
 					</a>
 				</div>
 	

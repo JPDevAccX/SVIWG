@@ -1,6 +1,6 @@
 <%
 title="About SVIWG"
-lastUpdated="28th August 2025"
+lastUpdated="14th July 2026"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -95,7 +95,12 @@ lastUpdated="28th August 2025"
 					</div>
 				</div>
 
-				<div class="card mb-3">
+			</section>
+
+			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
+				<h2 class="text-center">PAST SUPPORTERS</h2>
+
+					<div class="card mb-3">
 					<div class="row g-0 br-inherit">
 						<div class="col-md-4 p-2 sviwg-hcard-header d-flex align-items-center">
 							<div class="d-flex gap-2 align-items-center">
@@ -112,11 +117,6 @@ lastUpdated="28th August 2025"
 						</div>
 					</div>
 				</div>
-
-			</section>
-
-			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
-				<h2 class="text-center">PAST SUPPORTERS</h2>
 				
 				<div class="card mb-3">
 					<div class="row g-0 br-inherit">

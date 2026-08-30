@@ -1,6 +1,6 @@
 <%
 title="Events"
-lastUpdated="3rd July 2026"
+lastUpdated="3rd August 2026"
 %>
 
 	<!-- #include file = "include/header.inc" -->
@@ -17,10 +17,10 @@ lastUpdated="3rd July 2026"
 				<div class="col d-flex flex-column justify-content-center">
 					<div class="px-2 px-md-0">
 						<h2>
-							Walk coordinator: EILEEN INGHAM<br>
-							<a href="tel:07952 241775">07952 241775</a>
+							Walk coordinator: MARYLINE TERGELLA<br>
+							<a href="mailto:maryline.tergella@gmail.com">maryline.tergella@gmail.com</a>
 							or
-							<a href="tel:0114 2814414">0114 2814414</a>
+							<a href="tel:07979 786171">07979 786171</a>
 						</h2>
 						<span class="sviwg-large-font">
 							DOGS MUST BE ON LEADS AT ALL TIMES UNLESS OTHERWISE STATED BY THE WALK LEADER.<br>
@@ -88,33 +88,6 @@ lastUpdated="3rd July 2026"
 						</thead>
 						<tbody>
 							<tr>
-								<td>WED 8&nbsp;JUL</td>
-								<td class="text-center text-uppercase">
-									<a href="#standardwalk_21">
-										Coach Ramble to Cleethorpes
-									</a>
-								</td>
-								<td class="text-end">N/A</td>
-							</tr>
-							<tr>
-								<td>THU 16&nbsp;JUL</td>
-								<td class="text-center text-uppercase">
-									<a href="#standardwalk_45">
-										Walk from Fairholmes
-									</a>
-								</td>
-								<td class="text-end">10 JUL</td>
-							</tr>
-							<tr>
-								<td>SUN 26&nbsp;JUL</td>
-								<td class="text-center text-uppercase">
-									<a href="#standardwalk_22">
-										Park crossing White Lane, Parkin Wood, Spring Wood Country Park, Chapeltown
-									</a>
-								</td>
-								<td class="text-end">22 JUL</td>
-							</tr>
-							<tr>
 								<td>TUE 4&nbsp;AUG</td>
 								<td class="text-center text-uppercase">
 									<a href="#standardwalk_23">
@@ -122,6 +95,42 @@ lastUpdated="3rd July 2026"
 									</a>
 								</td>
 								<td class="text-end">31 JUL</td>
+							</tr>
+							<tr>
+								<td>WED 12&nbsp;AUG</td>
+								<td class="text-center text-uppercase">
+									<a href="#standardwalk_24">
+										Along Limb Valley to Ringinglow
+									</a>
+								</td>
+								<td class="text-end">5 AUG</td>
+							</tr>
+							<tr>
+								<td>SUN 23&nbsp;AUG</td>
+								<td class="text-center text-uppercase">
+									<a href="#standardwalk_25">
+										Forge Dam to Endcliffe Park
+									</a>
+								</td>
+								<td class="text-end">19 AUG</td>
+							</tr>
+							<tr>
+								<td>THU 27&nbsp;AUG</td>
+								<td class="text-center text-uppercase">
+									<a href="#standardwalk_116">
+										&quot;Kes&quot; walk
+									</a>
+								</td>
+								<td class="text-end">21 AUG</td>
+							</tr>
+							<tr>
+								<td>TUE 1&nbsp;SEP</td>
+								<td class="text-center text-uppercase">
+									<a href="#standardwalk_26">
+										Walk around Longshaw estate
+									</a>
+								</td>
+								<td class="text-end">28 AUG</td>
 							</tr>
 						</tbody>
 					</table>
@@ -159,145 +168,6 @@ lastUpdated="3rd July 2026"
 				<h2 class="text-center" id="upcoming_sviwg_events">SVIWG EVENT DETAILS</h2>
 				<div class="d-flex flex-column gap-5">
 				
-					<article class="d-flex" id="standardwalk_21">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2026-07-08">
-										WEDNESDAY 8th JULY
-									</time> -
-									Coach Ramble to Cleethorpes
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Penny Black Pub, Pond Hill, leaving 9.30.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									An approximately 5 mile walk with a shorter option for those who want it.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Unknown.
-								</li>
-							</ul>
-							<div class="card-footer">
-								<p>Cost £7 per person, booking essential.</p>
-								<p>
-									Please contact Eileen (<a href="tel:07952 241775">07952 241775</a> or
-									<a href="tel:0114 2814414">0114	2814414</a>).
-								</p>
-								<p>
-									Places only reserved when money has been paid, either to Eileen,
-									or bank transfer to SVIWG (details below).
-								</p>
-								<p>
-									Sort code: 40 41 07<br>
-									Account number: 71852566
-								</p>
-							</div>
-						</div>
-					</article>
-					<article class="d-flex" id="standardwalk_45">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2026-07-16">
-										THURSDAY 16th JULY
-									</time> -
-									Walk from Fairholmes
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Queens Head Pond Hill 9.15 leaving by mini bus 9.30 to Fairholmes walk starts 10am.
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									To be decided on the day due to weather conditions.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									~8 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Some climbs, moderate walking, some steep ascents, some good paths, woodland and moorland.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Peak Park Rangers (<a href="tel:07502 547221">07502 547221</a>)
-									for any walk enquiries.
-								</li>
-								<li class="list-group-item">
-									<b>Registration:</b>
-									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
-									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Friday 10th July.
-								</li>
-							</ul>
-							<div class="card-footer">
-								<p>
-									Walking boots are advised on this walk.
-								</p>
-								<p>
-									Please also let Martin know where you plan to meet the group.
-								</p>
-							</div>
-						</div>
-					</article>
-
-					<article class="d-flex" id="standardwalk_22">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									<time datetime="2026-07-26">
-										SUNDAY 26th JULY
-									</time> -
-									Park crossing White Lane, Parkin Wood, Spring Wood Country Park, Chapeltown
-								</h3>
-							</div>
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item">
-									<b>Meet at:</b>
-									Sheffield Train station 10.15 to catch the 10.38 train to Chapeltown train station where the
-									walk starts 11am (if the Huddersfield train does not turn up then the Leeds train is shortly after).
-								</li>
-								<li class="list-group-item">
-									<b>The Route:</b>
-									Walking through the park crossing White Lane, Parkin Wood, Spring Wood country park, returning to Chapeltown
-									by Lane End duck pond through the little path to Asda/Wetherspoons for anyone requiring a little refreshment.
-								</li>
-								<li class="list-group-item">
-									<b>Distance:</b>
-									4.5 - 5 miles.
-								</li>
-								<li class="list-group-item">
-									<b>Terrain:</b>
-									Little inclines but mainly flat with good paths.
-								</li>
-								<li class="list-group-item">
-									<b>The Leaders:</b>
-									Ann Batty (<a href="tel:07989 053534">07989 053534</a>) for any walk enquiries.
-								</li>
-								<li class="list-group-item">
-									<b>Registration:</b>
-									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
-									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
-									by Wednesday 22nd July.
-								</li>
-							</ul>
-							<div class="card-footer">
-								<p>
-									Please let Martin know where you plan to meet the group.
-								</p>
-							</div>
-						</div>
-					</article>
-
 					<article class="d-flex" id="standardwalk_23">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
 							<div class="card-header">
@@ -328,7 +198,8 @@ lastUpdated="3rd July 2026"
 								</li>
 								<li class="list-group-item">
 									<b>The Leaders:</b>
-									Norman Pearson (<a href="tel:07803 437931">07803 437931</a>) for any walk enquiries.
+									Norman Pearson (<a href="tel:07803 437931">07803 437931</a>)
+									for any walk enquiries.
 								</li>
 								<li class="list-group-item">
 									<b>Registration:</b>
@@ -338,13 +209,204 @@ lastUpdated="3rd July 2026"
 								</li>
 							</ul>
 							<div class="card-footer">
+								<p>Members can leave the car in Morrison&#039;s car park and catch the tram at Hillsborough.</p>
+								<p>Please let Martin know where you intend to start the walk.</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="standardwalk_24">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-08-12">
+										WEDNESDAY 12th AUGUST
+									</time> -
+									Along Limb Valley to Ringinglow
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Interchange 9.20 (main foyer) to catch the 272 bus 9.45 to Ecclesall Road/Limb Lane,
+									arrives 10.07.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Cross a625 to entrance to Limb Valley footpath near entrance to Whirlow Park.
+									Walking uphill along Limb Valley to Ringinglow along reasonable paths with moderate paths
+									and a few steeper sections.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									6 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Reasonable fitness required for an uphill climb of about 300 feet.
+									Along Brook Valley to Endcliffe Park mostly	good paths. Some stone steps up to a gate,
+									one easy wooden stile.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									David Guille (<a href="tel:07553 944116">07553 944116</a>)
+									for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Wednesday 5th August.
+								</li>
+							</ul>
+							<div class="card-footer">
 								<p>
-									Members can leave the car in Morrison's car park and catch the tram at Hillsborough.
+									Please let Martin know where you will meet group to make sure there are enough guides for
+									VI&#039;s at the start of the walk.
 								</p>
 								<p>
-									Please let Martin know where you intend to start the walk.
+									Catch a bus back into Sheffield for anyone driving to the start of the walk near Whirlow Bridge,
+									they could catch a bus back to their car.
 								</p>
 							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="standardwalk_25">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-08-23">
+										SUNDAY 23rd AUGUST
+									</time> -
+									Forge Dam to Endcliffe Park
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									10.20 to catch no 120 bus on Flat Street 10.40.
+									If the group miss this bus there is another at 10.59.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									We will then follow a secret path down to Forge Dam downstream with one or two diversions to finish
+									at Endcliffe Park.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									4 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good paths mostly all downhill.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Judy Gathercole (<a href="tel:07557 272559">07557 272559</a>)
+									for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Wednesday 19th August.
+								</li>
+							</ul>
+						</div>
+					</article>
+
+					<article class="d-flex" id="standardwalk_116">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-08-27">
+										THURSDAY 27th AUGUST
+									</time> -
+									&quot;Kes&quot; walk
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Train Station 9.40 to catch the 10.02 Sheffield to Leeds train, arrives Elsecar 10.19.<br>
+									Barnsley train leaves 10am, arrives 10.09.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									From Elsecar we will walk to Heritage Centre CP to meet our leader John Watson from
+									Dearne Valley Ramblers, walk starts 10.45.
+									Walk visits places connected to &quot;Kes&quot;, the 1969 film adapted from the novel
+									&quot;A	Kestrel for a Knave&quot; by Barry Hines.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									8 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Mostly flat, some slight ascents, 5 stiles, no cut off point.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact
+									Martin (<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Friday 21st August.
+								</li>
+							</ul>
+							<div class="card-footer">
+								<p>
+									Please let Martin know where you will meet the group so he knows there are members to meet
+									VI&#039;s at the railway station.
+								</p>
+								<p>
+									For any walk enquiries contact Sue Hill (<a href="tel:07970 311329">07970 311329</a>).
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex" id="standardwalk_26">
+						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-sviwg">
+							<div class="card-header">
+								<h3 class="card-title fs-5">
+									<time datetime="2026-09-01">
+										TUESDAY 1st SEPTEMBER
+									</time> -
+									Walk around Longshaw estate
+								</h3>
+							</div>
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item">
+									<b>Meet at:</b>
+									Sheffield Interchange 9.30 to catch 272 bus at 9.45 to Fox House. Bus arrives 10.16.
+								</li>
+								<li class="list-group-item">
+									<b>The Route:</b>
+									Around Longshaw estate seeing as much as we can around its varying attractions,
+									being natural history lakes, wildlife etc. Return to Longshaw.
+								</li>
+								<li class="list-group-item">
+									<b>Distance:</b>
+									4 - 5 miles.
+								</li>
+								<li class="list-group-item">
+									<b>Terrain:</b>
+									Good paths.
+								</li>
+								<li class="list-group-item">
+									<b>The Leaders:</b>
+									Judy Gathercole (<a href="tel:07557 272559">07557 272559</a>)
+									for any walk enquiries.
+								</li>
+								<li class="list-group-item">
+									<b>Registration:</b>
+									Please contact Martin (<a href="tel:07747 443812">07747 443812</a> or
+									<a href="mailto:mrmartinwing@gmail.com">mrmartinwing@gmail.com</a>)
+									by Friday 28th August.
+								</li>
+							</ul>
 						</div>
 					</article>
 				</div>
@@ -392,47 +454,6 @@ lastUpdated="3rd July 2026"
 				<h2 class="text-center" id="current_walk_news">CURRENT WALK NEWS</h2>
 
 				<div class="d-flex flex-column gap-5">
-
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">
-							<div class="card-header">
-								<h3 class="card-title fs-5">
-									UPDATED HEALTH & SAFETY DOCUMENTATION
-								</h3>
-							</div>
-							<div class="card-body">
-								<p>
-									Hi everyone,
-								</p>
-								<p>
-									You may be aware that we have been working on new Health and Safety Documentation.
-									The preparation of the documentation has been completed by David Guile.
-									The aim is to provide a complete and current framework to make our walks safe
-									and to reduce the risks of accidents and the possibility of injury for everyone.
-								</p>
-								<p>
-									The new Health and Safety Documentation, prepared specifically for SVIWG,
-									will replace the documents that were provided up until now.
-									A copy of the new documentation is available from the <a href="documents.asp">documents page</a>,
-									and we will commence implementation in the near future.<br>
-									It is important that you please read through everything and familiarise yourself
-									with the contents at your convenience.<br>
-									Any questions or feedback are of course welcome.
-								</p>
-								<p>
-									It would be extremely helpful if you could please confirm
-									that you have read the documents once you have completed that.<br>
-									Please inform Sue Hill by email or message.<br>
-									(<a href="mailto:susanmaryhill56@icloud.com">susanmaryhill56@icloud.com</a>)
-								</p>
-							</div>
-							<div class="card-footer">
-								Kind Regards,<br>
-								Sue Hill<br>
-								<i>(Webmaster note: Some minor changes made to the above news post for the sake of clarity)</i>
-							</div>
-						</div>
-					</article>
 
 					<article id="notice_1" class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-text-card-walk-news">

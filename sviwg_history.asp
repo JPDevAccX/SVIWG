@@ -1,6 +1,6 @@
 <%
 title="SVIWG HISTORY"
-lastUpdated="18th December 2025"
+lastUpdated="3rd August 2026"
 %>
 
 <!-- #include file = "include/header.inc" -->
@@ -164,7 +164,7 @@ lastUpdated="18th December 2025"
 					</tr>
 					<tr>
 						<td>Eileen Ingham</td>
-						<td>Walks Coordinator (2019&nbsp;-)</td>
+						<td>Walks Coordinator (2019&nbsp;-&nbsp;2026)</td>
 					</tr>
 					<tr>
 						<td>Stan Wainwright</td>

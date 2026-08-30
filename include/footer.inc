@@ -20,7 +20,7 @@
 					alt="Facebook logo" title="Facebook">
 				</a>
 			</section>
-			<p class="text-muted">&copy; 2025 <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span></p>
+			<p class="text-muted">&copy; 2026 <span class="sviwg-sr-abbr">S&nbsp;V&nbsp;I&nbsp;W&nbsp;G</span></p>
 		</footer>
 
 	</div>

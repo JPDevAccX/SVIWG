@@ -9,7 +9,7 @@
 	<meta name="keywords" content="walk, vip, guide, visually impaired, Sheffield, South Yorkshire" />
 	<meta name="description" content="Sheffield, Visually Impaired, Walking Group" />
 	<meta name="author" content="Christine Whittaker, James Percival" />
-	<meta name="copyright" content="&copy;2024 SVIWG" />
+	<meta name="copyright" content="&copy;2026 SVIWG" />
 
 	<!-- BOOTSTRAP AND ADDITIONAL CSS -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"

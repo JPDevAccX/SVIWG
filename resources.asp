@@ -1,6 +1,6 @@
 <%
 title="Resources"
-lastUpdated="18th December 2025"
+lastUpdated="20th August 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -89,18 +89,6 @@ lastUpdated="18th December 2025"
 								</div>
 								<div class="card-footer">
 									<a href="https://forms.office.com/r/6XMERXh7aue" target="_blank" class="btn btn-primary">Go to survey</a>
-								</div>
-							</div>
-						</div>
-						<div class="col">
-							<div class="card mx-auto">
-								<img class="object-fit-cover card-image-top" src="images/nick-fewings-f2Bi-VBs71M-unsplash.jpg" alt="">
-								<div class="card-body">
-									<h3 class="card-title fs-5">VIRTUAL HERITAGE TOUR OF THE CENTRAL LIBRARY</h3>
-									<p>Conducted by Former Librarian Wendy Hudson, who has a great depth of knowledge about this landmark building.</p>
-								</div>
-								<div class="card-footer">
-									<a href="https://youtu.be/SawECBbDrcs" target="_blank" class="btn btn-primary">View video</a>
 								</div>
 							</div>
 						</div>

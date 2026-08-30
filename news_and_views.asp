@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="3rd July 2026"
+lastUpdated="3rd August 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -31,9 +31,37 @@ lastUpdated="3rd July 2026"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 
-				<div class="d-flex flex-column gap-5">
-					<div class="mx-auto">(no current news posts)</div>
-				</div>
+				<article class="d-flex">
+					<div class="card mx-auto sviwg-text-card sviwg-news-card">
+						<div class="card-header">
+							<h3 class="card-title d-flex gap-2 justify-content-between">
+								<div class="fs-5">
+									Sighted guide training day
+								</div>
+							</h3>
+						</div>
+						<div class="card-body">
+							<p>
+								If anyone of our guides wish to attend a training day usually the end of October or
+								beginning of November so most people have finished their main holiday season if you
+								could contact myself on <a href="mailto:gail.fagan106@gmail.com">gail.fagan106@gmail.com</a>.
+							</p>
+							<p>
+								This is also open to our guides who have training some time ago and would like a refresher.
+								We cannot offer	preferred days or dates as it is down to when we can have a room at SRSB
+								and book with Alison Anthony, Senior Rehab trainer, as she is very busy.
+							</p>
+							<p>
+								This would probably be a morning 10 to 12pm. We need to have enough numbers for this to go ahead.
+								Thank you.
+							</p>
+						</div>
+						<div class="card-footer">
+							- Gail Fagan
+						</div>
+					</div>
+				</article>
+
 			</section>
 
 			<section class="text-center fs-2">

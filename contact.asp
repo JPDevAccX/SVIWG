@@ -1,6 +1,6 @@
 <%
 title="Contact"
-lastUpdated="27th April 2026"
+lastUpdated="3rd August 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -46,18 +46,18 @@ lastUpdated="27th April 2026"
 
 					<article class="row border bg-light-subtle">
 						<div class="col-lg-3 fw-bold">
-							Eileen Ingham
+							Maryline Tergella
 						</div>
 						<div class="col-lg-2">
 							Walk Coordinator
 						</div>
 						<div class="col-lg-4">
-							<img src="images/icons/telephone.svg" class="sviwg-small-icon" alt="">
-							<a href="tel:07952 241775">07952 241775</a><br>
+							<img src="images/icons/envelope-at.svg" class="sviwg-small-icon" alt="">
+							<a href="mailto:maryline.tergella@gmail.com">maryline.tergella@gmail.com</a><br>
 						</div>
 						<div class="col-lg-3">
 							<img src="images/icons/telephone.svg" class="sviwg-small-icon" alt="">
-							<a href="tel:0114 2814414">0114 2814414</a>
+							<a href="tel:07979 786171">07979 786171</a>
 						</div>
 					</article>
 

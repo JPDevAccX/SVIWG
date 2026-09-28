@@ -1,6 +1,6 @@
 <%
 title="Gallery"
-lastUpdated="19th July 2026"
+lastUpdated="18th September 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -29,6 +29,88 @@ lastUpdated="19th July 2026"
 			<section class="border border-3 p-2 p-md-4 gallery-images" id="gallery_2026">
 				<h3 class="text-center">~ 2026 ~</h3>
 				<div class="d-flex flex-column gap-4">
+
+					<!-- PEAK PARK RANGERS WALK FROM FAIRHOLMES (17th SEPTEMBER) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							PEAK PARK RANGERS WALK FROM FAIRHOLMES (17th SEPTEMBER)
+							<br>
+							<span class="fs-5">(sent in by Joe Fagan)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Rangers_From_Fairholmes_20260917_01.webp"
+										alt="Walkers make use of a painted metal shelter to stay out of the wind and rain">
+									<figcaption class="figure-caption">
+										Sheltering from strong winds and heavy showers at Alport Castles above Derwent Valley
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
+
+					<!-- LONGSHAW ESTATE WALK (1st SEP) -->
+					<section class="d-flex flex-column gap-4">
+						<h4 class="text-center">
+							LONGSHAW ESTATE WALK (1st SEP)
+							<br>
+							<span class="fs-5">(sent in by Maryline Tergella)</span>
+						</h4>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Longshaw_Estate_01092026_01.webp"
+										alt="A couple of walkers in a wooded area with logs on the ground">
+									<figcaption class="figure-caption">Mind the logs!</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Longshaw_Estate_01092026_02.webp"
+										alt="Some of the group sit on a bench in a field while two others look into the distance from an adjoining gravel path">
+									<figcaption class="figure-caption">Whispy clouds above</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Longshaw_Estate_01092026_03.webp"
+										alt="A signpost shows directions to YawnCliff, Grouse Inn, and Wooden Pole">
+									<figcaption class="figure-caption">Signposting the way</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row gy-2 images-full-height-cover">
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Longshaw_Estate_01092026_04.webp"
+										alt="Members, one with a dog, sit on a stone bench in a field, turning to the camera for their photo">
+									<figcaption class="figure-caption">Bench side view</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Longshaw_Estate_01092026_05.webp"
+										alt="Another view of the bench occupants, this time from the front">
+									<figcaption class="figure-caption">Bench front view</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-8 col-md-4 col-lg-3 mx-auto text-center">
+								<figure class="figure">
+									<img src="images/photo_gallery/2026/Longshaw_Estate_01092026_06.webp"
+										alt="Taking another break along the path, this time using logs for resting on">
+									<figcaption class="figure-caption">Makeshift seating</figcaption>
+								</figure>
+							</div>
+						</div>
+					</section>
+
+					<hr>
 
 					<!-- COACH RAMBLE TO CLEETHORPES (8th JULY) -->
 					<section class="d-flex flex-column gap-4">

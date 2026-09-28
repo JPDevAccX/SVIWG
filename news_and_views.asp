@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="3rd August 2026"
+lastUpdated="17th September 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -31,37 +31,113 @@ lastUpdated="3rd August 2026"
 			<section class="border border-3 sviwg-large-font p-2 p-md-4 gap-2 d-flex flex-column">
 				<h2 class="text-center">POSTS</h2>
 
-				<article class="d-flex">
-					<div class="card mx-auto sviwg-text-card sviwg-news-card">
-						<div class="card-header">
-							<h3 class="card-title d-flex gap-2 justify-content-between">
-								<div class="fs-5">
-									Sighted guide training day
-								</div>
-							</h3>
-						</div>
-						<div class="card-body">
-							<p>
-								If anyone of our guides wish to attend a training day usually the end of October or
-								beginning of November so most people have finished their main holiday season if you
-								could contact myself on <a href="mailto:gail.fagan106@gmail.com">gail.fagan106@gmail.com</a>.
-							</p>
-							<p>
-								This is also open to our guides who have training some time ago and would like a refresher.
-								We cannot offer	preferred days or dates as it is down to when we can have a room at SRSB
-								and book with Alison Anthony, Senior Rehab trainer, as she is very busy.
-							</p>
-							<p>
-								This would probably be a morning 10 to 12pm. We need to have enough numbers for this to go ahead.
-								Thank you.
-							</p>
-						</div>
-						<div class="card-footer">
-							- Gail Fagan
-						</div>
-					</div>
-				</article>
+				 <div class="d-flex flex-column gap-5">
 
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header d-flex gap-2">
+								<div class="flex-grow-1">
+									<h3 class="card-title d-flex gap-2 justify-content-between">
+										<div class="fs-5">
+											A thankyou from Anne Batty
+										</div>
+									</h3>
+								</div>
+							</div>
+							<div class="card-body">
+								<p>
+									Anne thanks everyone for the kind wishes for her recovery
+									and sent in the card below created by her daughter to express her gratitude to the SVIWG.
+								</p>
+								<div>
+									<img style="max-width:100%; max-height: 480px;" src="images/misc/AnneBatty_Card.png" />
+								</div>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header d-flex gap-2">
+								<div class="flex-grow-1">
+									<h3 class="card-title d-flex gap-2 justify-content-between">
+										<div class="fs-5">
+											<time datetime="2026-11-03">
+												TUESDAY 3rd NOVEMBER
+											</time> - Training Day
+										</div>
+									</h3>
+								</div>
+							</div>
+							<div class="card-body">
+								<p>
+									Our sighted guide training day will be Tuesday 3rd November 10 until 12pm at SRSB Mappin Street.
+									We have spaces for others to join so if you have already had training some time ago and would like
+									a refresher, please contact	<a href="mailto:gail.fagan106@gmail.com">gail.fagan106@gmail.com</a>.
+									Thank you.
+								</p>
+							</div>
+							<div class="card-footer">
+								- Gail Fagan
+							</div>
+						</div>
+					</article>
+					
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header d-flex gap-2">
+								<div class="flex-grow-1">
+									<h3 class="card-title d-flex gap-2 justify-content-between">
+										<div class="fs-5">
+											Walk Leaders 2027
+										</div>
+									</h3>
+								</div>
+							</div>
+							<div class="card-body">
+								<p>
+									Maryline our new walk coordinator, will soon be compiling a list of walk leaders for 2027.
+									It would be helpful	if potential walk leaders could email Maryline
+									(<a href="mailto:maryline.tergella@gmail.com">maryline.tergella@gmail.com</a>),
+									ensuring you could lead a walk on your preferred month.
+								</p>
+								<p>
+									Also David Cadet is also requiring walk leaders for the Tuesday walks in 2027.<br>
+									Please let him know if you can help
+									(<a href="tel:07554 143262">07554 143262</a> or
+									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>).
+								</p>
+								<p>
+									On behalf of the SVIWG I would like to thank Eileen for her efforts
+									as a walk coordinator for many years.
+								</p>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header d-flex gap-2">
+								<div class="flex-grow-1">
+									<h3 class="card-title d-flex gap-2 justify-content-between">
+										<div class="fs-5">
+											Coach Ramble Cancelled
+										</div>
+									</h3>
+								</div>
+							</div>
+							<div class="card-body">
+								<p>
+									Unfortunately, we have had to cancel the Coach ramble due to Anne Batty&#039;s recent heart surgery.
+									Ann	instigated this walk for us and was very keen to take our group on this walk.
+									Hopefully we can do it next year as we did not think it was fair to do this walk without her.
+									Mike Wilson has kindly volunteered to do a Wednesday walk for us at short notice so thank you Mike!
+								</p>
+							</div>
+						</div>
+					</article>
+
+				</div>
 			</section>
 
 			<section class="text-center fs-2">

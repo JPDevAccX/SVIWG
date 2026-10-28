@@ -1,6 +1,6 @@
 <%
 title="Older News"
-lastUpdated="30th August 2026"
+lastUpdated="28th September 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -25,36 +25,68 @@ lastUpdated="30th August 2026"
 				<h2 class="text-center">POSTS</h2>
 				<div class="d-flex flex-column gap-5">
 
-				<article class="d-flex">
-					<div class="card mx-auto sviwg-text-card sviwg-news-card">
-						<div class="card-header">
-							<h3 class="card-title d-flex gap-2 justify-content-between">
-								<div class="fs-5">
-									Sighted guide training day
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header d-flex gap-2">
+								<div class="flex-grow-1">
+									<h3 class="card-title d-flex gap-2 justify-content-between">
+										<div class="fs-5">
+											Walk Leaders 2027
+										</div>
+									</h3>
 								</div>
-							</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									Maryline our new walk coordinator, will soon be compiling a list of walk leaders for 2027.
+									It would be helpful	if potential walk leaders could email Maryline
+									(<a href="mailto:maryline.tergella@gmail.com">maryline.tergella@gmail.com</a>),
+									ensuring you could lead a walk on your preferred month.
+								</p>
+								<p>
+									Also David Cadet is also requiring walk leaders for the Tuesday walks in 2027.<br>
+									Please let him know if you can help
+									(<a href="tel:07554 143262">07554 143262</a> or
+									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>).
+								</p>
+								<p>
+									On behalf of the SVIWG I would like to thank Eileen for her efforts
+									as a walk coordinator for many years.
+								</p>
+							</div>
 						</div>
-						<div class="card-body">
-							<p>
-								If anyone of our guides wish to attend a training day usually the end of October or
-								beginning of November so most people have finished their main holiday season if you
-								could contact myself on <a href="mailto:gail.fagan106@gmail.com">gail.fagan106@gmail.com</a>.
-							</p>
-							<p>
-								This is also open to our guides who have training some time ago and would like a refresher.
-								We cannot offer	preferred days or dates as it is down to when we can have a room at SRSB
-								and book with Alison Anthony, Senior Rehab trainer, as she is very busy.
-							</p>
-							<p>
-								This would probably be a morning 10 to 12pm. We need to have enough numbers for this to go ahead.
-								Thank you.
-							</p>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header">
+								<h3 class="card-title d-flex gap-2 justify-content-between">
+									<div class="fs-5">
+										Sighted guide training day
+									</div>
+								</h3>
+							</div>
+							<div class="card-body">
+								<p>
+									If anyone of our guides wish to attend a training day usually the end of October or
+									beginning of November so most people have finished their main holiday season if you
+									could contact myself on <a href="mailto:gail.fagan106@gmail.com">gail.fagan106@gmail.com</a>.
+								</p>
+								<p>
+									This is also open to our guides who have training some time ago and would like a refresher.
+									We cannot offer	preferred days or dates as it is down to when we can have a room at SRSB
+									and book with Alison Anthony, Senior Rehab trainer, as she is very busy.
+								</p>
+								<p>
+									This would probably be a morning 10 to 12pm. We need to have enough numbers for this to go ahead.
+									Thank you.
+								</p>
+							</div>
+							<div class="card-footer">
+								- Gail Fagan
+							</div>
 						</div>
-						<div class="card-footer">
-							- Gail Fagan
-						</div>
-					</div>
-				</article>
+					</article>
 
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">

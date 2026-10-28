@@ -1,6 +1,6 @@
 <%
 title="Annual Programme"
-lastUpdated="30th August 2026"
+lastUpdated="28th September 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -31,7 +31,7 @@ lastUpdated="30th August 2026"
 						<tbody>
 							<tr>
 								<td>6th&nbsp;Jan</td>
-								<td class="text-end">Ann Batty</td>
+								<td class="text-end">Anne Batty</td>
 							</tr>
 							<tr>
 								<td>3rd&nbsp;Feb</td>
@@ -127,6 +127,10 @@ lastUpdated="30th August 2026"
 								<td class="text-end">Bolton Abbey Coach Ramble</td>
 							</tr>
 							<tr>
+								<td>14th&nbsp;Oct</td>
+								<td class="text-end">Mike Wilson</td>
+							</tr>
+							<tr>
 								<td>11th&nbsp;Nov</td>
 								<td class="text-end">Steve Brown</td>
 							</tr>
@@ -182,7 +186,7 @@ lastUpdated="30th August 2026"
 							</tr>
 							<tr>
 								<td>26th&nbsp;Jul</td>
-								<td class="text-end">Ann Batty</td>
+								<td class="text-end">Anne Batty</td>
 							</tr>
 							<tr>
 								<td>23rd&nbsp;Aug</td>

@@ -1,6 +1,6 @@
 <%
 title="News"
-lastUpdated="17th September 2026"
+lastUpdated="28th September 2026"
 %>
 
 <!-- #include file = "include/header.inc" --> 
@@ -33,25 +33,85 @@ lastUpdated="17th September 2026"
 
 				 <div class="d-flex flex-column gap-5">
 
-					<article class="d-flex">
+						<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header d-flex gap-2">
 								<div class="flex-grow-1">
 									<h3 class="card-title d-flex gap-2 justify-content-between">
 										<div class="fs-5">
-											A thankyou from Anne Batty
+											Possibility of holiday 2027
 										</div>
 									</h3>
 								</div>
 							</div>
 							<div class="card-body">
 								<p>
-									Anne thanks everyone for the kind wishes for her recovery
-									and sent in the card below created by her daughter to express her gratitude to the SVIWG.
+									Over the last few months we have had various questions and comments about a group holiday. Last year we asked
+									members to let us know about a group holiday. We did not receive enough response and did not think it was worth
+									taking it any further.
+								</p>
+								<p>
+									We are asking again with a view to next year 2027, at this stage we are not asking for a firm commitment just
+									an expression of interest to help us to decide whether to pursue the subject.
+								</p>
+								<p>
+									It would be very helpful if members would respond either way so we know they have read this. A decision will be
+									make at the beginning of December so please respond ASAP. Thank you.
+								</p>
+							</div>
+							<div class="card-footer">
+								- Sue Hill
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header d-flex gap-2">
+								<div class="flex-grow-1">
+									<h3 class="card-title d-flex gap-2 justify-content-between">
+										<div class="fs-5">
+											From our friend Anne
+										</div>
+									</h3>
+								</div>
+							</div>
+							<div class="card-body">
+								<p>
+									I would like to convey my gratitude to all my friends in the group for their lovely messages
+									of support for my recovery also thanks for the gorgeous flowers which cheered me up.
+									I am getting there slow but sure not as fast as I would like, missing everyone, lots of love Anne.
+								</p>
+								<p>
+									Anne earlier sent in the card below created by her daughter to express her gratitude to the SVIWG.
 								</p>
 								<div>
 									<img style="max-width:100%; max-height: 480px;" src="images/misc/AnneBatty_Card.png" />
 								</div>
+							</div>
+						</div>
+					</article>
+
+					<article class="d-flex">
+						<div class="card mx-auto sviwg-text-card sviwg-news-card">
+							<div class="card-header d-flex gap-2">
+								<div class="flex-grow-1">
+									<h3 class="card-title d-flex gap-2 justify-content-between">
+										<div class="fs-5">
+											Walk Leaders 2027
+										</div>
+									</h3>
+								</div>
+							</div>
+							<div class="card-body">
+								<p>
+									Maryline our walk coordinator is compiling a list for the Wednesday and Sunday walks for 2027.
+									Please give her a call if you can lead a walk for us
+									(details on the <a href="contact.asp">contact page</a>).
+								</p>
+								<p>
+									Thank you.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -83,38 +143,6 @@ lastUpdated="17th September 2026"
 						</div>
 					</article>
 					
-					<article class="d-flex">
-						<div class="card mx-auto sviwg-text-card sviwg-news-card">
-							<div class="card-header d-flex gap-2">
-								<div class="flex-grow-1">
-									<h3 class="card-title d-flex gap-2 justify-content-between">
-										<div class="fs-5">
-											Walk Leaders 2027
-										</div>
-									</h3>
-								</div>
-							</div>
-							<div class="card-body">
-								<p>
-									Maryline our new walk coordinator, will soon be compiling a list of walk leaders for 2027.
-									It would be helpful	if potential walk leaders could email Maryline
-									(<a href="mailto:maryline.tergella@gmail.com">maryline.tergella@gmail.com</a>),
-									ensuring you could lead a walk on your preferred month.
-								</p>
-								<p>
-									Also David Cadet is also requiring walk leaders for the Tuesday walks in 2027.<br>
-									Please let him know if you can help
-									(<a href="tel:07554 143262">07554 143262</a> or
-									<a href="mailto:davidcadet81@gmail.com">davidcadet81@gmail.com</a>).
-								</p>
-								<p>
-									On behalf of the SVIWG I would like to thank Eileen for her efforts
-									as a walk coordinator for many years.
-								</p>
-							</div>
-						</div>
-					</article>
-
 					<article class="d-flex">
 						<div class="card mx-auto sviwg-text-card sviwg-news-card">
 							<div class="card-header d-flex gap-2">
